@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-12</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MRS. ERNEST SCHLEGEL
+            Rosa Maria Graner, born February
+            20, 1902, in Magerkingen, Wurtem-
+            berg, Germany, was called to her
+            Eternal Home March 6, 1939, at the
+            age of 37 years and 14 days. She
+            was the third daughter of Adam Gra-
+            ner and Judith nee Lamparter. She
+            immigrated to this country with her
+            brother in the year of 1924, and was
+            united in holy wedlock with Ernest
+            Schlegel, January 9, 1929. Three
+            children were born to this union, So-
+            phie Judith, George Adam and Mar-
+            garet Rose.
+            She was a loving, conscientious
+            wife and mother at all times, and a
+            faithful member of the Lutheran
+            church since early childhood.
+            She leaves to mourn her departure
+            her husband, her three children, three
+            step-children, Raymond, Harold and
+            Evelyn; four sisters, Mrs. Elizabeth
+            Schuler, Mrs. Martha Huetter, Mrs.
+            Ida Rukwid and Mrs. Maria Genkin-
+            ger; three brothers, Christian and
+            Gottlob, one brother William Graner
+            residing in this country, besides a
+            number of relatives abroad and a
+            host of friends and neighbors here.
+            The funeral services were held at
+            the Grace Lutheran church of Alma
+            Center, Wis.. with the Rev. E. Klemp
+            conducting the sendee. Interment was
+            made in the family lot at the Hough-
+            tonburg cemetery.
+            The relatives from away who at-
+            tended the funeral were:	Wm.	Gra-
+            ner, of Menasha; Christ Schlegel, of
+            La Crosse; Mr. and Mrs. Henry
+            Schlegel, of Wausau; Mr. and Mrs. j
+            C. F. Watson, of Port Edwards; Mr. |
+            and Mrs. August Schlegel, of Eau
+            Claire; Mrs. Caroline King, of Al- j
+            toona; and Miss Lydia Schlegel, of
+            Media, Pennsylvania.
+            Beloved, ‘It is well?, •
+            God?s ways are always right;
+            And perfect love is o?er them all,
+            Tho far above our sight.”</p>
+      </body>
+  </text>
+</TEI>

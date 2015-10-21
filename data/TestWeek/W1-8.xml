@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Robbers Flee After
+            Alarm Is Sounded
+            Two robbers who broke into Frenchy
+            Racine’ tavern at Phlox early Monday
+            morning escaped amid a hail of bullets
+            after the Racine boys were awakened
+            by a home-made burglar alarm
+            The burglar* broke into a rear win-
+            dow of the tavern. The home-made
+            alarm is so constructed that no on#
+            can enter the tavern without tripping
+            The three Racines, Bob, Dave and
+            Frenchy jumped out of bed as soon
+            as the alarm sounded. They turned
+            on the lights from the house which
+            flooded the area around the tavern
+            with light. The burglars hastily came
+            out of the window they had broken
+            into. As they came out they were
+            ordered to stop by Bob hut kept on
+            running.
+            Bob took two shots at them with a
+            .30-40 rifle and believed he struck one
+            of the men as he stumbled when Bob
+            shot. The men then jumped into a car
+            and speeded away as Dave fired two
+            shots at them with a .38 revolver.
+            Sheriff Frey was called immediately
+            and although the Phlox area was
+            searched no trace of the men had been
+            found. Antigo Journal.</p>
+      </body>
+  </text>
+</TEI>

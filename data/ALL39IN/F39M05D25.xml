@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M05D25</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Last week had pretty bad time when come to town to ride Otto
+            Franz horse in big parade. First place had feathers and Indian clothes and horse didn’t
+            like it very much and when stop parade to let people that come slow catch up horse got
+            pretty wild and don’t like to stand still and make lot of trouble. I though throw me off
+            but I ride like when I was young fellow in circus and stay on horse and he go up on hind
+            legs and get me over in bushes and get head feathers caught in brush and have pretty bad
+            time for a while and horse go to barn and leave parade. Maybe horse go mad because band
+            long way back and people didn’t know horse and Indian reporter was in parade. Everything
+            too much stretch out and should have band first thing in parade – like circus parade and
+            then horse hear music and like to be in parade and don’t run to barn - like Indian
+            reporter have last Thursday. Next time reporter come to town early and tell Libke where
+            to have band in parade and want different horse too. I told you before about no more
+            frost this year and last night was outdoors and saw night hawk and that sure Indian sign
+            that frost all over and never have anymore harm from frost this year. Indian always wait
+            for night hawk before plant things that frost hurt and do same thing every year and
+            never been fooled yet. Indian reporter want to tell folks that wet moon going to be here
+            on May 25 and Indian signs show going to have plenty rain in June. Indian wet moon is
+            tip like show on calendar for May 25 and white man say same thing dry moon. Indian say
+            moon tip like man bend over to keep rain off face and chest like when out in rain and
+            stoop over like. White man say same moon dry moon because bottom of moon tip up like and
+            water can’t run out and won’t have any rain much when moon is like that. Indian reporter
+            watch this for long time and pretty near every time white man wrong and May 25 moon
+            going to be wet and have more rain. Joe Christman tell Indian reporter give me good suit
+            of clothes if I make it rain and say other farmers do same thing because everything
+            awful dry and grass all burn up. Some Indian tribe all go to one place and pray and sing
+            and beat tom-tom and Winnebago just go one Indian by himself and face west on high hill
+            and sing and beat tom-tom and that way make rain. Maybe Indian reporter take Joe
+            Christman up on suit only one day had to have money for gas and sold tom-tom to
+            Siderstrom big boss at Light and Power Company for $3 and now he have tom-tom and when I
+            see Joe Christman I tell him maybe Soderstrom go out on high hill and beat tom-tom and
+            sing song and make rain for farmers. Was out in woods one day just walking around and
+            saw only about half different kinds of birds I used to see. Saw lots of snakes and come
+            on to big pines snake and follow him and watch where he go and pretty soon he go into
+            bunch of dead grass and I go up and don’t make any noise and see him take three eggs
+            from bird nest and that’s one thing why we don’t have many birds anymore and only way to
+            get rid of snakes that eat birds eggs and kill young birds is to have bounty and then
+            people go out in woods and kill snakes. Another thing I want to tell is about poison
+            that people put out to kill grasshoppers. Same year that everybody put out poison see
+            lots of dead birds and pretty sure poison kill birds too. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B3-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>BLACK RIVER VS NE1LLSVILLE
+            Black River was defeated, in what
+            was by far most exciting and thrill
+            ing game of the season, by Neillsville
+            in an overtime 28-26. It was a hard
+            battle from the opening tip-off, with
+            both teams fighting for all they were
+            worth, never once did either team
+            let up.
+            The two high point men on the
+            Black River five were Horswill, who
+            tallied 11 points, and Olson who made
+            10. The scoring was pretty much di
+            vided on the Neillsville team but Bre-
+            mer with 8 to his credit and Whitte
+            with 6, led the scoring. Neillsville
+            was at an advantage due to the
+            height of their team. But neverthe-
+            less Horswill and Upton did some nice
+            work in regard to getting the re-
+            bounds and capcured the ball for
+            Black River many times.
+            The first quarter was fast and fu-
+            rious with both teams holding the
+            other down. It ended in a tie 6-6
+            In the second period Black River
+            broke loose and seemed to gain the
+            upper hand. At the half the score
+            read 14-9 in favor of Black River.
+            Neillsville came back the third quar-
+            ter to score or bust. It again was
+            a hard, fast quarter and Neillsville
+            managed to lessen Black River’s lead
+            for at the end of the quarter it was
+            19-16 in Black River’s favor. During
+            the fourth, a spurge of scoring start-
+            ed. First one team and then the
+            other. Neillsville at last tied up the
+            score 23-23. The time was getting
+            short and the crowd was wild. (Olson
+            then made a push shot and seeming!
+            clinched the game but Neillsville too!
+            the ball and Bremer broke loose for a
+            set up. It was then 15 seconds to go.
+            The fourth quarter ended in a
+            queer situation with a foul called
+            with V. Olson the shooter just as the
+            whistle blew. He missed however,
+            and thus a 3-minute overtime was ne-
+            cessary.
+            During the hard battle of the over-
+            time Neillsville managed to get a bas-
+            ket and a free throw and held Black
+            River down to a free throw. It was
+            a hard game to lose as Black River
+            had held the lead until almost the
+            finish and a quick basket by Neills-
+            ville lost the game for them.
+            All in all this last home game was
+            a good one between two evenly
+            matched teams in which both were
+            out to win.</p>
+      </body>
+  </text>
+</TEI>

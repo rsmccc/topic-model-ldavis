@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M07D26</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Most all the Indians are going to pick berries at
+            north. Mr. and Mrs. Porter Decorah and Mr. George White Bear and one
+            wo­ men o f Winnebago, Nebr., were here last Friday evening, visitor
+            relatives and friends, stop at Indian Mission and going to Wisconsin
+            Dells and they are plan to be sure is home next Thursday at
+            Winnebago, Nebraska. Mrs. Peter White Gull and her children were
+            here again last Sunday morning. Mrs. White Gull received a word from
+            her mother at Tomah Indian hospital and once she had a worse a day
+            or two. They sent word her daughter at Winnebago, Nebraska. She was
+            here last Sun­ day and Mr. Lewis Tebo was driver. Mrs. White Gull
+            went to see her mother last Monday and yesterday went to Dells Dam
+            to see her cousin Mrs. John Thompson. Mr. Clarence Sichler went to
+            North to buy blueberries last week and Eli Young Thunder went with
+            him to show the road and places. Perhaps he will return again some
+            time this week or may be he is going to north already on this
+            writing. There are many Indians are going away, but some are staying
+            home, prepare for Winnebago Indians pow­ wow ground. They will have
+            three good days, Indian report and Willie Hall Jr. went to town
+            asking pole wood, for us fixing pow-wow ground shade which they will
+            have next Fri­ day, July 28, 29 and 30. Indian reporter and Willie
+            Hall Jr. went to Clark county last Sunday. There they meet three
+            young gentle­ men and young ladies as following name given to Indian
+            reporter. Mr. Adolph Zorian, Ellen Wolczok, Moo- nelyn Kobnen, G.
+            James Sampson, all of Wisconsin Rapids; Ed Rutchena, Neillsville,
+            Wis., C. H. Patree, Marsh­ field, Wis. Mrs. Tall Decorah is in the
+            Tomah Indians hospital, has been there some time, but report
+            improving gradually on this writing and she is too old, she was 82
+            old last fall. Indian team play with the Disco team last Sunday.
+            They said Disco boys pretty hard for them red skin team. The score
+            was 10 to 3 favor the Indians. The Indians team would like to have a
+            game every Sunday afternoon. Albert Johnson came down see the relief
+            office and ask some groceries to relief. He refuse because he is
+            sin­ gle now. His wife went to picking berries at north some where.
+            Robert says I will go to soldier relief where I belong. .</p>
+      </body>
+   </text>
+</TEI>

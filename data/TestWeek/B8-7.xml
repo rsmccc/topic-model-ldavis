@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>KENYON VALLEY
+            Mr. and Mrs. Claude Sprester vis-
+            ited at Newton’s, Sunday evening.
+            Mrs. Clara Nortman called on Geo.
+            Nortman at the hospital, Saturday.
+            Plan to attend Comfort club this
+            week with Mrs. Frank Newton as the
+            hostess.
+            Mr. and Mrs. Ed McNulty and fam-
+            ily attended the concert at the high
+            school, Sunday.
+            Mr. and Mrs. Ernest Lubow, Mr.
+            and Mrs. Albert Lubow and family
+            visited Sunday at Henry Lubow’s.
+            Mr. and Mrs. Elbridge Nortman
+            and sons spent Sunday with the for-
+            mer’s mother, Mrs. Clara Nortman.
+            The Matt Johanek, Jas Klir and
+            Frank Brauner families attended the
+            funeral of the late Mrs. Joe Hryz,
+            Wednesday.
+            Mrs. Harley Kunes attended the fu-
+            neral of the late Mrs. Milton Young
+            at Melrose, and also visited at the
+            Howard Hemmy home Thursday.
+            Eugene, Henry and Robert Nort-
+            man, also Miss Dorothy McNulty vis-
+            ited Mrs. Chas. Pattridge and son
+            Francis, near Alma Center, Sunday.
+            Mr. and Mrs. Grant Grebel and
+            daughters, Mr. and Mrs. T. Stodola
+            and daughter, James McNulty and
+            Duane Kunes were visitors at the Jas.
+            Klir home Sunday.
+            Mr. and Mrs. Albert Lubow and
+            family were entertained at the Elmer
+            Thompson home Friday evening, the
+            occasion being Mrs. Thompson’s
+            birthday anniversary.</p>
+      </body>
+  </text>
+</TEI>

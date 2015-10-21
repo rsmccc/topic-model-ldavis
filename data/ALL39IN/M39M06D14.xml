@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M06D14</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Friends, Womans and Countrymen a worthy and notable movement has been launched by the
+            various fraternal organizations of the city of Black River Falls and leading towns of
+            the county, to have Centennial to celebrate the founding of the first white settlement
+            on the Black river a hundred years ago. I want to tell the boys and girls that I will be
+            there with the fiercest warriors and the best dancers of the tribe. So write to your
+            friends, here there and everywhere, and tell them to be there. Much will be written
+            about the early history of Jackson county, the activities of the Indians and white
+            settlers and pioneers of those early trying times. Next week I am writing a few short
+            stories that took place about the time this county was first being developed. These will
+            depict the humorous side of that life, just everyday happenings of the Indians when
+            firearms first became a part of their hunting equipment instead of the good old bow and
+            arrow. George Zahrte, who has employment with a construction company at Owen, spent the
+            week end at home. He has been on the job at Owen for the past couple of weeks. .</p>
+      </body>
+   </text>
+</TEI>

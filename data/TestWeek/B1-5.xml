@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Miss Dorothy Hanson, R. N., left
+            Monday to return to her home in Au-
+            rora, 111., where she has employment
+            in a hospital, after spending a couple
+            of weeks here caring for Mrs. Ber-
+            thilde Johnson. Miss Hanson, daugh-
+            ter of Mr. and Mrs. Si Hanson, left
+            Aurora for California early in Feb-
+            ruary to care for Mrs. Hanson, who
+            underwent a major operation in a Los
+            Angeles hospital. We are pleased to
+            learn that she is much improved and
+            again at home. Miss Hanson came
+            directly here on her return from
+            California to care for Mrs. Johnson,
+            who is slowly recovering from her re-
+            cent illness. Mrs. Phil Johnson and
+            Mrs. Elizabeth Benson are looking af-
+            ter her since Miss Hanson left, both
+            of them are registered nurses, so
+            Mrs. Johnson is assured of good care.
+            Her friends are pleased to know she
+            is progressing toward recovery.
+            Mrs. Harold Turner went to Milwaukee last Saturday where she is (
+            a guest at the home of Mr. and Mrs. i
+            Oscar Sprague. She is also attending I
+            home display week which is being
+            held there. Mrs. Sprague has not ,
+            been too well since an injury she re-
+            ceived on returning to her home af-
+            ter being called to Merrillan by the
+            illness of the late Mrs. Frank Sprague.
+            The taxi in which she was going to I
+            her home from the station was in a
+            collision, and she was severely jolted 
+            and suffered an injury to her spine.
+            Friends hope she may soon be better 
+            and suffer no ill effects from her accident.
+            Margaret, little daughter of Hu- 
+            bert Johnson, who has spent the first
+            month of her life at the hospital. 
+            was taken home Sunday. Mr. Johnson?s mother is caring for her, and his
+            sister. Miss Dorothy, who has employment at the telephone office,
+            spent several days at home, returning
+            to work today. Little Margaret is 
+            thriving nicely.
+            Dr. Hendrickson of Fairchild. 
+            brought Miss Violet Rice to the hospital Monday for an emergency appendectomy.</p>
+      </body>
+  </text>
+</TEI>

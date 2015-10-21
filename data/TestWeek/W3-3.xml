@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W3-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Royalty Bans Rackets
+            To stop racketeering in chanty af
+            fairs members of the royal family
+            have announced in London that be
+            fore promising to attend a ball, pre
+            miere or concert they will insist that
+            the charity in question will benefit
+            to the extent of a sum named by
+            them. Committees must guarantee
+            this minimum, each member taking
+            personal responsibility for a def
+            inite amount, mid paying any deficit out of their pockets. Heretofore all that has been required by
+            royal patrons has been an "assurance, with no figure mentioned.”
+            Seme recent charity benefits have
+            had receipts of $5 000 of which the
+            charity received less than $500.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M06D01</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Everybody laugh and have big joke about Indian reporter this
+            spring when tell folks all about what weather going to be when I tell them no more cold
+            weather and then have bad winter, but nobody laugh very much when tell in Indian News
+            last week that moon sign tell going to have rain about 25th May when moon change and
+            everybody tell Frisk Cloud Saturday you’re all right Frisk and buy me drink and say
+            think I am pretty smart fellow. People at tavern at depot tell about hear something that
+            sound like drum Friday night and one fellow tell maybe Soderstrom go out on high hill
+            and beat tom-tom and sing song and try to get suit that Joe Christman want to give
+            Indian reporter to make it rain and can’t because I sold tom-tom to Soderstrom. Fellows
+            at Cash Store say going to ask Soderstrom about it if he beat tom-tom and sing song to
+            make big rain and maybe have Winnebagoes make him chief at pow-wow at lake and name him
+            “Chief Rain-In-The-Face”. Indian tribes all good friends and like to have visit with
+            Indians other tribes. Tuesday Indian reporter was in Tomah and got acquainted with
+            Chippewa Indian soldier camped in Tomah. Private Nelson H. Hamlin, Company G. 2nd
+            Infantry, stationed at Fort Wayne, Detroit, Michigan. He is fine fellow and had good
+            talk with Indian reporter and tell me that Indians in every army camp he has been in and
+            white men think they are good soldiers. All Indian soldiers ready to fight for country
+            same as white man and Indian reporter tell Chippewa soldier that Indians should be
+            soldiers and fight for country because this more their country than white man’s because
+            country was their’s first and white man come over here from Europe and take land away
+            from them. Indian reporter get letter every week about people that like Indian News and
+            this week got letter from La Crosse and tell about Indian News beat thing in paper and
+            tell about three people that want to subscribe for Tomah Journal to read about what
+            Indian reporter say. Man that write letter tell about neighbor take paper and he go to
+            his house and get paper every week to read Indian News. Two three fellow want to know
+            from Indian reporter in Tomah Saturday how are blueberries going to be this year. I tell
+            them I don’t know because haven’t been looking for blueberries but went out in my woods
+            Sunday and look around and Monday go to another place and don’t find much blueberries
+            and think they are all shot by big frost and lost dry weather and won’t be many
+            blueberries this year. Found lots of places that look like going to be lots of
+            blackberries and they good too when don’t have blueberries. Indian friends come down
+            here from Black River Falls to fish and when comeback tell about all good fishing places
+            posted and have signs that say you can’t fish here ad trespass and mean same thing. All
+            good fishing place shut up by government or white man own land and just fish himself on
+            land and lot of good cricks spoil for fishing because rich white fellows build dams and
+            don’t have right kind of way for fish to go up crick and get trapped and have to stay in
+            pond or can’t go up stream to like what you call spawn. Indian reporter think good thing
+            to have government man go to rich man’s dam and see if have place that fish can go up
+            crick without have to be leap frog and break neck. .</p>
+      </body>
+   </text>
+</TEI>

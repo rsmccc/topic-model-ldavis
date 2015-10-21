@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M09D20</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Mr. and Mrs. Arthur Harris and Mrs. Frank Red Cloud
+            o f Hunters Bridge, La Crosse county, came thru here on way home.
+            Mr. Harris had letter from W PA office. He is going to work this
+            week. He was picking cranberries. Mrs. Alice Green Fox went to To­
+            mah Indian hospital two weeks ago for treatment. We are glad to hear
+            she is improving on this writing. Fred King Swan and Wm. White Bear
+            came back from Nebraska. Fred was there last two weeks on land bus­
+            iness. Mr. Shee Noo o f Chicago, visited at Indian Mission Sunday.
+            He was at Chippewa Falls as guest o f Judge Melville. The Indian
+            report was invited to Eolitics meeting at Neillsville. He ear much
+            talk about against New Deal. We know one thing the relief part is
+            wrong. We see the office peo­ ple get more than the needy ones. One
+            sight you see when you come to Indian Mission is Dick Walters
+            walking around there, one house to another. Daniel Thunder Cloud is
+            working on Phil Bennett cranberry marsh. He say he like it there and
+            he moved to Tomah cranberry marsh. David White Decorah had one
+            Deering mowing machine lost at east o f Clay some time last summer.
+            They had been use to cut hay out there and leave it there for a
+            while. Some­ body took it without asking. Would like to know who is
+            taking. Mr. and Mrs. Willie Hall Jr. and Charles R. Lowe Cloud went
+            to To­ mah Indian hospital to see Mrs. Alice Grey Fox. She has been
+            there for last two weeks, and Annie Winne­ shiek too. Indian report
+            went to see some In­ dian at Wood county. They had meeting out there
+            to talk about their, own affairs. Hon. Merlin Hull went back to
+            Washington yesterday. The Indians are not interested for any kind of
+            politics but now some are having interesting talk about most every
+            day. It seemed to just like wake up at near the time to elec­ tion.
+            Mrs. Margaret La Mere Johnson was here most all summer. They called
+            from Winnebago reservation at Nebraska. She will be cook in the
+            hospital she has been working before so they sent for her, they know
+            where she is. She is old Carlisle Student at same time Indian
+            reporter was there. We had forgot them, those two babies were bom to
+            some time ago. A baby girl was born to Mr. and Mrs. Herman Brown
+            Eagle March-10, 1939, at Tomah Indian hospital. A baby boy was born
+            to Mr. and Mrs. Tom Kingswan at Indian Mission July 28, 1939, and
+            they are doing pretty well at present. .</p>
+      </body>
+   </text>
+</TEI>

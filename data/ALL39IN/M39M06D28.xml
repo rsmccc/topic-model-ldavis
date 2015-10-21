@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M06D28</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Red Cloud</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Do not say “Fourth of July”, say instead “Centennial and
+            homecoming”. Indians never run when a shower catches up with them. They never run during
+            a storm no matter how hard it rains. It is strictly against their belief. When a person
+            runs he runs into more raindrops than if he walks so it’s better to go slow. The
+            horse-flies went crazy with the heat last few days and couldn’t tell the difference
+            between a horse and a cow and cows had a hard time of it. It takes a jack to raise a
+            car, and it also takes a jack to raise a family. A couple of weeks back a bit of Smoke
+            Signals appeared in the Cookie Jar. Will wonders never cease. “Vacation with pay, even
+            for a day” sounds alright on paper and mothers may believe in it in theory, in actual
+            practice, nothing doing. Even if mothers did receive “pay” it’s more than likely they’d
+            buy things for their children. But for fathers they are very much against it in theory.
+            They think it is an extreme new deal policy. In actual practice they are for it, heart
+            and soul, and will use the “pay” to buy more fishing tackle. I didn’t think the “Heap
+            Tepee Talk” was read by such distinguished people. Thanks just the same, Marcella. The
+            thunder showers of last week were said to be million dollar rain storms. I can’t say
+            that I know any about a million dollar rain. As far as I concerned there can be only
+            forty dollar rains. That’s the biggest amount of money I know anything about. May we all
+            meet happily at the Centennial and Homecoming. .</p>
+      </body>
+   </text>
+</TEI>

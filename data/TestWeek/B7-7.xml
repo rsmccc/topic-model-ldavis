@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B7-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>CLOVERDALE
+            Clyde Bailey is having his buildings
+            wired for electric lights.
+            Emma Stiehl and Esther Marie
+            called on Anna Wyss, Thursday.
+            Wendell Burge and family were
+            Sunday guests at Eva Dunnigan’s.
+            Mrs. Jacob Wyss spent Sunday af-
+            ternoon with her sister, Emma Stiehl.
+            Elnora Burge was taken to the hos-
+            pital, this morning, for medical aid.
+            Mr. and Mrs. Frances Harmer and
+            son were Sunday visitors at Carl
+            Klein’s.
+            George Nortman came home from
+            the clinic Saturday, feeling somewhat
+            better.
+            Robert Iliff and Mr. Reike were
+            GILBERT
+            business callers at Philip Nortman’s
+            Sunday.
+            Mr. and Mrs. Albert Stratton and
+            daughter visited at Delbert Nortman’s
+            on Sunday.
+            Mrs. Charles Jessie of Taylor, spent
+            the week end with her mother, Mrs.
+            Eva Dunnigan.
+            Verna Wyss spent the week end
+            with her parents from her school du-
+            dies at La Crosse.
+            Mrs. Delbert Nortman spent Wed-
+            nesday with her parents, Mr. and
+            Mrs. Earl Horswill.
+            Mr. and Mrs. Herman Rosenbaum
+            and baby were Sunday guests at the
+            Philip Nortman home.
+            Mr. and Mrs. J. D. Wyss and
+            daughter Wilma were Sunday visitors
+            at Donald Wyss’, in Melrose.
+            Cyril Sherwood of Rockford, 111.,
+            and Dan Straitmater of Milwaukee,
+            spent the week end at Carl Klein’s.
+            Mr. and Mrs. Arthur Anderson and
+            son and Bobby Wyss were Sunday
+            visitors at George Jenson’s, in Taylor.
+            Miss Marian Klein and Mrs. Doro-
+            thy Harmer spent Saturday afternoon
+            with their parents, Mr. and Mrs. Carl
+            Klein.</p>
+      </body>
+  </text>
+</TEI>

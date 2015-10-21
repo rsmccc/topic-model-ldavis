@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B5-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>TEXACO OILS BEAT MIL-
+            WAUKEE ALL-STARS 60 TO 50
+            i In their first game of basket ball
+            > under the sponsorship of Bruce Van
+            - Gorden’s Texaco Oil Company Mer-
+            i rillan’s caging gentry went on a scor-
+            ing rampage against the Milwaukee
+            | College All-Stars to win a sparkling,
+            | rapid-fire victory before a crowd that
+            , was left gasping at the terrific speed
+            of the Milwaukee men and the deadly
+            , efficiency and brilliant play of the
+            , New Texacos. Two of the visitors,
+            . Beland pivot man and a little guy
+            . named Corwin, were out and out
+            , good. Another geezer entitled John-
+            ' son might have been good too but the
+            ! gent was too dam busy trying to keep
+            • up with Christy. He might just as
+            well have forgotten about Christy—
+            . we still have to see a ball player who
+            , can come close to following the lad.
+            It’s worth real dough to see Christy
+            when the going is tough and fast—
+            ■ the guy could win in a race with a
+            load of buckshot out of a melon patch
+            and Sunday with a team of college
+            stars as opposition the big Norsk was
+            a streak of light—we don’t mean to
+            slight Frost, Matalas, Nichols, Hayden
+            or Porter, they contributed plenty,
+            but we like the beautiful and that’s
+            what Christy’s work was. Ketchum
+            of Milwaukee later said “Nobody
+            could stop that fellow—he’s the fast-
+            est big man I’ve ever seen.”
+            For Milwaukee the man who looked
+            best was Belond, a well proportioned
+            fiant, who handled the leather like
+            ohn D. used to handle dimes, i. e.
+            with the greatest of facility. His
+            passes were smooth and clever like
+            Ellison’s, but unlike Ellison’s they
+            didn’t bound off a teammates nose.
+            An all-star was set to receive it when
+            he let loose and as the 50 points by
+            the enemy testifies they also caught
+            the Texacos off balance with this pass-
+            ing business.
+            But to the game; during the early
+            portion thereof the city slickers were
+            completely baffled by the Texaco’s
+            fast break, as well as the zone type
+            of guarding. Thrice the Milwaukee
+            boys called time to regain composure
+            as Merrillan drew further and further
+            away, but nux vomique (whatever
+            that means) our heroies lead by the
+            rangy Frost and “The Cyclone” Mat-
+            alas, scampered off to a 19 to 7 first
+            period advantage.
+            In Act 2 H. Porter, valet of bo-
+            vines in private life, gave the folks a
+            show of plain and fancy caging by
+            bracketing eight tallies in the space
+            of four minutes to act as the fire-
+            works in bringing the oil men up to a
+            32 to 18 edge for the half.
+            At rest time the big town collegi-
+            ans evidently had brewed up a plot
+            involving dark deeds against Mr. Van
+            Gorden’s oil business for when the
+            whistle signaled the return to action
+            the bombarding by the enemy started
+            and the scorekeeps pencil done a Gil-
+            da Grey marking down the counts.
+            Twenty tallies went thru for the Reds
+            bringing their total to 38. The Tex-
+            acos in the meantime had pushed
+            their total up 12 to make it 44 to 38.
+            Came the curtain quarter and more
+            fireworks—with the enemy rapidly
+            coming up, Clifford “Lightnin’ Chris-
+            tianson went to work and teamed with
+            Pickles Nichols to bring Merrillan out
+            of danger, they took turns with field-
+            ers by Hayden and Matalas made the
+            Merrillan Texacos count an even 60.
+            Beland Corwin and Werner added a
+            dozen for Milwaukee to bring their
+            score to 50—so the barrage ended 60
+            to 50.
+            Having thus sunk one great oppon-
+            ent the Texacos are now preparing
+            themselves for another, on March 23
+            the famous Globe Trotters will try
+            out their wares against the fast tra-
+            veling Merrillanites. This will be the
+            biggest basket ball treat of the year,
+            and the finale to the Texaco’s sea-
+            son at home. The biggest crowd in
+            years will be on hand to see the col-
+            ored stare. We hope to see what a
+            black man looks like when he blushes.</p>
+      </body>
+  </text>
+</TEI>

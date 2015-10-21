@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>State Capitol Letter (con)
+            
+            and federal assistance as Wisconsin 
+            did, without a 60,000 a year corporation.
+            
+            Teacher's Tenure Survives
+            Wisconsin school teachers retained the tenure granted them by the 1937
+            legislature when the state assembly
+            voted 49 to 45 to kilt a hill which
+            would have repealed the law.
+            The tenure law provides that teachers who have served a five-year probationary period cannot be fired except
+            for incompetence and inefficiency, and
+            can demand a public hearing before
+            the discharge is effective.
+            The bill repealing the law which the
+            assembly refused to engross was introduced by Glenn James. Republican.
+            Defending his hill in the 31? hour de-
+            bate preceding the vote on the bill.
+            James charged that teachers were
+            fired before their probationary period
+            ended to avoid keeping them on permanently, and said “the present law
+            seems to defeat its own purpose.” Defending the law. Paul Alfonsi, Progressive, said that “teachers tenure
+            has given those in the profession the
+            right to become spirited citizens, an
+            integral part of their community.”
+            There still remains, however, a bill
+            which exempts one-room school teachers in rural districts from tenure. The
+            bill, authored by Herbert Schenk, Progressive, had been previously killed,
+            but was revived and engrossed by the
+            assembly. Most of the opposition to
+            tenure has come from the rural school
+            districts.
+            Leaves State Employment
+            Wilbur G. Carlson, for the past year
+            director of the Wisconsin Agricultural
+            Authority, and before that director of
+            the state department of agriculture
+            and markets advertising and publicity
+            bureaus since 1932, will leave his state
+            job to take over the position of executive secretary of the Corn Canncrs
+            
+            Service Bureau in Chicago.
+            In his new position Carlson will still
+            be working for many of the state interests with whom he was associated
+            as director of the WAA, because practically all of the corn canners of this
+            state are members of the new organisation which he will direct. The Corn
+            Cannein Service Bureau represents
+            some 300 corn canneries in the United
+            States.
+            The WAA is another of the bureau?
+            originating under the La Follette 1937 special session and its repeal is asked
+            in a hill now before the senate. No
+            action on the repeal has been taken as
+            yet. Carlson will continue to devote
+            a day or more n week to the WAA to
+            complete projects now under way such
+            as the diamond jubilee cheese sale, a
+            sauerkraut sale and a poultry products
+            sale
+         </p>
+      </body>
+  </text>
+</TEI>

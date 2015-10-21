@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-9</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>FOUR CORNERS
+            Teman Thompson was at B. R.
+            Falls Friday afternoon.
+            Mr. and Mrs. Evan Hegge were
+            guests at Asa Fox’s, Sunday.
+            Miss Amy Kolden visited at the
+            Maule home Friday afternoon.
+            Mr. and Mrs. George Maule called
+            at the George Nolop home Friday.
+            Mr. and Mrs. Dorrance Stolts and
+            son Tully spent Sunday at Melrose.
+            Mr. and Mrs. Thomas Mills were
+            callers in the neighborhood last week.
+            Mr. and Mrs. Ernest Nordahl and
+            children visited at Asa Fox’s, Friday
+            evening.
+            The Johnson boys and Harold
+            Downer were B. R. Falls visitors on
+            Sunday evening.
+            Mr. and Mrs. Harland Duxbury and
+            daughter Twila visited at Marvin
+            Johnson’s, Tuesday evening.
+            Miss Goldie Thompson spent the
+            week end at home from her teaching
+            duties in the town of Franklin.
+            Miss Lorraine Nemitz of Avon, was
+            a week end guest at the Maule home.
+            Her father and sister Anita, and
+            brother Claire drove down for her on
+            Sunday.
+            Mr. and Mrs. Asa Fox and sons,
+            Mr. and Mrs. George Miller, Mrs.
+            Stanley Jacobus and Mrs. Agnes
+            Rhead enjoyed a sleigh ride to the
+            Evan Hegge home and spent Tuesday
+            evening there. The roads were plow-
+            ed out that evening so Mr. and Mrs.
+            Dorrance Stolts and little son came
+            by car and brought Mr. and Mrs. Geo.
+            Nolop with them. Cards were the en-
+            tertainment and a fine lunch was
+            served at midnight.</p>
+      </body>
+  </text>
+</TEI>

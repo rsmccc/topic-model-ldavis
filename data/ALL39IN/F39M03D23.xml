@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M03D23</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Charley Low Cloud got out of Indian hospital last week. Charley was pretty sick with flu and been at hospital long time. Fred Sam from Wittenberg was in hospital with sore eye and he got out last week too. Jim Funmaker baby died at hospital this week. Baby was born two three weeks ago and been sick all time. Last week forgot to tell some about trust fund money that Indians pay white man for farms to have home and make living. Tell in Indian News give 416.06
+            for farm and lots of people think that not very much to give for farm and horses and machinery and hay rack and chickens and things to have for farm and Indian reporter didn’t tell that everyone in family get same thing $416.06 father, mother and all kids and that farm and all things cost $3,000 and other Indians pay about same thing. Indian Agent tell people to spend money for farm and have home and then big shot white country clerk and clerk of court come to farm and tell Indian
+            must get off and give them farm for county because don’t pay tax and Indian reporter think that pretty had and other Indians think pretty bad deal too. Winnebago sleep and white man come and take everything away from him same thing like that. Indians have to do things white man’s way because white man take all country away from Indians and Winnebagoes don’t understand laws. White man say five you some money in trust fund and then say spend money for land and then take away. Winnebago
+            sleep and let white man do like that and then have nothing just like before get money. I find myself that Chief Waukon, name means snake skin, in Iowa get lots of property for Winnebagoes. Winnebagoes get big territory near Dubuque too where have lots of mines $30,000 a year for minerals and Winnebagoes here don’t know where money goes and get nothing and don’t ask for any. Indians sleep and trust everybody and don’t get anything for all land that belonged to them before white man
+            say get off and give us land. Frank Lueck come into newspaper office Saturday white giving news and tell Indian reporter like to read about Indian News in paper. Frank come home from where been all winter with children and now fish all summer and go to children in winter time. Building for old folks Indians going to be built at Mission at Black River Falls this spring and some Indians from Tomah will help. Frank Hess live here long time ago people say white letter from Minneapolis
+            and tell about what Indian reporter say in Indian News. Indian reporter want to thank Mr. Hess for nice things he tell about Indian News. INDIAN HOSPITAL NEWS Patients admitted to this hospital the last week were: Virginia White, Henry Mike, James King, Jenifer Gardner, Arnold Rose, Edward Winneshiek, Melinda Greengrass, Marie Bedeagle, Cornelius Baird, Francis Garvin, and John Brown. Those who were discharged were: Charles Low Cloud, Jesse O’Brien, Virginia White, Mary Metoxin,
+            Georgene Metoxin, Fred Sam, John Brown, and Prudence Funmaker. Charlie Low Cloud was here Tuesday, and he showed us a letter he had received from Bert A. Gripple, Editor of the Galesville Republican. Editor Gripple wrote a very complimentary letter about Charlie and expressed his sympathy for Charlie in his recent illness. John Brown entered the hospital early Tuesday morning with a compound fracture of his third finger-on his right hand. He left that same day after having had the
+            finger carefully dressed. Carl Grover, a 9-years-old Chippewa Indian from Phillips, went to Madison to have a new plaster cast made for his back. When he was three years old he fell and hurt his spine and has had to lay on his back in this cast-or one like it- since. The cast is made at the Wisconsin General Hospital, Orthopedic Department, Carl is a very cheerful boy, and does not let his mind dwell on the fact that he is an invalid. Dr. Bees S. Lloyd, the Indian Service Eye, Ear,
+            Nose, and Throat Specialist, paid us a hurried call Tuesday evening. He was on his way to Pipestone, Minnesota to continue his work at that hospital. Tuesday, March 21, 1939, at 12:15 p. m. Prudence Funmaker, the infant daughter of Mr. and Mrs. James Funmaker died at this institution. The baby had been very weak since birth, and very suddenly developed pneumonia and died. Our sympathy goes to Mr. and Mrs. James Funmaker of Black River Falls. Last Thursday, March 16, a a-by girl was
+            born to Mr. and Mrs. Joe Thundercloud of Black River Falls. They named her Karen Lee. James King, a Menomonee Indian came up from Houston, Texas to enter this hospital. He used to paint commercial advertising in New York City. Our daily average of patients is still going up. During the month of February we had a daily average of 41.9 patients. .</p>
+      </body>
+   </text>
+</TEI>

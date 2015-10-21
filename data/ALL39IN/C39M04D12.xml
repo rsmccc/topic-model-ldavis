@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M04D12</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>There are many Indians visitor the Indian hospital
+            this week and last week. George Green has been here some time ago,
+            and he is going back home last Monday. Bad news Susan Smith was here
+            last week. One of her daughter ser­ ious ill and she passed away
+            last Fri­ day. She took her home last Sunday noon train. At
+            Wittenberg, Wis. and also her husband is sick too, and this girl was
+            almost full grown. She was nice girl. The sympathy is goes to her
+            parents to Mr. and Mrs. Edwin Smith. The Indian Mission church is
+            sixty years old. There are many Indians and whites were gather
+            together here week ago last Sunday. Rev. Ben Stucki of Neillsville
+            is one take charge of meeting and he is one preaching in the morning
+            and some other high officer from the other city or the other state.
+            There are announcement was made. There will be 14 of next months.
+            They will celebration for this re­ formed church sixty years. They
+            are going to have big meeting and feast- able too, and they are all
+            welcome whoever come. Redskin and white. We will tell more about
+            next week. The Indian report enter the hos­ pital third time in this
+            winter, April 3, 1939. He had earach. He cannot hear anything about
+            4 days. Pretty hard for him and April 2, Sunday, evening went to see
+            Doctor Irwin Krohn, but it don’t do any good. Mr. Alvin Stacy next
+            morning brought it down to the hospital. Old friend Mr. William
+            Whitney of Knapp we had a letter from him and card. The letter was
+            pretty good hand writing. Mr. Whitney and his daughter Grace. We
+            knew him more than 30 years and when we use to live at Millston know
+            him well. .</p>
+      </body>
+   </text>
+</TEI>

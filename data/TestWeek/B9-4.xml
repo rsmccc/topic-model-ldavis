@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>POLE GROVE
+            Tennis Brown attended the horse
+            show at Madison, Saturday.
+            Mrs. Charley Newell visited Mrs.
+            Ruth Olson Thursday afternoon.
+            Sunday Mr. and Mrs. Albert Regez
+            and son Dick visited at Lea Johnson’s.
+            Mr. Baumbach of Sparta, visited
+            over Wednesday night at the Henry
+            Lien home.
+            Miss Ruth Newell was a caller at
+            home Sunday. Miss Rilda Newell is
+            ill of flu.
+            Bill and Miss Frances Knutson and
+            Mrs. Henry Lien were business callers
+            in La Crosse, Saturday.
+            Mr. and Mrs. Albert Hanson, of
+            North Branch, visited at Oluf Han-
+            son’s one day last week.
+            Glen and Clarence Knutson were
+            up from Ettrick Sunday to visit Mr.
+            and Mrs. Abel Knutson and family.
+            Mr. and Mrs. Seth Calkins and
+            daughter Jean of Eau Claire, were
+            visitors at Charley Newell’s, Sunday.
+            Mr. and Mrs. Joel Nelson and chil-
+            dren will move from South Alma to
+            the John Stam place which they have
+            rented.
+            Monday Harold Sjuggerud and Les-
+            ter Folkedahl of Blair, came up to
+            visit their sister and cousin, Mrs. Al-
+            bert Regez and husband.
+            Friday Mr. and Mrs. Sjuggerud
+            and sons brought Dick Kirkpatrick
+            back to his home. He has been vis-
+            iting his grandparents for some time.
+            Mr. and Mrs. Brown and children
+            will move from the John Stam farm
+            to the tenant house on the Henry
+            Lien farm for a short time until they
+            can move to the Dave Stolts farm
+            which they have rented.
+            The Pole Grove sewing circle will
+            meet with Mrs. Lea Johnson for an
+            all day meeting, Thursday, March 30.
+            The sewing circle finished a quilt and
+            gave it to Lewis Johnson, as he lost
+            most of his bedding in the fire.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-9</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MATTSON INSTALLING
+            BOWLING ALLEYS
+            A. M. Mattson will install four
+            Brunswick 20th century streamlined
+            bowling alleys in ? new building to
+            be erected on the Mattson property
+            east of the river. Work will begin at
+            once on the building, and it is plan-
+            ! ned to have the alleys in operation
+            : by May 15th.
+            I Ben Rusy, executive secretary of
+            the state soil conservation committee,
+            was in town last Friday and attended
+            a meeting at the court house to ap-
+            prove the appointment of three offi-
+            | cers to act as election officials for the
+            'Upper Pigeon soil conservation dis-
+            trict. W. D. Bean, county agent, re-
+            presents the College of Agriculture,
+            Thomas Pattison, Independence, of
+            the soil conservation service are mem-
+            bers of the committee appointed by
+            the state and they appointed John
+            Tweed, Glen Humphrey and Robert
+            Wilson, of Northfield, as the election
+            ' officials. Election will take place on
+            Tuesday, April 25th, when five farm-
+            ers living within the district for whom
+            nominating petitions have been sub-
+            mitted to the state conservation de-
+            partment, will be voted upon. The
+            I three highest of the five will be
+            ! elected supervisors of the Upper Pi-
+            geon Creek soil conservation district,
+            which was duly organized last year.
+            John Dolesy sr., who has been
+            i staying with his daughter, Mrs. J. P.
+            'Sorrenson in Minneapolis during the
+            winter, was brought here Saturday to
+            enter the hospital for treatment of
+            pneumonia. Mr. Dolesy has nfany
+            friends who will regret to learn of
+            his illness. Mrs. Fred Dolesy has
+            been staying with him at the hospital
+            and Mrs. Sorrenson and John Dolesy
+            came down with him Saturday. An-
+            other daughter, Mrs. J. J. McGrath,
+            of Michigan, has been threatened
+            with pneumonia too and cannot come
+            I at this time.
+            E. E. McLyman is visiting his sister
+            Mrs. Clara Powell, in Eau Claire.
+            Members of his family there gathered
+            Sunday at the home of his nephew,
+            Lee Powell, for a birthday dinner in
+            celebration of his 80th anniversary.
+            Others present were his nephews,
+            George and W?illie Powell and nieces,
+            Mrs. A1 Britten and Mrs. Delbert
+            Lindsay and their husbands. They had
+            a fine time. Mr. McLyman?s friends
+            here join in wishing him many happy
+            returns of the day.
+            Mrs. Lloyd Gilbertson was guest
+            of honor at a very enjoyable party
+            given at her home last Wednesday
+            evening by friends. The occasion was
+            her birthday anniversary. She is re-
+            covering nicely now following an op-
+            eration for appendicitis and an attack
+            of pleurisy after returning home
+            from the hospital.
+            A group of ladies helped Mrs. Chris
+            Capaul celebrate her birthday at a
+            quilting party at her home March 7th.
+            The following attended:	Mrs.	Al-
+            bert Jacobson, Mrs. J. Capaul, Mrs.
+            Peter Held and Marie, Mrs. Clarence
+            Keach, Mrs. Victor Capaul and Miss
+            Viola, and Mrs. Peter Statz.</p>
+      </body>
+  </text>
+</TEI>

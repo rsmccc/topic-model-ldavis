@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>PLEASANT VIEW
+            Mr. and Mrs. Wm. Werth spent
+            Thursday afternoon and evening with
+            Mr. and Mrs, Arlie Werth at Mosinee.
+            Wis.
+            “Stub” Hanson and “Jack” Thayer
+            went to Gagen, Win., Thursday to
+            spend over the week-end with Mr. and
+            Mrs. Martin Hanson.
+            Mr. and Mrs. Wilbur Thayer and
+            family and Mr and Mrs. Guy Shad-
+            dock and family visited friends and
+            relatives at Bowler and Pella Sunday.
+            Mr, and Mrs. Arlie Werth. Wilmer
+            Werth, Mrs. Wm. Werth, Mrs. Harry
+            Hoppe and son Jerry visited Mrs. Her-
+            man Bucttner at Tilleda Sunday.
+            Marcella Zeinert visited on Sunday
+            with her mother who was on the sick
+            list.
+            Mrs. Robt. Gilray is making a stay
+            with her son and family at Biraam-
+            wood.
+         </p>
+      </body>
+  </text>
+</TEI>

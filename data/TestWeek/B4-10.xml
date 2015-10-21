@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-10</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>FIRST ANNUAL
+            BULL SALE
+            At the John Wuethrich farm 1 mile
+            south and V6 mile east of Greenwood
+            or Vs mile northwest of Wuethrich’s
+            Creamery on Saturday, March 18th,
+            1939. Sale to start promptly at 1:00
+            P. M.
+            18 Pure Bred Holstein Bulls; 11
+            bulls from 8 months to 12 months old,
+            7 bulls from 4 weeks to 5 months old.
+            These bulls are sired by my two herd
+            sires and are out of our very best
+            pure bred cows that have been in
+            testing associations the past two
+            years, ranging from 250 to 420 lbs. of
+            butterfat per year during the last 2
+            seasons. Our cows received no grain
+            while on pasture and were really
+            handicapped. The sires of these bulls
+            are two of the best in the state.
+            Herd Sire No. 1—Colony George
+            Sir Heilo is out of the great all
+            American-Canadian cow Colony Flood
+            Colantha. She has 5 yearly records,
+            the highest 9S0.00 lbs. His sire’s dam
+            has 1166.25 lbs. as a 3-yr.-old. His
+            calves are exceptionally nice and
+            should make real herd bulls.
+            Herd Sire No. 2—Quonquont Sir
+            Modest 44th, an eastern bred sire who
+            at this time has 19 sisters at 2-yr.-olds
+            that made from 600 to 944 lbs. but-
+            terfat in 1 yr. testing 3.92.
+            At this time I have 12 cows on test
+            in my barn and we hope to have at
+            least a few 1000 lb. butter cows or
+            800 lb. butterfat cows. Some of these
+            sires will be worth considerable more
+            after these cows finish their records.
+            Remember you can’t breed good cows
+            by using poor bulls. I have a bull to
+            suit everybody’s pocketbook. There
+            are 15 pure bred bulls and 3 out of
+            high butterfat grade cows in this lot.
+            If you need a good bull be sure to
+            attend this sale and buy one at your
+            own price. Usual terms of sale.
+            W. H. Krause, Auct.. Thorp, Wis.
+            Thorp Finance Corp., Clerk
+            JOHN WUETHRICH, Owner</p>
+      </body>
+  </text>
+</TEI>

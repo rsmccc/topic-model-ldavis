@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-10</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>NOTICE OF JUDICIAL ELECTION
+            April 4, 1939
+            STATE OF WISCONSIN. COUNTY OF
+            Jackson—ss
+            Notice Is Hereby Given that at an election
+            to be held in the several towns, wards, vil-
+            lages and election precincts on the first
+            Tuesday of April, A. D. 1939. being the
+            Fourth day of said month, the following
+            officers are to be elected:
+            A Justice of the Supreme Court, for the
+            term of ten years, to succeed Marvin B.
+            Rosenberry, whose term will expire on the
+            first Monday of January, A. D. 1940.
+            ^ A Circuit Judge for the Seventeenth Judi-
+            cial Circuit comprised of the counties of
+            Clark, Jackson and Juneau, for the term of
+            six years, to succeed Emery W. Crosby,
+            whose term will expire on the first Monday
+            of January, A. D. 1940.
+            Given under my hand and official seal, at
+            the Court House in the City of Black River
+            Falls, this 10th day of March. A. D. 1939.
+            HANS K. HANSON, County Clerk
+            (SEAL)	Jackson County. Wisconsin
+            March 15-29
+            ELECTION NOTICE
+            Notice U hereby given that the annual
+            Municipal Election for the City of Black
+            River Falls, Jackson County. Wisconsin,
+            will be held on the first Tuesday of April,
+            1939 (being the 4th day of April A. D.
+            1939) at which time the following officers
+            are to be elected.
+            A City Marshal for a term of one year
+            to fill vacancy, term of office expires on
+            the 1st day of May, 1939.
+            Two Justices of Peace to fill vacancies.
+            Two Constables to be elected from the
+            City at large.
+            A Supervisor in and for the First Ward
+            of the City of Black River Falls, to succeed
+            I. S. Hollenbeck, whose term of office ex-
+            pires on the first day of May, 1939.
+            An Alderman in and for the First Ward
+            in the city of Black River Falls to succeed
+            Lawrence E. Jones whose term of office ex-
+            pires on the third Tuesday in April. 1939.
+            A Supervisor in and for the Second Ward
+            of the City of Black River Falls, to succeed
+            Emil G. Gilbertson whose term of office
+            expires on the first day of May. 1939.
+            An Alderman in and for the Second Ward
+            in the City of Black River Falls to succeed
+            Joe Widmar whose term of office expires
+            on the third Tuesday in April. 1939.
+            A Supervisor in and for the Third Ward
+            in the City of Black River Falls, to succeed
+            Phillip Gebhardt, whose term of office ex-
+            pires on the first day of May, 1939.
+            An Alderman in and for the Third Ward
+            in the City of Black River Falls, to succeed
+            David L. Hilts whose term of office expires
+            on the third Tuesday in April, 1939.
+            An Alderman (for a term of one year)
+            in and for the Third Ward, City of Black
+            River Falls, to succeed Lawrence Larkin
+            whose term of office expires on the third
+            Tuesday in April. 1939.
+            A Supervisor in and for the Fourth Ward
+            in the City of Black River Falls, to succeed
+            Burnham Tanner whose term of office ex-
+            pires on the first day of May. 1939.
+            An Alderman in and for the Fourth Ward
+            in the City of Black River Falls to succeed
+            O. J. Tollack whose term of office expires
+            on the third Tuesday of April. 1939.
+            Said election will be held at the City
+            Hall in the City of Black River Falls, and
+            the polls will be open at nine o'clock in
+            the forenoon and close at five-thirty o’clock
+            in the afternoon of that day.
+            Dated March 8. 1939.
+            ll-4w EILERT M. HAGEN. City Clera</p>
+      </body>
+  </text>
+</TEI>

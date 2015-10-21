@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M03D29</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The Indian report came back from Indian hospital
+            last Sunday. Everybody got that cold. We al­ ways have this cold
+            weather spring, and still cold wind too. ind R. A. worker they
+            finished work for this month, last half day was yes­ terday. Supt.
+            Peru Farver of Tomah Indian school had talk to Indian report last
+            Saturday forenoon, talk about some Indian money lost and also about
+            they are going to build some more houses. If that is not politic,
+            they will. Too bad news. Mr. and Mrs. Jim Funmaker lost one infant
+            baby last week. The baby was born at Tomah Indian hospital but
+            dostor said she was born before her time, and sym­ pathy goes to
+            parents, Mr. and Mrs. Jim Funmaker. Indian reporter had letter from
+            two women as following: 22643 W. Mich., Dearborn, Mich. March 18,
+            1939 Dear Mr. Low Cloud: Am very sorry to hear you are ill and I
+            wish you a speedy recovery. We read your news in the Banner-Jour­
+            nal and enjoy them a great deal. Hope you will continue writing them
+            for us. Sincerely yours, Mrs. Bergine O. Peterson Mrs. Clara E.
+            Dates Indian reporter went to Indian Mis­ sion looking for some
+            news, but he could not any, only one cigar. The sewing project at
+            Indian Mis­ sion they said they are making some Indian women dress
+            for those who need. I wish to thank, who has written kind words sent
+            it to me, during I was staying 19 days at Indian hos­ pital, and
+            those readers o f Banner- Journad and special those three
+            Trempealeau county newspaper pub­ lisher, G. L. Kirkpatrick o f the
+            In­ dependence News W ave; H. Cf. Kirk­ patrick o f the Blair Press:
+            and Bert A. Gipple o f the Galesville Republi- an. I am thanking for
+            everybody and they came to see me. Too bad road to travel on some
+            jlace at present, these two car stay in mud all night. Mr. and Mrs.
+            Clar­ ence Moniga rand their children o f Greenwood, Wis., they were
+            coming to Indian Mission last Saturday. They come down as far as
+            east o f 30 or 40 rods from use to be Joe Valance alace, got stuck
+            in mud near the lorse shoe curve and after while Mr. Dan Bearheart
+            came along, try to help them but he could not do any­ thing, so he
+            told them he could take his family to the Indian Mission but Mr.
+            Monigar says no and Mr. Bear­ heart went on toward Indian Mission
+            but he did not go very far, he got stuck in mud too and these two
+            cars staying on all night. .</p>
+      </body>
+   </text>
+</TEI>

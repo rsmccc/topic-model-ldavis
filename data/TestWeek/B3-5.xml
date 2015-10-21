@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B3-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>COUNTY AGENT NEWS
+            Homemakers
+            The third series of Homemakers’
+            leaders meetings will be held at Hix-
+            ton and Black River Falls on Thurs-
+            day and Friday, March 16 and 17
+            respectively.
+            Margaret McCordic, Home Manage-
+            ment specialist, will give the demon-
+            stration on “Storage Spaces.”
+            Ho.se Meeting
+            (Sleeping Sickness)
+            B. A. Beach, Professor of Veterin-
+            ary Science, will be in Jackson county
+            for a meeting at the Northfield hall
+            on Monday evening, March 20th.
+            Sleeping sickness among horses
+            will be the main topic of discussion
+            while some time might be spent dis-
+            cussing the horse hot control program
+            and horse’s teeth.
+            1939 Soil Program
+            Jackson county farmers can now
+            use their prospective 1939 agricultu-
+            ral conservation payments as security
+            for the purchase of lime, fertilizer, or
+            seed needed this season in carrying
+            out approved soil-building practices.
+            Loans will be made by the Farm
+            Security Administration to farmers
+            who would otherwise be unable to
+            earn payments under the soil-build-
+            ing phases of the 1939 farm program.
+            The loans are designed to help those
+            who are unable to get credit from
+            other sources with which to pay for
+            the necessary soil-building materials.
+            Arlie Mucks, state director of the
+            Farm Security Administration, and
+            Robert Schultz, of the state agricul-
+            tural conservation committee, report
+            that applicaions for loans will be
+            handled through the county agricultu-
+            ral conservation office.
+            Loans will be based upon the es-
+            timated 1939 farm payment, Mucks
+            and Schultz indicate. These payments
+            are determined by the worked-out
+            farm plans which all co-operators in
+            the program are signing this spring.
+            A loan cannot exceed 60 per cent of
+            the possible benefit payment.
+            Notes covering the loans will be
+            payable on December 1, 1939 or
+            when payment is made by the agri-
+            cultural adjustment administration
+            for performance under the 1939 pro-
+            gram. Interest is at the rate of 5
+            per cent during the period of the
+            oan.
+            Security for the notes is covered
+            by an assignment of the 1939 pay-
+            ment to the Farm Security Adminis-
+            tration. Borrowers must agree to
+            use the full amount cf the loan for
+            the purchase of soil-building materi-
+            als approved under the agricultural
+            conservation program.
+            Officials of the Farm Security Ad-
+            ! ministration announce that loans for
+            the purchase of seed, lime and fertil-
+            izers will not be available in the
+            county offices until Monday, March
+            20th.
+         </p>
+      </body>
+  </text>
+</TEI>

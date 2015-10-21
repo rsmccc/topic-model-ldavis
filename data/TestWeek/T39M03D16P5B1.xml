@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P5B1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Local Happenings
+            Mrs. Ed Nauman and son Arthur returned to Chicago Tuesday. 
+            Dr. and Mrs. VanderKamp were Tomah callers Thursday.
+            Mr. and Mrs. Manley were business callers in Sparta Monday.
+            Born to Mr. and Mrs. Russell Sage on March 7, a son, at St. Mary’s hospital, Sparta.
+            Mr. and Mrs. Hal Dvorak visited over the week end with relatives in Minneapolis. 
+            Mr. and Mrs. G. E. Norman of Baraboo were guests of the former’s parents Sunday.
+            Miss Marte Rose spent Sunday at the home of her parents in Smoky Row.
+            Mr. Gust Kindt of Wilton was a visitor with his daughters here last week.
+            Miss Virginia Grutsch and three friends of Black River Falls were guests of Mr. and Mrs. R. W. Henry Thursday. 
+            Mrs. Edna Bedners, Mr. and Mrs. Claire Dashner spent Sunday in La Crosse.
+            Charles Nuzum visited the Viroqua Refrigerated Locker plant last week to gain first hand information on matters of operation and service to patrons.
+            The Second Tuesday Circle of the Methodist church will have a food sale at White’s Furniture Store, Saturday. March 18, beginning at 1:30 p.m.  adv.
+            Mrs. Nora Smith of La Crosse spent the week end with her niece, Mrs. Ed Wilson, and attended the funeral of her brother, Wm. Bell, which was held Monday. 
+            A very large crowd of people attended the machine show held at the Wm. Graewin and Sons garage Saturday. All enjoyed the hot coffee and lunch at noon. 
+            A group of Pythian Sisters gathered at the homes of Mrs. Carl Sweet last Wednesday and enjoyed an afternoon of cards and fun, after which refreshments were served. The following sisters were present, Mrs. Steve Goff, Mrs. E. Wadephul, Mrs. Harry Sweet, Mrs. Ralph Taft, Mrs. Bert Hoag, Mrs. W. Crocker, Mrs. E. Wallace, Mrs. A. Ranney, Mrs. H. Hart, Mrs. John White, Mrs. Irvin Kelk, Mrs. Frank Prielipp. 
+            Mrs. Katie Morse spent the week end at her home in Warrens.
+            Mrs. R. W. Davis was hostess to her bridge club Tuesday evening. 
+            Mr. and Mrs. Frank Prielipp entertained their card club Sunday evening. 
+            Mr. and Mrs. Alan Schneller and daughters spent Sunday with relatives in Prairie du Sac.
+            Mr. and Mrs. Robert Clay were Sunday evening visitors at the Johnny Clay home.
+            A baby daughter was born to Mr. and Mrs. Ralph Snyder on Friday, March 10.
+            Mr. and Mrs. Tony Helming and family were Friday evening visitors at Arnold Nauman’s.
+            Mr. Henry Edgerton and Andrew were Tuesday evening visitors at Arnold Nauman’s. 
+            Merle and Dale Purdy and Edward Tessman spent Sunday with Howard Roscovious.
+            Mrs. Alfred Roscovious spent Tuesday with her daughter Mrs. Lawrence Hart. 
+            Mrs. Amanda Bergmann and Mrs. R. Tester of Sparta were Tomah callers Saturday.
+            Mr. and Mrs. Johnny Clay and daughters were Sunday dinner guests at the home of John Clay Sr. 
+            Mr. Arlet Bell of Milwaukee spent Monday evening at the home of relatives and returned to Milwaikee, Tuesday morning.
+            Miss Dorothy Sonnenberg spent Saturday night and Sunday at the home of her sister, Mrs. Arnold Nauman.
+            Mr. and Mrs. Alfred Roscovious and Howard and Mr. Alber Matzka were Friday dinner guests at the home of Mr. and Mrs. Johnny Clay. 
+            Mr. and Mrs. Otto Kuehl, Mrs. Olie Solberg, Mrs. Carrie Yeager, Mrs. Tom Reardon, Mrs. Faye Thompson attended the funeral of Wm. Bell at Sparta Monday.
+            The Rev. B. C. Herrick and the Rev. and Mrs. Robert A. Boettcher attended the meeting of the Monroe County Ministerial Association in Bangor on Monday.
+            Mrs. R. W. Henry left Sunday for an indefinite visit at the home of her daughter, Mrs. Kenneth Frye in Berlin. Mrs. Henry will also visit friends in Milwaukee before returning home.
+            Mr. Rob Zimmerman is expected home form the hospital at La Crosse the last of the week. Although he is not much improved in health his many friends will be glad to have him home again.
+            Mrs. Fred Walde of St. Paul and Mr. and Mrs. Fred Arndt of Baraboo came to attend the funeral of their uncle, Herman Kewit. They also made a brief visit at the home of Mr. and Mrs. Fred Noth. 
+         </p>
+      </body>
+  </text>
+</TEI>

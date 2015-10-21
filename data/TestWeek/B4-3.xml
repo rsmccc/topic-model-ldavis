@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SOUTH BEEF RIVER
+            Ronnie Rindahl is spending a few
+            days at the home of his aunt, Mrs.
+            Christianson.
+            Joyce Olson has enrolled as a 2d
+            grader in the Levis school, making an
+            enrollment of 23.
+            Mrs. Loken, Helga. Tommy, Inga
+            and Clarence, and George Jackson
+            visited at the Leonard Rindahl home.
+            Mr. and Mrs. Russel and son, Mr.
+            and Mrs. Clarence Zank and daughter
+            spent Sunday evening at the Richards
+            home.
+            Mr. and Mrs. Leonard Rindahl are
+            the parents" of a son born March 8,
+            1939. Mrs. John Amundson is caring
+            for mother and babe.</p>
+      </body>
+  </text>
+</TEI>

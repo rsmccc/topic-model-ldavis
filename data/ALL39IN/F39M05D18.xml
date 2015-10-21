@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M05D18</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>ndians all over country all tribes hear bad news about what
+            white government talk about do with Indians. Trouble start over what Indian agency
+            people call Wheeler-Howard Indian act and Indian reporter get papers and letter that
+            tell all about it and say it means Indians have government by themselves and nothing to
+            do with United Stated government and I want to tell folks that Wisconsin Winnebago
+            Indians I talk to do not want anything to do with way that going break away from United
+            States government and that Winnebago Indians like to live just same as ever and want it
+            way it is now. Lots of Indians feel same way like Indian reporter but just keep still
+            and don’t say anything and pretty soon maybe agency fellows come around and say
+            everything all done and now you have government all own and gate to take care of
+            yourself and can’t have any WPA work and can’t get any relief. Then tell all Indians you
+            have to live in just few places and maybe like say Winnebagoes have to live on place
+            like desert like between Tomah and Sparta or up Mather, Shennington way where no white
+            people want to live. Then Indians can’t go place and kept in corral like bunch of wild
+            goat and can’t move around and sell baskets and pick blueberries like Indians want to
+            do. Second night frost get blueberries last week and vines all red and killed them.
+            Frost killed blueberries and pretty bad for Indians that make some money in blueberry
+            time. Maybe berries in matches not hurt so bad but on hills all killed. Same thing
+            happen last year and about every year something happen to berries. Indian reporter was
+            to Adams Saturday to see nephew and come back same night. People there never come here
+            very often only when someone die or something like that and so go there to see them some
+            times. Winnebagoes had big meeting at mission at Black River Falls Sunday and talk about
+            own government and nothing to do with United States government. Some Indians from around
+            here went but Indian reporter didn’t have license for car and too far to walk and nobody
+            on highway give ride anymore. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P5T1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Jaffe’s Presents…
+            Le Gant’s
+            Fashion Parade For Spring
+            The “Sta-Up-Top”
+            Alphabet Corseletter
+            Half-size Corselette
+            A’lure Alphabet Brassiere
+            Mother and daughter alike are superbly corseted in Le Gant Foundations. No matter what your figure problem there is a Le Gant model that will “do things” for your figure.
+            Corselettes Girdles,
+            $1.50 to $10.00
+            Make Jaffe’s Corset Department your headquarters for Le Gant and take advantage of our Professional Fitting Service at “no extra cost.”
+            Stop in or Call 5 for an Appointment
+            JAFFE’S
+         </p>
+      </body>
+  </text>
+</TEI>

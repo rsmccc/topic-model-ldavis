@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P8T1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Thrifty People you Know Are Saving Money And Enjoying Better Food
+            We are proud to name them, 
+            Locker Patrons
+            Tomah
+            Leeds Arity
+            George Bennett
+            J. A. Betthauser
+            J. M. Chapman
+            Joe Christman
+            A.B. Daniels
+            Ed Davis
+            Charles Dupee
+            Gus Fabian
+            George Faikner (2)
+            Rueben Poth
+            Henry Franz
+            P. J. Gasper
+            Leo Gerke
+            Philip Grandstand
+            Ed. Hahn
+            E. J. Halliger
+            Sherman Hotel (6)
+            A.Heilman and Son
+            LaVerne Hendrickson
+            Fernand Hubert
+            Stanley Hughart
+            Lloyd Jones
+            J. C. Kelley
+            L. W. Kenny 
+            T. H. Kiefer
+            A.B. Kirkpatrick
+            G. Frause
+            Wm. A. Krueger
+            Eber Lamb
+            H. J. Laufenberg
+            Claud Lemon
+            Carl Lenz
+            Robert Linder
+            W. R. McCaul
+            Lester McMullen
+            Mrs. James Murphy
+            Ben Nuzum
+            Ed. Oswold
+            Parkway Café
+            C. Peterson
+            George Prell
+            Otoo Prielipp
+            O. O. Potter
+            W. M. Puttkamer
+            William Rasmussen
+            Henry Reitz
+            Rueben Roder
+            Fred Scott
+            Carl Seiss
+            Merle Shutter Alvin Skogen
+            Mrs. A. C. Skogen
+            E. J. Snyder
+            Ray Snyder
+            Wallace Snowberry
+            S. G. Sorenson
+            R. W. Stockton
+            Harry Sweet
+            H. L. Syverson
+            Dick Taylor
+            A.C. Waruke
+            Ben Weiss
+            E. L. Wier
+            Roy Wolcovsky
+            Cyril Wright
+            Warrens
+            Phil Bennett 
+            Charles Ebert
+            H. L. Ebert
+            Leo Felton
+            Mr. Gilson
+            W. H. Hoffman
+            Henry Kissinger
+            Harlan Moseley
+            H. A. Reschke
+            Harold Steel
+            W. H. Morris
+            P. A. Funk (2), La Cross, Wisconisn
+            C. J. Kuderer, Wilton, Wisconsin
+            Earl McCollough, Tunnel City, Wisconsin
+            J. Neils Mains, Madison, Wisconsin
+            Nekoosa Edwards Paper Co., Port Edwards, Wisconsin
+            H. F. Peters, Sparta, Wisconsin
+            Mr. Youngman, Sparta
+            Art Schultz, Arcadia, Wisconsin
+            Leist Bros., Elroy
+            
+            You, too, can save money and enjoy FRESH meats, fish, chicken, duck, goose, turkey and wild game, as well as FRESH strawberries, cranberries, sweet corn and numerous vegetables the year round. Also your own cured and smoked meats of excellent quality.
+            A new Industry in Tomah makes all this possible as well as PROFITABLE to you. Ask any of the pleased patrons whose names appear above. Call at the Locker Plant and see for yourself. 
+            Tomah Locker Service
+            (Improves Quality and Lowers Cost)
+         </p>
+      </body>
+  </text>
+</TEI>

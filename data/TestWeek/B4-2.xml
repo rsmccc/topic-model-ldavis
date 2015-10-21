@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SOUTH SECHLERVILLE
+            Mrs. David Short and son Gordon
+            were B. R. Falls callers Saturday.
+            Quite a number form here attend-
+            ed the dance at Hixton Saturday eve-
+            ning.
+            The Sechlerville birthday club will
+            meet Thursday, March 23, with Mrs.
+            J. D. Preston.
+            Mr. and Mrs. Andrew Skutley en-
+            tertained company from Eau Claire
+            over the week end.
+            Agnes Campbell and Edgar Su-
+            kopp spent Saturday evening with Mr.
+            and Mrs. Andy Larson.
+            Mr. and Mrs. David Short and
+            Dickie Armstrong spent Sunday eve-
+            ning with Mrs. Ida Holmes.
+            Mr. and Mrs. Tom Kelly and fam-
+            ily of Taylor, spent Sunday afternoon
+            with Mr. and Mrs. Eli Lyons.
+            Agnes Campbell and Edgar Su-
+            kopp called at the Wm. Rubenbauer
+            home at Alma Center Wednesday.
+            Mr. and Mrs. Hans Nelson, Mrs.
+            Ida Holmes and son Sherman spent
+            Thursday evening at Oluf Hagen’s.
+            Derwood Preston and son John,
+            and Albert Campbell attended the
+            Olson sale near Taylor, Saturday.
+            Mr. and Mrs. Ernest Nordahl and
+            family spent Sunday with the latter’s
+            parents, Mr. and Mrs. Anderson, in
+            Pete Coulie.
+            Mr. and Mrs . Oluf Hagen and
+            daughter, Mrs. Vernon Stalter, spent
+            Wednesday evening at the Albert
+            Campbell home.
+            Mrs. Vernon Stalter who has been
+            visiting at the home of her parents,
+            Mr. and Mrs. Oluf Hagen, left for
+            Park Ridge, New Jersey, Friday.
+            Mr. and Mrs. Albert Campbell,
+            Mrs. Herbert Sukopp and Mrs. Henry
+            Sukopp and grandson Robert were
+            Whitehall callers Wednesday after-
+            noon.
+            Mesdames Oluf Hoddal, A. W.
+            Bates and Jennie Stolts of Hixton,
+            attended the birthday party at the
+            home of Mrs. David Short, Tuesday
+            afternoon.
+            Mr. and Mrs. Marvin Johnson and
+            Mr. and Mrs. Martin Rierson visited
+            the "latter’s sister, Mrs. John Halvor-
+            son and family near Taylor, Thurs-
+            day evening.
+            Mr. and Mrs. J. D. Preston and
+            daughter Lu, and Mr. and Mrs. Al-
+            bert Campbell attended the funeral
+            of Irvin Riggs at Alma Center, on
+            Thursday afternoon.
+            Mrs. Marvin Johnson entertained
+            the following, Friday afternoon: Mrs.
+            Ernest Nordahl, Mrs. Albert Camp-
+            bell, Mrs. Peter Reinhardt and Mrs.
+            Wm. Gohde and daughter Florence of
+            Alma Center.</p>
+      </body>
+  </text>
+</TEI>

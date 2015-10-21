@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M08D24 BW</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mr. and Mrs. Ray White Wing and children,
+            Victoria and Romona, went to pick blueberries at Washburn, Wis. Alfred Big Soldier and
+            his family returned home last week from berry picking, because of the crop being poor
+            this year. Nat Decorah and his family drove to Neopit last Sunday to attend the pow-pow.
+            Violet Big Thunder and Mrs. Albert Big Thunder were visitors at the Wabshagain home
+            Tuesday evening. Mr. and Mrs. Frank Storm returned home from Sturgeon Bay last Saturday
+            to remain home this time. Mr. and Mrs. Tom Brown and daughter Christine returned home
+            from Crandon after a couple of weeks blueberry picking. Also Mr. and Mrs. George Storm
+            and son Richard came home after picking blueberries. And now for a smile: Mrs. Leonard
+            Hopinkah told me that one day at their home, Dolly (her daughter) said that, “Mama, why
+            don’t you lawn the mow?” She meant, “Why don’t you mow the lawn?” .</p>
+      </body>
+   </text>
+</TEI>

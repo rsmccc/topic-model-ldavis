@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B2-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>B2-1 TOWN OF ADAMS HOLDS FIRST CAUCUS
+            Theer was a big crowd of duly-
+            qualified electors attending the town
+            caucus, the first, of the new town of
+            Adams, which was held Saturday af-
+            ternoon at the Albion town hall in
+            this city. There were about 125
+            present.
+            Fred Drecktrah was elected chair-
+            man of the meeting, and Joe Dvorak
+            to officiate as secretary.
+            In view of the fact that it was the
+            first caucus ofthe new town we give
+            all the candidates for the various of-
+            fices who received votes at the meet-
+            ing. The two high are designated and
+            will appear on the town ticket.
+            Chairman: J. E. Peasley, Wesley
+            Anderson, William Kersting, Fred
+            Krome, A. H. Eggen and Fred Dreck-
+            trah. Mr. Drecktrah had 60 votes,
+            Mr. Eggen 30.
+            East End Supervisor: Joe Hanus,
+            Art Flood, Roy Flood and Joe Stas-
+            zak. Mr. Staszak 34 votes, Roy
+            Flood 32.
+            West End Supervisor: Albert Ron-
+            inger, 48 votes; William Kersting, 39.
+            Clerk:	Don Peasley, Joe Hanus,
+            Frank Downing, Wesley Anderson,
+            Joe Dvorak, Hugh Nash, J. E. Peas-
+            ley. Joe Dvorak received 53 votes,
+            Don Peasley 13.
+            Assessor:	Matt	Johanek,	Helmer
+            Gjerseth, Wesley Anderson, Horace
+            Scafe, Eli Gilbertson. He received
+            81 votes, Scafe 12.
+            Treasurer:	Rollin	Nortman,	Eli
+            Gilbertson, Don Peasley, Joe Hannon,
+            Horace Scafe, Frank Brauner, Alvin
+            Roberts. Brauner received 49 votes,
+            Klir, junior.
+            Constables:	James	Blazek,	James
+            Knir, junior.
+            Justice of Peace:	Matt	Johanek,
+            Will Onstad.
+            Caucus committee: J. E. Peasley,
+            chairman; Alvin Roberts, Louis Po-
+            korny.
+         </p>
+      </body>
+  </text>
+</TEI>

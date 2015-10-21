@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M06D22</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Fred Stutzke not very smart fellow about moon and things like
+            that when he tell about Indian reporter say in Indian News that going to have rain 25th
+            May and that new moon going to be wet moon and have lots of rain in June and Stutzke say
+            Indian reporter don’t know and say all humbuga. Everybody laugh in spring when I tell
+            folks about no more winter and now everybody say Frisk Cloud pretty smart fellow and
+            know what weather going to be some time better than fellow that tell in big newspaper
+            every day like everybody read about what weather going to be. Here is some news I want
+            to have put in Indian News that people give me to put in Indian News for paper. Same
+            people give me news to put in Indian News for paper. Same people give me news to put in
+            paper once before and girl didn’t put in paper and if not in this time I quit and don’t
+            write Indian News for you. People get pretty sore when write news and then don’t put in
+            paper. Winnebago Indians from all over Wisconsin are getting ready to go to Wisconsin
+            Dells for the opening of Stand Rock Indian Ceremonial July 1st. Five members of the Zuni
+            Tribe are driving to Wisconsin to join the Winnebago group at Stand Rock. Chief Silver
+            tongue, Indian tenor, has returned from a winter in Florida to again sing at the
+            Ceremonial, having been with this organization for the past ten years. Joseph Johnson,
+            from Black River Falls, will also fill a singing engagement at the Dells this summer.
+            Frisk Cloud, his wife and Curtis Red Bird, his grandson, are visiting his daughter, and
+            son-in-law, Mr. and Mrs. Sam Frogg at Hayward. Frisk and his wife are very proud of the
+            new grandson in the Frogg family. Jackson County did bad thing for Indian when county
+            board make law that say Indians can’t sell baskets on highway unless get license and pay
+            county 25 cents and it’s just like I tell before in Indian News about license for
+            everything now times all humbug. Jackson County make Indians that live in Jackson county
+            pay tax to sell baskets that they make themselves and won’t give license to Indians that
+            don’t live in Jackson county. Indians that live in other counties and don’t have any big
+            road like Highway 12 come to Indian reporter and tell me to tell in Indian News about
+            that Indians can’t get work and try to make living making baskets and sell to tourists
+            and about Jackson county say nobody but Jackson county Indians can sell baskets on
+            highway in Jackson county and Indian reporter don’t think it right too. Ed Funmaker one
+            fellow that come to Indian reporter and he come from La Crosse and always sell Indian
+            baskets on highway 12 in Jackson county and county board tell him you can’t sell Indian
+            baskets in Jackson county because he live in La Crosse county. Other Indians come to
+            Indian reporter and tell same thing. This week come to town two times to give Indian
+            News to newspaper. Come to town Saturday and maybe didn’t feel very good after dance all
+            night at Indian dance and forgot to tell some things I want to say. First thing I want
+            to tell folks about big Indian dance. Indians come from all over-Wisconsin Rapids,
+            Wisconsin Dells, Mauston, Neillsville, Baraboo, Black River Falls and Melrose and maybe
+            other place I don’t know where from. All come to Indian settlement between Watermill and
+            Valley Junction and have big dance and feast and dance two nights all night and don’t
+            sleep till morning and me and some other fellows don’t sleep next day and that make me
+            pretty tired and can’t stand it and I want to tell you can’t dance like young chicken
+            when 64 like I was last May. Second night, that was Saturday night, Kenny and his wife
+            and Ninneman, fellow that have furniture store by Vaudell’s and his wife come out to see
+            big Indian dance and want to find Indian reporter and don’t dance and just watch Indians
+            dance. When Indian reporter come back to Settlement ground next day people tell me about
+            them there and I want to tell folks why I go home early and don’t stay at dance. Bob
+            Henry deputy sheriff at Tomah come out to Indian dance and take fellows that dance too
+            much to town and lock them up in caliboose and next day turn them loose and I tell
+            fellow maybe Bob Henry think I dance too much too and take me and put me in caliboose
+            and they take me home and I went to bed and had good sleep. When fellow 64 dance all
+            night till sun come up and roosters crow in morning and next day don’t go to bed he look
+            pretty bad some time and maybe Bob Henry think I look same thing like fellow that drink
+            moonshine and he never been like that and think take me to caliboose. First night two
+            fellows like you call business men come out to dance and dance all night till rooster
+            crow and dance same dance like Indians and have lot of fun but Indian reporter not tell
+            names because they tell me don’t put this about us in Indian News or maybe our wives
+            scalp us. .</p>
+      </body>
+   </text>
+</TEI>

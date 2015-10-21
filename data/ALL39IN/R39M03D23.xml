@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M03D23</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mrs. Robt. Big Thunder and her mother, Mrs. Minnie White Wing of
+            Dancy, and (Little) George White Wing were visitors at Mount View San, in Wausau Tuesday
+            afternoon. John Stacy, who had been staying at Mrs. Houghton’s home in Schofield, has
+            returned to his sister’s home in Wittenberg. Esau Prescott and his father had been in
+            Wausau to do some business. Mrs. Minnie White Wing of Dancy is visiting her daughter in
+            Wausau for a few days. Andrew Black Hawk of Neillsville is going to visit his wife who
+            is in Mt. View San. She will soon be going home. (Little) George White Wing has returned
+            to his aunt’s home in Wausau. He was home for a week. Eli White Wing and his son George
+            were in Milwaukee on business. They also visited Robert Big Thunder, who is at the
+            Veteran’s Hospital. Mr. and Mrs. Eli White Wing were in Wausau last week. .</p>
+      </body>
+   </text>
+</TEI>

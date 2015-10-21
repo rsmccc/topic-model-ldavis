@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>YORK
+            Melvin J. Larson was a Sunday vis-
+            itor at Geo. Humphrey’s.
+            The children who have the chicken
+            pox are all on the gain.
+            Mr. and Mrs. Casper Iverson were
+            Sunday afternoon visitors at Charley
+            Iverson’s.
+            Mrs. Stanley Dettinger spent a
+            few days last week with relatives at
+            Madison.
+            Oscar Larson and family of Taylor
+            were Sunday visitors at the home of
+            his mother.
+            Mr. and Mrs. Olai Nelson were
+            Thursday supper guests at the Zhe
+            home at Osseo.
+            Mr. and Mrs. Melvin Thorpen and
+            son Roy visited Mrs. John Larson on
+            Wednesday afternoon.
+            Mr. and Mrs. Martin Johnson and
+            Alvin Steltenpohl were Osseo busi-
+            ness visitors Saturday.
+            Percy Bergerson of Eau Claire,
+            spent the week end at the home of his
+            sister, Mrs. Tommy Larson.
+            Mr. and Mrs. Edwin Larson of Os-
+            seo, visited at Severin Thorpen’s and
+            Wilson’s, Sunday aftemooon.
+            Raymond Solberg and Doris Lee
+            are giving a wedding dance at the
+            hall Saturday night, March 18th.
+            Glen Humphrey, Robert Wilson
+            and John Tweed attended a soil ero-
+            sion meeting at B. R. Falls, Friday.
+            Mr. and Mrs. Lester Moe moved
+            Saturday into the residence purchas-
+            ed by Mrs. Moe’s father, Henry Han-
+            son.
+            Mr. and Mrs. Henry Hanson and
+            Mr. and Mrs. Palmer Steen spent
+            Sunday afternoon with Mr. and Mrs.
+            Lester Moe.
+            Mr. and Mrs. Severin Thorpen and
+            Helen spent Sunday afternoon at the
+            home of Mrs. Thorpen’s brothers, Jo-
+            seph and Edwin Johnson.
+            Mrs. Robert Wilson and son Bobby,
+            Mrs. Emma Wilson and Mrs. George
+            Humphrey spent Tuesday afternoon
+            with Mrs. Ella Rudd. They were serv-
+            ed a delicious lunch.
+            Mrs. William Olson and son Roger
+            returned home from the hospital at
+            B. R. Falls Saturday where the latter
+            has been taking treatment. He was
+            suffering of lung trouble.
+            Miss Ada Larson and friend, Mr.
+            Mander, Albert Hagen, Miss Helga
+            Larson, all of Viroqua, and Manford
+            Larson of Arcadia were entertained
+            at Oscar Larson’s for supper a week
+            ago Sunday.
+            Mr. and Mrs. Olai Nelson and sons
+            Wallace and Donald, Mrs. Ella Rudd
+            and Miss Ethel Van Horn were Wed-
+            nesday evening visitors with Mr. and
+            Mrs. Harold Long at Independence.
+            They all enjoyed a very pleasant eve-
+            ning.
+            Mr. and Mrs. Olai Nelson and sons
+            Harvey, Wallace and Donald, and
+            Miss Florence Zhe of Osseo were
+            Sunday evening supper guests at the
+            home of the former’s daughter and
+            husband, Mr. and Mrs. Harold Long,
+            of Independence.
+            Brice Humphrey, Gaylord Jacob-
+            son, Stanley Dettinger started for
+            Madison this Monday morning where
+            they will attend a short course school
+            pertaining to the Erosion project they
+            are going to put on in Wisconsin.
+            They will go from B. R. Falls with
+            County Agent Bean.
+            Community club met Saturday eve-
+            ning and celebrated the 16th anni-
+            versary. John Taylor, who was the
+            first president and who also helped
+            organize the club, drove up from La
+            Crosse to be present. He gave a good
+            talk, touching on the past and pres-
+            ent condition of the times. The club
+            started with 150 members but owing
+            to many more activities, have dwin-
+            dled down to something around 30.
+            However, they still own the hall,
+            which is used for all social and busi-
+            ness gatherings. Besides John’s talk
+            Gaylord Jacobson, the present presi-
+            dent, made a few remarks and Lois
+            and Marion Humphrey and Kenneth
+            Wilson sang a couple of songs. The
+            rest of the evening was pleasantly
+            spent in partaking of a good lunch
+            and visiting. Others from away were
+            Mr. and Mrs. Julius Thomley of Os-
+            seo.</p>
+      </body>
+  </text>
+</TEI>

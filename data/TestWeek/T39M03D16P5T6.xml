@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P5T6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Funeral Cost
+            Funeral service here includes every assistance toward minimizing expense; at the same time following modern day style and high style and high quality in every detail. Thus the very utmost possible is obtained, at a cost that is the very lowest possible. 
+            Cooperating in that way, a service is given which ideally satisfies in every way: character of funeral and cost, and the family comfort resulting. 
+            Walter R. Ninneman
+            Phone 310		Tomah, Wis. 
+         </p>
+      </body>
+  </text>
+</TEI>

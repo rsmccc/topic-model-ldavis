@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>New Firm in Ford Garage
+            Arthur Johnson and Irvin Strozinsky Take Agency
+            The local Ford agency and garage has been taken over by Arthur D. Johnson and Irvin L. Strozinsky, both of whom are well known here. The new firm will occupy the large garage belonging to Robert W. Henry and which has always served as a Ford garage. 
+            Irvin Strozinsky has been engaged in the barber business in Tomah the past 16 years and Art Johnson has been in the community the past two years as agent for the Metropolitan Insurance Co. Both have a host of friends and well-wishers as they enter the new field of business.
+            Messrs. Johnson and Strozinsky took possession of the garage this week, but it will probably be several days before the new stock of cars arrives and other details of the business are completed to permit them to operate in full swing. It is hoped, however, that the business will be in operation some time next week. 
+            It is planned to stock a complete line of parts and employ competent mechanics to handle all sorts of repair work besides conducting the Ford sales agency. 
+            Both of the new Ford dealers are experienced in business and have definite ideas as to how to provide service that will merit the support of motorists. They are both ambitious and will put plenty of effort into the sales end of the business. With ample facilities and the ability to do things, it is predicted that Johnson and Strozinsky will succeed in their new venture as garage proprietors. 
+         </p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M07D05</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Everybody enjoy to attending centennial of Black River Falls people this
+            week, and many are come from a far, far away from Jackson county of Wisconsin, Mr. and
+            Mrs. Dan Stockwell and daughter Jeanette and Len Stockwell, all of Wibaux, Montana. Did
+            you see Indian Village at Fair ground? Indian reporter he heard lots of white people say
+            its worthy to see, come down see this “Indian Village” and what they had performed at
+            the stage, and also they had quite lots of different days produced. We don’t expect to
+            see many Indians. They come from every Indian settlement. Mrs. Margaret La Mere Johnson
+            was here again yesterday. Some other Indians with her but we don’t know the names. Quite
+            a few Indians come from Nebraska, and Mrs. Margaret was here all winter, went home last
+            March. Dicky Walters foreman WPA, went to see his gang this morning. He told them he
+            don’t know much about what they are going to do. They have report to ranger station
+            tomorrow morning. I saw Mr. Hull at printing office this morning, and shake hand with
+            him. He is look pretty well, always does. There are many white people would like to know
+            the Indian Reporter, who he was. While many are come to see the Centennial, not the 4th
+            of July but Centennial and same time they like to see Indians reporter. They are looking
+            for him at fair ground last night and finally they find him. They had talk to him and
+            one man gave him a dollar too, and he thank him very much. One of them come from
+            Montana, he is Stockwell. He was born here between here and Tay­lor, and another party
+            to look for him at Indian Mission last Monday from Iowa. R. R. Langworthy family and
+            relatives from Des Moines, Iowa, and relatives from St. Mary’s Ohio, and Maurice
+            Amundson from Fly Creek, Wis. .</p>
+      </body>
+   </text>
+</TEI>

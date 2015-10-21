@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M05D03</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Red Cloud One of the fishing stories going the rounds, started probably by some imaginative fisherman goes something like this. “A fisherman heard a loud splashing and swirling of water and continued yapping something like a dog. Being curious the man went up stream to investigate and what does he see but a “water puppy” chasing a red horse”. To the
+            uninitiated of underwater lore, a water puppy is a water lizard very common in local waters. Last Sunday afternoon at Indian Mission grounds was alive with feverish activity. The Merrillan girls of All-star rating calling themselves the “Merrillan pick-ups”, showing great determination to win against heavy odds, lost two games to the Hotonga Indian girls. The first game of kitten ball
+            the score was 6 to 0. Then they dropped two games of volley ball We might have been in Hollywood for all the beautiful types of young womanhood running all over the mission diamond. I can truthfully say every one enjoyed their visit and we sincerely hope they will come to play in the near future. Evidently the “pickups” enjoyed their visits to the mission too. It must be remembered the
+            tepees and wigwams have no latch or latch-strings. The girls were welcomed everywhere they called. The girls tell of seeing a strange game where men were hiding a marble under furry things and others had to guess where the marble or pebble was hid by striking with a long stick. If I remember rightly the “Merrillan Pickup” team was composed of the following young femmes: “Heavy”
+            Bouchard, catcher; “Genie” Erickson, pitcher; “Shine” Erickson, short stop; “Rufus” Matte, 1st base; Annie Snyder, 2nd base; “Christie”, 3d base; Gertie Quinn, fielder; “Jerry” Quinn, fielder. Arvina Lowe, of the Hotonga girls made up the other player. Come again real soon, girls, but first get a lot of practice. The Merrillan men team under the expert coaching of “Tractor” Metalas and
+            with strong backing of the veteran, Carl Snyder, the internationally known sport scribe and commentator, lost their games of soft ball and volley ball to the Hotonga Warriors. It was a day well worth spending at the old mission. A short, short story. Old “daddy” Time sat upon his throne. Behind him were strewn golden effigies, altars and fortresses unconquerable. “I am the ultimate
+            conqueror of all things. I conquer them all, none withstands me. Would you care to oppose me, young man?” “I would be very glad to accept your challenge to a combat, Father Time”, said the young man, with a time book in his hip pocket and an imposing array of pens and pencils clipped to his shirt pocket. I, too, am the ultimate conqueror of all things, ambition and resourcefulness and
+            even, including you. Father Time. I am the “champion time killer” on the project.” .</p>
+      </body>
+   </text>
+</TEI>

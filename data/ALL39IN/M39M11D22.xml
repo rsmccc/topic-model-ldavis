@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M11D22</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Redcloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Clean out your barred and have a barrel of
+            fun. Clean out your barrel and shoot your buck on the run” might be the theme song for
+            all the hunters. The seven days beginning Saturday. Be careful and not let your white
+            socks protrude over your boot tops. Carry a blue or a red handkerchief for your snozzle
+            because anything white will draw fire from any one nearby who might be afflicted with
+            buck fever. As for the whites of your eyes, if you’ve got something on your hip to keep
+            them blood shot, well, that’s alright, too. I’ve heard many a story of how one hunter
+            shot another hunter but the best I ever heard was of a young Indian who, while standing
+            on a high windfall near a point of land where bears usually came up on dry high land
+            after browsing in the marshes during the night, shot what he took for a bear and shot
+            his own father- in-law. After the old man was gotten home he confessed that he was
+            trying to frighten the young man into thinking that he was seeing a member of an enemy
+            war party and then watch his run for home. But it just happened that he was not the kind
+            of young man that would run. I can just imagine the young man standing there, shot and
+            wad bag slung over one shoulder and the powder horn slung over the other shoulder
+            leaning on his trusty muzzle loading shotgun patiently waiting for any sign of big game
+            whereby he could prove his mettle to the tribesmen of the village. Then suddenly, barely
+            discernable in heavy fog he sees something going on all fours, and never thinking it
+            could be a human being he blazes away with both barrels. Imagine his discomforture when
+            reaching the place to see his wife’s father lying there with a mortal body wound. I
+            myself have hunted with muzzle- loading shot guns (my great-grand­father’s) and I know
+            how hard hitting they can be. Well, anyway, the young man was cleared of all blame and
+            in later years became one of the great leaders of the tribe. I know not who wrote the
+            following very enlightening and strengthening words, but I do know this. Anyone who
+            feels down and out and feels everything is working against him and feels there are too
+            many obstacles impossible to overcome one hindering him from reaching his goal in life,
+            would read these words and ponder over the circumstances under which these words might
+            have been written he would soon see a different slant on life and his morale restored.
+            “It matters not how hard the scroll, I am the master of my fate and the captain of my
+            soul.” Maybe that I haven’t just got the right wording but anyway I’ve always thought
+            that he must have been a Progressive. A man who believed in fair and square dealing,
+            whether it be in politics or individuals. A man who was a credit to the state, a man who
+            was not daunted by anything, not even big party coalitions. A man beloved and believed
+            in by people of the government, for the government and by the government. .</p>
+      </body>
+   </text>
+</TEI>

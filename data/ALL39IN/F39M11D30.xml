@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M11D30</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>This week Indian reporter want to tell folks about letter I got from little white girl Albuquerque, New Mexico and name is Ruth Joan Fleming. Little girl send me picture too and I think that pretty good and I tell people at newspaper office I want picture put in paper and maybe have picture in Indian News and little girl want picture of Indian reporter too
+            like everybody want to have picture of me and see what Indian look like that write news in paper. Now I want letter in paper just like she write to me. (Editor’s Note-Ruth wrote the following note on the back of the picture-“A little Indian girl and me. I am in the white dress.”) Dear Mr. Cloud, I am studying about your people in School. I am A. M. Pederson’s niece. He runs the Rexall
+            Drug Store in Tomah, will you send me a picture of yourself? My mother is letting me take a picture she has of Schott Mokay to school. I am in Grade 2 in School. I used to live in Tomah. We came here because my Daddy is sick, I know Mr. Fuller. Love, Ruth Joan Fleming 914 North 7th Albuquerque, N. M. Deer season open last Saturday and I know myself hunters don’t see many buck and lot
+            of fellows tell about see plenty of does but can’t shoot them and one fellow tell Indian reporter about game wardens go out in woods two three days before season and tell people they count deer and when season open all deer drove into game reserve where nobody can hunt. Hunters tell about know deer been put in game reserve places so hunters can’t shoot them and after season close let
+            them cut again and I don’t think that fair to take license money from hunters and then don’t let them have any deer to shoot at. When Indian reporter go hunting I use bow and arrow and I stay at place where I know deer go by and I don’t see any buck this year and if I do see one, pretty sue I get him. Lots of hunters go long way to hunt and then don’t get deer and I think cheaper to go
+            to Stub Shutter’s and buy myself hamburger. Everybody tell about deer hunting always good on Indian reservation up by Odamah and two fellows from Tomah, Lawrence Marksman at Indian school and Dick Fuller go up there last week and tell everybody going to bring back deer and give them chunk and come home Sunday and don’t get deer. Fellows at Jack Donovan tavern ask Indian reporter
+            Saturday about this year what kind of weather we going to have. I tell them I don’t tell till signs show what weather going to be and pretty soon when moon change I can tell. Muskrats make big houses this fall and that look like going to have pretty cold winter and when they make big houses always have cold winter. .</p>
+      </body>
+   </text>
+</TEI>

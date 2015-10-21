@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M03D22</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>There are lots of patients at Tomah Indian hospital this week. It is time now spring. You can tell by the weather. Remember we had mild
+            winter and spring cold weather. Indian reporter came out at 16 of this month. Yesterday was here and he is alright but only little bid too
+            weak his nerves. The Tomah Indian school building, want tear down. As we understand those building, when they build for the Winnebago
+            Indians of Wisconsin, and also use some Indians money too. About 46 or 50 years ago the Indians they could not say anything about these
+            buildings, but they had right to say somethings and you know cost lots of money when they built. A baby girl was born to Mr. and Mrs.
+            Joseph Thunder Cloud at Tomah Indian hospital March 16, 1939, 7:05 a. m. She weigh seven pounds. John Brown had broken finger last Monday
+            night and still they got him in the hospital Tuesday morning, and we don’t know how long they will keep him up there. The Indian reporter
+            had received a letter from Mr. and Mrs. Daniel M. Gross of Chicago, and three Trempealeau county newspaper publisher. Dear Mr. Lowe Cloud:
+            Read in Banner-Journal where you were sick and hope this card finds you well again. Black River Falls being my home town I enjoy all the
+            paper but being a stranger my wife reads only the “Indian News” of which there are many clippings in her scrap book. We both join in
+            wishing you a speedy recovery. The card said “Gosh! you musta caught sumpin’ You hadn’t oughta catch. And now you’re ill in bed Not
+            feeling up to scratch. Hope you’ll get your health back As quickly as can be, For the news that you’re entirely well and strong can’t come
+            too fast for me.” Mr. and Mrs. Daniel M. Gross. March 17th, 1939 Our dear Lowe Cloud: The “our” above is used because this letter is
+            written for three Trempealeau county newspaper publishers — G. L. Kirkpatrick of the Independence News-Wave; H. C. Kirkpatrick, of the
+            Blair Press, and myself, Bert A. Gipple, of the Galesville Republican. And herewith you will find their compliments in the form of three
+            “scraps of paper.” You may prevail upon your banker to accept them in lieu of wampum; and if you do, then accept them along with our
+            assurance that we appreciate your column clipped weekly from the Banner- Journal, and so do our readers. Now if the newspaper boys
+            else­where who are shearing your product from week to week will come across with similar greetings, some of the grief will be taken out of
+            Lowe Cloud’s hospitalization. Very truly yours, Bert A. Gipple The adult night school at Indian Mission school started last Wednesday
+            evening. The meeting was held in the dining room. Mr. George Metalas of Merrillan is teacher. The first meeting was spent playing cards
+            and Chinese checkers. Our road are beginning to get very muddy, some tough going from now on for a while. Marie Stacy and brothers, Morris
+            and Alfred accompanied by Tillie Stacy took in the band and orchestra concert in the city Sunday. Mrs. Alice Funmaker was taken to the
+            Tomah hospital Thursday. The first and second grades at school had “a hot cocoa” party last Friday. They wore their party caps. One out of
+            each group acted as the hostess. The table was set with pretty little dishes, animal cookies, cheese crackers, Easter candy, eggs and
+            cocoa was served. Each little tot did their best to show good table manners. A promise of another was given them. The other grades did
+            library reading from the many new books received from Miss Bush and the school board. </p>
+      </body>
+   </text>
+</TEI>

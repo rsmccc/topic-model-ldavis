@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M02D16</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mr. and Mrs. Pete Pettibone and children of Black River Falls were stranded in Schofield during the severe snow blizzard. However, when the storm quieted
+            down they left for their home. We are all wishing George White Wing’s fatal night to turn out good as he is fighting for the state championship at the Wisconsin Rapids Golden
+            Gloves Tournament, Geo. Is nursing a slight cold, but will be in shape to go on. Ray White Wing returned home from Tomah hospital Sunday and will proceed on to Rapids Thursday to
+            2nd his own brother in the ring. The recent cold wave left lot of us Injuns with colds. We’re going to have late spring. Dan Cupid has been awarded a special gold medal for
+            hitting two hearts. The Duke and Duchess John and Corena. Mrs. Eli White Wing spent 2 days in Wausau at Big Thunder’s returning Wednesday. Mr. and Mrs. Albert Big Thunder are
+            going to Wausau to spend a couple of days at the home of their son Robt. It is learned Bob Big Thunder Cloud is going to Milwaukee Veterans hospital for treatments of war
+            effects. Samuel Thunder Cloud who has been at Lake Tomahawk quite long time has returned home for 2 weeks. Samuel has been studying art in University extension course and making
+            good. A baby girl born to Mr. and Mrs. Lindy Thompson. .</p>
+      </body>
+   </text>
+</TEI>

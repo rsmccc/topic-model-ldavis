@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M03D08</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Our Indian News is very brief this week. Brief as it is
+            we are very ap­ preciative of the fact that Charles R. Lowe Cloud
+            remembers his readers are looking for his news. He is ill in the
+            hospital in Tomah. Last week he wrote that he and Henry Mike and
+            Charley Smoke o f Wyeville were in a room together. That “ nurses
+            are doing faithful duty and Nancy Plintz, Irene Miller and Evelyn
+            Murie is tak­ ing care us all night.” Saturday we had a letter from
+            Charley stating: “ Charley Smoke is died this morning after 5 hi. I
+            don’t know how long I will stay here. Doc­ tor says you got to stay
+            here some. I had a flu. And Charles Smoke died flu too.” Today we
+            have a short news letter from Charley as follows: There are many
+            Indians had bad luck, and I used to see lots of Indians back and
+            forth, not todays. I would like to write Indian news, but somehow I
+            can not write any more so I have to stop. There are I feel good
+            every morn­ ing but today I don’t feel good, and I never been sick
+            before all my life. Therefore I can not take care of my­ self but I
+            am glad we have nurses too. They are taking care us. C. R. LOWE
+            CLOUD .</p>
+      </body>
+   </text>
+</TEI>

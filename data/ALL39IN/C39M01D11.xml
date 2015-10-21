@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M01D11</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>There are 16 patients in the Tomah Indian hospital, as following names— Delos
+            Yellowbank, Godfrey Mallory, William Blackdeer, Freeman Thompson, Peter White, Frank
+            Pigeon, Edna La Mere Decorah, Bemdine and Geraldine Decorah who are twins, Esther
+            Blackhawk, Lena Mae Decorah, Ann Lonetree, Carrie Thunder, Lucy Funmaker, Stella Johnson
+            and Charlie Blackdeer. As we understand that, Indian signed for the winter, not much
+            snow this winter on ground but we will have a few days cold first part of next month,
+            and you will believe or not. The Indians can tell some weather by wild animals and stars
+            too ari3 very few know these things at present. Perhaps next generation will not know
+            anythings about these things. A girl was born to Mr. and Mrs. Edward Lonetree last
+            Saturday, Jan. 7, 1939, at Indian hospital. .</p>
+      </body>
+   </text>
+</TEI>

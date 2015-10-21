@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B5-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>C. F. SNYDER
+            Mrs. R. L. Mac Cornack was up 1
+            from Whitehall last Saturday to see
+            her mother, who is ill and in bed
+            with an attack of flu.
+            Mrs. Addie Russell is much im-
+            proved in health since last week and
+            is able to be up and around again.
+            Simon Fairing was in bed most of
+            last week with an attack of flu, and
+            under the care of our local doctor. '
+            Mrs. John Mentink is able to be
+            out again and was up town Monday .
+            for the first time in many weeks.
+            Mrs. O. F. Peterson taught the 1st '
+            and 2d grades last week for Miss '
+            Fobes, who was down with flu.
+            The next meeting of the Ladies Aid
+            will be held with Mrs. O. M. Rickard i
+            Friday afternoon, March 17th.	11
+            Mrs. Sam Rush was quite sick last 1
+            week with an attack of flu, but is re
+            ported better this week.</p>
+      </body>
+  </text>
+</TEI>

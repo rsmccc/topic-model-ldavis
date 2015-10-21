@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-10</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>CARD OF THANKS
+            We wish to thank our friends, the minis-
+            ter, the pallbearers, the flower girls and
+            the C. Z. B. J. for their kindness and sym-
+            pathy shown upon the death of our wife
+            and mother.	JOSEPH	HRYZ
+            MARY HRYZ
+            CARD OF THANKS
+            We wish to express our heartfelt thanks
+            and deep appreciation to the kind friends
+            and neighbors for their many expressions of
+            sympathy, at the time of our bereavement.
+            M"RS. E. P. RIGGS AND FAMILY
+            CANDIDATE FOR MARSHAL
+            I am seeking the support of ever;
+            voter in B. R. Falls for the office o
+            City Marshal at the election on Apri
+            4th, 1939.
+            In return for your support, i:
+            elected, I pledge, no favoritism noi
+            lack of cooperation shall be evideni
+            in the execution of my duties.
+            And I shall constantly endeavor tc
+            harass business to a minimum in line
+            of duty or otherwise.
+            I will greatly appreciate vour vote.
+            V. A. LUBINSKI</p>
+      </body>
+  </text>
+</TEI>

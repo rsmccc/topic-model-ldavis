@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>The Osseo Homemakers met last
+            Wednesday with Mrs. Oscar Tande.
+            They demonstrated home dressmak-
+            ing.
+            Miss Ruth Anderson returned home
+            last Saturday from a six weeks stay
+            with her aunt, Mrs. Minnie Olson at
+            Duluth.
+            Mr. and Mrs. Louis Jacobson and
+            Maynard motored Saturday to Peter-
+            son, Minn., and visited relatives until
+            Saturday afternooon.
+            Misses Ruth, Lillian and Mildred
+            Lund spent the week end at the home
+            of their parents, Mr. and Mrs. Martin
+            Lund, returning Monday morning to
+            their various duties at B. R. Falls.</p>
+      </body>
+  </text>
+</TEI>

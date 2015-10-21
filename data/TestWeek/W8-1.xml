@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W8-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Eland
+            Mr. and Mrs. A. J. James visited
+            over at Shawano and OcU where then 
+            daughter's family lives.	
+            Mr. and Mrs. John Rettig and Mr
+            and Mrs. Emerson Cottrell visited
+            Adam Rettig in Wausau Memorial
+            hospital Sunday.
+            Mrs, W. D. Brown left for Appleton
+            where she will carts for her mother
+            who is ill.	
+            Mr. and Mrs. M. J. Pickering of
+            Mattoon spent Sunday in the Pickering home.
+            Mrs. William Lipke and daughters
+            of Bowler spent Sunday with Eland
+            friends.	
+            Miss Hilda Helig of Mendota visited her home Tuesday and her father!
+            at Memorial Hospital.
+            Kermit Schfaspke has returned from'
+            Milwaukee.
+            Irvin Wextfahl returned to Bowler
+            where he resumed teaching. He is:
+            feeling pretty fair.
+            Mr. and Mrs. Joe Stoltz and daughter Shirley moved to their home at
+            Rinjrie Momlav. They spent the winter in the Otto Meyer home.
+            Mrs Herman Lemke and daughter
+            LaYerne and Mrs. Clara Schnranks
+            from Birnamwood spent Thursday
+            with Mrs. Felix Konkol.
+            Mr. and Mrs. H. Piehl and Mr. and
+            Mrs. Oerald Owen and daughter spent
+            Sunday with relatives at Seymour. 
+            Mrs. L. Bice entertained her bridge
+            dub Tuesday evening.
+            W. E. Sehoepke was pleasantly sur- 
+            prised hy a group of 14 friends Sunday evening in honor of his birthday.
+            Curds were plaved and prizes were
+            awaided to Mr. August Warning and
+            Mrs. A. Bohlman and A. Rohiman and
+            William Frank
+            Mr. and Mrs. Felix Konkol and family were dinner guests of Mr. and Mrs.
+            Btadley Monday	
+            The Ladisss Aid of Zions Lutheran 
+            chinch is having their parish home 
+            modeled and also redecorated.
+            Miss Sell of Tigerton was a guest
+            of Miss Laura Way over the weekend.
+            Hale V an Horen. Norman Koerner
+            and Mrs. J, F. Franklin drove to Milwaukee Monday morning and returned
+            Tuesday night.</p>
+      </body>
+  </text>
+</TEI>

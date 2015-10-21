@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M03D23-Violet Big Thunder</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Miss Isabell Smith, daughter of Mr. and Mrs. Ed. Smith, was taken to the Tomah Indian
+            Hospital where she will receive treatments. Esau Prescott and Oscar Pigeon left Tuesday
+            for Tomah hospital where Oscar’s youngest brother, Frank Pigeon, has been all winter.
+            Frank will come home with his brother Oscar. Mr. and Mrs. John Storm, town of Elderon,
+            were in Wausau on business Tuesday. Mrs. Joe Eagle, former resident of the town of
+            Elderon, passed away on March 9. Mrs. and Mrs. Joe Eagle had been living in Winnebago,
+            Nebraska. They had been there a long time. Mr. and Mrs. Eli White Wing of Wittenberg
+            were in Wausau last Saturday. With them was Mrs. Eugene Wabashagain also of Wittenberg.
+            Mrs. Robert Big Thunder and her nephew, Little George, visited at the home of Mrs.
+            Minnie White Wing of Dancy. Miss Violet Big Thunder visited her aunt’s and uncle’s home
+            in Schofield last Sunday. She reports that everyone there is getting along fine. Nat H.
+            Long had a heart attack and almost passed away last Wednesday night. He is now in fine
+            condition. Albert Big Thunder has written to his son in Schofield telling how his wife’s
+            sister is getting along. It is said that she is improving, but very slowly. Andrew Black
+            Hawk has returned to his home in Neillsville. He had been staying at the home of Mrs.
+            Minnie White Wing of Dancy. John Stacy has returned to Schofield from Wittenberg where
+            he had been working for the past week. Robert Big Thunder, who has been staying in the
+            Veterans Hospital, is coming home for only a few days and will return to Milwaukee. Mr.
+            Big Thunder wrote and said that people who heard a Robin, know that Spring has come; but
+            he said he went walking on National Avenue where he heard a pig grunt, and said that the
+            pig had brought the cold weather. Christ Wilson has found himself a bride. The lucky
+            bride was Miss Bertha Johnson of Chicago. They are now making their home in Portage,
+            Wis. Miss Lois Marie Brown of Schofield visited at the home of Mrs. Robt. Big Thunder in
+            Wausau last Sunday night. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>4-H’ers Are to Feature
+            Former Leaders March is
+            Wisconsin 4-H folk will hoar about
+            their state pioneer leaders when they
+            tune in on “The 4-H Club of the Air”
+            over state stations WHA-WLBL Sat-
+            unlay noon, March 18, at 12:46. Miss
+            Elisabeth Annoy. Polk county girl
+            who served from 1917 to 1920, and the
+            first woman to serve on the state staff;
+            Kail Cooper, Grant county boy. who
+            is the first men added to the state
+            staff, served from 1917 to 1982; E. A.
+            Stnkdyk, Door county 4-H boy, who
+            served as assistant state club leader
+            during 1922 and 1823; Mildred Hager
+            by Gabbard, Dunn county 4-H girl, a
+            of the state staff from 1921
+            to 1924; and Elisabeth Salter Eby,
+            Marathon county girl, who served as
+            assistant state leader from 1924 to
+            1934, are among those to be featured.
+            (First pub. Feb. 16; last March 23.)
+            
+            Notice of Sale
+            State of Wisconsin, in County Court
+            for Shawano County, Circuit Court
+            Branch.
+            Citiaens State Bank of the Village of
+            Wittenberg, Shawano County, Wis-
+            consin. a Wisconsin Banking Cor-
+            poration.	Plaintiff,
+            -vs.
+            Minnie B. Zeinert, Arthur Brum and
+            Anna Brum, his wife, Meta Timm.
+            Grace Pegarsch and Edna Lehman,
+            Defendants.
+            Notice is hereby given that by virtue of a judgment of foreclosure and
+            sale in the above entitled action, rendered in the County Court, Circuit
+            Court Branch, for Shawano County.
+            Wisconsin, on the 3rd day of February
+            1938. and docketed in the office of the
+            Clerk of said Court 'on the same day.
+            1. the undersigned Sheriff of Shawano
+            County, Wisconsin, will offer for sale
+            and sell at public auction to the highest bidder, for cash, at the Front Door
+            of the Court House in the City of
+            Shawano. Shawano County, State of
+            Wisconsin, on the third day of
+            April, 1939, at ten o'clock in the
+            forenoon of said day. ail the right,
+            title and interest of the defendants
+            and each of them in and to the following described premises named in such
+            judgment or so much thereof as may
+            be sufficient to raise the amount due
+            to the plaintiff for principal, interest,
+            costs, disbursements, attorney's fees
+            and costa of sale to-wit: The North
+            one half of the Northwest one quarter
+            of section number thirty one, township
+            number twenty Eight North, range
+            number twelve East. Shawano county.
+            Wisconsin; and the Northeast one
+            quarter of the Northwest one quarter
+            the Northwest one quarter of the
+            Northwest one quarter, and the South-
+            west one quarter of the Northwest one
+            quarter, all in section number twenty,
+            township number twenty eight North,
+            range number twelve east. Shawano
+            county, Wisconsin.
+            Dated February 13th, 1939.
+            CARL DRUCKREY, Sheriff,
+            Shawano County. Wisconsin.
+            W. D. HASELTINE.
+            Plaintiff's Attorney.</p>
+      </body>
+  </text>
+</TEI>

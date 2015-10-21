@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M07D12</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Again as last year, it is with great pleasure that I thank the members of the Lions Club of this city, the sponsors for Indian participation in the recent centennial pageant, for making
+            it possible for the Indians to take part with profit in a local never-to- be-forgotten event. In behalf of my people, again I say “thank you, Lions”. The little Indian boy sat up quickly and almost yelled, “Oh, now I know how to
+            eat peas. Before I was chewing them, now I just let them roll down inside of me.” I met the correspondent of Trout Run, at the centennial gathering, and had a nice chat with her. This incident brought back to my mind the need of
+            a B. J. C. A. (Banner-Journal Correspondent’s Association), where we would know “who is writing which” and would be the means of further creating interest in a home town paper which has already become a bright spot in our lives.
+            Within the last eight months many of our young people here in Komensky have married, and have started on their own. Fifty years from now they can tell their grandchildren that they were married “the year of the centennial.”
+            Probably good many people never realized there was a Fourth of July. There was a total eclipse of the 4th, caused by the shadow of the centennial and homecoming. Many people have said that they do not quite understand the
+            meaning of “Heap Tepee Talk” . In short it means “Popular subjects being discussed frequently by Indians within Tepees”. Clear? Thank you! At the meeting of the school board of Dist. No. 5, Town of Komensky, Monday, Gilbert
+            Lowe, a full blooded Winnebago was elected a school clerk for the next fiscal year. Gilbert is well educated and very well qualified for the position. The Indians are beginning to realize that in order to learn to swim you’ve
+            got to get right in the water and swim, and this applies to their political and educational welfare? .</p>
+      </body>
+   </text>
+</TEI>

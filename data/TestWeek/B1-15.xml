@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-15</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>There was a meeting of the Jack-
+            son County Safety committee held j
+            Monday afternoon in the office of the
+            county highway commissioner. Those
+            present were Mrs. A. P. Jones, Miss I
+            Grace Webb, O. H. Overlien, Bert F. j
+            Johnson and Merlin Horswill. A. R. I
+            Gunnison, state traffic officer from
+            Eau Claire, was present and spoke on
+            his varied experiences as traffic of-
+            ficer in 11 counties and made sugges-
+            tions and recommendations. Several
+            matters were taken up before the
+            meeting. Miss Webb read replies to
+            inquiries sent village schools as to
+            what they thought regarding safety j
+            measures.
+            Traffic Officer Bemie Finch was I
+            cruising along north of Merrillan >
+            early Sunday morning a short dis- ;
+            tance behind a Hennepin Transfer !
+            trick driven by Morris Thompson. He l
+            turned out to pass a car, the truck j
+            struck the soft shoulder of the road j
+            and overturned, pinning the driver |
+            between the steering wheel and a
+            heavy box of freight. It was neces- j
+            sary to get a bar to pry him loose j
+            from his precarious position. For-
+            tunately he was not injured much. |
+            and suffered no broken bones. He :
+            was carrying a load of heavy freight j
+            from Chicago to Minneapolis.
+            Jack Xeindorp, who has been in the
+            Hancock Hardware store since its or-
+            ganization here, left Sunday for Mil-
+            waukee to take up his new duties ;
+            with the Pittsburg Plate Glass Com- i
+            pany. His family is remaining here
+            for the present.
+            Mrs. Anna Segan of Kansas City, j
+            was here on business yesterday.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Will Write Book on
+            Winnebago Indian Tribe
+            for Chicago University
+            A distinguished and interesting
+            visitor in the village last work was a
+            Mr. Srolie, Ph. D., of the University
+            of Chicago Dr. Srolie has been com-
+            missioned by the University to write
+            a book on the Winnebago Indian
+            people. This winter he is studying
+            the Winnebago of Wisconsin Next
+            summer he hopes to visit the Winnebago in Nebraska and get in touch
+            with those scattered throughout the
+            United State. Dr. Srolie is both
+            sympathetic and open minded in his
+            attitudes; and if he is able to complete his study, his book will be very
+            valuable and authoritative.
+            </p>
+      </body>
+  </text>
+</TEI>

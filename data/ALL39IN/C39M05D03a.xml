@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M05D03 part 1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mr. Jacob Stucki and John Stacy fixing garden
+            fence. Mr. Stucki is al­ ways busy every day and he has been
+            prepared to cut some posts, peel and painted both end. Indian report
+            looking round where they build new houses, W PA work­ ers doing work
+            and they said they had been torn down some old barn some time ago.
+            They are using these old lumber and some of them working make
+            foundation. They make five already finished masons work. The school
+            news. Frank Johnson and John Davis have been helping the teacher and
+            pnpils to clean their school yard. They appreciate this very much. A
+            lot of brush has been burned. Many of the children are busy making
+            May baskets for their mother and parents. Kenneth Little George
+            brought Mrs. Olson two poly- wog Monday morning thinking they would
+            be good company for the gold fish. Our sand table has your pansy
+            flowers in it all in bloom. Our school attended the contest in Town
+            Creek last Friday. They report a very good time. Frieda Stacy got
+            second in arithmetic. Maurice Stack got first in art, also in a
+            health poster. Our school also got first ftlace in singing. Arvina
+            Lowe got second place in art. Maurice Stacy got first in three kinds
+            of jumping. Lawrence Little George got second place. Mrs. Waukon has
+            been making maple syrup. She also gave Mrs. Olson some of it Mrs.
+            John Stacy and daughter Tillie, also Emma Olson attended the Mother
+            and daughters banquet in your city. Mr. Henry Berg is going to Mil­
+            waukee last Saturday, attended jew­ elry convention at Milwaukee and
+            not only that, but he will have big time enjoy himself. Mr. and Mrs.
+            Vanvert Dick of Wis­ consin Rapids went to Winnebago, Nebraska. They
+            took it home with Mrs. Margret Johnson last Saturday. Margret came
+            here last fall, she would like to go home last month so she went
+            home last week. Baby boy was bom April 1, 1939 to Mr. and Mrs. Henry
+            G^eengrass at Tomah Indian hospital, call the name Maynard
+            Greengrass, and the boy nd mother are doing well on this writing.
+            .</p>
+      </body>
+   </text>
+</TEI>

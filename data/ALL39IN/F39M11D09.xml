@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M11D09</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>This time I tell them about trapping business and I tell some
+            things I know myself about white fellows that trap skunk and mink and like that when
+            season closed worse than Indians. White fellow game warden just watch Indian and when he
+            catch poor Indian think he is big guy and take him jail and try to make him pay fine by
+            judge and Indian don’t have money and can’t pay fine and stay in jail. I am trapper and
+            I am hunter too and I know myself white fellows just as bad as Indian and lots of time I
+            find white man trap without tag and lots of time too I hear gun shot and I know he don’t
+            shoot at squirrel. I am not game warden and I am Indian reporter and just like farmer
+            and I don’t say anything when I find trap that don’t have tag and when I see hunter I
+            just walk by and I don’t even speak to him. Game warden meet me in woods two three years
+            ago and he walk up to me and say “Hey Frisk did you see fellow hunting over on other
+            side?” and I tell him “No I don’t see nobody,” and every time I tell them same thing.
+            Lots of Indians now work at sort cranberries at marshes and give work to quite a few
+            fellows and get pretty good pay too. Everybody need work now so can buy heavy clothes
+            for winter and every time Indian get job sorting cranberries he feel pretty good. Some
+            marshes pay Indian workers 15 cents an hour. Fred Sam from Wittenberg he come to Indian
+            hospital four five days and have swell up his hand and arm and doctors try to fix it and
+            he tell Indian reporter he maybe get better now. Joe Green and Herschel Thompson they
+            are two young Indian fellows from Neillsville and Saturday they come to Tomah to see
+            Indian reporter. I just see Frank Rehberg go by and everybody all Indians know him and
+            call him fish king and he come through by our way and sell fish and meat to Indians and
+            white people too. Indian reporter always have joke and big laugh with fish king. I eat
+            his sausage he sell and I think pretty good and don’t kill me yet. Indian reporter have
+            girl friend just young girl over in Michigan and I meet her at Wisconsin Dells and this
+            week I get letter from her. Everybody say I am too old buck to have young girl friend.
+            Whenever I get money I want to go Michigan and see her. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>LADIES BOWLING CLUB
+            Feb. 20th
+            Black River Cafe brightened the
+            alleys Monday nite, by marching in
+            with their new yellow blouses, with
+            black lettering, and black skirts. They
+            were so taken up with their attractive
+            outfits that Millis Service Station
+            stole two games from them. Beatrice
+            is having hard luck, we must admit,
+            by having two on her team drop out
+            at this late date and having to start
+            two new bowlers, namely Emma Han-
+            son and Mildred Glennie. We all
+            know that the handicap doesn’t add
+            up fast enough to care for this, so we
+            all wish each one of Bea’s team all
+            the good luck and breaks that can be
+            had, in bowling, for the rest of the
+            season. Lesters took two from I.
+            G. A.
+            The Standings—	Won	Lost
+            Millis Service Station ......27	12
+            Lesters .....................21	12
+            B. R. Cafe....................17	22
+            I. G. A.......................14	25
+            The Big Five—Hazel Knudsen 139,
+            Joyce McManners 131, Alice Zahrte
+            131, Beatrice Zahrte 130, and Mary
+            -Bloom 126.	_
+            Lesters—		
+            Monday night, Feb. 27th, a pretty
+            soft shade of blue Dlouse, with an
+            I. G. A. emblem, decked the bleach-
+            ers of the bowling alleys. They too
+            made a very colorful and neat appear
+            ance. In spite of the fact that they
+            looked so nice, they had bad luck;
+            they clamped down to take the first
+            game from Millis Service station, but
+            lost the 2nd and 3rd game each by 2
+            pins, making them both hard games
+            to lose. Here’s hoping you get a bet-
+            ter break the next time you bowl us.
+            Lesters took all three from B. R.
+            Cafe.
+            Beatrice Zahrte rolled 166,	158
+            and 146 for 470 for high triple and
+            also second high series for the lady
+            bowlers for this year. Alva Larson,
+            subbing for the evening, had the high
+            game of 181.
+            The Standings—	Won	Lost
+            Millis Service Station........29	13
+            Lesters ......................24	18
+            Black River Cafe..............17	25
+            I. G. A.......................15	27
+            The Big Five: Hazel Knudsen 140,
+            Beatrice Zahrte 132, Joyce McMan-
+            ners 131, Alice Zahrte 130 and Mary
+            Bloom 126.</p>
+      </body>
+  </text>
+</TEI>

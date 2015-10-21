@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B2-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>ATTENTION IS CALLED
+            Speaking of calling attention we
+            would like to call some to the re-
+            freshing viewpoint of the Galesville
+            Republican in re taxes. To say the
+            least it is out of the ordinary. And
+            there is considerable food for thought
+            in the following editorial.
+            Why Should Tax Payment Be
+            Distasteful
+            Calling attention to the recent act
+            of the state legislature in providing
+            for an extension in payment of real
+            estate taxes to July 1, the Wonewoc
+            Reporter starts off by saying‚Äî‚ÄúEx-
+            cuse us for bringing up this distaste-
+            ful subject‚, and then goes on to ex-
+            plain.
+            The Republican protests the Re-
+            porters expression.
+            Why should taxes be a distasteful
+            subject?
+            Why, any more than payment of
+            rent, electric, water, gas, phone, or
+            any other bills?
+            Taxes are to pay for something for
+            which the taxpayer has had value re-
+            ceived.
+            In Galesville or any other similar
+            community were there no taxes there
+            would be no schools, no public build-
+            ings, no pavement, no street lights,
+            no parks, no water or sewer system,
+            no fire department, no police, gar-
+            bage removal, no band concerts, no
+            public library, nor many other things
+            which now go to make for better liv-
+            ing.
+            And as for taxes to pay essentials,
+            that old saying of Ben Franklin that
+            we are taxed by ourselves thrice as
+            much for our follies as we pay to the
+            public treasury, still holds good.
+            In a recent column, Upton Sinclair,
+            noted writer, said:
+            All taxes are unpopular. They are
+            negative measures, reducing the peo-
+            ples spending power. Of course, the
+            poor are willing to tax the rich, so
+            we have income and inheritance
+            taxes. The old are willing to tax
+            the young, so we have the Townsend
+            plan and the ‚ÄúHam and Eggs‚ pro-
+            position. But nobody is willing to
+            tax himself, and these proposals fail
+            at the polls because so many of our
+            people are still taxpayers.‚</p>
+      </body>
+  </text>
+</TEI>

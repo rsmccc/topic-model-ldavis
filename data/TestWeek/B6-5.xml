@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SECOND PUBLIC CONCERT
+            SUNDAY
+            The second of a series of public
+            concerts was held at the high school
+            auditorium starting at 3 o’clock Sun- 1
+            day afternoon and was attended by
+            a large and appreciative audience.
+            The concert consisted of a varied
+            musical program from different high ‘
+            school organizations under the direc- '
+            tion of Miss Verna Keefe and Jay
+            R. Jorgenson.
+            A. H. Trask and son Hugh, Robert 1
+            Mills, John and David Noble, Ronald 1
+            Anderson and Bobby Squires went to 1
+            La Crosse last Saturday to attend a
+            Boy Scout life saving contest held -
+            there that day at the high school :
+            building. Scouts from various dis-
+            tricts wore in attendance.	*
+            Mrs. Will Onstad entered the hos- 1
+            pital Monday and was operated the
+            next morning for the removal of a s
+            goitre. She has been getting along 1
+            nicely since. Mrs. Onstad has not t
+            been well for a long time, and her s
+            friends hope that she may be much i
+            better now.	j
+            Mrs. Gust Randles, who moved ;
+            here from Merrill last year and has
+            been living in an apartment in the '
+            Kelner home, entered the hospital on 1
+            Friday for medical treatment, as she -
+            lias been quite poorly lately. She is i
+            improving a little under treatment. *
+            Application for a marriage license !
+            was made by Hugh Ellsworth Sharp. I
+            son of Mr. and Mrs. Hugh Sharp, of 5
+            Disco, and Miss Gladys Almira Dan- (
+            ielson, daughter of Helmer Danielson, 
+            of Irving.</p>
+      </body>
+  </text>
+</TEI>

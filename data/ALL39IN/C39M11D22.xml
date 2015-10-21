@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M11D22-Indian News</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Misses Louise Keppenhan, Frieda, Maria and Matilda Stacy went to Greenwood last Sunday afternoon to visitor relatives and some of them their best friends and they had all enjoy riding in pleasure. Mrs. Lena Long Thunder and Mrs. Minnie D. Johnson they come back from near
+            Humbird. They had stand basket for sale but that morning they saw some car from north, they had lots of snow on top of the car, when they came back to Indian Mission. First snow came Monday after sundown. On Monday noon the WPA sewing project move into the new building by the school
+            house. Dicky Walters the building foreman is good and faithful, pretty soon he will write philosopher. Supt. Farver of Indian Agency and engineer Collins came to Hotonga school to inspect new building and other matters. There are about people of high school age and over attend the party
+            given by the reserve Y. W. C. A. group. The refreshment committee were Tillie Stacy and Edna Decorah, the entertainment committee were Frieda Stacy and Irene Free. The chaperons were Mr. and Mrs. Martin Lowe. Rumors are abroad that the young men of high school age and over will organized
+            a H. Y. Y. M. C. A. club. On Nov. 28, 1939, Dr. Morse, state health doctor, will give another one of his interesting lecture in connection with our regular community sing. They will be something going on every week at Indian Mission and some day will be certain day commence a party so
+            the people they can come to see them in our school. We have Indians news in Banner- Journal, and another Indians News at Tomah, Wis., and another Indian school news is at Hotonga school. News say one item: Shoes Don’t Grow, by Dolly Stacy One day a mother went up to the relief lady and
+            said “May I have some shoes for my girl?” The reliey lady answered “I think not, as you had a big garden last summer”. The mother answered, “But I did not grow shoes in the gardens.” Mr. Gilbert Lowe has gone to trapping at Mississippi somewhere. They give him lay off for a month or 30
+            days just in time to open season trapping muskrats in the refuge and we understand that some of have a good luck. They are making money just like old timer. Bad news. Lloyd Blackdeer passed away last Saturday at Tomah Indian hospital, Nov. 18, 1939. They had funeral yesterday at Dells
+            Dam by the Indian custom. Sympathy goes to his parents and brothers, Mr. and Mrs. Harry Blackdeer. He is youngest boy Blackdeer family and his brothers all of baseball player, but he is crippled was born, never feel well. He is nice boy, everywhere of his age feel sorry for him. .</p>
+      </body>
+   </text>
+</TEI>

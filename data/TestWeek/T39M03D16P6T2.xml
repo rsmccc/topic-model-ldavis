@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P6T2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Wilton News
+            Ferdinand Summerfield left on Tuesday for Washington, D.C., where he will visit for a few days before going to New York where he is employed with a steamship company.
+            Miss Elizabeth Trainer received word that her sister, Mollie Trainer, is seriously ill at Grand Forks, North Dakota, at a hospital there. 
+            Mr. and Mrs. Lawrence Steuhr and son Sam of Onalaska spent Sunday with Mr. and Mrs. Ernest Splett. 
+            Henry Berring started his new job as dramatic coach this week for public organizations in the surrounding four counties.
+            Messrs. Ed, Camillus and J. E. Wiseman went to Rochester, Minnesota. Wednesday, where they purchased a carload of horses. 
+            Miss Barbara Ebert visited in Madison with friends and her brother, Harvey Rae, over the week end.
+            
+            Wilton P.T.A. 
+            The Wilton Parent –Teachers Association will have their meeting at the school auditorium on Tuesday evening, March 21. A program which includes a motion picture presented by Mr. A. Fick of the Wisconsin Power Light company of Tomah. Miss Grace Cassels of Sparta will be a guest speaker on “Masterpieces In Art” and musical selections will be presented by Mrs. Henry Berring and Mrs. Russell Fentler of Norwalk. 
+            A number of Wilton__ are presenting this Friday night, an entertainment at the Kinney Valley P.T.A. meeting. A skit entitled “Frogtown School” and several musical selections will be presented. Those taking part are: Mrs. Henry Berring, Mrs. Russell Fender, Miss Barbara Harrison, Carl Kruse, Bill Hbert, Dr. H. O. Hanson, M. H. Donahoe, Jack O’Leary. Leopold Start, Vernon Wedorf, Fred Schroeder Jr., Vern Ferries, Art Backus.
+            Mr. and Mrs. Lloyd Von Guten of Tomah spent Saturday with Misses Rose and Theresa Joffer. 
+            Mrs. Wynn Ferries of Madison spent the week end at the home of her brother, Litallis Dott.
+            Mr. and Mrs. R. H. Martalock and Mrs. Frank Martalock drove to Clintonville Monday for a week’s visit with relatives.
+            Miss Mae Roberts of Wisconsin Rapids spent the week end with Mr. and Mrs. Ed Krantz.
+            Wilton Caucus
+            The Village of Wilton Caucus was held Friday night at the village hall with 30 voters present. There was little opposition. Candidates on the ticket this spring election to succeed themselves are: president, Bidwell Tllman; trustees, for 2 years, Myron Doten, Henry Buchholz, Vern Wendorf, village clerk, C. R. Backus; treasurer, John Raabe; assessor, Gilbert Goldbeck; supervisor, Arthur Backus; constable, Allan Palmer; justice of peace, J. L. Heffernan. 
+            Mr. and Mrs. P. K. Hernond returned to their home in Hayward after spending the winter in Florida with her parents, Mr. and Mrs. Ed McCann. 
+            Leopold Start and son, Charles, returned from Chicago on Thursday after attending the funeral of his brother, Charles Stark, there. 
+            Curtis Farmer and Vern Buchholz were visitors at Waukesha Friday.
+            Ralph Squire of Lake Delton and James Morton spent Thursday at the Camillus Wiseman home.
+            Mr. and Mrs. Ellsworth Thurow of Cashton visited the latter part of the week with Mr. and Mrs. Loren Thurow.
+            Mrs. Ed Neidorf accompanied Mr. and Mrs. C. Kuckuck to Monroe for a visit at their home. 
+            Mr. and Mrs. Robert Roberts Jr. are leaving this week for Atlanta, Georgia, where he has received a fereal appointment.
+            Mrs. C. H. Backus, Mrs. Melvin Berger and son Ray and James Curtis spent Sunday in La Crosse attending at IGA grocer’s meeting and banquet.
+            Mrs. Ed Krantz was substitute teachers Monday for Miss Annabelle Sherer at the high school, while the latter spent the week end with her brother who is a patient at a La Crosse hospital.
+            Mrs. Henry Behrens spent Sunday in La Crosse with her daughter, Marion, who is in training at the St. Francis hospital.
+            Mrs. R. J. Roberts was hostess this Thursday evening at a luncheon and card party for her bridge club.    
+         </p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P2T6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Brookdale
+            Mr. and Mrs. Rob Burrows and family were Sunday dinner guests at the home of their daughter, Mr. and Mrs. Dick Aller at Mather. 
+            Mr. Arthur Wallace was a caller at the Emil Schroeder home Saturday morning. 
+            Mr. Harold Guthrie sawed wood for W. G. Wallace on Saturday afternoon. 
+            Harriet Burrows is assisting with house work at the Harold Guthrie home. 
+            William Irvin, a baby son, arrived at the home of Mr. and Mrs. Harold Guthrie on Friday, March 10, at 6 p.m., weighing seven and one-half pounds. Dr. and Mrs. Schmidt were in attendance. 
+            Mr. and Mrs. Bob Burrows and daughters were Sparta business visitors on Thursday afternoon. 
+            Sunday afternoon and supper guests at the Will Guthrie home were Mrs. Mary Smith, Mr. and Mrs. Emil Smith and MR. and Mrs. Carl Schnith of La Crosse. 
+            Mrs. Will Guthrie is at the Harold Guthrie home caring for Mrs. Harold Guthrie and new baby.
+            Mr. and Mrs. Emil Schroeder visited at the home of Mr. and Mrs. Loren Pierce in Pleasant Valley. 
+            Mr. and Mrs. Alfred Schroeder of Hustler were Thursday afternoon and evening visitors at the E. Schroeder home. Sunday callers at Harold Guthrie’s were Mr. and Mrs. Emil Schroeder and Theodore, Mr. and Mrs. Myron Meltesen and children, Mr. Will Guthrie and Mrs. Herbert Guthrie and sons. 
+            She: “Are you doing anything for that cold of yours, dear?”
+            He: “I sqeeze whenever id wads be to.” 
+         </p>
+      </body>
+  </text>
+</TEI>

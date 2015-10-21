@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M10D12</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>This week letter come from Minneapolis and tell Indian
+            reporter about woman want picture and want to know things about Winnebago Indians and
+            tell about friends read in Tomah paper every week what Indian reporter say and like
+            Indian News. Letters come pretty near every week and every time want same thing and
+            Indian reporter pretty busy and grandson go away to school and don’t have time to write
+            letter back. First news I want to tell this week about close season on mink, muskrat and
+            skunk and just shoot and trap coon when season open this month 28th. I want season
+            closed on coon too because we don’t have any coon around here and white man that make
+            open season on coon don’t know it and he tell in book about go out and get coon at open
+            season and look pretty foolish when tell you you can go out and get coon and fame warden
+            not arrest you and take you to jail and take gun and traps and Indians know they don’t
+            have coon around here. When have open season on coon I don’t stay here and get fooled
+            and I go to 31st Street Chicago and get two-legged coon. Indian reporter want open
+            season on skunk and mink and muskrat so poor Indians can make little money to live on in
+            winter time and not so many people on relief when don’t have so many laws that tell
+            hunters and trappers and everybody what they can’t do all time. If I can’t make living I
+            go to poor house and white man that make foolish law make him keep me. My grandson
+            Curtis Redbird come home room school at Pipestone, Minnesota, at Indian school for
+            little awhile and pretty glad to see us too. Other day I talk to fellow at Sparts and he
+            tell me pretty soon this country be in war too and all young fellows and all Indians too
+            have to go and fight in war. Indians don’t’ want to have war and at meeting two three
+            weeks ago all Indians ask about what is war about and nobody know what war is about and
+            pretty soon they come around and put finger at young Indian fellow and tell him he have
+            to go out and get killed for war he don’t know what is about. .</p>
+      </body>
+   </text>
+</TEI>

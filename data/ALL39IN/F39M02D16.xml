@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M02D16</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Oscar Pigeon was visitor last week from Wittenberg. Him and
+            wife and mother stay with Indian reported dinner time and return back same day. Oscar’s
+            brother came here to Indian hospital. Wednesday pretty cold day and I think Indian
+            reporter was a humbug when I say last week no more bad winter here this winter. People
+            make fun with Indian reporter about tell there won’t be bad winter. Ray Whitewing been
+            at Indian hospital get out Saturday. His brother going to prize fight at Milwaukee and
+            Ray go there to see him in prize fight. White friends at Valley Junction say like Indian
+            News. Maybe some time have desk in office like Fuller big talk noise man at newspaper
+            office, and loaf around and get big check Saturday night just like worker fellow. Last
+            week forgot to tell about big game all killed off. Indians know used to be lots big game
+            here bear, moose, elk, and white man kill them all off. Long time back but Indian
+            stories that come long way back know bear, moose, elk here. White man killed for
+            tin-didn’t want to eat. Indians got skunked. White man come over here and make
+            everything a law and make guns that shoot long way and Indian have just bow and arrow
+            and can shoot long way and don’t need laws to keep from killing off all big game. White
+            man make laws for everything and can’t kill bull frog but get 90 days in jail. I know I
+            got 90 days in Sparta jail once. Jail good jail and plenty to eat but don’t like being
+            cooped in jail and don’t like white man laws for 90 days and don’t like take traps too.
+            Another thing pretty bad about money people pay for baskets Indians make. Pietz and
+            people at stores that buy baskets from Indians only give 50 or 60 cents for big basket
+            and cost that much for things to make baskets. When sell baskets on highway same baskets
+            get you $1.50. Lots of people tell Indian reporter should have big pow-wow at Tomah lake
+            in fall. Big pow-wows here long time back every year and people come long way off. After
+            Labor Day after close up at Wisconsin Dells be good time for pow-wow. All big performers
+            from Wisconsin Dells come here maybe after Dells close up. Indians come from all over
+            and camp at lake. September 10 good time. Indian reporter think have two-day pow-wow.
+            After September 10 some Indians raking cranberries and can’t be at pow-wow and no good
+            if many Indians can’t come. Lawrence Marksman of Chipewa tribe from Ashland is new man
+            at Tomah Indian Agency. He is junior clerk at agency office. Editor’s Note: In last
+            week’s Indian hospital news it was stated that a baby girl was born to Mr. and Mrs.
+            Andrew Funmaker of La Crosse at the hospital. We have been informed that this them was
+            incorrect and that the child was born to Mr. and Mrs. James Funmaker of Black River
+            Falls. .</p>
+      </body>
+   </text>
+</TEI>

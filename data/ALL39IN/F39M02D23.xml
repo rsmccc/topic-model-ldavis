@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M02D23</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indians will have big feast at Dells dam above Black River Falls near Ha_ld next Sunday. Same thing like you call church. Have big meeting and hear talk about what can do for America and what Indians can do to help America. Have big long tent and maybe six or seven fires in tent to keep warm where everybody stay. Everybody go Saturday and return to home
+            Monday. Indians all come and big feast like long time back. Have same things lots of times. White friends show Indian reporter La Crosse paper where paper tell what reporter been talking about in Indian news. La Crosse paper say think Indian reporter all right when say that white man kill off all game for fun and Indian get skunked and can’t kill same to eat and have to get on relied
+            and go to white man store to get little piece of meat to eat. White fellows at Jack Donovan’s place say Indian News pretty good and want Indian reporter to make joke about Jack Donovan’s linen but Jack Donovan Irish and reporter afraid might get sore. Maybe some time make Indian stew mix up rabbit and squirrel and birds cook long time and make good lunch like everybody want. Same thing
+            like you call Mulligan cook long time. I think Indian reporter not tell next time what kind weather going to be. All people make big joke and laugh when get cold and tell reporter better shop more wood. Car battery won’t go and take to Exide place and have to walk when want to go and can’t see many Indians to get news about where Indians go. People won’t give ride on highway like used
+            to and have to walk when cars go by and can give ride but go fast and not stop. Indians hear about Louis Bernard Kakatosh dead last Thursday at Menominee, Michigan. People say Kakatosh last Menominee Indian at Menominee and die 81 years old. Kakatosh was like what white man call great grandson of Chief Tomah big Menominee chief where Tomah gets name from Menominee Indians here long
+            time back. Many Indians been sick at hospital and some get better and return home after last hospital news in Indian News. Dr. Winter friend of Indian reporter and tell all people that get out and about some have babies. Indian Hospital News The following Winnebago patients were admitted to the hospital since the 11th of this month. Ruth Cloud, Melinda Greengrass, Lester Youngthunder,
+            Jennie Greengrass, Owen White, Earl Smith, Olinda Littlejohn, Charles Greengrass, Leona Mae Greengrass, Elijah F. Whiteagle, Bertha Greengrass, Robert Greengrass, Beatrice Decorah, Berniece Deer, Albert Johnson, Alice Kingswan, Thomas Kingswan, Angel Thundercloud, and Irvin Blackdeer. The following Winnebago patients were discharged from the hospital. Ray Whitewing, Rawsleigh Decorah,
+            Leona Mae Decorah, Peter White, Jennie Greengrass, Elijah F. Whiteagle, William Waukon, Bertha Greengrass, Angel Thundercloud, and Bernieve Deer. Notes of Interest: A baby girl was born to Mr. and Mrs. Herschell Thompson of Neillsville, on February __. The baby has not been names yet. The hospital has been filled to its capacity for the last couple of months. We have had numerous cases
+            of severe colds, flu and pneumonia. Ruth Cloud, who underwent an appendectomy on the 13th of this month, is recovering very nicely, and is able to sit up now. Thomas Kingswan and Albert Johnson have had severe cases of the flu and have been quite sick but are feeling better at the writing. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M1TM</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>How! He-chalk-kolo! meaning, Hello, friend!  “Hump-day-a, Hump-la-pin” mean­ing “ Today is a fine day.” 
+Learn to talk Winnebago Indian language by following this column each week? Why not? 
+The whites have taught us Redskins their language so turn about is fair play. 
+Every white reader should talk to some extent the Indian language of their community, not that it will get you anywhere in the world, 
+but merely for the fun of it. The English language is not my mother tongue, so I have lots of fun juggling the English words 
+and arranging them in such a way that it sounds like something. John Marsh, our recent retired businessman, talks very good Indian 
+and knows the meaning o f many Indian names for different kinds of dry goods.
+“Pale face” Carish o f the I. G. A. store, talks fairly good Indian too. But when it comes to talking the 
+Winnebago language, the late Werner brothers, Art and Bob, of this city, were way above the average. And then there were 
+and are many great friends of the Winnebagoes who do not speak a word of Indian. Take the late surgeon and physician, 
+Eugene Krohn, and Judge Frank Johnson, for examples.  It is quite probable these true friends of the Redmen never had 
+the leisure time to learn. Now there are County Judge Harry Perry and Mr. Berg of the jewelry store, and many others 
+who do not talk one word of Indian except to say How! 
+Next week we’ll have the first part of Scout law of the Boy Scouts in Winnebago language. </p>
+      </body>
+  </text>
+</TEI>

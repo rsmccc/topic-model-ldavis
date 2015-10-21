@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P8T3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Local Happenings
+            Mr. and Mrs. Weishapple spent the weekend in Durand. 
+            Miss Elsie Heppe spent the week end in Madison.
+            Mr. and Mrs. Artz of Mauston were Tomah visitors Thursday.
+            Miss Mary Harris is spending a few days of this week in Madison.
+            Dr. and Mrs. R. I. Peck and Attorney Lawrence Clark spent Saturday in La Crosse. 
+            A daughter was born to Mr. and Mrs. Howard Kuehl on Friday, March 10.
+            Leonard McGinnis of Warrens spent the week end with his brother at the Harry Porter home.
+            Many friends of Mrs. Reynolds attended her funeral which was held at the Methodist church.
+            Mr. Frederick Elmer spent the week end at the home of his parents, MR. and Mrs. Fred Elmer.
+            Mr. and Mrs. Kenneth Vandercrt and daughter were Saturday evening visitors at Robert Clay’s. 
+            Ten local bowlers will play in the state tournament in Janesville Saturday and Sunday.
+            Mr. Dickinson and daughter, Miss Mary, of Sparta, called on Tomah friends Sunday afternoon.
+            Mr. and Mrs. Lundgren of Madison called on Tomah friends on Thusday. 
+            Mrs. Begelow was a dinner guest Sunday of Mr. and Mrs. Bruce Daniels. 
+            Mr. and Mrs. Luen Densmore and Mrs. Emma Wilde were Saturday evening visitors at the La Vern Wilde home.
+            Miss Glayds Wick of Sparta spent Sunday at the home of her mother, Mrs. Laura Wick.
+            Mrs. Harry Sweet was hostess to her card club at her home on Monday afternoon.
+            Mrs. Ralph Taft visited one evening at the Henry Kieger home.
+            MR. Ed Can Wie and Miss Marian Van Wie, La Crosse, were callers in Tomah on Sunday.
+            The ladies of St. Mary’s Catholic church will serve a desert luncheon in the church basement on Friday, March 18, at 1 p.m. The luncheon will be followed by cards. The charge will be 25 cents. Everyone is invited. Adv.
+            Mr. L. J. Harper returned from St. Mary’s hospital, Sparta, on Saturday, after an illness of several weeks.
+            About 35 Girl Scouts and their troop committee were guests of the Evangelical church at their service on Sunday morning.
+            Mr. Robert Woodliff and Mr. Fred Giesler attended a meeting of I. G. A. dealers in La Cross Sunday.
+            Mr. and Mrs. Walter Ellis of Sparta visited at the home of Mr. and Mrs. Robert W. Henry on Thursday. 
+            Mr. and Mrs. Eugene Reekie visited Sunday with the latter’s mother, Mrs. Christine Gnewikow at Wilton.
+            Mrs. Fred Purdy, Mrs. Vera Wildes and Leonard Wilde spent Saturday evening at the Eari Greeno home in Pine Grove. 
+            A daughter, Diann Lea, was born to Mr. and Mrs. I. B. Bell Friday, March 10, at the St. Mary’s hospital, Sparta.
+            Mr. and Mrs. Walter Ward and little daughter of near Clifton visited their home folks in Tomah Monday.
+            Mrs. Gertrude Linehan who has been visiting at the home of her sister Miss Anna Costello, left for her home in Chicago Sunday. 
+            Mrs. Ed Wilson was called to Leon last week by the serious illness and death of her father, Wm. Bell.
+            Mrs. Hanson, accompanied by her son Harold Hanson of Alma Center, drove to Milwaukee Sunday to visit at the Malcolm Bin home. 
+         </p>
+      </body>
+  </text>
+</TEI>

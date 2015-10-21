@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M04D12</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Counting up to ten, my dear readers, is going to be easy. Just pronounce the words as they are written and you will be counting in Winnebago language as fluently as I can speak it. He-zhaw-key-la, that’s one; Nube, that’s two; da-nee, three; jobe, four; saw-chaw, five; ha-kay-way, six; shaw-go-wee, seven; Ha-loo-wunk, eight;
+            He-zhaw-key-chush-koo-nee, nine; Kay-lay-paw-nye-zhaw, ten. After you have learned to pronounce the words, count by Winnebago words alone. It’ll be easy. Sorry, boys, there are some typographical errors in the Boy Scout oath and which was all my fault due to my wretched writing, so just disregard it for the time being and I’ll rewrite it and this time you’ll have it down pat and no
+            mistake. If your tongue gets tired in the middle of the oath, give it a rest and then go on. Feeling ran high for a few days prior and after the spring election in some localities, particularly in our township of Komensky and I must say Easter Sunday came just in time. Friendly and neighborly feeling have come back into their own again and all is quiet and calm and any one with
+            thoughts to the contrary is caused only by prejudice and self-interest. The feeling of Christian-like good fellowship for all mankind has even found its way into the wigwam, humble, tho the dwelling may be. If we could all come to the realization, and impress on our children the necessity of seeking the Savior in the early hours of the Sabbath day of life, that Christianity binds all
+            races into one brotherhood, peace on earth and good will to all men would become a reality. We would find the angels, Faith and Hope, have rolled aside the stone slab of ignorance and show us that the tomb of unbelief cannot imprison the life everlasting and Christ’s own promise of resurrection after mortal death. Religion may be likened to a stalwart tree with roots running deep into
+            the fertile soil of the superior intelligence that seems to permeate the universe. For it to thrive it must send out many many branches of denominations and creeds that it may reach out and draw unto itself the many types of sons of men. The matured tree, as God wants it to be, would be symmetrical, beautiful and strong enough to withstand the ravages of time. Next month, Hawkin
+            Halverson, who has been foreman of the Indian crew since the advent of the Resettlement Administration into Jackson county, will leave the organization to take over his new duties of City Marshal to which he was elected with overwhelming majority in the recent spring election. The Indians composing this crew are wondering who will next take over the foremanship. The team of Halverson
+            and Redcloud will have been broken, foreman and timekeeper respectively, after nearly four r'ears of enviable teamwork. It can De truly said that if Hawkin Halverson performs his duties as well as he acquitted himself working for the U.S. Government the people of Black River Falls will have a marshal of whom they can be justly proud and who will substantiate their good judgment by
+            unswerving loyalty to duty. Fred Kingswan, the full-blooded Winnebago chief, newly elected as member of side board of the town of Komensky, was sworn into office last Saturday morning and officially presided as one of the town officers. Chas. Marek took the oath of office as chairman of the town and officially took over the duties as such. The people opposing the election of Mr. Marek
+            accused him of making many alluring promises to the red-men to get their vote. In reality, Charley never spoke to the Indians prior to the election, not even to the writer who is a near neighbor and was to some extent responsible to swinging the Indian vote in that direction. We took Charley for a man who was broadminded enough to be democratic and I feel certain the Indians will not
+            be disappointed. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M03D16</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>INDIAN NEWS By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Fred Sam come from Wittenburg at Indian hospital for eye trouble and some other sick trouble and come on purpose to sue Dr. Winter. Dr. Winter help lots of people with eye trouble and make some get better. Everybody laugh when Indian reporter tell about cupola on Indian school building when tear down for house and want big barn for coop for 10 hens and rooster to exercise in winter time. Indian reporter think white man government pretty crazy when want to tear down nice school where Indian children learn how white man farm to make living and have to know or can’t do things but hunt and trap and can’t make living Indian school built for Winnebagoes and don’t want for Indian go and tell them Indians don’t want to live in brick house on Indian school farm. Another thing maybe give land to Indians and then put on big tax for everything and take away from them like did Winnebagoes when agent tell all Indians to buy land one time and tell use trust
+            money from government to buy land Indian reporter pay $416.06 1914 for farm and in little white county clerk and clerk of court big shot white fellows at court house tell because don’t give them more than make from farm for tax that have to get off farm and give to them to sell to other so can put big tax on him and take away again. Indian reporter had to go Madison in big court state trial and tell all about how buy farm with trust money and that Compton say if stay on land can’t take away. Judge tell stand up and raise hand and tell just truth. Indian reporter only went to school three months and judge say lots of things don’t understand and tell judge never went to school and don’t know big words like he use and everybody talk loud and tell that have to give farm away because don’t talk and let reporter tell how Compton say don’t have to pay tax if live on farm and can’t take away. Christan Indian Agent say same thing. Only two Indians keep farm me and another fellow and
+            all others lose farm and county clerk and clerk of court make them get out. They give farm back to white man trust money all gone and Indians get nothing. Charley Low Cloud has been at Indian hospital pretty sick for long time now. Charley bad cold and flu and been pretty sick but get better. Get letters from Michigan and Minnesota about people like Indian News and want picture of Indian reporter. Maybe have some good pictures not like pictures in paper like Dr. Cunningham take and send to people. People that like Indian news and want picture of reporter want to send stamp or can’t send picture and send letter to Indian reporter at Tomah Journal and Monitor-Herald. INDIAN HOSPITAL NEWS Last week we had a number of patients come in from the Oneida country. Among them were Scharlene Smith, Betty Smith, Helen Hill, Iola Skenandore, and the Winnebagos who came in were Fred Sam, George Green, Lena Blackcoon, and Jesse O’Brien. Those who went home last week were Jake Smith,
+            Rinton Doxtator, Elizabeth Hammer and infant daughter Marjorie, Irvin Blackdeer, and Jacqueline King. A baby girl was born to Mr. and Mrs. Herman Browneagle of Mauston on March 10. They named her Deanna Lee. A baby girl was born to Mr. and Mrs. George Metoxin of Kaukaune, on March 12. They named her Georgene Joyce. Since writing about the twins a couple of weeks ago, we have had numerous people inquire about them. Charlie Low Cloud is improving slowly. Frank Starr, a Chippewa Indian, hitch-hiked his way from Chicago up here to be examined and treated. He left today. News is scarce this week, it must be spring. .</p>
+      </body>
+   </text>
+</TEI>

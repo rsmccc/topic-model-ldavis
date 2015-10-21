@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M05D03 part 2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> HOUGHTONBURG Hon. P. A. Hemmy spent the week end at his home here.
+            Miss Ethel Langworthy attended Prom at Osseo Saturday night. H. H.
+            Nibbe of Humbird, is help­ ing Mahlon Houghton with the farm work.
+            Mrs. Blanche Grush of Appleton, is here attending to business on the
+            farm. Mr. and Mrs. Earl Langworthy spent Tuesday evening at Paul
+            Haug- stad’s. Mr. and Mrs. J. E. Peasley of Snow Creek, were Sunday
+            dinner guests of their daughter, Mrs. Paul Haugstad and family. Mr.
+            and Mrs. Maeder left for Freeport, last Sunday, to attend the
+            funeral of a brother-in-law of Mrs. Maeder. They returned home
+            Friday. They also visited their two daughters at Freeport. Iola
+            Smith is employed in the D. W. A. Holder home. Saturday eve- ning
+            Mrs. Holder, Mrs. John Levis, and Mrs. Louise Holder drove out to
+            call at Houghton’s and brought Iola home to spend Sunday at her home
+            here. We are sorry to hear that Earl Langworthy Jr., of Hixton, was
+            tak­ en seriously ill Tuesday night and underwent an operation for
+            appendi- citis some time during the night at the Krohn hospital.
+            Mrs. Earl Lang­ worthy sr. stayed in B. R. Falls and with her son
+            part of the time until Friday when she returned home. Jun­ ior is
+            getting along nicely. The Houghtonburg school attended the contest
+            at the Pomroy school on Friday in which the Van Horn, Prin- dle
+            Valley, Pomroy and Houghton­ burg schools took part. These peo­ ple
+            won first places for us: Wini­ fred Newton, oral spelling; Virginia
+            Stuve and Dale Hemmy, reading; Darle and Dale Hemmy, arithmetic. The
+            Pomroy-Houghtonburg kittenball team defeated the Van Horn-Prindle
+            Valley team 14-1. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M08D23</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Mr. Gilbert Lowe’s boys are going back to school at
+            Haskell Institute, Kansas about week from now. They were anxious to
+            go back at any time. Mr. Emanuel and Myron Lowe. Jesse Stacy and
+            Fred Kingswan came back from north, has been pick­ ing blueberries.
+            Mrs. Whitegull and her children and Mrs. Tall Decorah she took with
+            her home at Winnebago Reservation, Nebraska. She took her along with
+            her mother. She is not well yet. She came out in hospital a few days
+            ago. Mr. William Burnie o f Fairchild, was call at Indian Mission
+            last week and Indian report with him were busy and this week too.
+            Sewing project add more ladies to work this last period as
+            following: Mrs. Alice Funmaker, Mrs. Alice Carl and Mrs. Frank Big
+            Soldier. R. A. worker has began work yes­ terday, and last week they
+            had been waiting every morning but never come the truck until
+            yesterday morn­ ing but some are not here yet. The Indians some
+            received oranges yesterday from relief office, and they had some
+            other stuff 15th of August and they said that helps some those who
+            need provision. The Indians pow-wow are all over now, and white
+            people pow-wow will begin Sept. 9-10-11-12, 1939. Re­ member the
+            date. Bring your part­ ner or your friends. This was last you will
+            have a good time with your friend or some other your relatives. The
+            Indian report planning to go visit old friends, start here to go to
+            Blair and Independence, Galesville and his first teacher, Fred Sacia
+            of Galesville. They will try to make a one trip, but we had not set
+            the date. As soon as possible. .</p>
+      </body>
+   </text>
+</TEI>

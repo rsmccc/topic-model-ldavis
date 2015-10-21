@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>HOUGHTONBURG
+            Joe Radke is seriously ill at the
+            home of his daughter Mrs. Peter Brei-
+            tenbach.
+            Mr. and Mrs. Earl Langworthy Jr.
+            of Hikton, were callers in this vicin-
+            ity, Sunday afternoon.
+            Mrs. Bessie Pomroy left for Big
+            Foot Prairie, 111., Tuesday, after hav-
+            ing spent a few weeks here attending
+            to business.
+            Mrs. Ernest Schlegel, who passed
+            away suddenly Monday night, was
+            laid to rest in our Houghtonburg cem-
+            etery Thursday. Our sympathy goes
+            out to the family.
+            A few lady friends surprised Mrs.
+            Charles vWinscher Thursday afternoon
+            in honor of her birthday. All enjoyed
+            playing games and a lovely lunch was
+            served. All wished her many more
+            happy birthdays.
+            .Mrs. Hugh Van Horn and daughter
+            Ethel, Mrs. Herman Van Horn, drove
+            to Whitehall Saturday to see Mrs. Ro-
+            bert Esser of Alma Center, who is in
+            the hospital there, having had an op-
+            eration for appendicitis last Monday.</p>
+      </body>
+  </text>
+</TEI>

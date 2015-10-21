@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M12D13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Mr. and Mrs. Ed Wilson of Pittsville, were here last Sunday visiting his mother, Mrs. Charley Wilson who is staying with her daughter, Mrs. Sam Little Soldier at east of Indian Mission. Those ladies working at sewing project, some
+            of them lay off for 30 days some time ago, it’s time now to go back to work again last Monday Dec. 11, 139, as following— Viola Young Thunder, Emily Waukon, Nina Greendeer and a new one, Mrs. Mary Funmaker and two more did not work yet, Maud Brown
+            Eagle and Mary Fisher. Old lady Mrs. Mary John is going home, Winnebago, Nebraska, yesterday noon train. She has been here quite a few weeks and she would like to stay here but she had a letter from her home, her nephew has been sick so she want go
+            back as soon as she can. There will be a candle light service at the church on Sunday at 7 p. m. At this time those people who have gifts for the Ganada Mission in Arizona will bring them forward. The young people of high school age and over will
+            have a Christmas party in the new community house. This will be the first group to hold a meeting there. Frieda Stacy, Alfred Stacy, Clifford Lowe and Miss Louise Kippenhan attended the Hi Y Girls Reserves conference at Viroqua last Saturday. They
+            received many helpful suggestions for their club work and enjoyed a very well planned social time. Foreman Dicky Walters said he would like to have finished those two houses had been built at Indian homestead, one of the Charley Hopinkah at near
+            Clay store or old timer. They used called “Jones Mills” and another is Charley Blowsnake homestead one and 3/4 miles south of Indian Mission. The Winnebago Indian ladies aid working yesterday and today. They are working two days for every month.
+            They made some souvenir for sale, beads work and some other stuff too, ask anythings would like to have, or they will make one for you a new souvenir. .</p>
+      </body>
+   </text>
+</TEI>

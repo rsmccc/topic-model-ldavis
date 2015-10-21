@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P8B4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Paradise Valley
+            The party at E. E. Wood’s was very well attended and enjoyed by all. Ice Cream and a delicious lunch was served at midnight. 
+            Freddie Greeno has been absent form school the past two weeks as he injured his leg while sliding down hill.
+            Beulah Lambert and Ruby Nienast visited school Tuesday afternoon.
+            Jennings Paddock is employed at Leonard Nelson’s garage at Millston as Leonard is entertaining the measles. 
+            Merlin Lambert returned to work at C. R. Treat’s Monday.
+            Miss Margaret Organ has been spending the past couple of weeks with her sister-in-law, Mrs. Floyd Organ.
+            Mrs. Alfred Kolb has been on the sick list the past week. 
+            
+            Warrens
+            Bob Churchill and wife entertained Virgil Fustin and wife of Tomah Monday afternoon of last week.
+            Frank McNutt, rural mail carrier on route one, is sick with the flu. Mandus Johnson is substitute carrier during his illness.
+            The Mission Circle met last Wednesday afternoon at the Baptist church. A picnic lunch was enjoyed.
+            Mr. and Mrs. Lon McNutt of Pocage were supper guests of the former sister Miss Sadie McNutt, Wednesday.
+            Mr. and Mrs. John Allen and children recently spent an evening with Mr. and Mrs. George Murdock in North Warrens. 
+            Mrs. Frances Clay entertained a few of her friends Friday evening at a card party, the occasion being her birthday. 
+            Mr. and Mrs. Everett Allen and daughter were guests Sunday at the Allen and Ted Maas homes. 
+            Mrs. Inga Johnson was pleasantly surprised on her birthday on Thursday, March 9, when a few of her friends came and spent the afternoon with her. They brought a picnic lunch and spent a pleasant afternoon. Those present were Mrs. Adolph Peterson, Mrs. Frank Pongratz, Mrs. Ed Mesner, Mrs. George Christensen, Mrs. T. Johnson, Mrs. E. O. Johnson, Mrs. H. B. Gross, Mrs. Mattle Case, Mrs. J. W. Taylor, and Miss Edith Barber. 
+            Mrs. Harry Rochester called on her parents, Mr. and Mrs. John Butterfuss Sunday and found her father sick with the flu. Mrs. Leah Doers has returned from Cherry Valley near Tunnel City, and is staying with her daughter, Mrs. John Butterfuss. 
+            Howard Bigelow, section moss, has brought the Manning house and is moving in the first of this week. Dick Dana expects to move in the house vacated by Bigelow and Wm. H. Hoffman in the Connor house being vacated by Danas. Several families expect to move April 1st and are looking for a house to move into. There are no empty houses in Warrens or in the country near Warrens.
+            Mr. and Mrs. Ernest Jay visited their daughters at Sparta Sunday. 
+            Mr. and Mts. Enneth Vandervort and family were visitors at the Jasper Allen home Sunday.
+            Howard Bigelow has purchased the Manning house.
+            William Goetzka was a business caller at Black River Falls Saturday. 
+            Mr. and Mrs. Russel Perry and family were visitors at the home of Mr. Perry’s parents Sunday. 
+            Mr. and Mrs. August Pergande and family were dinner guests at the Jack Pergande home Sunday. 
+            Mr. and Mrs. Herman Resehke and Genesee were visitors at Black River Falls Saturday evening. 
+            Mr. and Mrs. E MEsner and Alberta were visitors at Wm. Samson’s Sunday.
+            Ernest Jay, Paul Bailey and Joe Blasek were business callers at Milwaukee Saturday. 
+            Mrs. John Allen and sons were visitors at Abe Smith’s Sunday. 
+            Mr. and Mrs. Bill Pederson and sons were dinner guests at Ralph Dana’s Sunday. 
+            Ernest Wood of La Farge spent the week end at the Gust Goetzka home.
+            Mr. and Mrs. Leo Felton and sons were Sunday dinner guests at the Rev. J. Taylor home.
+            Mr. and Mrs. Everett Allen and Joan Ann and Mrs. Cora Kern were visitors at Paul Bailey’s Sunday. Mrs. Farncis Clay and Lyle Hillker celebrated their birthdays at the F. O. Mellutt home Friday evening. Those who attended were Mr. and Mrs. John Butterfuss, Mr. and Mrs. August Pergande, Mr. and Mrs. Everett Goetzka, Mr. and Mrs. Glen McNutt, Gust Goetzka, Dell Butterfuss and Phyllis Birkholtz. They evening was spent in playing cards. 
+            Frank McNutt is on the sick list. 
+            Quite a few attended the card party at Mather Saturday evening.
+            Art Oliver visited his mother Sunday afternoon. 
+            Mr. and Mrs. Elmer Wood and son Ernest were dinner guests at Ernest Jay’s Monday.
+            Mr. and Mrs. Everett Goetzka, Lewis, Mr. and Mrs. Aug. Pergande and family enjoyed an oyster supper at the Jack Pergande home Monday evening.
+            Mr. and Mrs. Ernest Butterfield and children and Mr. and Mrs. August Pergande were Tomah shoppers Monday.
+            Mr. and Mrs. Charles Beltz were Sunday afternoon visitors at the Jack Pergande home. 
+         </p>
+      </body>
+  </text>
+</TEI>

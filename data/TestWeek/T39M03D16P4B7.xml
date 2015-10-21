@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P4B7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Mrs. Julia Reynolds Is Called In Death
+            Julia Kampman, fourth child in a family of five children was born to Mr. and Mrs. Theodore Knampman on the 15th of July, 1866, in Jacksonville, Monroe county, and passed away on the 9th day of March, 1939, at the age of 72 years, seven months, 22 days. 
+            She received her early schooling in the Jacksonville school and later taught school in and around this vicinity. 
+            She was united in marriage to Charles Wesley Reynolds by the Rev. J. G. Wirth, pastor of the Baptist church at Warrens, on December 2, 1890, and to this union were born ten children, three of them dying in infancy. 
+            The young couple moved to Dixon, Illinois, where they remained about three years when they moved to the vicinity of Tomah to take up farming. The family has lived on the present farm for 41 years. 
+            Mrs. Reynolds was baptized in the Congregational church 1868 and united with the same church during her youth and taught Sunday school for a number of years. She lived a quiet home-life that found expression in thoughtful acts toward neighbors and loved ones. Mrs. Reynolds was not a strong woman and the greater share of her life she suffered from ill health, although she managed to carry on her share of work. Two years ago last January she suffered a stroke which caused her health to slowly decline. A second stroke came last Monday afternoon and she quietly passed away Thursday morning at 10:00 o’clock. 
+            She was preceded in death by her husband who died February 8, 1927 at the age of 64 years. Surviving are three daughters, Mrs. Elizabeth Buelow and Mrs. Dorothy Lemon both of Tomah, and Mrs. Eunice Lemon of Scottsbluffs, Nebraska, and four sons, Wesley and Lynn of Tomah, Ralph of Cuba, New Mexico, and Roy of Dos Palos, California; two brothers, Lew of Strongs Prairie and William of Tunnel City, and many other relatives and friends. 
+            Funeral services were held from the Methodist church, the Rec. Bernard C. Herrick, officiating. The remains were laid to rest in the Mt. Veron Cemetery at Jacksonville, March 12, 1939. 
+         </p>
+      </body>
+  </text>
+</TEI>

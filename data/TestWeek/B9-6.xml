@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SCHERMERHORN
+            Mr. and Mrs. John Rogstad and
+            sons spent Friday evening at Ernest
+            Dettinger’s.
+            Miss Hazel Fredrickson and Mrs.
+            John Rogstad spent Friday with Mrs.
+            George Gilbertson.
+            Mrs. Selma Fredrickson, Hazel
+            and George spent Friday evening at
+            Ernest Fredrickson’s.
+            Miss Hazel Fredrickson called at
+            the Ed Larson and Rogstad homes
+            Saturday afternoon.
+            Mrs. Selma Fredrickson, Hazel and
+            George spent' Thursday evening at
+            the Lewis Schansberg home.
+            Mrs. Chas. M. Olson was a guest of
+            Mrs. Eddie Nelson Wednesday. Mrs.
+            J. Rogstad spent Tuesday afternoon
+            there.
+            A few friends spent Monday eve-
+            ning at the Oluf Hagen home remind-
+            ing Mrs. Manford Hagen of her
+            birthday.
+            Arthur Magelee and Sidney Brus-
+            te of Hanska, Minn., spent from Fri-
+            day until Tuesday with the former’s
+            parents here.
+            Mr. and Mrs. Manford Hagen, Mrs.
+            Eddie Nelson, Mrs. Oliver Hagen and
+            daughter called on Hans Hagen at the
+            Whitehall hospital, Thursday.
+            Community club meets Friday eve-
+            ning, March 17, with a good play
+            from the Burton district, besides
+            other numbers. Everybody invited.
+            Miss Janice Olson spent a few days
+            with her uncle Arnold and wife at
+            Whitehall. She is not attending school
+            on account of a broken collar bone.
+            Mr. and Mrs. Henry Dale and
+            daughter and Cassie Olson of La
+            Crosse, were recent visitors at the
+            Oluf Hagen and C. P. Lundee homes.
+            Miss Doris Hagenstad left for Eau
+            Claire Friday to resume her beauty
+            culture course after being absent
+            nearly two months, helping at home
+            during her mother’s illness.
+            Quite a few from here attended
+            Ladies Aid at the U. L. hall at Pigeon
+            Falls Thursday afternoon. Mesdames
+            Ed Jacobson, Harold Jacobson, Sel-
+            ma Fredrickson and C. P. Lundee
+            were hostesses.
+            The following were week end vis-
+            itors at Eddie Nelson’s: Mr. and Mrs.
+            Art Berg and daughter Rosemarie,
+            and Thomas Brekke, Jr., of Eau
+            Claire; Lavore Olson and Newlyn
+            Nelson of Whitehall.
+            Misses Olive and Goldie Thompson
+            of Hixton, Mrs. Norman Nelson and
+            Oluf Jacobson of Northfield were re-
+            cent visitors to see Christ Lundee,
+            who has been very ill for many weeks
+            and does not improve. Our sympathy
+            is extended to them.
+            Mr. and Mrs. John Magelee and son
+            attended a shower at the home of
+            Mr. and Mrs. Carl Magelee in Pigeon
+            Falls Sunday afternoon, given in hon-
+            or of the recent marriage of Esther
+            Olson and John Walters of Eau
+            Claire. Miss Olson was a sister of
+            Mrs. Carl Magelee.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M04D19</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>John Blackhawk was here last Saturday. He brought to his wife in the
+            hospital, to treat medical. Snyder Bear and his son George were here to see us one day
+            last week and next day John Smoke came down to see us too. He did not know I was here
+            again until he saw at Tomah newspaper. Doctor says yesterday he think I am alright, I
+            can go this week at any time, only hearing not very good, but they will be all right
+            after while, and if you be careful. Albert Berg stop at Tomah Indian hospital Saturday
+            to see Charles R. Low Cloud in hospital. Albert says he was going thru that Highway 12
+            and he saw the little ways from that so he thought stop over there to see Charles. Week
+            ago last Tuesday Mrs. Harriet Noble bought some groceries for the sunshine for Lois Hull
+            for the Indian report at Sechler store, and he was very glad to receive that, but he
+            could not carry, so somebady to carried him into the car. One of the Frost Cloud’s boy
+            cut arm by the window. They brought him in hospital yesterday to dress. Bill Carriman
+            passed away Sunday at his home- in Wood county somewhere and he is over 60 years old. He
+            is not feeling well since last summer. Henry Johnson of Greenwood, Ole Waukon and Able
+            Looking Glass were here, come to see us yesterday. Henry Mike and I, we stay one room,
+            and we thank them for that, they come to see us long distance. .</p>
+      </body>
+   </text>
+</TEI>

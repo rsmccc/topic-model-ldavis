@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-11</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>REFERENDUM ELECTION NOTICE
+            Notice It Hereby Given, that at the annual municipal election for the City o;
+            Black River FalU, Jackson County. Wisconsin. to be held on the first Tuesday (be-
+            ing the 4th day) of April, A. D. 1939. there
+            will be submitted to the electors of the
+            said city of Black River Falls, the following
+            question:
+            '‘Shall any person be licensed to deal or
+            traffic in any intoxicating liquors, as a
+            beverage ?”
+            Said Election will be held at the City
+            Hall in the city of Black River Falls, and
+            the polls will be open at nine o’clock in
+            the forenoon and close at five thirty o’clock
+            in the afternoon of that day.
+            Dated March 14, 1939.
+            EILERT HAGEN. City Clerk
+            March 15-29</p>
+      </body>
+  </text>
+</TEI>

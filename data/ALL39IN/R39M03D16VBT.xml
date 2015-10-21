@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M03D16</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mrs. Eli White Wing of Wittenberg was at
+            Wausau doing some business of her own. She returned Saturday. Alpheus Long visited at
+            Robert Big Thunder’s home Monday night. He is attending the Wausau Vocational School.
+            Mrs. Robt. Big Thunder and daughter Violet also (Little) George White Wing and Emmerson
+            Thunder Cloud of Rib Mountain C.C. C. camp in Wausau visited at Mes. Robert Big
+            Thunder’s mother’s home in Dancy, Wis. They sure enjoyed the visit. Charles Smoke of
+            Tomah passed away last week at the Tomah Indian Hospital. Robert Big Thunder, who is now
+            at the Veteran’s Hspital near Milwaukee, has written to his family telling them that the
+            snow is all gone round there. He said they had rain and that helper a grat deal to melt
+            the snow. George White Wing has returned to his home in Wittenberg. He had been staying
+            at his aunt’s place in Wausau. Nat H. Long was ill in bed last week, but now he is well
+            and is working. Now for a smile! It is said that a government man or a case worker came
+            to see Ed. Little Wolfe, and asked “Little Wolfe” various questions. When he got all the
+            information he wanted, he asked “Little Wolfe” this question: “Mr. Little Wolfe, when
+            was your wife born?” Then “Little Wolfe” sat and thought for a while. Finally he said:
+            “Well, my wife was born when she was a baby.” .</p>
+      </body>
+   </text>
+</TEI>

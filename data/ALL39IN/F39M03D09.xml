@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M03D09</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>I want to tell people about Charley Smoke died last Wednesday morning at Indian Hospital. Bad cold and flu did it. Charley seventy some years old and live at Wyeville and have three children. Dan died last year and Jim and a girl live. Charley was buried at old settlement Indian grave yard near Net Peterson place with father and mother. Charley was at the Indian meeting at his place just week before died and talk to everybody and feel good. Charley was good
+            Indian and everybody like. Was friend to everybody and all white people like. When time come all go same way and everybody have to go. Indian reporter not feeling good. Have bad heart trouble and can’t sleep at night. Some nights stay awake all time and like to see morning come. Sometimes worry pretty much about heart go. All full up at Indian hospital. Everybody sick with bad colds and flu. Indians can’t stand damp warm weather one day and cod next day. After a while Indians get
+            sick and die most of them this time year. Always been that way. Indians stand cold weather but not like been having. When Indians die have big feast four nights and last night come from all over. Church preacher come last night and everything fine and people know have gone to what white man call heaven and nobody feel bad anymore. People want to know how Indian reporter got name and I tell them where name come from. Major Alec call me Frisk. Major Alec white man Indian agency here
+            when reporter was little boy long time back. One day remember when got name come to Tomah down by McCaul’s back by Cash Store to get money for father and mother from Major Alec and Major Alec say ’What's your name? ” and I say “Cloud ”, and Major Alec say “What’s your first name an d І say "have no name but C loud” , and Major Alec say “I give you one”. Then he sit and think long time and look at me and then say “I call you Frisk — next time I say ‘what’s your name’ you say ‘Frisk
+            Cloud’. I say alright and name always been Frisk Cloud. Indians hear about what white man government talk about going to do about Indian school. Say government going to tear down nice buildings and make houses for Winnebagoes and make Indian farms for Winnebagoes out of Indian school farm. Indians don't want to live out on flat Indians school farm and no trees and shade and no place to see water but out of pump. Indians going to have something to say before live out on flat farm
+            where no trees and shade and water like where Indian want to live. Indians dry up and die when put out in sun all time and don’t want to live. Indian reporter know Indians don't want to live on farms at Indian school farm and want place for children to go to school like when Compton was friend. Compton good man and have good school for Indian children and everybody feel happy. Indian reporter make joke about white man government want to tear down nice buildings and want big cupols on
+            building to put on house when tear down building and want big barn too for chickens to fly around in in winter time and get exercise and maybe reporter want other bam too to put car in. That's enough this week. Don’t feel very good anyway. INDIAN HOSPITAL NEWS In last week’s paper we mentioned the fact that Charles Smoke of Wyeville had the flu and was recovering nicely. At the time of the writing he was feeling better, but late that night took a turn for the worse, developed
+            pneumonia, and he passed away early Thursday morning. His funeral was held at Wyeville on Saturday. Charles was the father of Jim and Dan Smoke. Dan was quite a prominent figure in athletics when he was going to the Tomah high school. He died about a year ago. Jim is known throughout this part of the country for his initiative and ability to put on Indian ceremonials and pageants, and he also takes part in the pageants at the Dells each summer. Charlie’s many friends were saddened to
+            know of his death, but those who knew him well say that he had lived a full and happy life and that a good man had gone to his reward. This week the patients didn’t come in as they have been, but we did admit Sylvia Thompson, David Deer, Esther Deer, Ida Whitedog, and Angel Thundercloud. Those who were discharged were: Henry Mike, Jones Decorah, Freeman Thompson, Bertha Thompson, Janet Thompson, Florence Whiteagle, Charles Whiteagle, Ida Whitedog, Esther and David Deer, Beatrice
+            Decorah and Ernestine Decorah. This large number of patients being discharged left us with a daily average of 30 patients the lowest we have had in four months. Gary Johnson, the little orphan baby boy celebrated his first birthday last Sunday. A very small cake was made for him and a few rattlers, dogs, and other play things were given to him by the nurses. One of the Nurses bought him a new outfit of clothing or maybe we should say the first one he has had. It included rompers,
+            sweater, shoes, stockings, and a cap. When the weather is warmer he will be taken outside and taught to walk. Peter Jordon, who has been a patient in this hospital was discharged Monday. March, He is a Chippewa Indian from Whiteearth, Minnesota. Something to remember about this man is that when he was going to Carlisle some thirty odd years ago, he was one of the star football players on the team, and playing on the team with him was Jim Thorpe. Jim at one time was known as the
+            greatest all-round athlete of that time, and he has won many medals and Olympic titles, but what makes this item doubly important is that their coach was the famous “Pop” Warner. .</p>
+      </body>
+   </text>
+</TEI>

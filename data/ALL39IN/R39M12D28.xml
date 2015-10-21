@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M12D28</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Once again Christmas found us all well together in our little
+            church in the country. Our usual Christmas program was well attended and it was very
+            well appreciated as understood from many sources. The program in clued the singing of
+            several well known Christmas songs and recitations given by our young people of the
+            community. It was evident that the speeches and songs by our little ones were well
+            executed with feeling. A solo was given by one of our ladies, Susie Smith, and also one
+            by the Rev. Sihler. We wish to thank all those who took part in it and especially to
+            Miss Anna Mathison, our associate mission teacher, who had much to do with the
+            arrangement of the splendid program. Many wonderful and helpful gifts were distributed
+            among the various families which were donated by our church friends and supporters of
+            the Mission work throughout the country. The many beautiful quilts, needless to mention
+            the many colorful, framed Bible story pictures for our homes, the many toys and school
+            supplies for our many toys and school supplies for our children. We appreciate these
+            gifts greatly and certainly our Christmas was a merry one. We deeply express our thanks
+            to you all. Vacationists over Christmas include Miss Florence Wabshagain of Whitefish
+            Bay, Joseph Monegar, Milwaukee, and Sammy Cloud, Lake Tomahawk. Greetings came to many
+            of our families with apples and honey from Martin’s Cherry Orchard Inc., Sturgeon Bay,
+            which greatly added to the making of our Christmas season a merry one. We wish
+            profoundly to express our thanks. Bertha and Dells Wabshagain were very proud to be
+            recipients of an attractive fur clothed Eskimo doll and a pair of arctic mittens. These
+            gifts were sent to the girls by Miss Helen Frost, Igloo, Alaska. Until again I wish the
+            readers of this column a very Happy New Year. -S.C. .</p>
+      </body>
+   </text>
+</TEI>

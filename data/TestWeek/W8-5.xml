@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W8-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>BOWLER
+            Ben Thornse had a birthday anniversary Thursday. Friends helped him
+            celebrate the occasion at his home.
+            A baby girl, Sharon Lynn, w«a born
+            at the home of Mr, and Mrs, Harold
+            Maines Monday, March «.
+            Mrs. Wm. Kisnube entertained the
+            Sbeephead Club Thursday. Prizes
+            were won by Mrs. Herrn. Grueinvaidt,
+            Mrs. Evan Goddaks and Mrs. Frank
+            Kolpack. A lunch was served by the
+            hostess.
+            Mrs. H. Curley and Mrs. Vic. Kropf
+            entertained the St. Paul's Ladies’ Aid
+            Wednesday.
+            Mrs. Ida Binder at Ciintonville is
+            visiting at the F. A. Buettner home.
+            Hazel Sengstock is a guest at the
+            Van Eggert home at Ciintonville.
+            Relatives helped Mrs. Oliver Buettner celebrate her birthday anniversary March 4.
+            The American Lesion Post is giving
+            a card party at the Bowler hail March
+            19. Game starts at 2 p. m. Sehafskopf
+            and Mncar Admission 25 cents. The
+            public is invited.
+            Grandpa Reinert celebrated his 76th
+            birthday anniversary Friday.
+            Mr. and Mrs. Herman Grueinvaidt
+            visited at underhiil Sunday.
+            Mrs. Hattie Schiefeibein has moved
+            in the upstairs rooms in the Fuhrwan
+            building.
+            Mr. and Mrs. Wm. C. Seeping of
+            Gresham spent Sunday at the Emil
+            Treptow home.
+            Mr. and Mrs. C. O. Felts of Tiiieda
+            visited at the F. H. Kolpack home
+            Sunday evening.
+            William Wiseman and his mother
+            spent Sunday at Wausau at the Er-
+            nest Brunner home.
+            Robert Kleman is on the sick list.
+            The following ladies attended the
+            galloping tea party at Mrs. R. D.
+            Hening’s home Monday afternoon.
+            Captain, Mrs. Fred Weidner, Mrs. Ida
+            Btndei, of Ciintonville, Mrs. George
+            Weidner. Mrs. F. A. Buettner. Mrs,
+            P Heikie, Mrs. Otto Woifgram. Mrs.
+            H. Carlry, Mrs. M. MacKay, Mrs. G.
+            Matt, Mrs C. Nygren and Mrs. Frank
+            Kolpack were present. The afternoon
+            was spent by playing 500 and checkers.
+            A coin was donated by each guest to
+            the hostess who in turn gives these
+            coins to the St. Paul’s Ladies’ Aid.
+            The hostess served a lunch and then
+            she is now the new captain who will
+            select a group to "gallop" to another
+            home.
+         </p>
+      </body>
+  </text>
+</TEI>

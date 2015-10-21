@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M03D30</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Baby girl born at Indian hospital this week to Mr. and Mrs. Harvey Blackcoon from Trempcleau. Call baby girl Freda Lena. Indian reporter see three flocks wild geese go over north this week and that pretty good sign spring is here because can’t fool wild geese. Indian reporter tell three four weeks ago that all birds be here 16th of March and go in woods that
+            day and see pretty near every kind of bird like see in summer time. Same thing every year 16th of March. Indian reporter have to walk to town today to give news and start at home at 8 o’clock and don’t get to Tomah until 2. Roads pretty muddy and cars get stuck and everybody have to stop and push cars out of mudhole. When got to town stop and have dinner with Ernie Gilson down by
+            tracks. Want to tell people about all old Indians die and nobody know what Indians did long time back and old Indians die and no one can tell stories about what Winnebagoes used to do. Nobody write down things about Winnebagoes like do about white man and just tell son about what know and he tell his son same thing and old Indians know a lot about what happened way back long time ago.
+            Boys now get like white boys and don’t care about what happened long time back and pretty soon nobody know, same thing about Indian songs and dances pretty soon nobody know. Same thing too about Winnebago language and young Indian children now have to go to white man school and learn just white man talk and pretty soon Indians don’t know own talk. Lots of Indians have children and
+            children all Indian not half-breed never know Winnebago language. Indian reporter and other fellows born same time know lots things about Winnebagoes long time back like what you call history and think maybe government ought to get WPA or like that to write down what old Indians know and send people like Jim Smoke out and teach Winnebago children how to talk own language so won’t die
+            when old Indians die. Indian children don’t like to go to white man school and want own school like when Compton here and everybody happy and learn things like Indians want to know. Lots Indians live long way from school and have to go long way to school and have to go long way to school in winter time and get pretty cold and sometimes cry when get home from school and everybody have
+            bad colds. INDIAN HOSPITAL NEWS Patients admitted to this hospital since last week were: Sarah Denny, Thomas Hammer, Edna Decorah, Isabelle Smith, and baby girl Blackcoon. Patients discharged last week were: Angel Thundercloud, Karen Thundercloud, Nacy Fodelberg, Charles Low Cloud, Iris Edwards, Cornelius Baird, Helen Hill, Scharlene Smith, and Betty Smith. Notes of Interest: On March
+            27, 1939, a baby girl was born to Mr. and Mrs. Harvey Blackcoon of Trepeleau, Wisconsin. They named her Freda Lena. Nacy Fogelberg had an adenoidectomy and tonsillectomy last Friday morning. Geraldine Decorah, the little twin, has recovered from the flu, and is up and around again. Bernaline is as fat and full of pep as she always is. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>B1-6 PERSONALS
+            Ewin Hart, of Fairchild, entered
+            c*.e hospital for medical treatment.
+            H. J. Pomeroy is feeling a little
+            better after quite a serious illne'ss at
+            his home.
+            E. R. Brewer is again able to be
+            out and around a little after a time
+            in the hospital under treatment.
+            George Nortman returned to his
+            home in Cloverdale Saturday after
+            quite a long stay at the hospital un-
+            der treatment.
+            Alice Ibinger observed her birthday
+            by entertaining friends and class-
+            mates at a party at her home Thurs-
+            day after school.
+            Gilbert Lokken of Osseo, entered
+            the hospital and had an operation
+            performed Tuesday. He is getting
+            along all right.
+            Mr. and Mrs. Helmer Johnson and
+            daughter of Wisconsin Rapids, were
+            guests at the home of Mr. and Mrs.
+            Simon Melbye.
+            Mrs. Asa Royce who spent a week
+            with her sister, Mrs. Inez McGilliv-
+            ray, returned to her home in Platte-
+            ville, Saturday.
+            Roy E. Ameson of Taylor, and Mr.
+            Garson, of Mondovi, general auction-
+            eers, were business callers in town
+            last Wednesday.
+            Mr. and Mrs. Will Malony of Min-
+            neapolis, called at the home of Mr.
+            and Mrs. E. S. Jedney last Friday on
+            their way through town.
+            George Arthur Reiels has again
+            been confined to his home by illness,
+            suffering of a severe cold and flu.
+            He is improving this week.
+            Arlie Mucks, Roy Ormond and
+            Miss Edith Bangham, from the state
+            department of the F. S. A., visited
+            the local office last Thursday.
+            Dr. David Schwartz of Humbird,
+            brought Mrs. William Lubinski to the
+            hospital Saturday for treatment of a
+            case of blood poisoning in her hand.
+            H. O. Nelson of Glad Valley, S. D.,
+            is visiting at the home of his brother,
+            Goodwin Nelson, of Trump Coulie,
+            and they were business visitors in
+            town Tuesday.
+            Mr. and Mrs. Jack Frisch and fam-
+            ily drove over from Green Bay to
+            spend the week end at the home of
+            Mrs. Frisch?s mother, Mrs. Alex Gal-
+            ston. They returned home yesterday.
+            Willis Danielson came from Mil-
+            waukee Wednesday to make a brief
+            visit with his mother, Mrs. Carl Dan-
+            ielson, who is slowly improving after
+            her recent illness.. He returned Fri-
+            day.
+            Miss Madge Flynn of Humbird, en-
+            tered the hospital and was operated
+            for acute appendicitis Friday morn-
+            ing. She is making a good recovery
+            and expects to return home this
+            week.
+            Mrs. D. M. Perry is beginning to
+            get around again following an acci-
+            dent about three weeks ago when she
+            slipped and fell just outside her
+            home, and badly sprained the liga-
+            ments of her knee.
+            Miss Jane Spaulding entertained a
+            bridge club at dinner at her home
+            last Thursday evening. Miss Harriet
+            Bright was the winner of high prize
+            for the evening and Miss Jewel
+            Bright of second high.
+            Mrs. Dorothy Arndt Deno drove
+            here from Nekoosa to attend the fu-
+            neral of her great-uncle, the late
+            Charles Welnitz, and remained for a
+            short visit at the home of her parents
+            Mr. and Mrs. Henry Arndt.
+            Miss Caroline Overlien went to
+            Hammond, Saturday, by bus, to visit
+            her cousin, Miss Emma Hendrickson,
+            who has been ill for the past few
+            weeks following a stroke. Miss
+            Overlien returned that night.
+            Mrs. Joe Zeman, of Melrose, and
+            daughter, Miss Freda, of Chicago,
+            who is spending a two weeks vaca-
+            tion with her parents, were visitors
+            yesterday at the home of the former?s
+            sister, Mrs. George Dettinger.
+            Herbert Achtenberg left Sunday
+            night for his home in Rice Lake, af-
+            ter spending a couple of days at the
+            James Dimmick home. He had been
+            to Madison and to Racine, where he
+            visited his sister, Mrs. Ryall.
+            Mr. and Mrs. Edwin Dahl and son
+            Ellsworth, were visitors Sunday at
+            the home of Mr. and Mrs. C. F.
+            Sprester and Mr. and Mrs. Arthur
+            Gates, returning to their home in
+            Spring Grove, Minn., that evening.
+            Mrs. Clarence Hoke, who has been
+            a patient at the Sparta hospital for
+            some time, arrived home last Wed-
+            nesday. Although better she is far
+            from well. Miss Lillian Dettinger of
+            Northfield, is staying at the Hoke
+            home.
+            Mr. and Mrs. C. L. McDonald were
+            Milwaukee visitors last Wednesday
+            and Thursday. Mr. McDonald trans-
+            acted business in Cudahy. While there
+            they were guests at the home of Mrs.
+            McDonald?s sister, Mrs. Byron Derr-
+            Mr. and Mrs. T. M. Entwistle and
+            son Harold, and Mr. and Mrs. Wall-
+            ace Entwistle of Madison, were week
+            end visitors of Mr. and Mrs. Blaine
+            Entwistle of this city, and at the
+            Clare Wallace and John Upton homes
+            at Hixton.
+            Dr. and Mrs. B. Shlimovitz were
+            visitors in Marshfield last Wednes-
+            day, where the former attended a vet-
+            erinary meeting for the district.
+            There were 75 in attendance at the
+            banquet held that evening at the
+            Charles hotel.
+            Mrs. C. Y. Long, of Menomonie,
+            state supervisor of rural education,
+            and Miss Violet Nelson, district su-
+            pervisor of workers education, were
+            brief visitors in town Friday morning
+            on their way through from Tomah to
+            Chippewa Falls.
+            Mrs. B. Shlimovitz and children,
+            Bobby and Joanne, were week end
+            visitors in La Crosse at the home of
+            the former?s parents, Mr. and Mrs.
+            L. Nathanson. They went there with
+            their brother and uncle, A1 Nathan-
+            son, of Eau Claire.
+            Dr. and Mrs. E. A. Winter were
+            here from Augusta, Sunday, for a
+            visit at the Dimmick home. Mrs. Lena
+            Sweet, of Modesto. California, who
+            has been visiting them, came with
+            them and remained for a visit at the
+            Dimmick home.
+            L. D. Anderson left yesterday for
+            Milwaukee where he will enter the
+            Deaconess hospital and undergo an-
+            other operation. Just when he will be
+            operated and how long he will be
+            there is not known. The good wishes
+            of his friends are with him.
+            Miss Thea Kjelland, who has been
+            spending the winter here with her
+            sister, Mrs. Eugene Krohn, left Mon-
+            day for Chicago, where she will join
+            Mrs. Krohn in a visit at the home
+            of her daughter, Mrs. E. A. Gebhardt
+            and family. Mrs. Krohn went there
+            a couple of weeks ago.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M01D25</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>B-J SMOKE SIGNALS By Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>A well dressed friend of mine I met on the street yesterday said in the course of our conversation, “We’ve had so many sales lately and many opportunities to save money that I’ve got more money now than when I first started buying.” That’s really buying yourself into prosperity. Now that we are on the last lap of the four weeks of January, perhaps it
+            would be appropriate to talk fishing and fish. The Wisconsin Conservation department at Madison reports that black bass may be caught in each of the 71 counties of the state, Wall-eyed pike in 67, Musky in 24, and trout in 47 counties. Wisconsin has 7,000 inland lakes, 10,000 miles of trout streams, 12,233 acres of state parks, and 895,000 acres of forests. It’s no wonder then that the
+            Badger State is one of the great playgrounds of the nation. Some time ago I read a news item in our local paper that one of our citizens returned from a prolonged absence from the county looking a whole lot younger and healthier. Now wouldn’t it be a grand practice for all of us to leave Jackson county each year and we would have a county of young looking and healthier people. Madame
+            Misfortune has been loitering up our end of town for the last few weeks. First, Adolph Bartos’ family lost their home by fire, and it was a total loss. At the beginning of the school term, Marie Marek “ the girl of smiles” , was nursing a fractured arm. A week ago the writer’s eldest son suffered a broken leg and just lately our nearest neighbor, Stanley Martin lost his life by
+            drowning. The rest of us sure do wish that Madame Misfortune would just disappear completely instead of leaving us for some other parts of the country. It was one of those cold, lonely winter nights, dark and blustery, wind velocity close to 40 miles per hour. The “crack Flyer” was two minutes behind schedule as it roared through the darkness of a perfect night for a perfect crime. The
+            snowflakes like white pellets seem to all curve in to the headlight and dash themselves against the head of the engine. All of a sudden with screeching of brakes and sparks flying from under the wheels to came to stop. The conductor gesticulating wildly wanted to know what it was all about. The engineer squinted into the darkness ahead at a looming blackness. “We pause briefly now for
+            station identification” he called back and shifted into gear. The recent frequent light snow fall has given opportunity to track down wild animals, humans and in humans. The wolf and his smaller cousins, the foxes, with their perfect circle foot­prints, leave about the neatest trail behind their escapades. This group of predatory animals are as artful in making tracks that they may
+            follow their own trails more than twice and make it look that they had traveled by only once. There was a time when footprints of white men and Redskins greatly differed. Today there is very little difference. Of course, years back Indians wore moccasins and that made a difference but it was not that that made the difference. For years or centuries the Redskins followed narrow trails
+            and this made it necessary to place each foot just ahead of the other in a straight line, making it similar to a wolf trail. On the other hand the white man used to the wide roads and sidewalks of civilization leave footprints alternating each other side by side. Today the Indians after a few years of hobnobbing with the pale­faces frequently in town and country highways leave very
+            identical tracks behind, both wearing the same kind of foot gear. .</p>
+      </body>
+   </text>
+</TEI>

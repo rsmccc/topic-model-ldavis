@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>FALL COULIE
+            Malcolm Faldet spent Sunday at
+            Melvin Lindberg’s.
+            Clifford Johnson spent Sunday
+            with Daniel Simonson.
+            Mrs. Oscar Hoff and sons visited
+            Tuesday at Leonard Olson’s.
+            Mrs. Henry Eide visited Friday af-
+            ternoon with Mrs. Sever Eide.
+            Orville Lindberg spent a few days
+            at Leonard Schei’s, of May Coulie.
+            Mr. and Mrs. Arthur Gower and
+            family visited Sunday at Gust John-
+            son’s.
+            Vera and Hilmen Lindberg spent
+            Saturday until Sunday at Anton Bun-
+            derson’s.
+            Mr. and Mrs. Simon Amundson vis-
+            ited Wednesday evening at Alvin
+            Johnson’s.
+            Miss Rachel Curran of Taylor, was
+            a guest of Miss Cassie Thompson the
+            past week.
+            Mrs. Hellick Olson viisted Thurs-
+            day afternoon with Mrs. Anton
+            Thompson.
+            Mr. and Mrs. Simon Faldet and son
+            Francis visited Sunday afternoon at
+            Selmer Faldet’s.
+            Miss Dorothy Fitzpatrick of B. R.
+            Falls, spent the week end at the Tom
+            Thompson home.
+            Mrs. Lindberg and sons Charles,
+            Hilmen, Milton, visited Sunday at An-
+            ton Bunderson’s.
+            Mrs. Charles Holmen visited Mon-
+            day with her daughter, Mrs. Morris
+            Faldet and family.
+            Mr. and Mrs. Oscar Johnson and
+            son Odeen visited Thursday evening
+            at Alvin Johnson’s.
+            There will be English services on
+            Sunday, March 19, at 10:30, at the
+            Upper Pigeon church.
+            Mrs. Lindberg, Arthur and Chester
+            and Anton Thompson visited Friday
+            at Melvin Lindberg’s.
+            Mr. and Mrs. Oscar Hoff and sons,
+            Oliver Hanson were Sunday dinner
+            guests at Carl Hanson’s.
+            Mrs. Inga Embretson, Edwin and
+            Carl visited Wednesday evening at
+            the Tom Thompson home.
+            Anton Amundson spent Tuesday
+            until Saturday at the home of his
+            brother Clarence and family.
+            Mrs. Alvin Johnson and daughter
+            Beverly, Miss Hannah Lien visited on
+            Monday with Mrs. Emil Berget.
+            Mr. and Mrs. Henry Eide and son
+            Merlin, Mrs. Sever Eide and daughter
+            Bernice, visited Sunday at Juel Nel-
+            son’s.
+            Misses Rachel Curran of Taylor,
+            and Cassie Thompson visited Tues-
+            day afternoon with Mrs. Selmer Fal-
+            det.
+            Mrs. Alvin Johnson, daughter Mar-
+            jorie and son Jay visited Sunday af-
+            ternoon at the Martin Jermstad home
+            near Osseo.
+            Mr. and Mrs. Joel Olson ?r.d son,
+            Mr. and Mrs. Leonard Olson and fam-
+            ily, Mayme Olson, Andrew Bolstad
+            visited Friday evening at Oscar Hoff’s
+            to help Roger celebrate his birthday.      
+         </p>
+      </body>
+  </text>
+</TEI>

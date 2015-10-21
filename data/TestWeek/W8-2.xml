@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W8-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>EAST REID SCHOOL
+            Sunday afternoon callers of Mr and
+            Mrs. Leo King of the Town of Reid
+            were Mr. and Mrs. Ernest Platta of 
+            Hatley.
+            Benny and Frank WorzeUa visited
+            Clifford and Herbert Breske Sunday 
+            afternoon.	
+            Mr. and Mrs. Leo Zoromaki of the-
+            Town of Rrngle ealle^ on Mr. and Mrs.
+            Leo King Saturday evening.
+            The pupils of school w»M have a St.
+            Patrick's program Friday.
+            Mr. and Mrs. Leo Breske visited
+            their daughter Lorraine at Ringie on.
+            Monday.
+            Mr. and Mrs. Barney Ostrowski and
+            family spent Friday evening at the
+            home of Mrs. Katherine Jachovnct.
+            A number of friends and relatives 
+            from this district attended the funeral
+            if Mrs. Joe Letarski of the Town of 
+            Klderon which was held in Hatley last
+            Monday morning.
+            Mr. and Mrs. Barney Ostrowski and
+            family were callers Sunday afternoon
+            at the Barney Jagier home in Gallon.
+            The condition of Mrs. Sara Trxebiatowskl who underwent a serious operation last Monday is improved.
+            Mrs Frank Letarski spent Sunday
+            with her daughters in Wausau.
+            Simon Trzebiatowski and sons visited Mrs. Trxebiatowski at St Mary’s
+            Hospital in Wausau last week-end.
+         </p>
+      </body>
+  </text>
+</TEI>

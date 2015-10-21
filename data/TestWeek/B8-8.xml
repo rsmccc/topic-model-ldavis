@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>WASHINGTON COULIE
+            Lillian Holven spent the week end
+            at Myrland’s.
+            Art Leque and family moved to
+            Bear Creek last week.
+            Elmer Henderson of Hixton, spent
+            Sunday at Levi Henderson’s.
+            Mrs. Ed Twesme attended a shower
+            for Mrs. Julian Larkin, Saturday.
+            Kenneth Hanson spent the week
+            end with his grandmother, Mrs. Net-
+            tie Rogness.
+            Mr. and Mrs. Ernest Grinde and
+            Jimmy spent Sunday evening at the
+            Theo. Grinde home.
+            Mr. and Mrs. Harold Noren and
+            children were Tuesday evening visit-
+            ors at Theo. Grinde's.
+            Mrs. Nettie Rogness, Christina and
+            Leonard were Sunday evening guests
+            at Theo. B. Johnson’s.
+            Thomas Dale and family, Edwin
+            Roseland and family were Sunday
+            visitors at Mrs. Ida Dale’s.
+            Helen Dale, Gladys and Elaine
+            Twesme and Lucille Grinde, students
+            of the Blair high school, returned to
+            their homes Wednesday, school being
+            closed because of flu.</p>
+      </body>
+  </text>
+</TEI>

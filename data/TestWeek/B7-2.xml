@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B7-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>ALMA CENTER SCHOOLS
+            The G. A. A. gave a sleigh-ride
+            party for the girls in high school Fri-
+            day night. About 25 girls attended.
+            A good time was had by all. The
+            group was chaperoned by Miss Ker-
+            ke and Miss Courtier.
+            Alma Center was the winner of the
+            consolation prize at basket ball tour-
+            nament last week. This tournament
+            was the final play of the season.
+            The 6th and 7th grades are begin-
+            ning a series of lessons on courtesy.
+            We have had our first lesson on ta-
+            ble etiquette and will start on intro-
+            ductions next week.
+            Maurice Van Gilder is back in
+            school after a two weeks absence.
+            The pupils of the primary and in-
+            termediate rooms were entertained at
+            a sliding party Monday night by Miss
+            Betty Winslow and Miss Kathryn
+            Krebsbach. Refreshments were serv-
+            ed in the gym.
+            Alma Center High school closed its
+            1938-39 basket ball season by copping
+            consolation honors of the Class C
+            tournament held at Whitehall March
+            1-4.
+            In the first game of the tourney
+            the local five could not cope with
+            the Independence reserve strength
+            and after putting up a stiff fight for
+            two quarters, found the Trempealeau
+            Valley champions gradually pull away
+            to a 30 to 15 victory.
+            The first game played on Thursday
+            evening paired the Alma Center five
+            with the Arkansaw entry from the
+            Mondovi district. The Arkansaw zone
+            defense offered very little competition
+            and Alma Center easily won a place
+            in the consolation finals with a 37 to
+            8 victory.
+            On Saturday evening in a six min-
+            ute quarter affair, Hixton High school
+            went down to defeat by a score of
+            22 to 17 and Alma Center was in pos-
+            session of the consolation champion-
+            ship for the third consecutive year.
+            Four seniors, Wayne Nolop, Har-
+            vey Krueger, Kenneth Smith and Ev-
+            erett Thayer made their last appear-
+            ance as members of the Alma Center
+            team.
+            About 20 Alma Center High school
+            girls attended the Puff-Pant prom at
+            Merrillan Friday, March 10th. The
+            girls enjoyed the party very much.</p>
+      </body>
+  </text>
+</TEI>

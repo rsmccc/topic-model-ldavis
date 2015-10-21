@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>B1-4 Spring Fever
+            The day before commencement is
+            a detrimental time for spring fever. But that is just when it hits '
+            Brookfield College, and sets Mrs. 
+            Spangler?s (Nellie Mae Wyss) board-
+            ing house in more frenzy than ever. 
+            Ed Burns (John Gruber), who is 
+            a chemistry student, is on the track
+            of a substitute for dynamite. Vic
+            Lewis (Bob Hoffman), who is an art 
+            student, forces the wrong man to 
+            pose as a model for a Bolshevik spy.
+            Howard Brant (Allan Siemers) frantically types on a term of paper for 
+            zoology. The men who will determine 
+            whether or not Howard will graduate 
+            are President Dixon (Bruce Rich-
+            ards), Professeur Bean (Bob Amo),
+            and Mr. Purcell (Wayne Glennie).
+            In the meantime Mrs. Purcell j
+            (Aleen Trask) searches for her husband who she is sure has been kid
+            napped. Anne Purcell (Mary Rose
+            Boyer) wastes no time in inventing a 
+            plot to make matters better or worse. 
+            In this scene Vic and Vivian (Jane
+            Davis, who is Vic?s heart-interest) aid
+            Anne.
+            There is another important senior
+            in Spring Fever Lou Herron 
+            (Rosli Zwahlen) who being a jour-
+            nalism student, breezes in every now
+            and then to use the typewriter, and
+            maybe?to see Ed.
+            But why tell more? It is all fast
+            and furious and funny?with loud ex-
+            plosions every now and then from
+            Ed?s stinkum stinktorum for good
+            measure.
+            Says Ed, wish college was al-
+            ways like this. So does every one.
+            When you?ve seen one day of Spring 
+            Fever you?ll think it?s swell.
+            Spring Fever written by Glenn
+            Hughes, was awarded first place last 
+            year in Players Magazine Poll, High 
+            school division.
+            For the production of the play in
+            the High school auditorium, Ruth 
+            Ann Bailey is the director, and Olga 
+            R. Olson, the business manager. Students assisting them are:
+            Student director?Mary Perry
+            Curtain man?Verland Olson
+            The production staff, too, is busy
+            making plans for the play, which 
+            to the seniors is the biggest event of 
+            the year with the exception of com-
+            mencement. Committees consist main-
+            ly of seniors with some members of
+            the Cue club assisting. Mary Perry 
+            is acting as student director; tickets
+            are being prepared by Francis Potter
+            and Elva Faulkner; properties are 
+            being selected and gathered by Richard Mattson, Marcella Nanstad and I
+            Joseph Marousek assisted by Lottie '
+            Ruth Fryer and Dorothy Savage.
+            Gwendolyn Wensel and Merle Hal-
+            verson are directing the making of 
+            posters; Vivian Anderson will have 
+            charge of the programs and costumes
+            will be taken care of by Jeanette 
+            Brown assisted by Violet Stanley,
+            lone Haralson and Artyce Joy Gil-
+            bertson. The stage crew is headed by
+            Glen Young and Arland Thompson, ,
+            while on the evening of the produc- j
+            tion La Von Hauge will head the
+            make-up” group assisted by Jean j
+            Haralson and Pauline Meek.
+            Music will be under the direction '
+            of Verna Keefe.
+            Tickets for Spring Fever will 
+            be on sale by members of the senior 
+            class. General admission is 25 cents 
+            and reserved seats will be on sale at 
+            Biggar?s store from Thursday of this
+            week on. They will cost 10 cents
+            additional.</p>
+      </body>
+  </text>
+</TEI>

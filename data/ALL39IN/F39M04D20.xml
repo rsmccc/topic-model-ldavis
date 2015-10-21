@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M04D20</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Well first thing I want to tell about is how government make bad laws about fishing and hunting and tell people they make things good for sportsmen and hunters and people like me that been hunter and like that for long time know that things aren’t same and can tell people lots of things why everybody think fellows that make laws all wet like white man say but
+            nobody ask Indians what they think about game laws. When prairie chicken and pheasant lay eggs and just only few little birds people don’t know why but Indian reporter know that after bird lay eggs pretty soon skunk come along and eat them up. Skunk some time smell bad too but he can smell bird’s nest and find nest and eat up eggs and pretty bad when skunks steal all eggs and kill lots
+            of little birds before birds can fly. Reporter think pretty foolish about game laws and think should have law and big Denny on skunk and other things that eat up birds eggs. I want to tell about otter and mink kill lots of trout and eat up duck eggs and sometime other eggs too and should have bounty on them too. Every year everybody out little trout in crick and when season time start
+            for fishing sportsmen don’t get any fish and don’t know why and that’s the reason. The mink and otter get all trout and fisherman don’t get any. In just a few years sportsmen won’t have any fish in cricks to catch and same thing for hunter when all young deer are killed by fox. Government should have bounty on all them things. Tom Walker lives at Black River Falls and come visit at
+            Tomah with Indian friends and go to hospital to have doctor. Mr. and Mrs. George Funmaker have baby girl last week one day. Another thing I want tell this week about is the Indian school and hospital and everything out there was built just for Winnebagoes and now everything come from all over to Indian hospital and lots of Oneidas come from long way off just to have papoose and fill up
+            all hospital and lots of time no room for Winnebagoes that are sick and want to go to hospital. Come to hospital to have papoose and sometime stay two three weeks. Elijah Antone died at hospital last week and they bury him at Wittenberg. Sunday was pretty bad day and Indian reporter didn’t come to town to see Dr. Cunningham put sail boat on lake for first time but people tell about
+            boat go out o lake with wind and when want to come back can’t tell what to do with sail and have pretty bad time to get back and fellows in boat pretty scared. Indian Hospital News Patients admitted to this hospital last week were: Alice Welch, Arthur Malone, and Esther Blackhawk. Patients discharged were: George Green, Jenifer Gardner, James King, Colleen Ninham, Josephine Ninham,
+            Morris Ninham, Sarah Deeny, Eldon Denny, Eva Morgan, Robert Lee Morgan, Celinda Doxtator, Iola Skenandore, Marie Redeagle, Luther Redeagle, Alma Thomas, Bernadine Decorah, Geraldine Decorah, Evelyn Metoxin, Mary Metoxin, Elijah Antone, and Arthur Malone. The Decorah twins, Bernadline and Geraldine have been placed in a foster-home at Hixton. Their brother is also in this same home.
+            Elijah Antone, aged 74 passed away at this hospital on April 16. He had been sick for some time with arterioscierosis. His funeral was held at Wittenberg. Scott L. Peters, Guidance and Placement Officer from Milwaukee was a visitor at this hospital on Tuesday. Mr. and Mrs. George Funmaker Jr. had a baby girl born on April 14. They named her Pearl Rose. Mr. and Mrs. Freeman Metoxin had
+            a baby boy born on April 13, 1939. They named him Gary Grent Metoxin. Godfrey Mallory celebrated his eleventh birthday today. He had a birthday today. He had a birthday cake with white frosting and 11 pink candles on it. .</p>
+      </body>
+   </text>
+</TEI>

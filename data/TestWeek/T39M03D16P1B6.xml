@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1B6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Ed Burroughs will Operate Station Here
+            Ed. Burroughs, well known local man, has taken over the operation of the Sinclair service station on Cliffon street, just east of the stop and go lights, where he is serving his friends and other customers. Ed. Is a willing and attentive worker and will make an efficient station operator. 
+            Ivy Brandt, who recently moved his family here from Wonewoe, is now in charge of the Sinclair super station at the corner of Superior avenue and Juneau street. 
+            Helping Hand To Meet
+            The Helping Hand Society will meet at the home of Mrs. Ellis Talbot Thursday afternoon, March 23, at 2 o’clock.
+         </p>
+      </body>
+  </text>
+</TEI>

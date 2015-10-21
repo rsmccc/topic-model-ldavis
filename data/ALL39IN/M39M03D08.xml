@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M03D08</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>B-J SMOKE SIGNELS By Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>March came in like a cute little pet lamb with lots of
+            wooly white snow and probably will go out like a female lioness without the shaggy mane.
+            They say Ferdinand the bull likes to smell flowers which may account for our steak
+            having such sweet flavor. Week ago Monday while walking through the woods to the mail
+            box I ran across tracks of field mice and what do you suppose I saw? Well, this
+            prophetic little mouse was dragging its tail in the snow. I said to myself, “ Oh! oh!
+            we’re going to get some snow” . And Tuesday you all know what happened. Roads were
+            drifted so high in places it took me five hours from B. R. Falls to home, a distance of
+            13 miles, and then I had to leave the car and walk five miles to home. Who then is to
+            blame for the storm? The field mice or the weather man? It’s “hiyo, Silver!” twice a
+            month when the pay checks come. And it shall come to pass that Disney will take a rib
+            from Ferdinand’s side and make a bovine Eve who will in time offer Ferdiand the
+            forbidden apple. Believe it or not, that’s bull! The trend of thought of the human race
+            is hard to follow and even more difficult to understand. The Indians of the earlier
+            times fought for their rights as rightful owners of this county and they were called
+            savages. Today men fight for greed, power and wealth through means of aggression,
+            oppression and "trick laws” , and this current existence is called Advanced
+            Civilization. In another two weeks youthful beautiful spring will be fighting for its
+            rightful place and I hope we will not call her a savage. The Smoke Signals predicted a
+            mild winter not thru use of scientific instruments but thru observance of nature’s own
+            trees, shrubs and animals and we all know we had a very comparatively mild winter
+            season. Ail well and good but we should give all credit to these “dumb animals” and
+            lifeless trees for they alone know what we as thinking human beings do not know. Now
+            altogether, let us shout— “Hats off, the snow plow is passing by!” .</p>
+      </body>
+   </text>
+</TEI>

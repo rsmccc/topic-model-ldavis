@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marriage Licenses
+               County Clerk L. E. Austin issued the following marriages licenses. 
+               David M. Olson of the city of Tomah, and Nettie Dutcher of the Town of Oakdale. 
+               LaVerne M. Hendrickson of the City of Tomah and Margaret Boettcher of the town of LaOrange. 
+               John M. Lakowski and Margaret L. Pariow, __ of the town of Little Falls. 
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Marriage Licenses
+            County Clerk L. E. Austin issued the following marriages licenses. 
+            David M. Olson of the city of Tomah, and Nettie Dutcher of the Town of Oakdale. 
+            LaVerne M. Hendrickson of the City of Tomah and Margaret Boettcher of the town of LaOrange. 
+            John M. Lakowski and Margaret L. Pariow, __ of the town of Little Falls. 
+         </p>
+      </body>
+  </text>
+</TEI>

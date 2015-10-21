@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M04D13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>People tell Indian reporter about La Crosse Tribune tell about what reporter say in Indian News last week about CCC and WPA spoil country for fishing and same and everything like that. La Crosse paper think Indian reporter all right when tell about taking out all beaver clams and try to tell wild animals and birds how to live. I know because have been fishing
+            and hunting for long time and everybody know game not as many as before CCC and WPA spoil everything. Ben Nuzum good friend of Indian reporter died last week. Lots of Indians knew Ben Nuzum and sometimes made trips to Viroqua with him for parade and big Indian show on Fourth of July and fair time. I went with him myself two three times and put on Indian dance and people think dance
+            pretty good. He was good friend of all Indians around here. One Indian Isabelle Smith died with tuberculosis and been at hospital just a little while. She was from Wittenberg. Lots of babies being born. Same thing every spring and maybe be Winnebagoes here for long time. Charley Low Cloud was back at Indian hospital again last week and Charley been pretty sick all winter and not well
+            yet. HE had that bad cold that everybody had last winter and then got flu and been pretty bad. Good thing that have Indian hospital here and lots of Indians get well and it didn’t have hospital not get good care and die. Nice weather make Indians went to get outdoors and pretty soon you see lots of Indian basket places along road and everybody hope that there will be lots of tourists
+            so people can sell baskets and make money so they can live. Last year was good year and people pay more for baskets and some people pay two three dollars for nice ones. White fellows at barber shop tell Indian reporter everybody want him to be in Tomah Sunday at lake and see Dr. Cunningham start new sail boat on lake and see him tip over and tell people all about it next week in Indian
+            News. Maybe Indian reporter be at lake but I don’t think want to take ride in boat. Don’t look like very good boat fellows say and maybe tip over and Indian reporter never go swimming until water get warm and can’t swim good with clothes on and don’t like jackets like people tell about. Canoe better for Indian and can’t tip over like in sail boat. Baby boy born to Mr. and Mrs. La Verne
+            Redeagle at hospital last week on Friday or Saturday. Another white man friend or reporter Pete Christianson was drowned two weeks ago at Potter marsh and forgot to tell about Pete Christianson die in last week Indian News. Indians work for Pete on marsh raking cranberries and everybody think Pete very good fellow and good friend of Indians. Indian Hospital News Patients admitted to
+            this hospital last week were Mary Metoxin, Evelyn Metoxin, and Bertha Jeanette Hill. Patients discharged from the hospital were: Mary Decorah, Lena Blackcoon, Freda Lena Blackccon, Arnold Ross, Edna Decorah, Isabelle Smith, Melinda Greengrass, and Maynard Greengrass. Babies who were born last week were: To Mr. and Mrs. Clifton Cornelius a baby girl. They named her Carmelite and she was
+            born on April 5, 1939. To Mr. and Mrs. Morris Nunham, a baby boy on April 6, 1939. The baby is not yet named. To Mr. and Mrs. Alfred Morgan a baby boy on April 7, 1939. The baby is not yet named. On Friday April 7, 1939 at 6:25 p. m. Isabelle Smith passed away. She had been in the hospital only a short time but was suffering from pulmonary tuberculosis. Her mother, Mrs. Susie Smith of
+            Wittenberg, Wisconsin, was with her at the time. Sympathy goes to her parents and three brothers and one sister. Since July 1, 1938, we have had 53 babies born this hospital. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SQUAW CREEK
+            Richard Stenulson delivered tobac-
+            co at La Crosse last week.
+            Ted Stenulson and family were at
+            A. Stenulson’s Saturday evening.
+            Mrs. Neal Christenson called at S.
+            Stenulson’s, Friday afternooon.
+            Miss Doris Thompson arrived home
+            from Milwaukee Saturday, where she
+            has been employed.
+            Mrs. Mart Engebretson will enter-
+            tain the Ladies Aid at the church
+            parlors, March 17th.
+            Mr. and Mrs. A. Collum of South
+            Alma, attended services here and
+            called among relatives, Sunday.
+            Misses Hazel and Agnes Engebret-
+            son and Adeline Stenulson were call-
+            ers at the home of their parents af-
+            ter services here Sunday.
+            Mr. and Mrs. Russel Rottler and
+            children of Necedah, were Sunday
+            callers at Ed Thompson’s. They had
+            their infant son baptized by Rev.
+            Romstad at services here Sunday. He
+            will be known as Russel Lane. Spon-
+            sors were Mr. and Mrs. Ed Thomp-
+            son, Mrs. Carl Lee and Mahlon Holm-
+            green.</p>
+      </body>
+  </text>
+</TEI>

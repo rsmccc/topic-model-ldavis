@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M11D23</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indian reporter get two letters today and one letter from Ben
+            Cady who was boss at cranberry marsh Valley Corporation and tell about want to have
+            paper go to Rockford where he now live and moved there. Everybody that work for Ben Cady
+            think he is pretty good fellow and all Indian like to work for him and sorry when they
+            hear he leave cranberry marsh. Other letter I got from Minneapolis fellow and his name
+            Andrew Senerson and he want big picture of Indian reporter to have in frame and hang on
+            wall and tell about have room in his house Minneapolis all about Indian and want picture
+            of me to hang on wall. I have to write to him and tell Mr. Senerson I don’t have big
+            picture like what he want and I send him little picture and maybe he can make it big
+            picture like he want. Saturday first day to hunt deer and lot of Indian just same like
+            me and don’t have any money to buy license and can’t hunt deer. Young Indian fellow tell
+            me other day about he want to get license so he can shoot deer but don’t have money and
+            take everything he make to buy things for family to eat and now can’t get job and nobody
+            hire Indian to do work and pretty bad when good Indian young fellow can’t shoot deer to
+            eat and all whole country was Indian S and all deer was Indian’s before white man come
+            over here Europe and take all away from him and now when he don’t have white man money
+            to buy license with tell him “you can’t kill deer or put you in jail.” Other day when
+            Indian reporter over by rock cut between Tomah and Valley Junction on old railroad I see
+            big track that look like cow track and I know deer track and two three days I go there
+            and I see big buck but he wasn’t in same place but pretty sure same deer. .</p>
+      </body>
+   </text>
+</TEI>

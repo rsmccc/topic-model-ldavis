@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1B3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>E. A. Lalk Speaker at Tomah Rotary
+            E. A. Lalk, assistant general freight agent of the Milwaukee Road, was the guest speaker at the regular meeting of the Tomah Rotary club on Wednesday. Mr. Lalk gave a very interesting talk in which he told of the changed conditions that have had their effect on the freight business of the railroads. He stated that it is generally agreed that the continued prosperity of the nation and that they are indispensable as a part of the nation’s defense plan/ Revenues have fallen off rapidly and the past few years on account of competition by other freight and passenger carriers and the railroad companies are having a struggle to continue in operation, Mr. Lalk said. 
+            Mr. Lalk did not offer a solution to remedy the present condition of the railroads but stated that the railway companies were doing everything possible to improve their service to encourage greater use of their facilities. He also urged business men to make more use of the railways and in this way help place them on a more sound financial basis. 
+         </p>
+      </body>
+  </text>
+</TEI>

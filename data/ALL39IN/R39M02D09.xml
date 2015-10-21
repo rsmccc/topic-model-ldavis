@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M02D09</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>WINNEBAGO INDIAN ITEMS</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>George White Wing makes good in the Wisconsin Rapids Golden Glove
+            Tournament. The first bout was forfeited to him. Second bout he won by knockout. Third
+            bout he was given a good decision over Flambeau Indian. George fights in the finals Feb.
+            16 for state championship. If he wins he will go to Chicago tournament. He is at present
+            at his uncle's home in Wausau, Bob Big Thunder, training under him. The Lac du Flambeau
+            Indian Boxing Club were all eliminated. Ray White Wing is at Tomah Hospital. He too was
+            to fight at Rapids but he being treated at the hospital he was unable to go on. Violet
+            Big Thunder is at her parent’s home in Wausau attending 2nd year high school and taking
+            some subjects which will enable her to take nurses course to be a trained nurse. .</p>
+      </body>
+   </text>
+</TEI>

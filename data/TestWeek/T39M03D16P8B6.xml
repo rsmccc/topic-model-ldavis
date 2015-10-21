@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P8B6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Notice of Municipal Election
+            Notice is hereby given that an election will be held in the several wards in the City of Tomah on the first Tuesday in April 1939, being the 4th day of said month, for the purpose of electing the following officers:
+            Supervisor for the First Ward in place of Gust Gerke whose term expires. 
+            Supervisor for the Second Ward in place of T. F. Finucan whose term expires.
+            Alderman for the First Ward in place of August F. Mueller whose term expires.
+            Alderman in the Third Ward in place of Ben Shaw whose term expires. 
+            Member of the School Board in place of Edith Wells whose term expires.
+            Member of the School Board in place of Dr. T. J. Sheehy whose term expires.
+            Said election will be held at the following places: 
+            First Ward, South Room in City hall. 
+            Second Ward, North Room in the City hall. 
+            Third Ward, Third Ward Engine House.
+            The polls of said election will be open at 9:00 o’clock in the forenoon and close at 5:30 o’clock of said date; said election to be held and conducted, votes canvassed and returns made according to law. 
+            Dated this 8th day of March 1939. 
+            Ethel Sowle
+            City Clerk 
+         </p>
+      </body>
+  </text>
+</TEI>

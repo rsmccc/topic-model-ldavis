@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M09D07</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Last week Indian reporter fix up news at Wisconsin Dells and send to newspaper and never come out in paper and I get pretty sore again and other people that want to read about Indian News get mad too and I know because when I come to town Monday everybody stop me on street and come to me where I am in tavern and say “where your Indian News” and one fellow tell about going to stop paper if don’t have Indian news in anymore. I work pretty hard to write Indian news and if I can’t have in paper I won’t write news anymore and I quit. 
+            My grandson Curtis Redbird go to Pipestone, Minnesota Thursday and going to go to Indian boarding school and maybe sometime he going to be Indian reporter like his grandfather. I tell him things I know about people like to read and he learn some things in school too. Last winter he walk to school three miles and get pretty cold and one time froze feet and at Pipestone he stay right at boarding school and don’t have to walk long way and freeze feet. Another thing I want to tell about Indian reporter won’t have to get up early and get boy ready for school and can sleep long time and all winter if I don’t get hungry or have to chop wood. 
+            Indian from Hunter’s Bridge, up above La Crosse, died at Indian hospital and they take him back to Hunter’s Bridge to bury him. His name is John White Dog and a lot of Indians around here know him. 
+            Wisconsin Dells all through and everybody go to homes again. More people come to Dells than last year and one time over 2,000 come one night. Everybody have good time with all different tribe of Indians bye feel pretty bad when have to say good bye to all friends and people work with. 
+            Saturday night Indians going to have big Medicine dance at Watermill and Indians come from long way off. 
+         </p>
+      </body>
+   </text>
+</TEI>

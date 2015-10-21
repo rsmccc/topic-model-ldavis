@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Rural Schools To Do Judging Here In April
+            Contests Sponsored By High School Departments
+            Plans are going forward for the first annual judging contest for rural and state graded schools of eastern Monroe county, which will be held is Tomah, probably on the last Saturday in April. __ interesting event will be conducted under the supervision of the agricultural department of the Tomah high school, of which A. R. Weiner is the instructor. 
+            Included in the program will be small grain judging and contests in the identification of all farm __ and weeds in the agricultural department and clothing and food judging contests, sponsored by the __ economics department of Tomah high school, of which Miss Ragna Mullen is the instructor. Individual and school prizes will be awarded in those events, details of which will be announced later. 
+            Clothing judging will include judging dresses, slops, patches and stocking darns. Food contests will include judging muffins, table settings, canned goods and dinner menus. 
+            In the agricultural department there will be judging of golden flow and hybrid corn: judging of samples of oats, barley, wheat, clover seed, timothy seed and soybeans; and identification of various weeds. Schools and pupits are being urged to collect as many seed and weed samples as possible. It is pointed out that seed companies will co-operate in furnishing samples on request. 
+            Information and further details of this interesting and instructive event may be had from either Mr. Weiner or Miss Mullen at the Tomah hish school. 
+         </p>
+      </body>
+  </text>
+</TEI>

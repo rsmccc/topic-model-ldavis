@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M07D20</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Well Folks it’s been long time now when Indian reporter don’t write news for you and I want to say one thing people like Indian News I write pretty good and newspaper have letters that tell about where do Indian News go last two three weeks and not in paper like it was every week for long time. I want to tell folks like this, why I don’t write Indian News and Indian reporter been to Wisconsin Dells and one of people in big Indian ceremonial at Stand Rock.
+            Tuesday morning me and my grandson Curtis Red Bird get up early in morning just about time birds start to sing and 5 o’clock drive to Tomah. First thing I go to newspaper office and want to tell news so can put I paper. We get here pretty early and only just few people around town and saw Abe Gordon and Arnold Schueler and Jim Rice that haul mall and two three other fellows and George Billows that get up pretty early too. Indian reporter go to newspaper office and wait for girl to
+            give Indian News to and have to wait long time and she don’t get up very early and she don’t get up very early and maybe stay up late at night and don’t wake up early in morning. I want to say it like that and put it in just like I say it or I get pretty sore and I quit and don’t write Indian News for you anymore. I come home to farm by Watermill two three times every summer to hoe potatoes and corn I plant and see how everything is after we go away to Wisconsin Dells for long time.
+            Haven’t been to home since we go to Stand Rock 26th June. No money in farming like people do and I just plant things to eat and go to Wisconsin Dells and work at Stand Rock and have good time all summer and come home to farm after Labor Day- and make more money than fellows that work hard on farm all time. Everybody that see Indian Reporter say “How you doing?” and “Who’s business at the Dells?” and I want to tell folks about big crowds come to see show but don’t have money like
+            other times and fellows that used to give Indian 25 cents and sometime 50 cents for picture now just give dime and sometime want to be big shot and show girl friend big shot fellow and spend lot of money and give Indian 15 cents for picture and just like that all time this year. Maybe I come to Tomah pretty soon again and then I write some more Indian News like friends want to read in paper about things. Here is some news people at Stand Rock give to me and I want it put in paper.
+            This week a number of Winnebago and Zuni Indians, taking part in our ceremonial at Stand Rock, are recording their songs, flute and tom-tom melodies for Mr. Scott Peters, assistant guidance and placement officer, United States Government. Mrs. Hilda Miner has returned to Stand Rock Camp, Wisconsin Dells, after an illness of several weeks, at Tomah Indian hospital. Your correspondent heard the following conversation between two white visitors to the Stand Rock Indian Ceremonial a few
+            evenings ago. Chief (George) Lone Tree was speaking in our native tongue. One visitor: “I just can’t understand a word that President is saying.” 2nd visitor: “That isn’t a ‘President’-that’s a Chief.” A group of Wisconsin university summer school students were trying out Indian dance steps after the ceremonial was over last Saturday night. Seeing one of our boys, in full costume approaching their spontaneous Pow-Wow, one of the students called out, “Say Chief, they are stealing your
+            dance.” Our ‘Chief replied: “They’ve stolen everything else away from us; they might as well take it, too.” .</p>
+      </body>
+   </text>
+</TEI>

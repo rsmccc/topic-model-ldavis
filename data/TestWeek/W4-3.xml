@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Libraries Need Aid
+            State Aid for libraries is an annual
+            fund appropriated by the state and
+            used to supplement local funds to establish public libraries in areas now
+            without them and to extend and im-
+            prove the service of existing libraries
+            Why Wisconsin libraries need state
+            aid:
+            30 per cent of the population of the
+            entire state is without local public library service.
+            40 per cent of the population, excluding Milwaukee county, has no lo-
+            cal library service.
+            A large proportion of the population which now has access to libraries
+            is poorly served because the cost of
+            adequate library service is more than
+            some communities can support.
+            $.44 a year is the average per capita
+            expenditure for library service in Wisconsin from local appropriations. The
+            minimum national standard is $1.
+            Wisconsin’s expenditure is more than
+            50 per cent below standard.
+            Libraries are of primary importance
+            in all adult education programs and
+            provide the only free source of material for those who continue to study after leaving school.
+            Libraries are an integral part of
+            the educational system and arguments
+            which support state aid for schools
+            are equally applicable for library aid.
+            What state aid will do for Wisconsin libraries:
+            It will stimulate the establishment
+            and growth of local libraries, thereby
+            decreasing the percentage of people
+            lacking access to the free use of books.
+            It will tend to equalise library sup-
+            port in leas prosperous areas without
+            decreasing support in communities
+            now sewed.
+         </p>
+      </body>
+  </text>
+</TEI>

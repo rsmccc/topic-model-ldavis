@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P5T4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>50th Anniversary of Dr. David Roberts Veterinary Service
+            Few men have a wider, more favorable acquaintance among farmers and breeders than Dr. David Roberts. For fifty years his practical effective remedies have been used by over a quarter of a million owners of livestock. For three years, he was State Veterinarian of Wisconsin, and many times has served as official veterinarian at National and International Livestock shows. 
+            Hundreds of thousands of dollars in livestock have been saved annually through the use of Dr. David Roberts veterinary preparations, not only in Wisconsin, but in nearly every state in the union. 
+            No company could grow year after year for the past fifty years if it’s products did not have merit!
+            Recent litigation, which has had more or less publicity, had no connection with the Wisconsin regulations, but pertained only to alleged mislabeling for interstate shipment as construed by government men charged with the enforcement of the Food and Drug Act. It does not interfere with the sale and use of these medicines in our own state. All required formulas have been submitted and registered under the Livestock Remedy Act in the state of Wisconsin.
+            It has always been the policy of the Dr. David Roberts Company to fully comply in every way possible with the rules and regulations, both state and federal, pertaining to livestock preparations. 
+            The Authorized Dealer in Tomah is Pederson’s Rexall Drugstore 
+            Cara Nome Beauty Salon 
+            
+         </p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SCHOOL NEWS
+            F. F. A. News
+            Basketball again takes the spotlight
+            in the F. F. A organizatlon. Thursday right the Ag. boys will meet the
+            Eland gradi tournament chimp ins.
+            who will be reinforced by some of
+            the is freshmen and sophomore player
+            it should be an evenly matched game,
+            although the local boys have a slight,
+            age advantage.
+            Our locals didn't make too good a
+            showing against Antigo, but they hop
+            to play a much better brand of ball
+            this next game. If they are successful in turning back these highly publicized grade champions, plus high schoo| help, they will have a very good
+            chance of winning their return game
+            with Antigio.
+            Byron Johnson,
+            F. F. A. Reporter.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M01D04</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>B-J SMOKE SIGNALS By Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>A Happy New Year to everyone. So many
+            have inquired of me who it was that “ played” Santa Claus at the
+            Clay school this year and did so well. “Played” get that. Imagine
+            some people can’t believe there is a Santa Claus. Why it was Santa
+            Claus him­ self, of course. They must be like Santa Claus’ children.
+            They don’t believe there is a Santa. They “know” it’s the “old man”
+            who plays it. Reminds one of the stork when he came home from making
+            a call and found Mrs. Stork eyeing proudly a brood of gangling
+            long-legged stork- lings wrapped in swaddling twigs and weeds lying
+            in a chimney flue. “What is all this?” he roared. “Why”, the stork
+            was here while you were away,” the Mrs. S. replied. The Christmas
+            trees of yesteryear shorn of all tinsel trimmings and fra­ gile
+            glittering and glistening oran- ments are thrown away, like empty
+            bottles, no more to brighten the home and gladden the hearts of
+            children. No earthly use whatever it lays dis­ carded awaiting to be
+            carted o ff to the dump. But no! They still can be of ser­ vice to
+            someone as the writer found out. Placed conveniently in two rows,
+            tree alternating, they make the best kind of a snow fence if enough
+            of them can be gotten together. We saw white whiskered 1938 go out
+            leaning heavily on his cane look­ ing like his life started long
+            before he was forty. We saw the new year come in but couldn’t tell
+            whether it was a boy or a girl. I’d hate to be a year because one
+            gets old too quick long before he has any fun. For the people of the
+            old country the new year started with a “ bang”. .</p>
+      </body>
+   </text>
+</TEI>

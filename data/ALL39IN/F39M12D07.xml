@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M12D07</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Well Folks Indian reporter not such bad hunter and I get my
+            deer too but I don’t get him with bow and arrow. I have to use rifle and I get nice deer
+            with four wings on horn and I told people pretty sure I get my deer this year. After I
+            shoot deer I see great big buck but I can’t shoot him because saw tell hunter he can’t
+            shoot more than one deer, but I bet pretty sure on thing white fellow shoot deer I see
+            before season open. Fellows in town tell Indian reporter pretty good joke and want me to
+            put in Indian news. They tell me like this. Chet Burnstad he is tall fellow that work at
+            Shitter store and August Schamens he now at barber shop and other fellow I don’t
+            remember his name go deer hunting. Burnstad work at store so he is going to take lunch
+            and tell other fellows you don’t need to take lunch and he will have some for everybody.
+            Day before go hunting Burnstad’s wife go down town and get cornflakes and coffee and
+            shirt for boy or things like that and have in basket and leave by door of house and next
+            morning Burnstad get up early and think basket is lunch and put it in car and everybody
+            go hunting. Noon fellow get pretty hungry and want to have some of lunch and Burnstad
+            say “come and get it” like that and open basket and don’t know he have just package of
+            coffee and cornflakes and boy shirt. I have to laugh pretty good when I heard that
+            story. Same time they all tell me about Indian hunter and everybody want to tell me what
+            I put in Indian News. They tell me his name but I can’t remember and I tell story like
+            they tell me. Indian go out in woods to get buck and he shoot him and buck fall down and
+            he run up and think he is dead and he tie on tag on him. They tell deer not dead and
+            jump up and run through woods and Indian follow him and pretty soon hear gun go off and
+            white man city fellow shoot his deer. Indian tell him about that is his deer and show
+            him tag and white fellow say if you can run as fast as deer and put tag on him when he
+            is running Indian should have buck. Woman at Wyeville write to Indian reporter and want
+            to know things about Indian religion long time back and I tell he like I am going to
+            say. Long time back Winnebago Indians like around Oshkosh and lots of red bank clay
+            there and Indians think then that Great Spirit like we call God take red clay and make
+            Indian. Same think with white man too only Great Spirit take white foam from lake there
+            and make white man. Jess and Steve and Leo Brown all brothers and come from Desota to
+            hunt deer and they all good friends of Indian reporter. Some more Indians come from La
+            Crosse and they come to see Indian reporter too. Furs going to be pretty good for this
+            winter and I think Indians that trap make pretty good money. Everybody tell me better
+            trapping than other years. This week Indian reporter don’t hear much news and nobody die
+            or get sick or have baby and like what you call news like other people write. .</p>
+      </body>
+   </text>
+</TEI>

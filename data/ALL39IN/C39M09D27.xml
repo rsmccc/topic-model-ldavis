@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M09D27</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Many Indians are going to picking cranberries, most of did not come home
+            yet. Two boys came from Winnebago Reservation at Nebraska last week, Rueben Snake and
+            Ben One Horn. They went right on to Neopit Wis., to look for Waler Snake. Ladies Sewing
+            project forelady said 1750 yards of material from the district office in Menomonie, Wis.
+            All the ladies are busy every hours next few months, and special “cutters” Mrs. Wood,
+            she can not cut all that for one month, it same some time. Mr. and Mrs. Eric W. Stephens
+            came back from Wyoming, Minnesota. Mr. Eric is not working out there and came back to
+            Wisconsin to stay with two John Stacy’s boys at Greenwood, Wis. Perhaps they will stay
+            up there until he find job to work somewhere and his daughter will go school at
+            Greenwood so Mrs. Stephens sister, brother and her parents, Mr. and Mrs. John Stacy to
+            visit here last week and they took her Clarence Monigar, Jr., so of Mr. and Mrs.
+            Clarence Monigar, of Indian Mission. They want him to go to school with Bonnie May
+            Stephens, the daughter of Mr. and Mrs. Eric W. Stephens. I am very glad to receive a
+            post card from Mrs. C. E. Button of Hixton, Wis. She says Jennie Quackenbush is a friend
+            of mine and I am glad to tell you she is Mrs. A. H. Hanson now of West Salem, Wis. The
+            Hotonga schoolhas had many visitors. Supt. Farmer from Tomah, Supt. Christy from
+            Milwaukee, Educational Field Representative Mr. Eubank also state nurse Miss McLaughlin.
+            The 7th and 8th grade are busy with their history. The 5tha nd 6th grade have been
+            studying the different kinds of leaves. The school children were very happy when Eubank
+            from Tomah brought them 50 coat hangers and six larger chairs. The pupils in the lower
+            room are making a farm on the sand table. The 3rd and 4th graders are busy making
+            colored leaves for a border in our room. Miss Louise Kippenhan of Appleton, Wis., she is
+            social worker. She is here last week and she will instruct the school children lots of
+            different things but they had not fix up the place. The Indian reported had lots of
+            visitor from Knapp. Mr. William Whitney and daughter Mrs. Grace Whitney Larson and Mrs.
+            Ida Jarrett, and Mr. Whitney says he lived here Jackson county for 60 years but never
+            been here at Indian Mission until yesterday and he promised him to come here again when
+            he will have time to come over, and Mrs. Grace she is one good hand writing and she said
+            she onve had contest penmanship she got the first prize. Mr. and Mrs. Charley Young
+            Thunder came over to see Mr. Bert F. Johnson last week. Mr. Young Thunder want him to go
+            to High school this year again and he will see his record first and he will take again.
+            Benjamin Young Thunder is going to high school again this year. .</p>
+      </body>
+   </text>
+</TEI>

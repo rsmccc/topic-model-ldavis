@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W3-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Safety Talks
+            Mischievous Hands
+            he picked up the habit
+            about the time he couldn’t
+            resist pulling the pigtails of the
+            girl who sat ahead of him m gram
+            mar school. But even though they
+            were more chivalrous in their
+            school days, adult man (and woman) has a lot of trouble keeping
+            his hands and fingers out of mis
+            chief.
+            The National Safety council reports that of all accidents suffered
+            during  637 by persona who were
+            at work. 33 per cent were hand
+            and finger cases. Legs and feet
+            were injured in 24 per cent of the
+            occupational act idem cases The
+            human trunk was injured in  6 percent, or the third largest, number
+            of cases.
+            Other parts of the body and the
+            frequency with which they were
+            injured arms,    percent head
+            (other than eyes), 8 per cent
+            eyes, 2 per cent. The council said
+            general accidents accounted for 5
+            per cent of the cases.</p>
+      </body>
+  </text>
+</TEI>

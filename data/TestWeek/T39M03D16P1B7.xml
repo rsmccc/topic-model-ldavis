@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1B7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Acc Officials Plan to Visit County’s Farms
+            Show Farmers How to Get Most Out of Program
+            Monroe county farmers will know before spring work gets under way how they can earn the greatest possible payments under the Agricultural Conservation program.
+            Alfred Johnson, chairman of the county Agricultural Conservation committee, reports this year, for the first time the county committee has received information on the program early enough in the season so that it could be passed on to the farm owners while they were planning their year’s work. 
+            What is known as a computation sheet has been filled out at the county office for each farm in the county. Mr. Johnson said, The computation sheet shows the largest amount of money which can be earned on the farm under the Agricultural Conservation program. By means of it the community committeeman and the farm owner are able to work out what needs to be done on a farm so that it will qualify for the full payment. 
+            Mr. Johnson indicated that some farm owners who had planned their work might not wish to chance their plans in order to qualify for the largest possible payment. The computation sheet. It was explained shows how much these farm owners can earn under the 1939 program by following their own plan of work.
+            Community committeemen, he continued, are getting in touch with every farm owner in the county, either at community meetings or by visits to each farm. They are carrying with them the computation sheets for each farm together with full details about the 1939 program. With this material each farm owner, it is felt, can tell exactly how the Agricultural Conservation program applies to his own particular farm.                                                         
+         </p>
+      </body>
+  </text>
+</TEI>

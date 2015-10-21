@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M07D19</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> There are many Indians are going to North to pick
+            blueberries, and the Indian Mission place are hard to find Indians
+            yesterday and today. Mrs. Helen Russell of Winnebago, Nebraska, was
+            here some time ago to visit her daughter, Mrs. Tom King- swan.
+            Remember the date of Indian pow­wow. They will have July 28, 29 and
+            30 at Indian old pow-wow ground seven mile northeast of Black River
+            Falls. Don’t miss it this pow-wow. And if you do come to see you
+            will see some old things you never see before, and they are all
+            prepare the things. The Indian Missions are almost moved away to
+            Highway 12 between Black River Falls and Merrillan. They have stand
+            for sale basket. There will be a new build house near school, they
+            said build for sew­ ing room and part of doctor office. The Indian
+            doctor-come every month first Tuesday, and some other Indian
+            settlement too, suppose visit them every Indian settlement every
+            month. The Indians baseball team play with Spring Creek team last
+            Sunday. The score was 7 to 5 favor for red skin. Mrs. Old Man
+            Thunder Cloud has been sick some time ago and report this morning is
+            improving gradually, and she is too old, she must be over 79 years
+            old. Her son Adam Thunder Cloud want her to go to Tomah Indian
+            hospital but she don’t want to go. Last Wednesday Mr. and Mrs. Dan
+            Stockwell, their daughter Jeanette and Len Stockwell were visitor at
+            Indian Mission and they come down with Mr. and Mrs. John Davis of
+            Black River Falls, and Mrs. Davis she know some Indians, she use to
+            go school at near Indian Mission. She remember well of Mrs. D. W.
+            Decorah and Indian reporter went with around Indian Mission to see
+            place and new houses to and foreman Dicky Walters too. Some Indians
+            come to see the Indian reporter, want to know too many Indians came
+            from the other counties, have a stand to sale basket, and Indian
+            reporter says I have nothing to say about these things, you have to
+            see the county board. Wm. Hall Jr. and family went to Wisconsin
+            Dells to visit friends and relatives on the 13th. Also they went to
+            Packwaukee to visit his sister and brother-in-law, John White Eagle.
+            They witness Indian pageant at Stand Rock and return on the 15th.
+            Mrs. Verna Pigeon was here today visit relatives and friends. She is
+            formerly Verna Deer. .</p>
+      </body>
+   </text>
+</TEI>

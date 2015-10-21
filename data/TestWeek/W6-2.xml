@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W6-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Needle Weaving for Blue Luncheon Set
+            By Ruth Wyeth Spears
+            
+            "DEAR MRS. SPEARS: I had
+            been wanting somes really
+            handsome velvet roses to pep up
+            an evening dress. 1 was thrilled
+            to And In your Book 1, Instructions for making them from materials i already had. i would
+            also like to thank you for the
+            knitted rag rug in Book 1. My
+            Mother spent many happy hours
+            making it last winter.
+            “i thought you might be Interested in a luncheon set I have just
+            finished. It was planned to go
+            with a set of blue dishes. There
+            are four mats and a long runner
+            in medium blue linen with bands
+            of old fashioned needle weaving
+            in darker blue across the ends.
+            Just two edges of the napkins art
+            banded with the weaving.”
+            You who have pink dishes might
+            like to try the same idea in tones
+            of rose. Use a rather coarse linen. Prepare the work for the
+            weaving by drawing out the fabric
+            threads as for hemstitching. Etch
+            step is shown here in the diagram.
+            Either linen or mercerised em-
+            broidery thread may be used.
+            Sewing Book No. 2, Gifts, Novelties and Embroideries, contains
+            48 pages of step-by-step directions
+            which have helped thousands of
+            women. If your home is your
+            hobby you will also want Bonk 
+            SEWING, for the Home Decorator. Order by number, enclosing
+            25 cents for each book. If you
+            order both books, copy of the new
+            Rag Rug Leaflet will be included
+            free. Those who have both books
+            may secure leaflet for cents in
+            postage. Address Mrs. Spears, 210
+            S. Desplaines St., Chicago, 111.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M04D27</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>White fellow from Milwaukee used to live here and write letter to Tomah paper about Indian reporter and tell about Indian News. Say like Indian News and read it first thing in paper and everybody do same thing. Milwaukee fellow have joke about Indian reporter about going to have spring long time ago and say pretty bad weather prophet -- and Tomah people make
+            fun of reporter about early spring too. Spring come now one sure thing and people can’t make fun of me about bad weather prophet and next year won’t tell nobody what weather going to be. Get letters every week about people tell about Indian News and sometimes want picture too. Friday night Indian reporter sat long time and look at new moon and look like warm moon. Same time hear
+            whipperwill and he know spring come. Two marten and nighthawk and all kinds of birds sing. Sandhill crane here too now and that good sign there won’t be any more cold weather. Will Cartmon die Thursday and lived near Wisconsin Rapids and some people from here go there next day. Tom Loomis die too. Lots of Indians have Tom Loomis for friend long time and everybody feel pretty bad. Every
+            week have to tell about some friend die and someday everybody have to die. Indians had big party Friday night at Wyeville hall and Green Deer was like what you call manger. Indians come from all around and lots of white people there too. Green Deer’s six children and Lee Deer’s three children and Rufus Decorah all help put on program and other Indians have Indian dance. Got letter this
+            week from lady in Milwaukee and going to send took that tell all about Indians and about where they come from. In letter tell about Indians first come from Jerusalem 600 years before Christ and not come from India like a lot of people think. Indian reporter want to thank lady and tell lady about give book to other Indians. Everything here belong to Indians when white man come over here
+            from Europe, and now everything belong to white man and Indian have nothing and a lot of people tell me ought to keep something for Indians and want to have Indian school open again and help Indians make living. Indian Hospital News Patients admitted to this hospital this week were: Robert Cornelius, Carol Pigeon, Dwendolyn Pigeon, Phylis Smoke, Beverly Jean Witeagle, Mrs. Elsie
+            Tousey, and Linda Greendeer. Patients discharged from this hospital were: Katherine Ninham, Delos Yellowbank, B. Jeanette Hill, Hazel Metoxin, Gary Grant Metoxin, William Blackdeer and Linda Greendeer. Linda Greendeer was bought to by her mother, Mrs. William Greendeer, of Wyeville. Linda is only six months old and had fallen out of bed. Freeman Thompson was a visitor at the hospital
+            Monday afternoon. Mrs. Nora Thompson brought Dr. Winter some arbutus Monday. Dr. Winter has been busy X-raying the Neillsville school children. .</p>
+      </body>
+   </text>
+</TEI>

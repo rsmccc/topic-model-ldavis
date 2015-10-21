@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>TOWN CREEK
+            Mr. and Mrs. Orley aims and fam-
+            ily were Sunday callers at Nichols’.
+            Mr. and Mrs. Ted Anderson and
+            family called at Rex. Garvis’ Sunday.
+            Mr. and Mrs. Anton Stenerson were
+            at Ted Anderson’s Saturday evening.
+            Warren Anderson was absent from
+            school last week on account of illness.
+            Mr. and Mrs. Orley Sims and fam-
+            ily spent Saturday evening at Kerst-
+            ing’s.
+            Mr. and Mrs. W. Nichols and fam-
+            ily were at W. Anderson's, Saturday
+            evening.
+            Mr. and Mrs. Arne Ameson were
+            Saturday evening callers at A. Stener-
+            son’s, a week ago.
+            Mr. and Mrs. Ted Anderson and
+            family have been recent Sunday visit-
+            ors at Kersting’s.
+            Mr. and Mrs. Andrew Stenerson
+            were Sunday dinner guests at Arnold
+            Ameson’s, at the Falls.
+            Gladys Paulson and daughter spent
+            Saturday and Sunday with her sister
+            Mrs. Persons and family.
+            Mr. and Mrs. Lyman Paulley, Ha-
+            zel and Verna May called at the Er-
+            nest Davis home, Sunday.
+            Mr. and Mrs. Anton Stenerson at-
+            tended the ski tournament at White-
+            hall a week ago Sunday.
+            Mr. and Mrs. Clarence Goldsmith
+            and Vernon were entertained at the
+            Dan Person home Thursday evening.
+            Wm. Minder visiter her sister, Mrs.
+            Wm. Nichols and family last week en-
+            route to South Dakota from Janes-
+            ville.
+            Mr. and Mrs. Dan Persons, daugh-
+            ter Agnes and their guests were last
+            Sunday guests at Eunice Richard-
+            son’s.
+            Mrs. Will Onstad has been taking
+            treatments for the removable of a
+            foitre, expecting to be operated on
+            uesday.
+            Mr. and Mrs. Mike Gunderson and
+            Frances, Mr. and Mrs. Osborne Gun-
+            derson of Disco spent Sunday at Will
+            Kersting’s.
+            Mrs. Will Kersting had the misfor-
+            tune to fall on a newly scrubbed
+            floor Saturday, breaking the bone in
+            the wrist of her left arm.</p>
+      </body>
+  </text>
+</TEI>

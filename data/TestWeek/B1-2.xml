@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p> Miss Lois Hull accompanied Miss
+            Josephine Sechler, of Sechlerville, to
+            Waverly, Florida, last November, and
+            has been spending the winter there.
+            She recently returned to Waverly af-
+            ter spending a week in Havana, Cuba,
+            with Miss Janet Lowrie, and a week
+            in Miami with the latter?s mother,
+            Mrs. Walter A. Lowrie. Mrs. Lowrie
+            is a niece of Miss Hull?s mother, Mrs.
+            Merlin Hull. Miss Lowrie has had a |
+            position with the American Consulate [
+            in Havana for the past four years.
+            She and her mother visited at the
+            Hull home here about six years ago
+            She drives her own car in Cuba, and ?
+            was able to show Miss Hull over a I
+            lot of territory. While she was there |
+            Washington?s birthday was celebrated
+            on Wednesday as a legal holiday, and j
+            Friday of that week was a Cuban le- j
+            gal holiday so they had a good share |
+            of the week for sight-seeing. Miss
+            Lowrie speaks Spanish like a native, |
+            which is a decided asset in that sec-
+            tion. Miss Hull saw Mr. and Mrs.
+            Herman Gebhardt in Miami. They
+            were having a grand time, and had
+            also been to Havana.
+            Mr. and Mrs. Albert Mierow were
+            visitors Friday and Saturday at the
+            home of Mrs. Mierow?s niece, Mrs.
+            Price Moe, and left during the after-
+            noon Saturday for their home in Khe-
+            dive, Saskatchewan, Canada. Mrs.
+            Mierow came from Khedive last Nov-
+            ember and stayed in Melrose caring
+            for her sister, the late Mrs. Milton
+            Young, who passed away last Sunday.
+            Mr. Mierow joined her in January
+            and spent a few months here. They
+            have been able to make only brief
+            visits among their many friends and
+            relatives in this section, who regret
+            that their time with them could not
+            have been longer.
+            Friends will be interested to learn
+            of the marriage of Harold Oakes, son
+            of Mr. and Mrs. Harley Oakes, of
+            West Salem, to Miss Kathryn Kinney,
+            of Omaha, Nebraska. The ceremony
+            was performed at Hebron, Nebraska,
+            February 24, 1939. Both Mr. and
+            Mrs. Oakes are instructors in Hast-
+            ings college at Hastings, Nebraska.
+            Mrs. Oakes is instructor of voice in
+            the college conservatory, and Mr.
+            Oakes is athletic coach. He is a grad-
+            uate of the West Salem high school,
+            La Crosse state teachers college, and
+            received his master?s degree from the
+            University of Iowa.
+            C. A. Kuhn and Dr. Carl Pflanz
+            left Sunday evening for Hot Springs,
+            Arkansas, where they will enjoy about
+            a week?s visit and bring home Mrs.
+            Kuhn, who has spent the past month
+            there. Just to show again how small
+            the world is. Mrs. Kuhn met Robert
+            and Gile TlifT at the faces at Hot
+            Springs one day last week. They
+            were visiting friends there on their
+            way home and with all the crowds
+            at the races they met Mrs. Kuhn. Mr.
+            Kuhn and Dr. Pflanz will enjoy what
+            Hot Springs has to offer this week,
+            and arrive home next Sunday night.
+            Mr. and Mrs. John A. Olson and
+            son Edward, of York, were visitors
+            in town one day last week. Mr. Olson
+            spent the afternoon visiting with B.
+            P. Lanning, and they had a fine time.
+            It was the first time he had been in
+            town for two years. They also called
+            on Hans K. Hanson, at the court
+            house. Their son Edward spends the
+            summers in Columbia county raising
+            tobacco but returns for the winters
+            with his parents at York.
+            Mrs. Rose McDonald entertained
+            the London bridge club at her home
+            last Thursday evening. Refreshments
+            were served at Lloyd?s cafe, and there
+            was a beautiful birthday cake to com-
+            memorate the 11th anniversary of the
+            organization of the club. Mrs. Carl
+            Cadby was prize winner for the evening.'
+            Miss Lotta Bright received a card j
+            from Miss Marion Cheney last week,
+            mailed from San Antonio. Texas.
+            Miss Cheney left here early in the
+            year and has been spending some time j
+            in Chicago. She is going from Texas
+            to Mexico, where she made an extend-
+            ed visit last year, and enjoyed it very
+            much.
+            Miss Man- Jedney returned to Baraboo Sunday evening, accompanied 
+            by Miss Marian Trondson who is a 
+            guest of Miss Man- this week. Mr. 
+            and Mrs. Bob Peck came here with
+            her Saturday afternoon, for a week
+            end visit at the home of Mrs. Peck?s
+            parents, Mr. and Mrs. Henrv E. Olson.</p>
+      </body>
+  </text>
+</TEI>

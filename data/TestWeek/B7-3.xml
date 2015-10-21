@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B7-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            FARMERS UNION NOTES
+            The meeting Saturday night at Al-
+            ma Center enjoyed a large crowd and
+            every one said the show was a real
+            true-to-life play, and is receiving a
+            lot of comment and was our vaude-
+            ville between acts ever good! The
+            president gave a short talk after the
+            meeting, and Mr. Stodola gave a short
+            talk between the first and second act.
+            Our next meeting will be held on
+            April 14. Our program committee is
+            Frank Hauser, Art Fenny, Ed Prin-
+            dle. We are going_ to have a good
+            program of some kind. Try and be
+            with us again. Program and place
+            of meeting announced at a later
+            date. ALMA CENTER F. U.
+            GRACE LUTHERAN CHURCH
+            E. A. Klemp, Paastor
+            Lenten services every Thursday at
+            8 p. m.
+            Sunday school 9:45 a. m.
+            Services 10:30 a. m.</p>
+      </body>
+  </text>
+</TEI>

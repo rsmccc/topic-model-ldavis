@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M07M05</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Black River Falls may be one hun­dred years
+            old but is a whole lot sprier than a lot of towns fifty years younger. Splendid and
+            wholehearted cooperation of all fraternal organizations and of the people made the
+            centennial and homecoming the happiest gathering of all Jackson county people and for
+            all who came from afar to celebrate with us. To my notion the man who had the happiest
+            and most enjoyable time at the centennial gathering was Marshall H. Finney of Melrose,
+            who participated in all the Indian dances at the Indian Village, even doing the Calumet
+            dance, the dance of competition of the American Indian. I sure did hate to be in the
+            shoes on the man in the moon while the fireworks were going on. .</p>
+      </body>
+   </text>
+</TEI>

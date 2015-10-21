@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W8-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>RIVERVIEW
+            Mr. and Mrs. Otto Draeger and
+            daughters. LaVonne and Sylvia, were
+            visitors in the Ernest Prahl home at
+            Birnamwood Sunday.
+            Mr. and Mrs. George Mats and
+            daughter Joyce and Richard Zander of
+            Bowler visited at the Paul Hanke
+            home Sunday afternoon.
+            Miss Hanks spent the
+            week-end with Bernice Reek.
+            Mr. and Mrs. Oscar Faintad and
+            family called at the August 
+            home Sunday afternoon,
+            Mr. and Mrs. Paul Hanke and Mrs.
+            August Hanke and Mr and Mrs. Wm.
+            Hanke and children, Patsy and Bobby,
+            were dinner guests at the Carl Mathison home Sunday.
+            Mrs. Raymond Baser and son Jerald
+            left Tuesday, March 7, for Milwaukee
+            to spend several weeks with her brother and family.
+            Mr. and Mrs. Paul K. Hanke visited
+            with Mr. and Mrs. Carl Kob. Saturday
+            afternoon.
+            Visitors at the Emil Millet home
+            Sunday afternoon were Mr. and Mrs.
+            Julius Draeger and daughter Irma and
+            Mr. and Mrs. Albert Kutchenriter and
+            family.
+            Mr. and Mrs. Emil Miller and son
+            Herbert spent Sunday evening at the
+            Albert Kutehenrittr home.
+            John Sehrank, son of Mr. and Mrs.
+            Otto Sehrank, entered the St. Vincent
+            Hospital In Green Bay on Saturday to
+            undergo an operation.
+            Mr. and Mrs. Myron Pike and
+            daughters, Mary Jane and Geraldine,
+            and son Lawrence and Richard Mose
+            visited at Waupaca Sunday.
+            Leo and David Pike spent Sunday at
+            the Frank Long home.
+            Results of farm records on thous-
+            ands of Wisconsin farms show that
+            it pays in net farm income to have a
+            large percentage of the crop land in
+            legume hay even when on the acreage
+            of small grains grown the amount is
+            cut down.</p>
+      </body>
+  </text>
+</TEI>

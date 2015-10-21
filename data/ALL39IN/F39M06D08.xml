@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M06D08</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>One of letters other day from farmer at Kendall and he tell
+            about Indian reporter all wrong about when tell about grasshopper poison kill all birds
+            and say bait for grasshopper all sawdust and only just little bit of poison and say
+            birds won’t eat dead grasshoppers tat been poisoned and tell in letter that poison for
+            gopher sand things like that do kill birds. Maybe Indian reporter wrong sometimes but
+            not very many times but find lots of dead birds in woods. People tell Indian reporter
+            about a baby girl born to Guy Redeagle and his wife at Indian hospital. I think Guy
+            Redeagle pretty proud fellow to have baby girl. 25th June all Tomah Indians that dance
+            at Wisconsin Dells in summer time go downs and do things and get ready for big
+            ceremonial at Stand Rock and other places in summer and season start July 1. Some
+            Indians stay at Stand Rock all summer and others return to home to help do things
+            Indians all tribes do same dances together and come from all over country, Mexico, Texas
+            and everywhere. Every summer people everybody know like Bing Crosby and movie people
+            come to see Indians dance and hear Indian angers like Chief Silvertongue and maybe some
+            time people come from long way off to hear Lavern Carimon and he one of singers there
+            now last two years. Jim Smoke that everybody in Tomah know tell people all about it at
+            show. Fred Stutzke tell about Indian reporter all humbug when tell in Indian News about
+            moon and tell when going to be wet and what white man say same thing going to be dry
+            moon. Indians know about rain by what moon look like long time back and maybe Mr.
+            Stutzke know somethings about moon but Indian reporter show he was all right when he
+            tell about going to have rain about 25th June and everybody tell you he was right too.
+            Winnebagoes going to have some kind of dance at Hatfield sometime this month for Indians
+            that were in war and hear people around Tomah talk about going to big dance. Always have
+            big time at dance like that. .</p>
+      </body>
+   </text>
+</TEI>

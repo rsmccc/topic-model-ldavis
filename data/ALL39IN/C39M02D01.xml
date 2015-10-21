@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M02D01</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>We have some cold weather last few days, for the month of February. Mrs. John Stacy,
+            Tillie and Alvin Stacy went to Greenwood yesterday, and return home same day. Mr. and
+            Mrs. Simon Greyfox were in town yesterday. Indian reporter and Berand Eagle were here in
+            town from water mill. Indian reporter had a letter from Hon. Peter A. Hemmy last month.
+            The Indians are very glad to hear from Mr. Hemmy and we are always very glad to hear
+            from him at any time, and we hope to hear some more good news from him. William McGreane
+            and Chris Olson were visitors at Indian Mission yesterday, and Mr. Olson know them quite
+            a few Indians but most every men, and Mr. McGreane know them put near all of Indians. He
+            is working at relief office. There are 17 patients of Winnebago Indians in the Tomah
+            Indian hospital last Monday as following names: Delos Yellowbank, Godfrey Mallory,
+            William Blackdeer, Freeman Thompson, Peter White, Frank Pigeon, Henry Mike, Harold
+            Blackdeer, Geraldine and Bemadine Decorah. These two were twins. Verna White Eagle has
+            broken leg some time ago. Esther Black Hawk, Alvine Brown Eagle, Nellie Blackdeer and
+            May Whitewater. The Indians has been talking about Indian hospital some time ago. They
+            said they gave order, days and hours to see the doctors or get home remedies, Monday,
+            Wednesday and Friday at 10 to 11:30 a. m., at 3 to 4:30 p. m. and Saturday at 10 to
+            11:30 only a. m. and they would like to have at any hour enter the hospital ready to get
+            anythings they want, and the order mention as above. They would like to have change,
+            because some time the Indians are going to Tomah Indian hospital for nothing or just
+            spent lots of gas. .</p>
+      </body>
+   </text>
+</TEI>

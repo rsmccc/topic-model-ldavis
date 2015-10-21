@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M08D02</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Mr. and Mrs. C. A. Winneshiek o f Waupaca, were here
+            during Indian pow -wow and they came with one white girl,* her name
+            Marjorie Mykel, 721 Seventh street, Waupaca, Wis. She was dancing
+            with her Sunday evening. They had lot of things going on this Indian
+            pow-wow and special those Chippewa Indians from north of this state,
+            every one of them had enjoy themselves while they are here and when
+            they going home promised an­ other for next summer. It seemed
+            everybody like to this old pow-wow ground and so with these
+            Winnebago Indians too. Mr. and Mrs. John Thompson and Mrs. Whitegull
+            and Indian reporter went to Tomah Indian Agency office last Monday
+            and on business. They have been talk about the old home­ stead, some
+            of them. The county trying to make tax on them, but the congress has
+            always fix up for every twenty five years for these Indians
+            homestead. The next program is Pittsville Indian pow-wow, some
+            coming next Friday and some are going today, to prepare the things.
+            Mrs. Tall Decorah is in the Tomah Indian hospital, has been report
+            improving gradually and they said she had two or three different
+            sickness. .</p>
+      </body>
+   </text>
+</TEI>

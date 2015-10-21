@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W7-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Cap and Bells
+            Reason
+            The school inspector was visiting
+            a class and. as was his habit, gave
+            a little talk on general subjects n
+            an and favor to interest the chiidren
+            in the everyday things of life. Or
+            the occasion, says London Tit-Bit!
+            
+            Mccawber, he was talking about the
+            blacksmith and his trade
+            “And who kind of arm muscles
+            has the blacksmith?" he asked
+            "Big ones'” shouted the children
+            "And why is the blacksmith's arm
+            bigger than mine, for instance?
+            "He works!" came the reply in
+            chorus
+            
+            A Touchy Animal
+            A hard up sportsman bought a
+            hunter and put off payments for a
+            time. Later he met the man who
+            had sold him the horse.
+            "I am not satisfied with that animal he said
+            "Why, what's the trouble?” asked
+            the dealer.
+            ‘‘Well, it won t hold its head up
+            said the sportsman.
+            "Oh, that's all right, sir; it's his
+            wnde. Just you wait till he’s paid
+            for”—“Pearson’s Weekly.
+            
+            Charity
+            "Say, George, are you one of the
+            directors of the Charity ball?”
+            "Yes”
+            “Weil, it would be a charity to
+            give me a ticket, and lend me a 
+            dress suit.”
+            
+            Bright Son	
+            Young Oscar was busily working 
+            on the examination for office boy when he came to this question:	.
+            "How far is the earth from the
+            sun?"
+            Oscar thought, and finally wrote, 
+            "I can't recall exactly, but I don’t 
+            believe the sun is close enough to.
+            interfere with my duties as office 
+            boy
+            P. S. He got the Job
+            
+            Pretty Tough	
+            The tourist had stopped to change 
+            tires. "I suppose," he remarked to 
+            a native onlooker, "that in these 
+            isolated parts the necessities of life
+            come pretty high."
+            "Y’er right, stranger replied 
+            the native, gloomily, "an’ it ain’t
+            worth drinkin’ when ye get it I
+            Telephone Topics.
+            
+            Unfortunate Plight
+            "When I grow up, will I have a 
+            husband like daddy. Mother?”
+            “Yes, Betty."
+            "And if 1 don’t get married, will 
+            I be an old maid like Aunt Susan?"
+            "Yes, child."	
+            Deep thought for a minute.	
+            "Well, I sure am in a fix."
+            
+            Higher Mathematics
+            Farmer'sWife—Ifyou can’t
+            sleep, try counting sheep.	
+            Farmer—did that last night, counted ten thousand sheep and put 
+            them in cars and shipped 'em to 
+            market By the time I’d figured
+            up my losses, it was lime to get
+            up and milk
+            
+            No Place for film
+            Excited Patient—Let me up
+            want to «et out of here!
+            Nurse—Lie down and be quiet
+            The doctor is a very excitable man
+            and loses hts patience easily.
+            Patient—So I heard and that's
+            why I want to get away!
+            
+            How Absurd
+            “What's that building?” asked
+            the stranger
+            "That’s the asylum for the blind,"
+            said the native
+            “Go on, you can’t fool me,” said
+            the stranger. "What'a all them win-
+            dows for?"
+            
+            A SEASONABLE WISH
+            Lady Bug—Oh, Mrs Woolly Caterpillar, I wish I had your nice fur
+            coat.
+            
+            No Pleasing Her
+            “Have you arranged your holidays yet?"
+            "Not absolutely. My husband
+            wants me to go with him for a trip
+            around the world, but I want to go
+            somewhere else.”
+            
+            Net Time Enough
+            Boggy—When that elevator fell
+            with you I suppose all your life
+            flashed before your eyes?
+            W’ Cgy — Well, not all—you see,
+            we only dropped five stories.</p>
+      </body>
+  </text>
+</TEI>

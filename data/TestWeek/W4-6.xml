@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Notice to Farmers
+            The farmers of Shawano County,
+            who are in need of. one of the feed or
+            crop production loans offered by the
+            Emergency Crop end Peed Loan Office
+            cf the Farm Credit Administration,
+            may apply for such at the Court House
+            in the city of Shawano on Friday of
+            each week from 8 a. m. to 4 p, m.
+            The Field Supervisor, Paul A. Thateher. of Waupaca, will be present at
+            the time stated above to receive appiicants.
+            Married applicants must bring their
+            mate as both must sign the loan forms.
+            They should also bring their land description, soil conservation acreage
+            allotment card for 1939, and a complete description of their livestock,
+            showing breed or color, age, and ear
+            tag numbers or name.
+            The loans will he made as in the;
+            past, only to farmers whose cash requirements are small and who cannot
+            obtain credit from any other source.
+            The money loaned will he limited to
+            the farmer's immediate and actual
+            cash needs for growing his 1939 crops
+            or for the purchase- of feed for live-
+            stock.
+            Farmers who can obtain the funds
+            they need from an individual, production credit association, bank, or other
+            concern are not eligible for crop and
+            feed loans from the Emergency Crop
+            and Feed Loan Section of the Farm
+            Credit Administration. The loans will
+            not be made to standard rehabilitation
+            clients whose current needs are provided for by the Farm Security Administration, formerly known as the
+            Resettlement Administration.
+            As in the past, farmers who obtain
+            emergency crop and feed loans will
+            give as security a first lien on the
+            crop financed, or‘a first lien on the
+            livestock to be fed if the money borrowed is to be used1 to produce or purchase feed for livestock.
+            Where loans are made to tenants,
+            the landlords, or others having an interest in the crops financed or the live-
+            stock to be fed, are required to waive
+            their claims in favor of a lien to the
+            Governor of the Farm Credit Administration until the loan is repaid.
+            Checks in payment of approved
+            loans will be mailed from the Regional
+            Emergency Crop and Feed loan Office
+            at St. Paul, Minnesota.
+         </p>
+      </body>
+  </text>
+</TEI>

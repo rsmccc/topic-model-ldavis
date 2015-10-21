@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Big Party At Tomah Armory Friday Night
+            A grand evening of entertainment is promised those who attend the St. Patrick’s Day party at the Tomah armory on Friday evening. Everyone will find enjoyment at this party, either at the dance or at the bingo party in the basement, and it is expected an exceptionally large crowd will attend. 
+            The Four Aces will furnish the music for the dance, which will insure a good time for the dancers. All sorts of merchandise prizes have been secured for the bingo party and this phase of the evening’s entertainment will attract many. 
+            This party is sponsored by the local posts of the American Legion and Veterans of Foreign Wars, both of which organizations are deserving of generous support. Don’t miss the big party at the armory on Friday evening! 
+         </p>
+      </body>
+  </text>
+</TEI>

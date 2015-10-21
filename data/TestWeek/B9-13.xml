@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>NORTH SHADY GLEN
+            Mrs. H. C. Getman spent Thursday
+            afternoon with Mrs. Mary Wallace.
+            Mr. and Mrs. S. J. Downer spent
+            Saturday evening at H. C. Getman’s.
+            Mrs. H. C. Getman spent Wednes-
+            day afternoon with Mrs. Ben Oppe-
+            gard.
+            Mrs. Donald Oppegard returned
+            home from the hospital Sunday after
+            a two weeks’ stay.
+            We hear that Ed Brandt is confined
+            to his home with a bad cold. Dr.
+            Petzke of Hixton, was called.
+            Mr. and Mrs. Wallace Entwistle of
+            Madison, were overnight guests of his
+            uncle, Clair Wallace, his uncle and
+            grandmother.
+            Mr. and Mrs. Blaine Entwistle of
+            Black River Falls and Mr. and Mrs.
+            Wallace Entwistle of Madison called
+            on Wm. Olson, Sunday.
+            Mr. and Mrs. H. C. Getman enter-
+            tained the following company Sun-
+            day: Mr. and Mrs. L. G. Getman of
+            South Alma, Mr. and Mrs. Charles
+            Goldsmith and Mr. and Mrs. John Up-
+            ton.
+            
+         </p>
+      </body>
+  </text>
+</TEI>

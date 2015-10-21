@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W8-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>WHITCOMB
+            The Birthday Club met at the home
+            of Mrs. Wm. Schoening Friday afternoon.
+            Mr. and Mrs Frank Strebe and son.
+            Donald of Sherulan were Sunday visitors at the Leo Jouhert home.
+            Mr, and Mrs Usonard Hoffman and
+            son Robert of Germania were Sunday
+            visitors at the John Liesrh home.
+            Mrs. Elmer Groonwald. Mrs. Wm.
+            Schoening. Mrs- Paul Buhiitz. Mrs 
+            Chris. Fading. Mrs. Clarence Stai
+            Mrs. Renzel Joubert and Mrs. Allan
+            McAuly were guests at the St. John's
+            ladies' Aid at Wittenberg Thursday
+            afternoon.
+            Mr. and Mrs. Elmer Groonwald entertained Friends with a card party
+            Thursday evening. A delicious lunch 
+            was served after the games. All reported a nice time.	
+            Mr. and Mrs. Arthur Gehrke and
+            children, Lois and Russell, of Reds
+            Granite were callers in this community
+            Friday.
+            Beatrice Joubert accompanied friends
+            to Rib Mt. Sunday afternoon where
+            they watched the skiers.
+            Mr, and Mrs. Arvil Low and son Leland of Tigerton were visitors at the
+            Harriet Becker home Monday.
+         </p>
+      </body>
+  </text>
+</TEI>

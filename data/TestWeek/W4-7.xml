@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Phil Long Gets Prison Term
+            Millard F. Long, better known in
+            Tigerton as Phil Long, who had been
+            living here with his family for years
+            at the expense of the village, was sentenced Tuesday by County Judge A.
+            M. Schelier of Waupaca county to the
+            state penitentiary for a term of 12 to
+            IS months on an abandonment charge.
+            He had been haled into court last
+            week at Clintonville when that city
+            get tired, of Long's insistence that he
+            was entitled to relief, hls refusal to
+            work, and his characteristic refractory
+            tactics. He claimed he bad seven different disease which made It impossible for him to work. A doctor said
+            he had had them at one time, but
+            there was apparently nothing wrong
+            with him now. He had deserted his
+            family for several months and this
+            charge was pressed against him and
+            resulted in his conviction.—Tigerton
+            Chronicle.
+         </p>
+      </body>
+  </text>
+</TEI>

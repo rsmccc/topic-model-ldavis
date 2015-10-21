@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B2-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>POSTAL REGULATIONS REGARDING CIRCULAR MAILING
+            Some persons having permits to
+            mail matter in bulk under section
+            562, P. L. and R., present advertising
+            matter in the form of large, unfolded
+            printed sheets addressed for distribu-
+            tion to box holders on rural and star
+            routes. Since it is necessary to fold
+            such large sheets before they can be
+            distributed or placed in the boxes, the
+            handling thereof may delay delivery
+            of all other mail on the route.
+            In view of the considerable saving
+            in postage obtained by mailing adver-
+            tising matter in bulk under section
+            562, and the convenience to the mail-
+            ers of the simplified box-holder form
+            of address, it is expected that mail-
+            ers will fold matter to a reasonable
+            size.
+            Postmasters will please take this
+            up with mailers who present matter
+            of this kind and request that future
+            mailings be folded to a size conveni-
+            ent for handling, preferably not larg-
+            er than 9 to 12 inches.</p>
+      </body>
+  </text>
+</TEI>

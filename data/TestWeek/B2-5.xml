@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B2-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MR. AND MRS. OSCAR CLARIN
+            CELEBRATE SILVER WEDDING
+            Friends here will be interested in
+            the account of the silver wedding an-
+            niversary of Mr. and Mrs. Oscar Clar-
+            in, which was celebrated recently.
+            Both Mr. and Mrs. Clarin were for-
+            mer residents here, and although they
+            have made their home in North Da-
+            kota for many years, they have nu-
+            merous friends here who join in
+            wishing them many happy returns of
+            the day. The Beach News contained
+            the following account of the event.
+            Monday night the Page hall in Gol-
+            va was the scene of a huge gathering
+            of relatives and friends of Mr. and
+            Mrs. Oscar Clarin. They came to help
+            this well known Golden Valley couple
+            celebrate their 25th wedding anniver-
+            sary, and a very enjoyable party re-
+            sulted. The hi¬ªh light of the eve-
+            ning was a moclc wedding which in-
+            cluded an all-star cast, such as Henry
+            Rising as the bride, Connie Carew as
+            the groom, Prof. Dooley and Otto
+            Johnson as the flower girls, Vic Ren-
+            storm as the brides mother, Vera Co-
+            vert as the father, and Louis Raisler
+            as the minister in action.
+            Dancing was indulged in by many,
+            and a general social good time was
+            enjoyed by all present. Late in the
+            evening a fine lunch was enjoyed and
+            every one present departed wishing
+            Mr. and Mrs. Clarin many more hap-
+            py anniversaries in years to come, a
+            wish in which the News is indeed glad
+            to join.</p>
+      </body>
+  </text>
+</TEI>

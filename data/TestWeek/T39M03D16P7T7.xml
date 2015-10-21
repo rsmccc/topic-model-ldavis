@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P7T7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Publish March 2.9.16.
+            Notice of Hearing on Final Account and Determination of Inheritance Tax and Information Required by the Tax Commission
+            County Court, Monroe County, Wisconsin- In Probate.
+            In the Matter of the estate of Amelia Wendorf, deceased. 
+            Notice Is Hereby Given, that at the special term of the county court to be held in and for said county at the court house in the City of Sparta in said county on Tuesday, the 28th day of March, A. D. 1939, at the opening of court on that day or as soon thereafter as counsel can be heard the following matter will be heard and considered.
+            The application of August Wendorf, executor of the will of Amelia Wendorf, deceased late to the  village of Wilton in said county for the examination and allowance of his final account, which account is now on file in said court and for the allowance of debts or claims against the estate paid in good faith without the same having been duly filed, approved or allowed as required by law, and for the assignment of the residue of the state of said deceased to such persons as are by law entitled thereto, and for the determination and adjudication of the inheritance tax, if any payable in said estate.
+            Dated February 28, A. D. 1939.
+            By the Court: 
+            O. W. Sprecher, 
+            County Judge McCaul and McCaul, Attorneys.
+            Tomah, Wis. 
+            
+            Publish March 2.9.16.
+            Notice of Hearing on Final Account and Determination of Inheritance Tax and Information Required by the Tax Commission
+            County Court, Monroe County, Wisconsin- In Probate.
+            In the matter of the estate of Ann J. Kelly, deceased.
+            Notice Is Hereby Given, that at the special term of the county court to be held in and for said county at the court house in the City of Sparta in said county on Tuesday, the 28th day of March, A. D. 1939, at the opening of court on that day or as soon thereafter as counsel can be heard, the following matter will be heard and considered. 
+            The application of Jessie K. Birkenmeyer executor of the will of Ann J. Kelly deceased, late of city of Tomah in said county for the examination and allowance of her final account, which account is now on file in said court and for the allowance of debts or claims against the estate paid in good faith without the same having been duly filed approved or allowed as required by law, and for the assignment of the residue of the estate of said deceased to such persons as are by law entitled thereto; and for the determination and adjudication of the inheritance tax, if any payable it said estate.
+            Dated February 28, A. D. 1939
+            By the Court: 
+            O. w. Sprecher
+            County Judge McCaul and McCaul.
+         </p>
+      </body>
+  </text>
+</TEI>

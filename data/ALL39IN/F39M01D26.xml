@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M01D26</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>This week start write Indian news for Kenny, big boss Tomah newspapers. Never wrote news but know white man’s talk and can tell what Indians doing. Charley Red Eagle is friend of white editor. Never got name right, always call white editor Mister Skinny.
+            Sometimes maybe make joke with people, but nobody get sore for I am friend of white man-have always been white man’s friend. Picture last week’s paper taken by Doc Cunninghem. May be good tooth doctor, but picture taker no good. Make man look like sick squaw. 
+            White man’s lay on hunting all wrong. Shouldn’t have open season on fox and deer every year. I’ve been around and know where gaming going New Ed coming 64 in May and same not as many any more. Shouldn’t have open season more than one year at time. Give chance to raise young white fellows kill game when season closed and kill more than eat kill animals for sport Indian want to protect game. Never kill for sport. Want to keep game so children and grandchildren hunt too. Big shot white lawmakers kill humbugs. Don’t know about game. I’m hunter I know game not as many any more.  
+            And everybody stay near  big WPA in Meadow Valley. Government make big pond for muskrat and beaver. Men work there long time some three days every week, some work more John Smoke work on government dams five years. 
+            Read in paper about Ed Honel and Blackbirds. Humbugs. Indians live here long time and no blackbirds in January moon. Maybe new bird. Blackbirds humbugs.
+            Saw Holler Dove, white man call Mourning Dove, on way to town. Had to walk to town because broke bone in wrist and can’t drive car. Showed dove to Mrs. Gib Hale near her home. Don’t see Holler doves here in winter many times. 
+            Chef Lightning, same as Art Johnson, in south this winter showing how Indian shoot with bow and arrows. Show at schools and big meetings. Good shot with bow and arrow. I did lot shooting too. Won contest at Wisconsin Dells. Didn’t need all six arrows to win contest. 
+            Got letter from friend, Frank Lueck about Indian reporter,
+            Manitowoc, Wis. 
+            January 20, 1939
+            Mr. Frisk Cloud, Reporter, Tomah Journal Monitor-Herald, 
+            Friend Frisk:
+            Congratulations and a big pow-wow! 
+            The writer wishes you oceans of success in your new undertaking, which the staff of the Tomah Journal and Monitor-Herald has so kindly opened for you. Although the beginning may not offer much in a financial way, it may lead to greater reward in the future.
+            Well, well, look! There comes Frisk Cloud on a prancing horse, and Frisk, the jolly Winnebago dressed in his chief’s costume with a crown of flowing feathers on his head, leading the parade of the Monroe County Progressives. He is the flower (of) in the parade and a striking figure as he rides past.
+            Frisk with your Indian lore, wit and humor, jokes and laughter, I believe you will be a great success as a reporter of Indian news. But I suggest your jokes on friends be censured before they are printed.
+            I anxiously await the coming of the Tomah Journal and Monitor-Herald every Friday morning. In opening the paper this morning. In opening the paper this morning I attracted by that picture of a sad, innocent-looking face that I knew so well; and I tried to read what was in your heart, knowing that there was mirth and joy and laughter behind that solemn mask I am wishing you success, good health to you and your family, good cheer and God’s blessing up on all of your work.
+            With the usual greeting, Ham__ A __, I am.
+            Yours truly, ________</p>
+      </body>
+  </text>
+</TEI>

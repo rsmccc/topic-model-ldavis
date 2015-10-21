@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M03D02</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indian reporter think maybe better next time go to newspaper office and give news to girl before go other places after get to Tomah have lots of friends and everybody want reporter to have good time and be friend and make forget news that want to tell and Indian News want to know where Indians go. White people like Indian News and everybody tell reporter he if good news
+            reporter. Want to thank people that tell about like Indian News. Get letters from people way off and tell same thing. All people have bad colds in heads. All Indians stay home and go no places. Stay home and mix up dope and take for colds in heads and lungs. Some take white doctor's medicine same like drug store and some people take what Indians make with roots and dope. In medicine
+            cure more than white doctor's medicine some times. Charley Low Cloud at Indian hospital. Have flu bad and pretty sick. Low Cloud write pretty good Indian news too for newspaper at Black River Fall’s. Everybody have flu bad. One thing pretty bad Indians have to live in shacks after white man take country away from them. Before white man come over here from Europe and take country away
+            from Indians lived in wigwams all time winter same like summer and used to weather all kinds and nobody have colds like today. White man come over her and tell Indians must live in house like him and show how to be all cooped up like him and now Indians have colds. Not healthy like when lived in wigwam all year. Some tribes got paid when white man took country away from them but
+            Winnebago got skunked got nothing and have to get pretty hungry before government give anything. Government say two three years ago going to build houses for Indians but do nothing and Indians have to live in shacks and burns lots of wood and can’t keep houses warm and everybody have colds in heads. Some Indians have colds in heads and lungs so bad they go to hospital and have Dr.
+            Winter help them get better. People ask Indian reporter how Indians get names like Indian hospital news. Maybe some time when have time tell in Indian News how names come. Indians had big meeting at John Smoke’s place last Wednesday and come from all over, La Crosse, Wisconsin Rapids, Black River Falls, Wisconsin Dells, same like at Dells Dam above Hatfield Saturday night. Big party
+            same thing like you call church. Joe Christman rent big farm at Indian school. White friends tell Indian reporter to make joke about Joe Christman lazy because have tractors to do all work and have nothing to do but sing and talk a lot like auctioneer. Indian reporter don’t think Joe Christman lazy fellow think he is pretty smart fellow to have tractors do all work. Have good friend at
+            Jackson, Michigan. Met her at Wisconsin Dells last summer and have big stack of letters from her and pretty picture of her. Maybe after October go to Jackson, Michigan and see country and visit her after close up at Wisconsin Dells and after pow-wow in Tomah after Labor day. Indian Hospital News The following Winnebago patients were admitted to the hospital last week: Jonas Decorah,
+            Charles Smoke and Charlie Lowe Cloud. They are all victims of the flu, but are recovering nicely now. These patients were discharged last week: Olinda Littlejohn, Robert Greengrass, Alice Kingswan, Lester Youngthunder, Earl Smith, Ruth Cloud, Thomas Kingswan, Albert Johnson, Melinda Greengrass, Leona Mae Greengrass, Charles Greengrass, and Stanley Whiteagle. Notes of Interest: A baby
+            boy was born to Mr. and Mrs. John Whiteagle of Portage, February 23. They named the baby Charles Winston. The Hershall Thompsons named their baby girl Janet Rose. A baby girl was born to Mr. and Mrs. Ernest Ben Decorah or Mariston on February 24. They named the baby Ernestine Ruby. During the short month of February, we have had nine babies born at the hospital which is quite a high
+            average for a hospital of this size. Charlie Lowe Cloud has won a little fame as the reporter, who writes The Indian News, for the Black River Falls paper. His many friends will be happy to know that he is feeling much better. .</p>
+      </body>
+   </text>
+</TEI>

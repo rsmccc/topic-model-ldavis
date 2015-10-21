@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M08D16</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Jim Maney of Winnebago, Nebraska, who here to visit
+            relatives and friends, he says he like to stay here at Indian
+            Mission. Those same people like to read the Indian News promised to
+            pay a year, Henry Johnson o f Greenwood, Wis., Mr. and Mrs.
+            Winnesheick of Wau­ paca, Wis. Indian pow-wow at Oakwood park
+            Merrillan was attended by many peo­ ple white and Indians. Much was
+            said about it being the best ever staged on those grounds. The Chip-
+            pewas of Hayward presented our Winnebagoes a drum in view o f mut­
+            ual friendship between these people. Archery contest was won by
+            Winnebagoes over B. R. club by narrow margin of three points. The
+            colored Brown Cubs won over North Branch 24-3. The Indian girls lost
+            the soft ball game to Merrillan boys. The paid attendance was much
+            lower than former years but it was a success. In work out game
+            Saturday the Piney Woods Cubs beat our Indian team by 2 -0 . The
+            Indians are all finished pow­ wow first of the Black River Falls
+            Indians their own pow-wow ground seven miles northeast of Black
+            River Falls and week after that Pittsville pow-wow and after that
+            week after for Merrillan pow-wow that was last Friday, Saturday and
+            Sunday, and another week after at Tama, Iowa, next Friday for three
+            days. Some Indians are not com e back picking blueberries at north.
+            Still some are just begin ripe now. Henry Johnson o f Greenwood,
+            Wis. came down to see the pow -wow at Merrillan last Sunday and had
+            car trouble so he had to stop at Indian Mission last Monday and
+            Tuesday. Mrs. Old Man Thunder Cloud pass­ ed away Sunday evening,
+            7:15, 1939, She has been sick last few years. She never get well.
+            She was born at Bear Bluff in Jackson county, 1866. Ever since she
+            lived in Jackson coun­ ty, only one year Mr. William A. Hunder
+            trying to remove all o f W in­ nebago Indians at Nebraska, some o f
+            them went there return to Wisconsin a year after. She went there and
+            came back again. She was loving children and not only children but
+            every one who met her. She never drink any liquor, even she never
+            drink beer. Everybody know her and who ever com e to her place she
+            is kindly w ay everybody. She had large family and her own son and
+            daugh­ ter Adam Thunder Cloud, Mrs. Eliz­ abeth Thunder Cloud
+            (Hall), Mrs. Florence Thunder Cloud (Funm aker) She had many
+            grandchildren. The sympathy goes to her husband, Thun­ der Cloud and
+            her son and daugh­ ters, nieces and nephews, and one brother, Sam
+            Carly at New York somewhere. Merrillan pow -wow was report very
+            good. Chippewa Indians are as following nam e: Paul Carrol, Will­
+            iam Barber, George Jackey, James Hart, John Mustashe sr., John Mus-
+            tashe Jr., John P. Cloud, William Bi- sonette and Louis White.
+            Everybody had en joy themselves while is go­ ing on this pow-wow.
+            Indian report see the Merrillan pow-wow last Sunday afternoon. He
+            saw Mr. and Mrs. George Root o f Clarion, Iowa. It seemed very nice
+            people and also he meets Ole Nelson of York, one of store keeper.
+            The Indian reporter has a new friend of Mr. William B um ice o f
+            Fairchild. They will study among Winnebago tribe Indians, make a
+            his­ tory if they can. We are very glad to see him again, Hon.
+            Merlin Hull com e back again from Washington, D. C. Perhaps everyone
+            were very glad to see him. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M02D08</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>B-J SMOKE SIGNALS By Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Providing that we believe in ground hog day, we’ll have more than six weeks of winter ahead of us. The ground hog saw his shadow twice, once in the day time and there was a bright moonlight night the same evening. “Hit and run” is about
+            the lowest form of human behavior that we as a nation have to cope with. But there are always two sides to everything. To be able to “hit and run as the big “Bambino” proved to the world is the basis of all big baseball salaries. One of the secrets of being a great
+            and successful guffaw provoking radio star is to be extraordinarily and brilliantly dumb. Nations are like individuals. They are now living in an era of ill-feeling. Who will be the one to pour oil on the troubled waters. One of the best laughs I’ve ever had came to
+            me one day about eight years ago when I first heard of the origin of the Winnebagoes. Joe Widmar of the B-J force, and Clinton Scafe went into a huddle and came out with the following story. “Way back in Old Testament times there was a man named Levi who had five sons
+            of which one was named Lehman, who was the notorious Public Enemy No. 1 of that time. Every trait o f a vicious character was his, and of this Lehman the Indians are descendants.” That is the story and it sounds plausible too. Lehman’s character was the cause of the
+            Redman’s reddish color. What puzzles me is where in the course of years past did the Redman swap character with the pious descendants of the other sons of Levi? This story reminds me of another plausible story, and if you have heard it before, stop me. There was an
+            old negro pasto- who in a course of a sermon said to his congregation, “You’ve all heard of the rolling red-hot sizzling molten lava from volcanoes? Well, they use that for ice cream in Hades, being that it is the coldest thing down there.” The population has
+            increased a million fold since he said this, which may account for the few volcanic eruptions of modern time. The demand for “ice cream” down there is greater than the supply. I shudder to think of what they might use for hot coffee. Kind of scared myself with this
+            story so I’ll just postpone the escapade I had in mind. I hope “U” wouldn’t mind. The way the deer are scattering over the area and breaking up the herds indicate we’ll have a spell of warm spring weather. The people of the U. S. A. are just like one big family. When
+            a delicious tidbit is brought home for everyone to enjoy and relish there is a squabble to see who gets the biggest piece. And that tidbit is the WPA..</p>
+      </body>
+   </text>
+</TEI>

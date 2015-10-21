@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-9</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>7th and 8th Grade News
+            By Dorothy Olsen
+            Honor Rail
+            The seventh grade has finished the study of the United States History and
+            have tailed on a complete review. In
+            Art they have completed a forest
+            and garden landscape.
+            The eighth grade has finished their
+            Hygiene book and will begin on a re-
+            view very soon. In Arithmetic we
+            have finished equation and ratio and
+            will login time and measurement.
+            In Art they have finished a sketch of
+            the "Leaning Tower of Pisa." In Agriculture we are studying gardening.
+            Twelve students of the twenty-five
+            in out room, play in the hand or have
+            started on instruments. Several pupils are participating in the Grade
+            Chorus under the direction of Miss
+            Carmany.
+            Last Friday our room attended the
+            Dade Tournament In the gymnasium,
+            Wittenberg defeated the Orphan Home
+            but failed to receive any trophy in the Tournament.</p>
+      </body>
+  </text>
+</TEI>

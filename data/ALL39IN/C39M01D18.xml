@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M01D18</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indian report and George Bear were at Indian Mission last Sunday, and yesterday too. The Indians held meeting 1 % miles west of Valley Junction. They called Indian religion dance once a year, and by Indian
+            custom has been years and years. Tom Decorah has gone Tomah Indian hospital last week. While he was chopping wood and cut the skin in his leg, so somebody took him at the hospital. Old Dandy used to tell lots
+            of things beforehand. One day he told them “ There are many things going on, and these wagons will not draw by horses, its will going by itself without horses and you think its impossible things to do this,
+            but you will see them, even some flying in the air and landed on the water, they will dive too” . And he said again “There are another things will going on when this happen. The Indians are doing one thing.
+            There are many Indians will be stray the Indian way. They would not believe any things by the Indian custom, even they would not believe and kind religion by the Indian custom because they are working for
+            devil and always looking for trouble.” Unusual weather this time of a year, but God gives us whatever is right, all we have to take it, during our life time. We have snow and rain too last week and this week,
+            and that make road to slipping, and many accident happened last week. Daniel Thunder Cloud had one and Mrs. Stella Blowsnake or Stacy’s car, and John Greengrass car, and also our teacher, Mrs. Emma Olson had
+            got in ditch on her way to Indian Mission school. She went in ditch, she could not get out, 80 she have to walk up, try to make up her time at school, and Jesse Stacy were going to town that morning, he turn
+            around to take her at school. A boy was born to Mr. and Mrs. Andrew Funmaker Tuesday, Jan. 5, 1939, at Tomah Indian hospital. There are two Chippewa Indians staying at’ Simon Greyfox at Indian Mission, one
+            from Lac du Flambeau Reservation, Wisconsin and one from White Earth, Minnesota. John Rain Cloud is from Wisconsin Chippewa Reservation and Peter Jordan is exstudent of Carlisle Indian school. The school stop
+            twenty one years ago, 1918. Mr. and Mrs. Harry Swallow and their three daughters of Dells Dam, visiting at Mr. and Mrs. Smoke at Water Mill, near Valley Junction, last Sunday and return home Monday afternoon.
+            Mrs. Swallow sister of Mrs. Smoke. There are three Indians girls nurses working at Tomah Indian hospital the following name, Miss Jessie Marmon, Evelyn Murie and Irene Miller. Indian reporter went to his
+            uncle, Mr. and Mrs. George Bear and old man Snyder Bear is not feeling very well since last fall, so he is going to stay with him for a while, help him one things another. .</p>
+      </body>
+   </text>
+</TEI>

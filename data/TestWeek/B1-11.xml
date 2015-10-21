@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-11 </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            Two boys, 17 and 18 years old,
+            and a girl, 16, all from Milwaukee,
+            were arrested here about 5:30 p. m.
+            March 4th. The sheriff?s department
+            picked them up at the Wadham sta-
+            tion after a call from the Zink oil
+            station just over the line in Clark
+            county to the effect that they got
+            away with about $2.00 of gas there.'
+            Sheriff Waldum found the car belong-
+            ed to Raymond Ridiske of Milwaukee,
+            and had been stolen the day before.
+            He hel dit here. Deputy Olson came
+            from Neillsville and took the three
+            young people back. They were re-
+            turned to Milwaukee last Tuesday
+            night and the car also was reclaim-
+            ed that day from here. The girl had
+            a gun with her, which she had taken
+            from home. They had driven to the
+            state line at Hudson but did not have
+            money to pay toll charges at the
+            bridge, and turned back. Probably
+            their next plan would have been to
+            use the gun in a hold-up and then
+            what? Crime didn?t pay in their case.
+            Their career was short.
+            Mrs. Anna Ristuben recently cele-
+            brated her 80th birthday anniversary
+            at the home of her son Oliver and
+            family, where she makes her home.
+            There was a coffee party in her hon-
+            or at which the members of her fam-
+            ily in this section were in attendance.
+            Mrs. Ristuben is remarkably active
+            for her years, and walks along like
+            somebody about half her age. In
+            spite of the fact that she was laid up
+            for a few days recently, she was able
+            to walk down town and around Sat-
+            urday, and walked to church to at-
+            tend services Sunday. We wish her
+            many happy returns of her anniver-
+            sary.
+            Anton Ellingson of Northfield, and
+            his brother-in-law, W. W. Thompson,
+            of Rochester, Minn., were visitors in
+            town Friday. Mr. Thompson has been
+            visiting for the past month in Wi-
+            nona, Osseo, and at Northfield at
+            the home of Mr. and Mrs. Ellingson.
+            planned to return home Monday of
+            this week.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M12D27</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>A Merry Christmas and a Happy New Year for all those
+            Banner-Journal reader. Mr. and Mrs. Chris Winneshiek of Waupaca,
+            Wis., were here Christmas day and see the Indian Mission pro­ gram
+            in the evening and they all have enjoy themselves who were there to
+            see them. The Indian reporter has been sick list last few weeks and
+            he had receiv­ ed some Christmas present. He will expect some more
+            and he had postal card but did not get the things. Christmas Program
+            1939 Winnebago Indian Mission school Neillsville, Wisconsin. Silent
+            Night— School Scripture Reading and Prayer— Ma. Ben Stucki It Came
+            Upon the Midnight Clear — Elizabeth Christ John, Marie Ann Stucki,
+            Vivian Kingswan, Madeline White Eagle, Edith Pettibone, Anna
+            Pettibone, Anna Winneshiek, Ger­ maine Russell, Annabelle
+            Winneshiek, Ramona Kitchkumne. Pageant scenes: The Annunciation to
+            Mary. Angel Gabriel— Lillian Thunder Cloud Mary— Lena Mallory The
+            Street of Bethlehem: (street scene) Mary— Dana Mallory Joseph—
+            Casper Mallory Innkeeper— Harold Blackdeer Shepherd “ A ” — Herbert
+            Lonetree Roman Soldier— Ruell John The Shepherd in Bethlehem Field:
+            “ B” Shepherd—John Barnes “ C” Shepherd— Ernest Garvin “ D”
+            Shepherd— Ray Garvin Two others— Mathew Falcon, Billy Stucki Mary
+            and Joseph, Christ Child in Manger1 King Herod and the Wise Men:
+            King Herod— Mr. Ben Stucki Kasper— Jacob Stucki Bolthasar— Woodrow
+            Thunder Chief Melchoir— Freddie Vomholt Angel Appear to Shelherd:
+            Shepherd— John Barnes, Ernest Garvin, Roy Gavin, Mathew Falcon,
+            Billy Stucki. Angel— Lillian Thundercloud, Ra­ chel Lonetree,
+            Genevieve Pettibone, Luveme Kitchkume, Albertain Thun­ dercloud,
+            Gretchen Young Thunder, Esther Stucki Pantomime, “ Hark the Herald
+            An­ gels Sing” : The Three Wise Men— Kasper, Ja­ cob Stucki;
+            Malthasar, Woodrow Thunder Chief; Melchior, Freddie Vomholt.
+            Shepherd Resolve to go to Bethle­ hem— All the shepherd. Adoration
+            scene— All the charac­ ters. Another, our own Hotonga school in
+            Jackson county at Indian Mission. Our program: Song, “ O Come All Ye
+            Faithful” Welcome— Luke Snowball Song, “ So Did I” — Upper grade
+            girls Christmas Wishes— Keith Snake and George Stacy, Henry Swan and
+            Walter Funmaker. A Mocker’s Song and Recitation— Mary Wallace.
+            Strange Gifts— Kenneth Little George, Jessie Little George and
+            Fredrick Lewis. Song, “ Jolly Old Saint Nicholas” — 3rd and 4th
+            grade girls. Music, “ Away in a Manger” — The girls. Christmas
+            Acrostic— 3d grade. Star Drill and Song with Tonette music.
+            Christmas Story— 2d grade boys. Song and Recitation, “ Bells Song” —
+            Five girls. Recitation— Juanita Funmaker Tonette music, “ Come All
+            Ye Faith­ ful” — 4th and 8th grades. Song, “ Away in a Manger” Song,
+            “ Lesson of Christmas Can­ dles” — Girls Song, “ The First
+            Christmas” — 3rd and 4th girls. “ We Trim our Christmas Tree” — 4th
+            grade “ O Christmas Tree” — Lower grades Pageant 1939 and 1940—
+            Upper room Recitation, “ My Dolly and I” — 1st grade girls “ An
+            Appreciation” -—John Climer “ Good-bye” — The school. We will have
+            another program next week. .</p>
+      </body>
+   </text>
+</TEI>

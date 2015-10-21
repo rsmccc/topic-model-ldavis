@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M01D04</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> The months of cold weather are January and February. It’s time to
+            sliding now days, everywhere boys and girls, even men too. Rose Ziegler of Lebanon,
+            Pennsylvania, she was here last Thursday. She came down with Mrs. Ben Stucki. She stop
+            at Indian Mission school at Neillsville, and she heard about this Indian Mission in here
+            Wisconsin, and now she want to see herself and to know what it was. Mr. and Mrs. James
+            Yellowbank were here last Saturday evening at D. D. Decorah place and quite a few
+            Indians stop here to wait newyear. Mr. and Mrs. John Stacy, Alvin and Tillie Stacy went
+            to Greenwood week ago last Monday to see how they getting along those two boys working
+            their own farm. Indian Mission school teacher Mrs. Emma Olson report she had forty-five
+            children go to school at present. She told Indian reporter to see the children how they
+            work hard to study their own lesson and every one got clean come to school, and she
+            thank for their parents for these children. Miss Matilda Stacy, forelady of the sewing
+            project, she went to Indian hospital last week at Tomah Indian school, and Dr. told her
+            she need rest for a few days and she went there for a week to rest. She came back Monday
+            evening and she is working Tuesday again. Mrs. Frank Lewis went to Tomah Indian hospital
+            last Sunday night and she is going to have baby pretty soon and her daughter, Mr. and
+            Mrs. Nathaniel Decorah of Mauston were here to take care of her home. Mrs. Esther Black
+            Hawk underwent an operation Monday at Tomah hospital. She has not been feeling well
+            since September last and Mr. Black Hawk went to see her yesterday. Mr. and Mrs. Daniel
+            La Mere and Cicel Free went back to Nebraska last month and came again last Monday early
+            morning and they brought back his sister, Mrs. Margaret La Mere Johnson. Too bad news—
+            their brother Alex La Mere passed away a few weeks ago at Nebraska Reservation. He is
+            nice old man. The sympathy goes to his family and sister and brother, and some other
+            relatives and friends. His and friends. Mr. and Mrs. Ray White of Dells Dam, were here
+            at Indian Mission last Monday and visit relatives and friends. A man hunting deer last
+            fall had a very unusual experience. He saw a buck and he fell it with a shot. Being very
+            eager he ran up to it and put his tag on the horn. He put his gun aside and began to
+            take out his knife when the deer got up and ran off. In a few minutes he heard a shot
+            whence the deer go. Going to the place he saw a man with rifle and at his feet laid the
+            deer with his tag attached. He told the man that the deer was his as he put his tag on
+            the other said “I can’t understand how you put your tag on him when he was running like
+            that.” .</p>
+      </body>
+   </text>
+</TEI>

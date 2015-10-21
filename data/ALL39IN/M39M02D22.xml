@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M02D22</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>B-J SMOKE SIGNALS By Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>In these days of relief some have slumped down so far that they can’t catch cold for themselves. And again there’s the fellow who is so ignorant he thinks he knows everything. That’s what we would
+            call ignorantly intellectual. Sunday the 19th was the birth of a new moon. Indians call it the raccoon courting moon. Raccoons come out of hibernating and commence traveling up and down streams and rivers looking for mates.
+            During this moon the weather is very much changeable. Mornings may be warm and thawing but in the afternoon the temperature may drop way below zero. Many many hunters and travelers have been known to freeze to death because of
+            inadequate clothing. Again it could be just the reverse. A blizzard blowing in the morning and spring-like weather in the after­noon. This moon is considered by the Indians as not a winter month nor a spring month but a sort of
+            pariah among the many moons of the year. Next month will be the Winnebago’s calendar moon of fish-courting. These animals and fishes do not wait for the month of June for any love making. Whatever Old Chief Dandy, last of the
+            great Winnebago prophets prophesied and was right, and whatever old Mother Shipton prophesied and turned out to be true, yet these two never mentioned the long range forecasting of weather that we are about to have. The farmer
+            will have come into his own when this have come to pass. Close study of air movements by scientists have brought to light many startling discoveries which will be used as a basis of weather forecasting. From now on until well
+            into April there will be bustling activities in the sugarbush camps of farmers and Indians who make it a practice each year to make maple syrup and maple sugar. There will be hustling preparation for the tapping of trees for sap
+            when that sweet life-blood of trees begins to run. Boiling vessels will be scoured, sap sprouts will be cleaned and firewood will be gotten up too. Lots and lots of work but when the sap has been boiled down to a light
+            conistency when a person can take a large spoon or a wooden paddle and skim off the froth and harden it by a quick dip in cold water all drudgery is forgotten. Skimming off the foam is just a prelude to having pure unadulterated
+            maple syrup on nice piping hot pancakes. Eating of maple sugar comes later in the season. Some Indians still use home made birch bark vessels to catch the sap but many have switched over to using of pails or gallon cans. But
+            whatever is used the result is the same. It’s yum yum and more yum yum. .</p>
+      </body>
+   </text>
+</TEI>

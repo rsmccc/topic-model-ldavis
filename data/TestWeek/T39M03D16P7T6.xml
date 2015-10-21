@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P7T6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Publish March 2. 9. 16.
+            Notice of Hearing Application for Administration and Notice to Creditors
+            State of Wisconsin, County Court, Monroe County.
+            In the Matter of the Estate of Berta Gary, deceased. 
+            Notice is hereby given that at term of said Court to be held on Tuesday, the 28th day of March, 1939, at 10 o’clock in the forenoon of said day at the Court House in the city of Sparta, in said County, there will be heard and considered: 
+            The application of John C. White for the appointment of an administrator of the estate of Bertha Gary, deceased late of the city of Tomah, in said county:
+            Notice is further given that all claims against the said Bertha Gary, deceased late of the city of Tomah, in Monroe county, Wisconsin, must be presented to said County Court at the city of Sparta, in said county, on or before the 26th day of June, 1939 or be barred and that all such claims and demands will be examined and adjusted at a term of said Court to be held at the Court House in the city of Sparta, in said County, on Tuesday, the 27th of June, 1939, at 10 o’clock in the forenoon of said day.
+            Dated order of the Court
+            O. W. Sprecher
+            Judge McCaul and McCaul Attorneys, Tomah, Wis. 
+            Published March 2. 9. 16.
+            Notice of Hearing Application for Administration and Notice to Creditors
+            State of Wisconsin, County Court Monroe County.
+            In the Matter of the Estate of George Ryan, deceased.
+            Notice is hereby given that at a term of said Court to be held on Tuesday, the 28th day or March, 1939, at 10 o’clock in the forenoon of said day, at the Court House in the city of Sparta in said county, there will be heard and considered:
+            The application of Eva Ryan for the appointment of an administrator of the estate of George Ryan, deceased, late of the city of Tomah, in said county:
+            Notice is further given that given that all claims against the said George Ryan, deceased, late of the city of Tomah, in Monroe county, Wisconsin, must be presented to said County Court at city of Sparta, in said county, on or before the 26th day of June, 1939 or be barred and that all such claims and demands will be examined and adjusted at a term of said Court to be held at the Court House in the city of Sparta, in said County, on at 10 o’clock in the forenoon of said day. 
+            Dated February 28, 1939. 
+            By order of the Court,
+            O. W. Sprecher
+            Judge McCaul and McCaul Attorneys, Tomah, Wis. 
+         </p>
+      </body>
+  </text>
+</TEI>

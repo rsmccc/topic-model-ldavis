@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>TAYLOR NEws
+            Will Hulett of Northfield, spent
+            Sunday at Ed Hulett’s.
+            Albert Amundson of Northfield,
+            called on his brother, Thursday.
+            Mrs. Alvin Fenney of Alma Center
+            was a business caller here Monday.
+            Miss June Haralson is assisting
+            Mrs. C. J. Larson with household du-
+            dies.
+            Mr. and Mrs. Theo. Nelson spent
+            Sunday afternoon at Barney Mat-
+            son’s.
+            Mr. and Mrs. Lawrence Curran
+            were dinner guests at Will Curran’s,
+            Sunday.
+            Mrs. M. J. Larson and son Gerald
+            spent the week end with relatives in
+            Viroqua.
+            Mrs. C. E. Fisher and children
+            spent Sunday at Clarence Fisher’s
+            at Hixton.
+            Mahlon Sustad came home Wednes-
+            day from Greenwood, where he had
+            employment.
+            Mrs. Harold Kirby and son spent
+            a few days last week with her mother
+            near Melrose.
+            Marlyn Stai of Ettrick, spent the
+            past week with her aunt, Mrs. Anna
+            Prestelyken.
+            Mr. and Mrs. Orville Boe returned
+            to their home Sunday after a week’s
+            visit at Melrose.
+            Mrs. Henry Huseboe and Mrs.
+            Frances Rumppee were callers at B.
+            R.	Falls, Tuesday.
+            Mrs. C. J. Larson returned home
+            Wednesday from the Community hos-
+            pital at Whitehall.
+            A. C. Anderson went to Madison
+            Tuesday evening to consult doctors.
+            He returned Friday.
+            Mrs. Julius Johnson of Rose Hill
+            spent Thursday with her daughter,
+            Mrs. Ralph Stevens.
+            Mrs. Lute Chappie and Mrs. Sadie
+            Hanson of Hixton, spent Friday with
+            Mrs. O. E. Anderson.
+            Miss Selma Huseboe is spending a
+            couple of weeks with relatives at
+            Madison and Deerfield.
+            Mr. and Mrs. C. O. Pratt and Mrs.
+            Emma Northup of Hixton, spent Sun-
+            day at B. L. Van Gorden’s.
+            Mrs. Ingval Ingvarson was taken
+            ill on Thursday. Her many friends
+            hope for a speedy recovery.
+            M. J. Larson and S. F. Waallen at-
+            tended a Legion birthday party at In-
+            dependence Monday evening.
+            Archie Rumppee and Shirley Hal-
+            verson of Greenwood, spent Sunday
+            and Monday with home folks.
+            Mrs. Lottie Ellison went to Wino-
+            na Thursday to visit the Frank Elli-
+            son home, returning home Monday.
+            Royal Neighbors will meet with
+            Mrs. Roy Bue, Thursday, March 22.
+            Mrs. B. L. Kelly is assisting hostess.
+            Philip Olson treated his classmates
+            and second graders and his teacher to
+            a birthday cake Thursday afternoon.
+            Mr. and Mrs. Ernest Boe and chil-
+            dren, Mr. and Mrs. Orville Boe, and
+            Mrs. Holte spent Sunday afternoon at
+            Ole Boe’s.
+            Last Wednesday night, Rev. Mude-
+            king of Arcadia, held a Lenten ser-
+            vice at the Lutheran church to a very
+            nice crowd.
+            Regular services will be held at
+            the usual time 9:45 at the Presbyter-
+            ian church, Sunday, March 19th. All
+            are welcome.
+            Mr. and Mrs. John H. Halverson
+            returned to their home in Trump
+            Coulie after caring for Oneal Burch
+            a few weeks.
+            The Boy Scouts are selling flower
+            and garden seeds to help raise funds
+            for their work. Help the boys by
+            buying some seeds.
+            Amos Kolve went to Minneapolis,
+            Wednesday, where he was entertained
+            at a grain dealer banquet by the
+            Northrup and King Co.
+            Mrs. Amelia Dorrance and Mrs.
+            Charles Dorrance of Hixton were
+            callers at B. R. Matson’s and Hans
+            Amundson’s, Thursday.
+            Misses Irene and Beatrice Boe
+            spent the week end with their pa-
+            rents, Mr. and Mrs. Ole Boe, from
+            their employment at B. R. Falls.
+            Mr. and Mrs. Nels Larson are mov-
+            ing to a Henry Lien farm near Hix-
+            ton, this week. We regret them leav-
+            ing Taylor, but are glad it is no far-
+            ther away.
+            Joseph and Olof Engebretson Jr.
+            were home over the week end from
+            Madison. Joseph returned Monday,
+            Olaf remained for a longer visit with
+            home folks.
+            The auction sale at the Olson Bros,
+            farm Saturday was very well attend-
+            ed. The Lutheran Ladies Aid served
+            lunch, and was very well pleased
+            with the patronage.
+            Mrs. J. W. Collins slipped on the
+            step of their restaurant Thursday and
+            unfortunately broke her arm just
+            above the wrist. Her many friends
+            wish her a speedy recovery.
+            At the last meeting of Carl Han-
+            son Post American Legion, it was vot-
+            ed to sponsor one and perhaps two
+            boys to attend Boys State School at
+            St. John Military Academy at Dela-
+            field for one week next summer. A
+            course in Americanism will be offer-
+            ed with the outing vacation.
+            Dr. E. J. Smith and M. J. Larson,
+            Boy Scout Troop 84 council men, and
+            Patrol Leader John Preston from the
+            Whitehall district, and S. F. Wallen
+            were guests at a seminar for council
+            men and Boy Scout leaders at Black
+            River Falls, Tuesday evening, con-
+            ducted by Executive B. W. Ingli, of
+            La Crosse.
+            At the last regular meeting of the
+            village board it was decided to extend
+            the payment of real estate taxes till
+            March 20th and where an affidavit is
+            filed showing inability to pay at pres-
+            ent they may be extended till July
+            1st without penalty. Nels Bemtson
+            and Olaf Engebretson were elected to
+            the caucus committee to fill vacancy
+            caused by death of Hans Iverson and
+            J. V. Lukas to act with Carl Rauk.
+            S.	F. Wallen president of village, ex-
+            pressed definitely that he was not a
+            candidate for re-election. Caucus will
+            be held Thursday evening. March 16,
+            at 8 o’clock.
+            TAYLOR LUTHERAN PARISH
+            A. J. Bringle, Pastor
+            Taylor:
+            Morning worship 11 a. m.
+            Sunday school 10 a. m.
+            Lenten services in Taylor on Wed-
+            nesday evening, 22nd, at 8.
+            Ladies Aid meets Wednesday after-
+            noon, March 22. Hostesses are Mrs.
+            Oscar Larson, Miss Rosie Blix, and
+            Mrs. Anna Blix.
+            Curran Valley:
+            Sunday school-worship at 2 p. m.
+            (Norwegian)
+            Beaver Creek:
+            Luther League at 8 p. m.
+            Pariah Note*:
+            Lenten services on Wednesday eve-
+            ning, March 22, in Taylor. Speaker
+            is Rev. 0. G. Birkeland. Topic for
+            sermon, “Condemned by the State.”
+            Parish L. D. R. postponed from
+            last Saturday meets on Saturday af-
+            ternoon at Donna Jean Van Gorden’s.
+            TAYLOR A. C. 33-PINE CREEK 25
+            The Taylor A. C. basket ball team
+            had a heavy scheduled week last week
+            and dropped two out of three games
+            played. Tuesday night the boys step-
+            ped out and defeated the strong Pine
+            Creek team by a score of 33 to 25.
+            This was the best, fastest and clean-
+            est team the boys have been up
+            against this year. The game started
+            very fast and the speed was never
+            reduced during the 40 minutes of
+            playing time.
+            Hess and Toxen played wonderful
+            game at the guard position while
+            Peterson went out after those count-
+            ing buckets with 8 field goals and a
+            free bucket. Hues of the Pine Creek
+            team led with 8 points.
+            TAYLOR 34-COCA COLAS 42
+            Taylor traveled over to the county
+            seat on Thursday night and there
+            were deafeted by means to miserable
+            to describe. The A. C. started on a
+            scoring spree and led throughout the
+            first three quarters to be tramped
+            down in the last four minutes of play.
+            Peterson led Taylor’s scoring with 20
+            points and was by far the star on
+            the floor. Arnold and Hagen of the
+            Coca Colas were tie with 12 points
+            each. The crowd was very disap-
+            pointed to think a team like Taylor
+            that seemed to be far the superior
+            team, should taste the bitter weed of
+            defeat by being beaten after leading
+            by 29 to 12 at one stage in the game.
+            We only hope they don’t misjudge the
+            team enough to turn out and see us
+            play again if we can get games with
+            the Coca Cola team.
+            TAYLOR 42-PINE CREEK 52
+            Taylor traveled to Pine Creek Sun-
+            day night and there met defeat by
+            a score of 42 to 52. There we met
+            the same sportsman team that played
+            here on Tuesday night. We were
+            outplayed there by a smooth passing
+            attack and fast break under the bas-
+            ket. The scoring was well divided up-
+            on the Taylor team by Peterson,
+            Skutley, Lambert getting 9, 8, and
+            8 points respectively. Weise did the
+            share of the Pine Creek scoring with
+            22 points. The Taylor A. C. has en-
+            tered the town team tournament at
+            Osseo that will play there March 24,
+            25 and 26. More details will follow
+            next week.
+            The Legion and Auxiliary Post 368
+            at a joint social session Tuesday eve-
+            ning, March 14th at the club rooms
+            in Taylor, celebrated the American
+            Legion’s 20th birthday.
+            On Friday, Miss Nettie Dunn, of
+            Danville, 111., and Walter Fisher, of
+            Chicago, also Miss Ruth Dunn of
+            Brodhead drove here to visit at the
+            C. M. Dunn home. Miss Ruth return-
+            ed to her school duties Sunday while
+            the others remained for a longer visit
+            among relatives and friends.
+            The Parish Junior League will
+            meet at the Taylor church Sunday,
+            March 19, at 7 p. m. Members are
+            asked to bring Bibles or Testaments
+            Let us try to have every member
+            present at this meeting. Bring some
+            one with you and come.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W7-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Star Dust
+            by Virginia Vale
+            IT’S an ill censor that blows
+            no picture some good. Warner Brothers’ “Yes, My Darling Daughter" is the latest
+            picture to profit by censorship.
+            And anyone who saw the play
+            of the same name on which
+            the picture was based is likely
+            to suspect that the movie
+            moguls who were responsible for the film rather hoped that a little
+            censorship, though a dangerous
+            thing, might result in plenty of free
+            publicity.
+            New York’s state censor board
+            obligingly banned the picture.
+            Whereupon the department of education's board of regents even more
+            obligingly lifted the ban, and the
+            public rushed to the theater where
+            the picture was finally shown, eager
+            to see what all the fuss was about.
+            In fact, so much interest was
+            stirred up in this darling daughter
+            that the theatrical producer who
+            produced the original play is said
+            to be considering reviving it.
+            Some of Hie women who read the
+            books of the “Five Little Peppers’ a
+            series when they were children trill
+            be escorting their grandchildren to
+            tee those young Peppers on the
+            screen. The series of nine books
+            has been bought for Edith Fellows.
+            
+            Isa Miranda was so upset when
+            she lost the title role in "Zaza” to
+            Claudette Colbert that she was
+            ready to give up and go home to
+            Italy. But when the picture was
+            released she had reason to thank
+            her lucky stars that the cast didn't
+            include her name.
+            Now Paramount is making it up
+            to her by giving her a grand chance
+            in the re-make of “Hotel Imperial,”
+            and has also booked her for
+            “Tempted,” which should prove to
+            be something extra-special. And la
+            belle Miranda thinks America is a
+            swell place and is taking steps to
+            become an American citizen.
+            When Baron Cal von Ripper spent
+            seven months In a concentration
+            camp he probably didn’t believe
+            that it would ever do him any good.
+            Now that experience stands him in
+            good stead. RKO Pathe has en-
+            gaged him to act in an advisory
+            capacity for their forthcoming feature length picture, “Unknown Patriot.”
+            
+            Rose Bampton may not have
+            Grace Moore’s genius for publicity,
+            but her name is practically a house-
+            hold word all over the country,
+            thanks to her radio performances.
+            The first of the Metropolitan Opera
+            company's glamour girls to be initiated into "The Circle,” she was
+            called back for a repeat performance. Three days later she had to
+            be back on the East coast for the
+            
+            Hobby Lobby show.
+            And of course she Is always bob-
+            bing up on Bing Crosby’s program
+            —she has appeared on it nine times
+            so far.
+            George Murphy, master of ceremonies of the “Screen Guild Show,”
+            thinks he works pretty hard. He
+            has to track down movie stars and
+            arrange for their appearances on
+            the program. So far his "work" has
+            involved skeet hunting with Robert
+            Montgomery, swimming with Loretta Young in her private pool, skiing
+            with Basil Rathbone and visiting
+            Judy Garland during school hours.
+            
+            After broadcasting for two years
+            and thirteen weeks for one sponsor.
+            Al Jolson departs from the air in
+            mid-March, possibly to remain a
+            non-broadcaster until fall. He is
+            slated for a Twentieth Century-Fox
+            picture, “Rote of Washington
+            Square," and wants time to work
+            on a new type of radio program.
+            HIs place Is being taken by Dick
+            Powell. The rest of the cast re-
+            mains the same.</p>
+      </body>
+  </text>
+</TEI>

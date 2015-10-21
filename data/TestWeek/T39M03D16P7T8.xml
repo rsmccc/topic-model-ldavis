@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P7T8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Sheriff’s Notice of Foreclosure and Sale
+            State of Wisconsin, In County Court, Monroe County
+            Fred A. Neitzel and Bertha M. Neitzel, Plaintiffs
+            Vs. 
+            John Barrett and Elizabeth Barrett and the Central Hardware Company, a domestic Corporation, Defendants
+            By virtue of a judgment of foreclosure and sale made in the above entitled action on the 22nd day of November, A. D. 1937, and pursuant to order of the Court herein that the amount bid for the purchase of the property at the prior sale herein was inadequate, the undersigned sheriff of Monroe County, Wisconsin, will sell at the front door of the Court House in the City of Sparta, Monroe County, Wisconsin, on the 31st day of March, 1939, at 2 o’clock in the afternoon on that day, the real estate and mortgaged premises described by said judgment to be sold, and therein described as follows: 
+            “Lot No. 6, Block 28. Railroad Addition to the Village, now City of Tomah, Wisconsin.”
+            Terms of Sale-Cash.
+            Dated February 10, 1939.
+            H. T. Jenkins, Sheriff of Monroe County, Wisconsin 
+            Lawrence S. Clark, Attorney Tomah, Wisconsin
+         </p>
+      </body>
+  </text>
+</TEI>

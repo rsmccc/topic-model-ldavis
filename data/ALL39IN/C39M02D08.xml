@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M02D08</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The Indians cutting woods use by crosset saw, and split and pile them for school house. They said they work for public welfare department office. A. Johnson, John
+            Swallow, Dono Greengrass and Rubin Hall. Mr. and Mrs. George Lewis and their children of Greenwood were visit at Indian Mission last Saturday. Rev. John Stacy and Alvin Stacy
+            went Tomah Indian hospital. They took Lester Young Thunder has been having sore eyes, and we understand that 3 or 4 has been cured. William Waukon has gone to Tomah Indian
+            hospital last Sunday, and first place thought he had bad cold, but he have to go to hospital now. Mr. and Mrs. Sam Little Soldier and Mrs. Nellie Wallace and Mrs. Belle Standing
+            Water went to Waupun last Saturday to see the Tom Wallace. Mr. Yubank from Tomah visit the school last Wednesday, and Mrs. Emma Olson, our teacher she think find everythings o.
+            k. in this 49 school children and every one attending every day too. We understand that “Indian Mission” will be start in Chicago. Reverend Fred White Eagle, who was pow­wow
+            chief in Merrillan, is one of them, who will help the things along. There are many Indians in Chicago, and the Mission will help those who need help. These two gentlemen were
+            here last week, we did not have in last week paper. Mr. A. M. Morris and Mr. G. B. Yubank of Tomah Indian school were here to see some Indians on business. Mr. John Smoke is
+            working on RA at Monroe county, and he says his forman told him there are some of his men lay off 15th of this month, and Mr. Smoke said he wish to be continue on his job. There
+            is a man went to hunt deer when season open, deer hunting, and he went about 9 miles from his home, and he left his car, edge of woods and he had cover it up his radiator some
+            kind robe, and evening he was lost on his way to find his car. Finally he found, when he come through the woods he saw standing a deer, so he shot at 3 or 4 times and he notice
+            that deer did not move, so he went up there to see, but that his car to shoot a radiator and he can not get car started. He had to walk 9 miles to his home and his wife has more
+            difficult her mind, not come home after midnight. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>County Organized for Promotion of Pheasant Rearing
+            Meeting to Discuss Project Will be Held Tonight
+            A county-wide organization for the promotion of conservation was formed at a meeting held at Sparta last Thursday evening and it is believed an especially fine program of conservation work will result from this fine beginning. Representatives from nearly all local clubs in all parts of the county were present for the meeting and helped with the organization of the county club. Communities not officially represented were Tomah and Norwalk, but it is likely these will be enlisted in the county campaign before the organization is completed. 
+            The new county organization will be known as the Monroe County Conservation Club and the officers chosen were Roy Newburg. Sparta, president, and Russell McOmber, Sparta, secretary-treasurer. A building committee was appointed and is composed of Wm. Vieregge, Sparta, August Steinhoff, Cashton, Ed Smith, Kendall and Robert Zellmer, Wilton. 
+            The first project of the new organization will be the completion of the pheasant propagation program for the county. The county board has pledged $500 for thus work and our communities have pledged $825 to date, Sparta $500, Cashton $75, Wilton $100 and Kendall $150. It is likely that Tomah will pledge a favorable fund when organization here has been completed. 
+            Funds now assured will permit of a $5,000 project, set up under the WPA, and this will permit the rearing and release of approximately 7,000 birds annually. These pheasants, it is planned will be released in all parts of the county to provide excellent hunting in this section within a short time. 
+            A similar project has been operating more than a year in Juneau county and the prospect for success in that county has prompted the adoption of plans for pheasant propagation in Monroe county. With two adjoining counties engaged in this prorogation plan, this section should soon become a hunter’s paradise. 
+            A meeting of the Tomah Rod Gun Club will be held at the armory tonight (Thursday) when the problem of Tomah’s participation in this county undertaking will be discussed. From current discussion about the city, it is anticipated the local sportsmen will be highly in favor of joining with this movement and there should be little difficulty in securing a representative pledge for a sizable contribution from this party of the county. 
+            The initial expenditures will be the heaviest in this program of pheasant prorogation. Beating buildings and feeding pens must be constructed and various other facilities provided for the rearing of the young birds. It is understood that the state hatches the eggs and feed supplies will be furnished by the state until the birds are ready for release. After the buildings and other facilities have been provided, the expense of keeping the project in operation will be nominal and the results should far offset the outlay which is a future prospect that encourages present support of the program.
+            All local sportsmen who are interested in the promotion of this fine program are urged to attend the meeting at the armory tonight, whether or not. They are members of the local club. The importance of this promotional plan calls for the assistance and support of everyone and all are urged to attend the meeting and help organize this part of the county for the work ahead. 
+         </p>
+      </body>
+  </text>
+</TEI>

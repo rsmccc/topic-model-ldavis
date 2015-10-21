@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M02D02</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Russel Decorah from Portage come to Snider Bear place at Watermill for visit. More snow and winter at Portage than here. Editor want more news but Indian reporter have to chop wood all time to keep house warm, no time to visit for news. Talk to Indians in Tomah but go no places or have babies or news like what paper want. Dr. Srole here to talk with Indians to find about way back about Winnebagoes. Going to make big book about what Indians did long time
+            ago, Indian reporter going to help. Tell stories what know about Indians long time ago. Dr. Srole fine fellow and been acquainted with Indians quite a few already. Jim Smoke friend of white doctor and help him with book. Work long time. One Indian tell other, stories come that way long time back. Jones Decorah’s wife and brother Willie Miner from Black River Falls visited sister at Wyeville last Monday. Return to home same day. Snow last week make good fox hunting. Track fox in snow.
+            Hunter know all kinds tracks and can tell where fox go. Always watch tracks. Long time ago could tell white man or Indian by tracks. Indian walk narrow places and have one foot head at other. All Indians walk same tracks. White man walk big room and walk wide one foot __ other. Now walk same and can’t tell Indian tracks like long time ago. White man show change Indian walk too. Birds always back 16th March. Watched them every year seven years. Go out in woods 16th March and see all
+            kinds birds and hear songs. Always watch birds on that day and always there. Some not many but find all kinds birds. Paul Rose pretty sore first day about Indian pony. No laugh, Talked to him today and now big joke and lots of fun about Indian pony. Nobody get sore at Indian Reporter. Have fun with joke with white man friends. White man lots of talk about give country back to Indians. When Indians had country was free country. Everybody have plenty to eat. Nobody tell you have to buy
+            license before kill meat to eat. Nobody kill more than can eat. No free country now. Somebody tell everything you can do. License for everything. Nobody on relief when Indians run country. Maybe good idea give country back to Indians. Before white man made all laws about ones to kill three deer, fry meat, have meat all winter. Nobody get hungry. Nobody get relief. I don’t think this free country any more. Indian reporter have better name for Tomah Lake. Canoe Lake ask nobody. Other
+            name Hiawatha Lake. Henry McFadden at take paint bushed all over hill. Make look like big woods. Men work all time. McFadden no work, tell other fellows what do, big boss. McFadden friend of Indian reporter, know long time 189_. Frank Lueck tell letter about Indian reporter ride in parade. Was in Indian snow at world’s fait three Limes. First Lime 1893 Chicago. Two times same place. Come home show other Indians about all kinds things at world’s fair. Rode four horses all same time
+            stand up Roman at fair here when Henry Skinner was fair man here. Big show. Good fair then. This year fair no good. Nobody come. Skinner have fair like big show. Indian reporter at show president party Monday night. Onan Vaudell barehead fellow winter same as summer give reporter badge so people know about big shot program man. Girls go walk in white man dance. No quick dance like Indian dance just walk nice. Lavern Carimon Indian boy sing for people. People like everybody clap
+            hands. Mayor fellow make big talk. Indian reporter don’t understand. Maybe good. John White Bear, Melrose, in Tomah Monday. Go home same day. .</p>
+      </body>
+   </text>
+</TEI>

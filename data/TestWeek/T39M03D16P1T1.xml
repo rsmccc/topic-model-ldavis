@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Indian Heads Say Buildings Beyond Repair
+            Estimated Value of Buildings Placed At $14,000
+            Definite plans for the progressive __ of the Indian school buildings at Tomah have taken concrete shape in Washington, it was revealed in a recent letter written by John Collier, Indian commissioner to Congressman Harry W. Griswold. Congressman Griswold had written a letter to Mr. Collier, protesting the destruction of these buildings until an investigation could be conducted that would tend to find an occupant for this fine group of government buildings. 
+            Mr. Collier summed up the sta__ of the Tomah plant, in relation to the plans of the Indian department, and ended his letter with the definite plan of authorized attack. Mr. Collier said: “As to tearing down certain buildings it may be said that authority has been granted for dismantling three old buildings having an original book value of approximately $13,000 or $11,000. These are the only buildings which have been ordered destroyed. Their condition was such that dismantling them was deemed advisable quite apart from use of any salvage material.” 
+            This plan, __ realized, is only a start on destroying a splendid act of buildings that could be used to advantage by various government agencies operating in this Midwest auction. There are no buildings in the group that might total the specified amount mentioned in Mr. Collier’s letter, which are in a state of disrepair or have reached a stage of disuse, that would warrant such a plan of destruction, it is believed by local people who are familiar with the plant. Certainly, any of the brick buildings in the group could be economically repaired to serve a long time and it is not in keeping with the government’s protestations of an economy program that any of these buildings should be destroyed. Rather, they should be salvaged from their present condition of wastefulness and disuse and made to serve a profitable period as an asset of the government. 
+            Every effort is being made to call attention to the wastefulness of allowing these buildings to stand idle and empty, subject to deterioration, while the government is spending millions in providing housing for its agencies and bureaus. Something should be done and those in authority are neglecting a stern duty if they allow these buildings to remain _enantless longer than is necessary to get them occupied and showing a return for the investment which it has cost taxpayers to build this extensive plant. 
+         </p>
+      </body>
+  </text>
+</TEI>

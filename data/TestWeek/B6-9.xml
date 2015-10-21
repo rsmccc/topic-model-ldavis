@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-9</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>RICHARD GARY YESKE
+            Richard Gary, youngest son of Mr.
+            and Mrs. Harold Yeske, passed away
+            at the age of ten months and four
+            days, of Intuscption. He was born
+            May 5, 1938. He was taken serious-
+            ly ill on Tuesday, and rushed to St.
+            Francis hospital, La Crosse, where
+            everything possible was done for him.
+            The oxygen tank was used, but his
+            little body could not ward off his
+            death.
+            He is survived by his parents and
+            one brother, Harold Junior, aged 4.
+            Also his grandparents, several aunts,
+            uncles and cousins.
+            A short service was held at the
+            Morris and Hellwig funeral chapel at
+            La Crosse at 1 o’clock, and at 2 o’-
+            clock at the Methodist church in Mel-
+            rose. Rev. Beal officiated. Interment
+            was made in the Melrose cemetery.
+            Pall bearers were four small boys,
+            namely Robert Yeske, uncle of the
+            deceased; Billy Myers, Elmer Hayes,
+            both cousins of the deceased; and a
+            neighbor boy, son of Mrs. Irene Ben-
+            dle. The little girl cousins were the
+            flower girls.	
+         </p>
+      </body>
+  </text>
+</TEI>

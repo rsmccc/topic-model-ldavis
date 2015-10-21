@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M09D06</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Mrs. Lillian Harrison of Winneba­ go, Nebraska, was
+            here again and when she arrived at Indian Mission most Indians had
+            gone to cranberry marsh. She went with them at Phil­ ip Bennett’s
+            marsh. Willie Hall Jr. and Indian report went to Merrillan and
+            Millston sell­ ing basket handle. Sold quite a few handle. It is
+            time now talk about cranber­ ry marsh. We always talk about
+            cranberry marsh this time of a year. September. Ben Potter’s marsh,
+            he thought last two weeks to pick his cranberries, he want hired
+            some In­ dians, hand pickers commenced 28 of August, finished only
+            two days, and he never think could finished only two days. Ten acres
+            o f cran­ berry last only two days. Mr. James Noble was here again
+            and they went to north some where, vacation. Mrs. Noble is going to
+            fish­ ing, and we hope to have good luck that fishing. Mr. and Mrs.
+            Gilbert Lowe and Mrs. Jennie Decorah were working hard to clean
+            school house and school dining room and they gave short no­ tice to
+            do work. Hotonga schol be­ gin yesterday. The school children are
+            very glad to have school again. They begin with 39 scholars. Two
+            teacher, Mrs. Emma Olson and Misi Hansen. Forman WPA, Dick Walters
+            says still they waiting for plaster. New building has not been
+            finish yet and as soon as plaster come it wouldn’t take very long to
+            finish. RA work began yesterday. They had new Forman O’Brien and
+            they said they don’t play Hawkin’s game. John Whitedog passed away
+            first day of September in midnight. 1939. He is about 54 years old
+            and he was born in Jackson county, raised right here in all his
+            life, and every one know him well. He is always ready to help the
+            people meet him, he or she. Funeral service held yesterday
+            afternoon. There were quite a few people to see him his last
+            tributes, Indians and white people know him at La Crosse where he
+            was working WPA gang and his neighbors, lots o f Indians come, from
+            every Indian Set­ tlement. George Funmaker Jr.. his son Clarence
+            Whitedog, David White Decorah and Charles R. Lowe Cloud went there
+            to see him, and some oth­ ers but we could not put all their names
+            whoever were there. Feel sor­ ry for him those who know him. The
+            sympathy goes to his family, his wife, his daughter, Mrs. Lee Brown,
+            his brother, Julius Whitedog and his mother, Mrs. Joe Thunderking. A
+            boy was born to Mr. and Mrs. Frank B. Thunder of Hunter Bridge on
+            Tuesday, August 29th, 1939, at Tomah Indian hospital, and both are
+            doing well the mother and baby. Myron Lowe, his brother Emanuel Lowe
+            went back to school week ago last Tuesday and next day Myron went
+            back too, at Haskell Institute, Kansas. This is third years this
+            sea­ son and hope they will study hard their own less finish as soo
+            nas they can. .</p>
+      </body>
+   </text>
+</TEI>

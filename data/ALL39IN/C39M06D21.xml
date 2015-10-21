@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M06D21</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> It's time now to pick strawberries. Only a few Indians left here at
+            Indian Mission, those who are working at project and those some
+            women work a sewing project. Herman Brown Eagle lost some baby
+            clothes between Frank Knapp’s place and Louie Updike filling station
+            and please finder return to Herman Brown Eagle and family and
+            reward. Alvin Stack took in Doctor Krohn office Joe Thunderking to
+            examine, he is not feeling well last few months, and he is too old
+            and blind last sev­ eral years. Indians Re-selling baskets. Chair­
+            man Gilbertson advised the board that he had received complaints
+            some of local Indians in regards to the sale of baskets on the
+            highway. He called on one of the Indians present and asked her to
+            state her case. According to her statement, Indians from La Crosse
+            county come in and crowd the local people off Highway 12. Motion
+            made by Supervisor Millis that the Jackson county Indians pay a
+            license fee of 25 cents then they will be reg­ istered and something
+            can be done. Motion seconded by Supervisor Bul­ lock and carried.
+            Indian reporter had received a let­ ter from Indian office nine
+            years ago through Supt. Morrison office at To­ mah Indian school,
+            Dec. 10, 1930 re­ garding the Indians money, and again a letter from
+            Hon. Merlin Hull, Ap­ ril 2, 1939, some money was short $2676.44.
+            Indian reporter wrote to Commission Indians Affairs John Sol- loir
+            at Washington, D. C. Dear John Collier, Re: 28508-30, 64598-30,
+            Misc. 20728-39. Dear Sir: I wish to call your attention to the
+            matter of Winnebago funds supposed­ ly on deposit in the U. S.
+            treasury as referred to in the correspondence from your office as
+            noted above, ac­ cording to the letter dated April 27, 1939 and
+            address to Hon. Merlin Hull, House of Representatives there has been
+            a shrinkage of funds belong­ ing to the Winnebagoes since 1930
+            amounting to $2676.44. As a Win­ nebago interested in the affairs of
+            my people there are certain things I would like to know, what has
+            caused this shrinkage in this fund, who were these moneys paid out
+            to and for what? Also what has become of the accrued interest for it
+            would seem strange that money on deposit should fail to draw
+            interest. I would ap­ preciate a letter from your " office clearing
+            up these matters as others besides myself wish to have this in­
+            formation regarding our property. Truly yours, Charles R. Lowe Cloud
+         </p>
+      </body>
+   </text>
+</TEI>

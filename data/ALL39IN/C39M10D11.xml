@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M10D11</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> The Indians are most came from cranberry marsh.
+            They said they are all finished raking cranberry, all they want to
+            clear up section or fix up cranberry marsh. Mr. and Mrs. Homer
+            Snake, Mary Fisher and Mrs. Maud Brown Eagle came back from Nebraska
+            last Friday afternoon and they are planning to come back last Sunday
+            but pretty hard to get gas money at Nebraska Reservation. They are
+            using “New Deals” and finally she got some a few dollars from her
+            own leasing. William O’Brien came back from Highway 12, has been
+            living on sell­ ing baskets on highway ever since last spring and he
+            is here at Indian Mission now. Mr. and Mrs. Peter Pettibone are
+            going to Waupaca last week to dick- ing potatoes or picking potatoes
+            for 4c a bush, and they will make some money on that, big families.
+            Robert Greengrass is working on Gaynor’s marsh near Wisconsin
+            Rapids. He came back to Mission Sunday for only two hours. Mr. Lee
+            Sam of La Crescent, Minn., stopped here at Mission. He is on way to
+            Wisconsin Rapids on im­ portant business. Mr. Collins of Tomah
+            Indian Ag­ ency came to Mission. The Indian report ask him why he
+            promise Indi­ ans so much and he never do what he say. He say
+            government is very slow in matter of Indian housing. Mrs. Esther
+            Black Hawk is still in hospital at Madison. She is improv­ ing on
+            this writing. RA worker will work rain or shine and they are making
+            dike way on high land. It seemed never will be some water at that
+            part, but they are working any way. John Black Hawk, William Hall
+            Jr. and Charles R. Lowe Cloud went to Madison last Monday on
+            business. .</p>
+      </body>
+   </text>
+</TEI>

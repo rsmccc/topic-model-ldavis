@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B7-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>NOTICE
+            The Taylor Creamery Association
+            will offer at public sale at the cream-
+            ery, Tuesday, March 21st, at 2:00 o’-
+            clock p. m., the entire output to one
+            party or separate days churnings to
+            different parties of the buttermilk
+            from the creamery from May 1, 1939
+            to May 1, 1940. Board reserves the
+            right to reject any or all bids,
+            lw	SAM	KELLY,	Sec.
+            NOTICE OF APPLICATION FOR PROBATE
+            OF WILL AND NOTICE TO CREDITORS
+            STATE OF WISCONSIN. COUNTY COURT.
+            Jackson County
+            In the Matter of the Estate of Hans H.
+            Iverson, deceased.
+            Notice is hereby given that at a terns of
+            said court to be held on Tuesday, the 4th
+            day of April, 1939, at 10 o’clock in the
+            forenoon of said day, at the court house in
+            the city of Black River Falls, in said county,
+            there will be heard and considered:
+            The application of Anna Iverson for the
+            probate of the will of Han? H. Iverson, de-
+            ceased, and for the appointment of an ex-
+            ecutor or administrator with the will annex-
+            ed of the estate of said Hans H. Iverson,
+            deceased, late of tire City of Black River
+            Falls, in said County;
+            Notice is further given that all claims
+            against the said Hans H. Iverson, deceased,
+            late of the Village of Taylor, in Jackson
+            county. Wisconsin, must be presented to
+            said County Court at Black River Falls, in
+            said county, on or before the 7th day of
+            August. 1939, or be barred; and that all
+            such claims and demands will be examined
+            and adjusted at a term of said court to be
+            held at the court house in the city of Black
+            River Falls, in said county, on Tuesday, the
+            8th day of August. 1939, at 10 o’clock in
+            the forenoen of said day.
+            Dated March 4. 1939.
+            By Order of the Court,
+            HARRY M. PERRY. Judge
+            D. M. PERRY, Attorney.
+            March 8-22</p>
+      </body>
+  </text>
+</TEI>

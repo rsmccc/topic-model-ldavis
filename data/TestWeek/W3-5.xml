@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W3-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Adventurous Americans by Elmo Scott Watson
+            "Pegleg" Smith
+            For an example of chilled steel 
+            nerve, consider the case of Thomas L. Smith. He and his partner,
+            Jim Cockrell, were trapping in the 
+            Green river country of Wyoming in
+            the  820s when Smith fell over a 
+            cliff and broke his leg. It was not  
+            an ordinary fracture. The bone 
+            was shattered and a piece of it protruded through the flesh. Prompt
+            action was necessary to prevent
+            blood poisoning.
+            “Guess we’ll have to cut ’er off.
+            Jim," said Tom Smith, calmly.
+            Their only instruments were a
+            three cornered tile and their hunting
+            knives. Cockrell used the file to
+            make a saw of Smith s knife. Then
+            Smith took his partner’s knife, cut
+            through the flesh, tied up the ar
+            teries. sawed the bone, seared it
+            with a redhot iron and sewed up
+            the stump.
+            When the wounded leg healed.
+            Smith made a wooden leg for himself
+            and thereafter he was known as
+            "Pegleg” Smith. Before the accident he had been a famous horse
+            man. Now there was all the more
+            reason for going mounted and the
+            wooden leg apparently made little
+            difference in his horsemanship.
+            At any rate be became the most
+            successful horse thief on a large
+            scale to the history of the West. He
+            spent most of his time organizing
+            expeditions into California to rob the
+            Spaniards. He and the famous Jim
+            Beckwourth made one foray into the
+            land of the dons that netted them
+            3.000 head of horses!
+            But when California came under
+            the Stars and Stripes it changed the
+            habits of "Pegleg"  won’t never
+            steal from my fellow Americans he
+            declared virtuously. Temperance,
+            however, was not among hts newly
+            acquired virtues. He ended his
+            days, a victim of strong drink, in
+            San Francisco in  866.
+            
+            A Perilous Journey
+            CAPT. RANDOLPH B. MARCY
+            halted with hts party of 40 sol
+            diers and 25 mountain men at the
+            junction of the Uncompahgre and
+            Gunnison rivers on his way to Fort
+            Union. N. M , in  857. “Me no guide
+            you over San Juan mountains in
+            winter time," declared the old Ute
+            Indian chief.
+            Capt Marcy had orders to join the
+            forces of Col. Albert Sidney John
+            ston near Sait Lake City with ani
+            mals and supplies, The orders said
+            to proceed without delay so there
+            was nothing for Captain Marcy to
+            do except proceed in spite of the
+            Indian warning that none of the
+            men would get through Cochetopa
+            pass alive, the party left December
+            for Fort Massachusetts near the
+            present Fort Garland
+            Four days later, when they
+            reached the mountains, winter s
+            fiercest storms were raging. Snow j
+            twirled and beat against their facet. {
+            It piled in deep drift* and hung
+            heavily on the legs of animal* and
+            men. The cold became totenae.
+            Captain Marcy* detachment
+            pushed on, although animals fell  
+            dead in their track* and men had to j
+            abandon equipment. Before they j
+            readied even the summit of the |
+            pass their rations were exhausted ;
+            and they had to eat the flesh of the
+            mules as the animals died.
+            On January  2 couriers from a
+            relief party arrived and announced
+            that help was close at hand. Short
+            ly thereafter aid came So starved
+            were the men that Captain Marcy
+            issued strict warnings to eat spar
+            ingly.
+            Hts orders evidently were only
+            partly .obeyed as one man died from
+            overeating—the only fatality to one
+            of the most trying adventures of
+            American history.
+            
+            The Scholar Builder
+            IN  798 Gabriel Richard, a French
+          priest, arrived in Detroit, whose
+            muddy streets were lined with log
+            huta and shacks housing its  .200
+            inhabitants, But most shocking of
+            ail to Pere Richard, who had been
+            a teacher to France, was the utter
+            lack of educational opportunities for
+            the children of the village.
+            With what fund* be had, he found
+            ed private schools and began a campaign to establish public schools.
+            Music whs lacking, so he gave the
+            people their first organ, brought
+            piece by piece on pack horses al
+            most  ,600 miles through the wilder
+            ness, He succeeded in getting Detroit its first public library.
+            He mode a journey lo Washington
+            to get federal funds for other projects and brought a printing press
+            with him when he returned. With
+            it he established the first newspaper
+            in Michigan.
+            In the election of  823, Pere Richard was chosen delegate to congress
+            from the Michigan territory which
+            included all of Wisconsin and Iowa,
+            pari of Minnesota and a small
+            strip of Ohio.
+            When the Asiatic cholera swept
+            the city in  832, Pere Richard vis
+            ited the sick and dying without
+            thought of himself. He died September  2, the last victim of the 
+            epidemic, and leaving behind him
+            many monuments of accomplishment.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P8T6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Shennington
+            Mrs. Olaf Kjesbo’s birthday was celebrated March 7 at her home. The guests present were Mr. and Mrs. Fred Laudon and daughter Dorothy, Mr. and Mrs. Bill Garbrecht and sister Hilda, Mrs. Louie Stein and sons, Frank and Robert, Mr. and Mrs. Frank Schmeckel and La Verne. The evening was spent in playing cards. The first prize was won by Mr. Louis Stein, Clarence Hellman won second prize and the booby prize was won by Robert Stein. A deliecious lunch was served and the guests departed wishing the hostess many happy returns.
+            Mrs. Amanda Palmer of Tomah is visiting her sister, Mrs. Kjesbo, for a few days.
+            Mr. Frank Schmeckel took his son Gilbert to the Sparta hospital. Mrs. Schmeckel is with him. The doctors decided to send him to Madison General hospital Monday. His condition is grave but everything is being done that can be done for him. His many friends and schoolmates here will be very happy to hear of his complete recovery.
+            There are many in this vicinity ill with the flu.
+            Mrs. Stein has pneumonia but is getting better at this writing. 
+            Ed. Blumberg accidentally cut his leg with an ax. He has been getting up wood for Mr. Litzenburger.
+            Mr. Nich Eflensen has been on the sick list but is better at present. 
+            Mr. McCarthy, who is depot agent at Maplewood, was a week end visitor with his family here. 
+            Mr. and Mrs. A. B. Larsen, Clarence Hellman and Mr. Alexander were callers at the C. E. Evans home the past week. Jim Hansen was a caller also. 
+            Spring Valley
+            (Last Week)
+            Mrs. A. Betthauser spent Friday afternoon with Mrs. Martin Betthauser in Tunnel City.
+            Little Shirley and Marvin Hart helped Dean Arthur Rehberg celebrate his birthday February 28.
+            Mrs. John W. Betthauser and Wilda Mae spent Saturday with her aunts in Tomah. 
+            Clarence Knutson is hauling wood to Tunnel City. 
+         </p>
+      </body>
+  </text>
+</TEI>

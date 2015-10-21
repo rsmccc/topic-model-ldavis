@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W2-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>TIps for Gardners
+            Flowers for a purpose
+            Gardners want flowers for
+            house bouquets, for beautification of the yard, or both. To
+            be certain of an abundance of
+            flowers for catting throughout the
+            growing months, however, the
+            gardener need plant packets of
+            only three or four of too following flowers:
+            Annuals—snapdragon, aster, ca-
+            lendula, calliopais, candytuft, Carnation, bachelor button, cosmos,
+            dahlia, larkspur, annual lupin,
+            marigold, nasturtium, saipiglossiil
+            and zinnia.
+            Perennials—columbine, coreop-
+            sis, gaiilardia grandiflora, peren-
+            nial lupin, pyre brum (painted
+            daisy) shasta daisy and delphini-
+            um.
+            For earliest bloom, the follow-
+            ing are recommended by Gilbert
+            Bentley, flower expert; Caiiiopgfs
+            and candytuft among the annuals,
+            and ccreopsis, delphinium and
+            pyrethrum among the perennials.
+            For late-blooming cut flowers,
+            grow zinnia, marigold, gaiilardia,
+            snapdragon, aster, cosmos and
+            dahlia.
+         </p>
+      </body>
+  </text>
+</TEI>

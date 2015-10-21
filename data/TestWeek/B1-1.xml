@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>DEDICATION OF PLEASANT VIEW SCHOOL
+            The Pleasant View school building,
+            which was recently completed, will be
+            formally dedicated Friday of this
+            week.
+            Everybody is welcome to attend the 
+            dedication, which will be held at 4 p.
+            m. Friday. The building will be open
+            for inspection during the afternoon,
+            and all are invited to go through it
+            and see what a fine improvement and
+            addition it will be to the facilities of
+            School District No. 4. A special invitation is extended to the members
+            of the district to look over the building.
+            The improvement was made under
+            a WPA grant, and the former two 
+            rooms were refinished, two new 
+            rooms larger than the others, added,
+            and a full basement put under the
+            building. There is an automatic control heating system and the building
+            is modem in every way and accord-
+            ing to state requirements. Play-
+            ground equipment has been installed.
+            Hot lunches are served in the basement.
+            Classes have been held in the old
+            building, in the church, and in the
+            town hall for the past two years due
+            to over-crowding. It was a much
+            needed addition and improvement.
+            State Superintendent John Calla-
+            han, of Madison, will be chief speaker at the dedication. Miss Grace
+            Webb, county superintendent, E. S.
+            Jedney, Mr. Hughes of Sparta, engineer in charge of the job, 
+            and possibly others will appear on the program. 
+            Harold Turner is chairman of
+            the general arrangement committee.
+            The P. T. A. of Pleasant View is
+            taking a prominent part in arrange-
+            ments for the day, and will serve hot
+            lunches during the afternoon and eve-
+            ning. There will be a program both
+            afternoon and evening.
+            There are 144 pupils enrolled in the school, and four teachers Coyle
+            Radcliffe, Miss Erika Balsiger, Mrs.
+            Olga Waldum and Miss Cora Gut-
+            knecht.</p>
+      </body>
+  </text>
+</TEI>

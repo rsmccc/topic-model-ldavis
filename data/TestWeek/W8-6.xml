@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W8-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>NORRIE
+            Mr. and Mrs. Elmer Erickson of
+            Plover visited Martin Johnson over {he
+            week-end.
+            Lionel Hanson of Milwaukee is visiting his mother.
+            Community Club met at the Nome
+            Town Hall. Mr. and Mrs. Gust Spitser and Mrs. Anton Miller were on
+            the committee. Prizes in ”500s’ were
+            given to Mrs. Gust Wege and Mrs.
+            Herman Lepak; in aheephead to Mel-
+            vin Bastil and Tony Buss.
+            Mr. and Mrs. O. H. Paulson visited
+            Mrs. Barbara 8uick at Antigo Saturday.
+            Miss Cora Kinney visited at Birnamwood Thursday.
+            Mr. Coleman of Wausau stopped
+            here and took Ralph Bucknam with
+            him to Tigerton Where a new Town-
+            send club has been organised.
+            Mrs. Christiansen entertained at
+            ”860” Friday. Prizes were given to
+            Mrs. Ralph Bruce.
+            Chris. Christiansen spent Sunday
+            visiting friends at Wausau.
+            Mrs. Gtorge Bugbeo of Antigo visited Mrs. W. B. Gowell last week.
+            George Zulauf has been home sick
+            with the flu.
+            William Kuehn celebrated his 77th
+            birthday Tuesday evening and a large
+            crowd attended. Judge Regner and
+            Mr. Graunke of Wausau and a number
+            of friends from Ciintonville and Eland
+            attended the party. Prizes in ”560”
+            were given to Mrs. Andrew Christian-
+            sen and Mrs. Anna Schwarttkopf; in
+            sheephekd to Anton Buss and Ales
+            Stoltz.
+            
+         </p>
+      </body>
+  </text>
+</TEI>

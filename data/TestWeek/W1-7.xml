@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Kindergarten News
+            The Kindergarten children have,
+            been having a good time with a farm
+            they have built in the and table
+            They also have a garden planted and
+            have lettuce, radishes and carrot 
+            growing.
+            Glee Wasbotten is back with us
+            again after an absence of five weeks.
+            W« are glad to have her back. Some
+            of the rest of our people are back
+            after short absences because of ill-
+            We have been working on a Dutch
+            scene this week,</p>
+      </body>
+  </text>
+</TEI>

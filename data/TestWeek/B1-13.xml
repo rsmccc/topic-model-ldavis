@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MYRICK A. CHAPMAN
+            We are indebted to Wm. Seymour,
+            of Minneapolis for the following clip-
+            ping regarding a former resident.
+            Mr. Chapman was a son of Leander
+            H. Chapman, of Pleasant View, and
+            was well known here.
+            Rites for Myrick A. Chapman, 56,
+            905 Fourteenth avenue S., will be
+            at 2 p. m. Tuesday at Gill Brothers?
+            Mortuary. Burial in Crystal Lake
+            cemetery.
+            Born in Jackson county, Wisconsin,
+            he had lived in Minneapolis 35 years.
+            Surviving are three sisters, Marie
+            of Chicago; Mrs. Francis Kilpatrick,
+            of Pittsburg, Kan.; and Mrs. C. M.
+            Hill, of Minneapolis.</p>
+      </body>
+  </text>
+</TEI>

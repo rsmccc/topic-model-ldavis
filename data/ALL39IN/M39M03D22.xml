@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M03D22-Heap Tepee Talk</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Redcloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“How! He chalk-kolo!” Well, my good people, another week has passed and we are that much
+            closer to spring and when it does come I hope we will all make good use of it by doing
+            for others more than we expect others to do for us. The Boy Scouts have got the right
+            idea of the fundamental structure of the true human relationship in the following scout
+            oath which 1 will translate into the Winnebago language. "On my honor I will do my best”
+            “Woysh-sliak-ha-nee-nay-kee, J a w -shay-l'ee-iia-na-kee-zhay-skay-hock- nay-n.” “To do
+            my duty to God and my country” ‘ ‘W oe-lay-J ay-koo-wa-kee- ook-Jaw-nay-kee, Ma-oo-la,
+            a-kee- ma-hanee-la.” To help other people at all times” “ wa-k ee-gee-day-kchay,
+            he-jaw-nay-ia, hoy-ship-gee.” The other part of this Scout oath we will have next week.
+            Just a few words in reference to the Wisconsin Winnebago Claim committee mentioned in
+            this column last week. This committee is the official organ of the Winnebago tribe here
+            in Wisconsin and it is composed of members of the tribe representing six different
+            districts of Indian settlements. Black River Falls district is represented by the writer
+            as president of the committee, and Fred King- swan, counselor. The Tomah district is
+            represented by James Smoke, secretary of the committee and Scott Mokey, treasurer.
+            Mauston district is represented by Kay Goodbear, as counselor, Wittenberg district being
+            represented by Albert Big Thunder and Nathaniel Decorah. Wisconsin Rapids district is
+            represented by Frank Lincoln and the late Chief A. White. The La Crosse district
+            including the Minnesota settlement has Gilbert Lowe as representative and the late
+            William Hopinkah was also a representative of this district. The committee was organized
+            back in 1928. The committee men being elected by the tribal members present at the
+            general meetings called by the Indian agent at the Tomah school auditorium. The Indian
+            agency at Tomah thru which the U.S. Government is to take care of its wards, has done
+            very little to bring about better living conditions for the Indians under its
+            jurisdiction. Years back when there was an agency for each tribe very little was
+            accomplished for the Indians. Today the Tomah Agency has under its jurisdiction other
+            reservation Indians besides the Winnebagoes of central Wisconsin. What can the agent
+            accomplish now going from one tribe to another? Nothing much to be sure. Thinking
+            seriously over the situation one comes to the conclusion that the relative combination
+            of the Indian agency and the different counties in which the Indians reside can be very
+            much likened to the monkey and the cat in the kindergarten story. The cat was burning
+            its paws pulling chestnuts out of the red hot bed of coals while the monkey sat back
+            eating the nutritious kernels. In the last 2 0 years what has the agency done for the
+            Indians. What has the Indian Bureau done for the Indians? Very little, if anything at
+            all. What were the Indian Bureau officials and semi-officials doing at the outset of the
+            disastrous depression of the last six or so years when the various women’s clubs of this
+            city and surrounding towns were doing the best they could to meet “difficult situation?”
+            What did the Indian Bureau officials do when the American Legion Post of Alma Center was
+            distributing fresh meat and other supplies. The Indian Bureau continued to receive
+            appropriations from Congress and the Indian Bureau officials and employees continued to
+            receive their monthly salaries while doing nothing to help the Indians who were under
+            their guardianship. The state and the counties, women’s clubs and the American Red Cross
+            were staggering under a prodigious labod load getting nothing in return for all their
+            troubles and sacrifices. How much more these charitable institutions could have
+            accomplished if they had all the money that was expended for the maintenance of the
+            agency and its employees salaries. .</p>
+      </body>
+   </text>
+</TEI>

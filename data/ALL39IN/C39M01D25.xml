@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M01D25</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The month of February, the Indians they have already now since we have new moon and we
+            have cold spell last two days. Mrs. John Stacy, her daughter Tillie and her son Alvin
+            Stacy went to Greenwood last Monday and return to home same day. Our school teacher,
+            Mrs. Olson, she report the school children had examined the eye. The two eye doctors
+            came and inspected the children, not one poor eye in the whole bunch. Mr. Dubank a state
+            supervisor, was here at school Monday afternoon and he went from here to Indain Mission
+            school at Neillsville and from there to Green Bay. Mrs. Clarence Monigar and children
+            spent the week end at the home of her parents home here at Indian Mission, Mr. and Mrs.
+            John Stacy. Dr. Leo Srole of Chicago was here again last Sunday night and he will be
+            round here for a while to study Indian way, and he has been acquainted with the Indians
+            quite a few already. We understand Tomah the Indian school is trying to get started
+            Indian school again next few months from now, and we will be glad to have start at any
+            time from now because they spent lots of Indians money on this Indian school and Indian
+            hospital too, and Mr. Merlin Hull is one look after this thing. He is one always to push
+            along with his own territory in Wisconsin. .</p>
+      </body>
+   </text>
+</TEI>

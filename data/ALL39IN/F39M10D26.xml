@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M10D26</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Girl at Wilton write to Indian reporter on post card and want
+            me to tell about what happen to Indians today so she can tell same thing in school when
+            teacher want to know about for school. Letters and cards come every week for Indian
+            reporter and maybe I have to have girl and typewriter to write letters for me. I am
+            Indian and I know what Indians think and I write letter and tell girl at Wilton about
+            way we don’t like how things are fixed by white man and won’t let Indian live like he
+            want to live. Indians long time ago used to have pretty good times and hunt and fish and
+            nobody ever tell us you have to have license and same thing trap too. Indian man trap
+            animals and squaw make things to wear to keep warm and all time have plenty to eat and
+            nobody go hungry them times. Now white man have a law for everything and I used to make
+            my own flying and now I can’t make living and have to get relief and other Indians too
+            and lots of white people can’t make living and have relief. Pretty soon be season open
+            for buck and maybe I get deer and then we have meat at our house. Last year I got no
+            deer an when I go to get deer every time I just get skunk. Saturday I was in Cash Store
+            and Fred Pietz stop on my foot and I tell him get off my foot and he say he have to step
+            somewhere and when he step on my foot feel like elephant walk on me. Paper tell about
+            government going to give Indian school to state and that make me feel pretty bad and do
+            same thing with Hayward school and just same like they always do to Indian and take
+            everything he have away from him and give to white man. When Compton run school at Tomah
+            all Indian kids go to school and everybody happy and have good time and learn things
+            that help them make living. Indian kids don’t like to go to white man school and want
+            own school and then happy and have good time and play together. .</p>
+      </body>
+   </text>
+</TEI>

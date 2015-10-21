@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W5-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>BUNGALOW SCHOOL Mrs. Mary E. Day has returned from White Lake where
+            she visited for several weeks At the home of her daughter, Mrs.
+            Peter Metelski. Mr. and Mrs. Joe Stoltz and daugh- ter of Ringle
+            called at the Gust Hanke home Thursday. Mr. and Mrs. Julius Nevinskl
+            and children were Wednesday evening vis- itors at tho L. H. Brehmer
+            home. Ray Fenske has returned from a visit at Waupun. Mr. and Mrs.
+            Lester Kasson and children of ClintonviUe spent the week- end at the
+            Gust Hanke home. On Sun- day Mr. and Mrs. Kasson and Mr. and Mrs.
+            Marlyn Hanke visited at Antigo. Mr. and Mrs. Ed. Ullenbrauck of
+            Ringle also called at the Hanke home on Sunday. Mr. and Mrs. Julius
+            Nevinski called at the Max Ssews home Saturday eve- ning. Neighbors
+            gathered at the Fred Fenske home Sunday evening. Cards were played,
+            after which lunch was served. Last Saturday evening {he gathering
+            was held at the Gust Hanke home. Arthur Petersen, Alfred Hegewaid,
+            Ray Vanderkooy, Elroy Peterson and Billie Burnett visited at the
+            Harry Vanderkooy and Vernon Petersen homes at Menasha Sunday.
+            Rupert, Ernest and Lorraine Stews. Ethel and Leonard Brehmer and
+            Joyce Jacobsen attended a program at the Elderon State Graded School
+            Monday evening. </p>
+      </body>
+   </text>
+</TEI>

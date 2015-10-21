@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M03D09</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mr. and Mrs. Albert Big Thunder are now staying in Wisconsin
+            Dells. Mrs. Albert Big Thunder has a sister there who is sick and is taking care of her.
+            They were taken there last Thursday night by Mrs. Robt. Big Thunder and daughter, also
+            George White Wing and Elmer Big Thunder. Emerson Thunder Cloud of Rib Mountain C. C. C.
+            camp at Wausau was a Sunday visitor at Mrs. Robt. Big Thunder’s home in Wausau. Mrs.
+            Minnie White Wing and son George White Wing of Dancy were at Wausau at her daughter’s
+            home. Mr. and Mrs. John Stacy are visiting at the Indian settlement. They were staying
+            at Mrs. Houghton’s in Schofield. Peter White, who was at the Tomah Indian Hospital and
+            who returned home quite a while ago, passed away at the home of Mr. and Mrs. Tom
+            Prescott where his folks were living. We would like to extend our heartfelt sympathy to
+            his surviving mother, Mrs. Theodore Niconish. Mrs. Eli White Wing and two sons, George
+            and Raymond, also youngest daughter Caroline and Herman Wabashagain were in Shawano on
+            business. Mr. and Mrs. John Dickson were last week-end visitors at the Nat Long home in
+            Schofield. Mrs. Robt. Big Thunder and daughter Violet took H. L. Mumm of Wausau to the
+            Indian settlement on business. Mr. and Mrs. Esau Prescott were week-end visitors at Mrs.
+            Big Thunder’s home in Wausau. George White Wing who is staying at his aunt’s place in
+            Wausau was a week-end visitor at his mother’s home in Wittenberg. .</p>
+      </body>
+   </text>
+</TEI>

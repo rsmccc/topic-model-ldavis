@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M02D15</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Everybody got bad cold now a days RA and WPA workers. They have to stop
+            1-two days. Mrs. Clarence Monegar and children of Greenwood are visiting for a few days
+            at the home of her parents, Mr. and Mrs. John Stacy. Dr. Leo Srole staying at Tomah
+            visiting the Indians all surround Tomah. He must be making two or three good size books
+            by this time. The following called at our school this past week-Miss Bush from state
+            department, Miss Webb, Miss Hanson and Mrs. Rose, and also Mr. George Eubank from Tomah.
+            Charles R. Lowe Cloud was here yesterday, and he has been catching cold last few weeks,
+            he never get things out there and he have to stay over with it, and he did not done any
+            two more weeks. Indian report had several letters from three different states and they
+            said they would like to have his picture, and one said he had some clipping for Indian
+            News since 1933. They got one pretty good book. Mr. and Mrs. Charley Young Thunder are
+            having bad cold and confine at home, and also Henry Greengrass had bad cold too, but he
+            could not come to the doctor, and Mrs. went to Tomah Indian hospital too this week and
+            we understand all filled up now at Tomah Indian hospital. Mrs. Victor Miner came down
+            from Portage at Tomah Indian hospital last Saturday and her examined not to stay at
+            hospital until later on and she went to Portage again the same evening, and Mrs. Miner
+            formerly Miss Helda Smoke, the daughter of Mr. John Smoke of Watermill. Mrs. Eliza
+            Johnson came back from Nebraska yesterday and she brought her daughter, Mrs. Lillian
+            Harris, of Winnebago, Nebraska-Mrs. Johnson said she think it seem just same everywhere,
+            everybody got cold and Winnebago hospital all filled up last week and report quite a few
+            died in the hospital and outside too. .</p>
+      </body>
+   </text>
+</TEI>

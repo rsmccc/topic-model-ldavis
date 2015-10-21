@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W6-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>At 70, Britain's Chamberlain Reviews Life's Busiest Year
+            Whether the public
+            likes it or not, Britain’s
+            Prlme Minister Neville
+            Chamberlain hat triad
+            desperately to main tala
+            world peace v la the conference table method.
+            On March 18 he will end
+            his seventieth—and most
+            eventful — year. Right 
+            Mr. Chamberlain startled
+            the world September 14
+            by paying a precedent-
+            shattering call on Hitler
+            ml Berchtesgaden. Photo
+            shows him leaving Lon-
+            don, flying for the first
+            time. Below: The second
+            meeting, at Codesberg,
+            on September 22.
+            Then came Munich.
+            On September 30 Mr.
+            Chamberlain returned
+            home to read this
+            document at Heston
+            airdrome, London. He
+            had also signed a pact
+            with Germany, Italy
+            end France.
+            But the policy of appeasement” bore suscplous fruit. Following
+            Munich, Germany end
+            Italy appeared planning
+            new demands against
+            France and Britain.
+            Preparing for a declaration of democratic
+            solidarity, Mr. Chamberlain and Ixtrd Halifax,
+            his foreign minister, visited Paris on November
+            24. Below On January
+            10 he again stopped in
+            Palis en route to Rome. 
+            Photo, left to right, 
+            shows French Foreign 
+            Minister Georges Bonnet
+            Mr. Chamberlain, Premier Edouard Daladier 
+            and Fiscount Halifax. 
+            Next day, January II,
+            Mr. Chambarlain mrrired in Rome to visit
+            Mussolini. The trip seas
+            heralded as another "appeasement'” mission from 
+            which a new totalitarian
+            victory could be expected. but nothing happened. Mr. Chamberlain 
+            may have gained nothing
+            but he tried to break down the growing barriers between the peoples of Europe.</p>
+      </body>
+  </text>
+</TEI>

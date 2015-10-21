@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-9</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SHAMROCK
+            Philip and Duane Millis have had
+            the flu.
+            Goldie Peterson came home Friday
+            sick with the flu.
+            Helen Kelly is assistin'1- Mrs. Clif-
+            ford Gomer with her household duties.
+            Mrs. Ida Paulson is visiting at the
+            home of Mr. and Mrs. George Rud-
+            kin.
+            Mr. and Mrs. Richard Millis and
+            Billy were callers in La Crosse Sun-
+            day.
+            Mrs. Frank Harris of Cataract was
+            calling on old friends Monday eve-
+            ning.
+            Mrs. Hazel Fields and her mother
+            Mrs. Wold were guests of Mrs. S.
+            Lund, Sunday.
+            Mr. and Mrs. John Hurlburt attend-
+            ed the Co-op. play “The Spider Web”
+            at Alma Center, Saturday night.
+            Several from here attended the
+            home talent play at Cataract Friday
+            evening sponsored by the Ladies’ Aid.
+            Mr. and Mrs. Ray Millis, Mr. and
+            Mrs. Charles Lipinski and Mr. and
+            Mrs. Clifford Gomer spent Sunday
+            evening in Tomah.
+            Miss Inez Pratt who has been vis-
+            iting her sister Mrs. Carl Peterson,
+            went to the home of Mrs. Elizabeth
+            McClintock in Pleasant View, Friday.
+            Mr. and Mrs. Ray Millis, Mr. and
+            Mrs. Charles Lipinski, Mr. and Mrs.
+            Clifford Gomer, Mayo Millis and
+            Grace Demo went to Whitehall Friday
+            night for bowling.
+            Mr. and Mrs. George Harper, Flora
+            and Edgar went to West Salem Sun-
+            day, March 5 and helped her parents
+            Mr. and Mrs. Fuller, celebrate their
+            51st wedding anniversary.
+         </p>
+      </body>
+  </text>
+</TEI>

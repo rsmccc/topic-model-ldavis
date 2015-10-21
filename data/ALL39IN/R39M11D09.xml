@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M11D09</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>All the Indians who have been away since last summer have returned to their homes now. Mr. and Mrs. Sam Little George and Mr. and Mrs. Eli White
+            Wing and daughter Katherine spent a few days at Wisconsin Rapids with the Miner and Decorah families. Mrs. Ed Little Wolfe is visiting at Star Lake for an indefinite
+            time. Mr. and Mrs. Esau Prescott and children of Conover spent the weekend at Tom Prescott’s/ Howard Mike of Wisconsin Rapids is visiting at the home of Mr. and Mrs.
+            Leonard Hopinka. Mr. and Mrs. Tom Brown and daughter Christina are staying at Star Lake for several weeks at the home of Paul Johnson. Mrs. Susie Smith and son Donald
+            have returned to their home at the Settlement after an absence of several months. Caroline Elk and nephew, Manuel of Bradley, Wis., paid a visit amongst her friends at
+            the Settlement. George Whitewing and Frank Wabshagain spent Sunday and Monday at the Oneida Reservation near Green Bay. Amos Decorah is visiting at Black River Ralls
+            for a few weeks. Mrs. Minnie Whitewing and daughter of Dancy spent a few hours on Sunday at the home of her son Eli. On Tuesday, Nov. 2. The Indian ladies gathered at
+            the Indian Mission during the morning to can apples, which amounted to 147 quarts of apple sauce and 10 pints of apple butter. Each brought their lunch, while Miss
+            Mathison served the main course. Then in the afternoon they had their Ladies Aid meeting at the same place. We wish to thank Rev. Sihler for making it possible for the
+            Ladies Aid to can apples themselves this year. Paul Johnson of Star Lake, Wis., visited at the Oscar Pigeon home last week-end. Daniel White Eagle and family are
+            visiting at George Seymour home. They are from La Crosse. George Storm is at the Tomah Hospital in a critical condition. Esau Prescott is hibernating at Conover, Wis.
+            He came after his household articles. Mrs. Nina Thunder Decorah is visiting at Susie Smith home. Mr. and Mrs. John Stacy of Tomah, Wis., visited at Roy Whitewing’s last
+            Sunday. Seen George Whitewing running on Hi-Way 45 yesterday. We asked him where was the fire. He said there ain’t no fire. He said, “I’m doing road work.” He’s
+            fighting at Milwaukee on Nov. 27 for this first winter’s nose busting business. .</p>
+      </body>
+   </text>
+</TEI>

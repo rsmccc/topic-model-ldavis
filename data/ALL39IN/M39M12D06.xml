@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M12D06</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Redcloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Again as in years past the deer season opened with a bang! Every one we meet querys “get
+            your buck?”, with down cast glance we reply “No, no luck” . But I do not worry for it
+            makes no difference now. The first morning of the deer season we arrived in the deer
+            country about 6:30 C. S. T. The air was a bit frosty, not unpleasantly nippy, but more
+            exhilarating than anything else. The atmosphere was quiet. It was so quiet you could her
+            a dew drop about ten feet away. I kept wondering from what direction shooting would
+            first take place. About ten minutes to seven there came a terrier-like bark o f a 25-20,
+            over to my right about a mile away. That was the first shot I heard in the country where
+            I was. Something like three minutes passed when again to my right about three-quarters
+            of a mile away came the business-like “buck- o-o! buck-o-o! o f a hi-powered rifle. It
+            buckoed five times and then silence. A neighbor boy got his buck. Four misses and the
+            fifth a fatal shoulder shot at 35 rods. From then on the heavy artillery kept up a
+            steady fusillade punctuated now and then by sharp yaps of small calibred rifles. Every
+            so often came the usual doe-o-o! doe-o-o! of rifled slug splitting shotguns. Well, men,
+            how do you like April hunting in November? I am of the opinion that more venison have
+            spoiled on the hand of hunters than at any time within the last five years. The second
+            and third mornings of the deer season were the most beautiful mornings a hunter have
+            ever seen. A grayish-white hoary frost blanketed all the trees and shrubs, and when the
+            sunlight struck them, Ah! it was just like a scene within a dream, unreal, beautiful
+            beyond description. No thought or desire to kill should have entered into the mind of
+            anyone. But just the one trigger-finger itched and kept itching whenever a herd of deer
+            came running by over frozen runways. Their drumming hoofs reminded one very much of the
+            riding of the lone ranger. America and Americans sit today on the ringside closely
+            observing great nations at war. What will be the ultimate outcome of all this? The last
+            world’s war was fought to end all wars in order to start new and bigger and not better
+            wars. One never thought that things like these could ever happen in a civilized world
+            like ours. Reading the newspapers and listening in on the news commentators is like
+            reading one of Edgar Rice Burrough’s novels such as Mars, The Warlord of Mars, or The
+            Princess of Mars. But they do say— Truth is stranger than fiction. The administrative
+            and supervisory end of the Soil Conservation Service of this city was well represented
+            among the lucky deer hunters who got their buck the first day. The lucky representatives
+            are Richard (Dicky) Nelson, Stanley De Boer, Gust Spiering and Brownie O’Brien. If there
+            are any others, raise your right hands. .</p>
+      </body>
+   </text>
+</TEI>

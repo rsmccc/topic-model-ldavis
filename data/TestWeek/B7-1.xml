@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B7-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>ALMA CENter
+            George Ringrose was a caller here
+            Friday.
+            Ed Bakke has been on the sick list
+            the past week.
+            Carl Cadby of B. R. Falls, was a
+            business caller here Friday.
+            Mrs. Riggs returned to Sparta with
+            her daughter, Mrs. McMullen.
+            Mrs. Bertha Dunn entertained a
+            few ladies one evening last week.
+            Mrs. Effie Duxbury viisted relatives
+            at Neillsville a few days last week.
+            Miss Evelyn Ringrose went to Bar-
+            aboo Tuesday for a few days visit.
+            Mr. and Mrs. L Dunn of Merril-
+            lan, were callers here Friday night.
+            Mrs. Royce entertained Miss Krebs-
+            bach and her mother for supper, Fri-
+            day.
+            Mrs. Krebsbach of Maiden Rock,
+            visited a few days with her daughter
+            here.	,
+            Mabel Agnes Joos spent the week
+            end with her mother, Mrs. Frank
+            Joos.
+            Joe Radke is very ill at the home
+            of his daughter, Mrs. Peter Breiten-
+            bach.
+            Little Rennie Wagoner had the
+            misfortune of spraining his arm while
+            at play.
+            Mr. and Mrs. Orin Terrell spent
+            Thursday evening with Mr. and Mrs.
+            R. Wilcox.
+            Ted Joos is spending a few days
+            at his home, his regular few days off
+            from work.
+            Mrs. Nellie Mills of B. R. Falls,
+            spent a few days with her sister Mrs.
+            P. M. Chapman.
+            Mr. and Mrs. Sylvester Held, Mrs.
+            Jennings and son Neal moved the
+            first of the week at the Nathan Mer-
+            rill residence.
+            Dance
+            Mrs. Willard Cole left last Monday
+            for a visit in Milwaukee with her son
+            and other relatives.
+            Mr. and Mrs. Dora Lennie of Eau
+            Claire, were over night visitors with
+            Mr. and Mrs. Willard Cole.
+            Snow drifts five and six feet deep
+            and we received our first thunder
+            storm Wednesday, March 8.
+            Father Anibas is quite ill at his
+            home. Father Peters of B. R. Falls,
+            had charge of services on Sunday.
+            Word was received here of .the
+            death of Lapel Hartkey of Minnesota,
+            a former resident of Alma Center.
+            The Catholic church is giving a St.
+            Patrick banquet this Thursday eve-
+            ning, March 16th, at 7:45 o’clock.
+            The play given Saturday evening at
+            the school house was well rendered
+            and a nice crowd enjoyed the play.
+            Mrs. August Wagoner, Mrs. Her-
+            man Wagoner and Mrs. Geo. Hoch
+            spent Friday afternoon with Mrs. L.
+            Staffon.
+            Albert Rubenbauer, Miss Ann Hol-
+            mes and Emil Buckenberger of Min-
+            neapolis were week end visitors here.
+            Mrs. Mae Wagoner returned home
+            with them after a week’s visit in the
+            city.
+            Mrs. Ernest Schlegel was taken to
+            B. R. Falls hospital Monday morn-
+            ing of last week, where she passed
+            away the same evening. The family
+            has the sympathy of the community
+            in their sorrow.
+            Charles M. Olson of Northfield,
+            Camden Nolop of Merrillan, and Geo.
+            Ringrose motored to Winona Monday
+            to meet with the road and bridge
+            committee in behalf of the Trempea-
+            leau Trail Association.
+            Word reached here Monday that
+            Irvin Riggs passed away at the home
+            of his daughter in Sparta. The re-
+            mains will be brought here for bur-
+            ial. Sympathy is extended. Funeral
+            held Thursday afternoon.
+            An oyster supper was enjoyed by
+            21 members of the fire company at
+            their last meeting. They are making
+            plans for a big dance to be given af-
+            ter the Lenten season. Every one
+            should buy a ticket whether they at-
+            tend or not, as the boys are always
+            ready to help when you call.
+            NOTICE
+            The American Legion Auxiliary
+            will meet Tuesday, March 21st, with
+            Mrs. Marie Wussow, with Mrs. Alice
+            Fox as hostess.</p>
+      </body>
+  </text>
+</TEI>

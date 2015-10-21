@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M03D15</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The Indian reporter still in the hospital. Dr. Winter told he is alright now so he will be out this week some time. Mr. and Mrs. Adam Thunder Cloud were here last week at Indian hospital to see some sick people.
+            Mr. and Mrs. Allen Decorah and Mr. and Mrs. Joe Green were here last week. Alvin Stacy, William Waukon and Lester Young Thunder were here last Monday. Mrs. D. W. Decorah and Bertha Johnson were here last Sunday to see Charles R.
+            Lowe Cloud and he told them he is alright now, he will he will be out this week some time. Tom Harrison of Winnebago, Nebraska, was here last Wednesday at Indian Mission, came after his wife, Mrs. Lillian Johnson Harrison. There
+            are three Indian girls working here in the hospital, are always faithful their duties, as following- Irene Miller, Evelyn Murie and Jessie Marmon, and some other too but we don’t know the name, and they are all know what they
+            are doing. One of newspaper sent from Hoopeston, Ill., this paper called Chronicle Herald. He will take the Indian news too. Perhaps that town old Indian town too, and says, here is our Indian friend here again. While the Indian
+            reporter staying at Tomah Indian hospital he had lot of letters from everywhere. The reader of Banner-Journal they want him to hurry up to get well. One of these form Mr. and Mrs. Henry Rundle of Humbird, Wis. March 9, 1939 Our
+            Friend Charles Lowe Cloud: We see by the Banner, that you are sick. We are very sorry and hope you are much better and will soon be home. When we get the Banner we always look for Indian News first to see how you all are, and we
+            are sorry that Henry Mike is sick too. And we hope he is better. Very sincerely your friends, Mr. and Mrs. Henry Rundle March 9, 1939 Vass goo dere Charley: Well the court house gang send you a hello, Charley! We all say hurry
+            up and get well. You know fishing season is soon here, and Mose Paquette will be looking for you. Old Chris Olson says hello too. Well Charley, hurry up and get well. Yours Journal friend, Cap Waller American Indian Mission 1503
+            No. La Salle St., Chicago, March 2, 1939 Dear Friend Lowe Cloud: Indian friends in Chicago have called my attention to a recent notice in the “Indian News: of the Banner-Journal of our mission here. Please let me thank you for
+            this kindness and tell you more about our work here. The American Indian Mission is to bring the gospel message to the Indians of Chicago and to try to establish a church for them here and a Sunday school for the little ones.
+            Later we hope to add a social program of Christian activities, following this by an honest effort to help worthy Indians get work in the lines they are best fitted and educated for. The Rev. Fred White Eagle is not a director or
+            leader in this work. He is too busy preaching in other cities and states to be any help here. However he is the one who suggested to me to form such a mission for the several hundred Indians living here and their families. This
+            work does not belong to any one person. It is for any worthy Indian and to help them wherever possible. Any and all money received will be placed in a special Indian fund of the Home Evangelistic Alliance who are a fine group of
+            Christian business men that are my sponsors and especially interested in home missionary work. We also carry on correspondence with two inmates of the Michigan state prisons who are Indians, and have had a letter every month for
+            five months in a row. From brother John Blackhawk we hear many interesting things, and enjoy a letter from him mow and then. WE are glad his wife is getting better and we pray earnestly for her. At any time we can be of service
+            or give you information, please write some and I will be glad to do anything I can. Your articles in the Banner-Journal are very fine. I enjoy them. The sincere friend of the Indians, Charles C. Storck, Field Secy. .</p>
+      </body>
+   </text>
+</TEI>

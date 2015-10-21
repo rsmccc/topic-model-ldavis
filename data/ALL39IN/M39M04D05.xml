@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M04D05</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Redcloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Well boys and girls, and readers of the B-J,
+            here is the last part of the Boy Scout oath in Winnebago language. To keep myself
+            physically strong (Lo-ha-nee-la, Lush-shay, ha-kaw,la- neek-Jay); mentally awake
+            (wo-way- we-la-nee-ump chee-la-key, ka-la-neek jay), and morally straight (ay-ki-woy nak
+            sawb-la-lo-chaw). Next week we’ll count up to 10. Headlines in Komensky News:
+            “Constitutionality of U. S. Constitution challenged.” “Efforts made to deprive
+            Winnebagoes the Right to Vote.” “Winnebagoes meet force with force.” “First Time in
+            History Winnebagoes stand together.” “No statesmanship, no forsight, no diplomacy among
+            white populace of Komensky.” “No denial that all whites were on relief thru acceptance
+            of Red Cross flour.” “Indian vote break ring of advicates for depriving the Winnebagoes
+            the privilege to enjoy the rights of citizenship.” “Theoretically, Winnebagoes have more
+            right to challenge the whites their eligibility to vote.” “Winnebagoes score a devisive
+            victory.” “Democracy wins over Fascism.” “Chas. Marek defeats Frank Hryz for chairman by
+            34 to 41 vote.” “Fred Kingswan and Frank Roush elected supervisors over Frank Marek and
+            Otto Wagner. Fred Kingswan ..................51 votes Frank
+            Roush......................... 48 votes Frank Marek........................27 votes Otto
+            Wagner ........................ 26 votes .</p>
+      </body>
+   </text>
+</TEI>

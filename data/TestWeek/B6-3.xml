@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>WOMAN’S CLUB
+            At their meeting held Wednesday,
+            Feb. 8, in the hotel, the members of
+            the Woman’s club were privileged to
+            hear Mrs. A. L. Murray, of Eau
+            Claire, who spoke on the “Social
+            Value of Motion Pictures”. Mrs.
+            Murray took a course in that sub-
+            ject at the University of Southern
+            California last summer. In connec-
+            tion with her work at the University
+            Mrs. Murray was able to visit vari-
+            ous moving picture studios and had
+            interesting experiences to relate.
+            Among others it was her privilege to
+            attend a showing of a picture, given
+            to a board of women before it was
+            released to the public. She was also
+            in attendance at the premiere of
+            “Marie Antoinette” and told how the
+            people stood outside the theatre to
+            see the actors and actresses as they
+            arrived.
+            A group of members had dinner
+            with Mrs. Murray preceding the
+            meeting. She had spoken at the school
+            in the afternoon, after which she was
+            entertained at a tea given in her
+            honor by Mrs. P. M. Chaimson.
+            The Craft department of the Wo-
+            man’s club met Tuesday, March 7th
+            at the home of Mrs. Wm. Schunke,
+            with Mrs. Ed Heineck as assistant
+            hostess. Mrs. A. W. Heilsberg and
+            Mrs. O. E. Wang presented a demon-
+            stration on sewing hints and dress-
+            making which proved to be a practi-
+            cal benefit to the entire group. Mrs.
+            Heilsberg had planned the program
+            in such a way that every one could
+            participate in the demonstration.
+            There were twenty in attendance.</p>
+      </body>
+  </text>
+</TEI>

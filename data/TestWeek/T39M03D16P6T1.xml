@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P6T1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Alka – Seltzer
+            Comic: No Sunday Headaches Spoil Our Day
+            Since Alka-Seltzer Came Our Way
+            Headache
+            Don’t let HEADACHE, Acid Indigestion, Neuralgia, Muscular, Rheunatie, Sciatic Pains, rob you of healthful recreation.
+            Take Alka-Seltzer. Find out for yourself how quickly it will relieve your every-day ailments/
+            Alka-Seltzer relieves pain because it contains an analgesia (acetyl-salicylate). Alka-Seltzer’s vegetable and mineral alkalizes help to neutralize excess stomach acids. 
+            At year drug store, at the soda fountain, and in 30 cents and 60 cents packages for home use.
+            Be Wise- Alkalize!
+         </p>
+      </body>
+  </text>
+</TEI>

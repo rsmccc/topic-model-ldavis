@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M01D11</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>B-J SMOKE SIGNALS By Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>By Red Cloud The family’s provisions were gone and
+            not a cent did they have to buy food. But they just laughed and
+            laughed because they had plenty of “Jack” pine on the back “forty”.
+            We’re having real nice spring weather now but we’re due for some
+            real cold spells before long, and from all indications we’ll have a
+            late spring. The country has been in the throes of a very disastrous
+            depression for a good many years, from which we are just emerging
+            and the next two years there will be prosperity and good times for
+            every one and the years after that we may run into a worse business
+            than the one we have just witnessed. Roosevelt really speaking,
+            “take good notice.” Many startling changes in our na­ tional life
+            come and go, but what is more startling than that dead men come back
+            to rally weakening politi­ cal forces. “Look here, young fella, we
+            believe what we want to believe, and if you believe you are
+            weakening you’re bound to weaken”. So again “take good notice.” In
+            driving over these slippery roads and driving in town where there
+            are children ever crossing streets, “Take good notice.” In these
+            days of disastrous winter fires and subsequent sales when you see a
+            friend with good clothes, before you come to a conclusion “take good
+            notice.” As far as we are concerned there will be this year,
+            centennial celebra­ tions or expositions in three of the most
+            important cities in the U. S. A. — New York City, San Francisco and
+            Black River Falls. The old Indian had after many days of laborious
+            work, made a neat “No Trespassing” sign which he nail­ ed to a tree
+            at the corner of his homestead. Lately when he looked pretty glum
+            one morning, when asked the reason why he said “Somebody ‘take good
+            notice’.” .</p>
+      </body>
+   </text>
+</TEI>

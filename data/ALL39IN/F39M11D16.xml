@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M11D16</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Tuesday I take Indian News to town and I tell you look pretty
+            much like Indian summer and every year about this time November have Indian summer and
+            stay two three weeks and every time come right after new moon. In 1907 Indian reporter
+            remember pretty warm Indian summer and I go to hunt deer with other Indians Jackson
+            county and I hunt all time with just shirt and no coat and go bare head and I get pretty
+            hot too and just like summer. That time everybody can have two deer and don’t make any
+            difference which kind of deer you get and does pretty good to eat. Indian don’t have to
+            have license then and go any county and shoot deer. Then only just few hunters and
+            plenty deer for everybody to get deer and now just like war in woods when season open
+            deer and all fellows form city come out and shoot deer and pay just same license like
+            people that feed deer on their farms and Indian reporter don’t think that fair. Saturday
+            I come to Tomah to give Indian news and go to newspaper and nobody there to take news
+            and all go to football game and I wait long time and I get pretty mad after I come all
+            way to town and can’t give news. Saturday I get mad and I tell fellow to tell Kenny I
+            quit and I don’t write Indian news for him any more. Then I have car and battery no good
+            and I have to have new battery and Tuesday I bring news to town and like you say I am
+            Indian reporter again so I can get money to buy new battery. Kenny good fellow and when
+            I get mad and I tell him I quit and he laugh and say “maybe I have to get Charley Low
+            Cloud to write Indian News.” Put it in that way just like I say. Ruthe Lowe that was her
+            name before she marry Jim Yellow Bank, and she was sister of Albert Lowe and last week
+            she died at Madison hospital. Lots of people here know her and Friday they bury her at
+            Mission. Tuesday I meet and shake hands at Cash Store with two women that used to live
+            in Tomah and work in lady hat store by cash store south on corner and now they live at
+            Baraboo and names Mrs. Helen Moore and Mrs. A. Hornish. .</p>
+      </body>
+   </text>
+</TEI>

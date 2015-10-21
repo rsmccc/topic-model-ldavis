@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P3B4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Stowell Housemakers Club
+            The club members met at the home of Myrtle Winkleman on Thursday, March 9. The meeting was called to order by the president, Hazel Wolford.
+            Roll call was answered with Irish jokes which were all very good. Club song was sung. Treasurer’s report was read and approved. Secretary’s report was read and approved. Sunshine report was given.
+            Motion made and carried we pay our club dues for the coming year. Those receiving birthday gifts were Ethel McGhee, Myrtle Winkleman, Terena Balman, Stella Allen, and Odessa beautiful gifts. 
+            Frei who received very many.
+            Grace Belcher brought a cake recipe. You will have to ask the club what they thought of it. 
+            Mrs. Charlie Gollnick attended the punch work demonstration at Tomah. Friday, February 24, and brought several pillows and mottos which she had made. She taught us how the work was done. Thank to Mrs. Gollnick. 
+            Mrs. Nina Frei brought some crocheted from variegated thread nice crocheted doilies which were Mrs. Ida Peterson wore an apron which she made from some fancy towels which were given to her for a birthday present. 
+            Several of the ladies wore green ribbons in their hair in honor of St. Patrick’s day. Hazel Wolford won the stunt prize, in which we rolled potatoes full length of the house on a square newspaper. Club members all were present, and our hostess served a delicious dinner at noon. The menu consisted of riced potatoes, roast beef and gravy, macaroni, sandwiches, jello, also butterscotch pie and cupcakes with a tasty dressing for a side dish, and hot coffee. How Stella Allen’s next month, Wednesday, April 12. We are to take the hostess a present. Club meets after dinner. 
+            We all had a big time and hope to meet again next month, but here’s hoping Ethel doesn’t get so taken up with the fellow who got stuck in the snow bank. 
+            Mrs. Elma Hansen, Club Reporter
+         </p>
+      </body>
+  </text>
+</TEI>

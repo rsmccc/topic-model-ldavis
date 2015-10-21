@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W3-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Who's News This Week 
+            By Lemuel f Parton
+            NEW YORK.—Lester P Bartow  
+            temperamental inventor o  
+            bombs and other war weapons, recentiy said he wasn't going to congress with his  
+            bad news about
+            the devastating
+            German at.
+            bomb, because
+            they “put him in the doghouse"
+            when he tried to tell the house naval
+            affairs committee something last
+            year. But his story gets into the
+            Record, via Senator Bennett C.
+            Clark, who relays to Maj. Gen. H.
+            H. Arnold the news of the bomb, as
+            he had it from Mr. Barlow, and
+            asks the general what about it. The
+            general tells of army reports that
+            the German bombs in Barcelona
+            “killed every human being within
+            the range of a quarter of a mile."
+            The USA was supposed to
+            have used about
+            worth of Bartow bombs and
+            weapons in the World war.
+            Several weeks ago, the senate
+            voted himl in royalties
+            for the wartime ase of his patents. He it a prolific inventor,
+            now consulting engineer for the
+            Glenn I. Martin Co., of Balti
+            more, builders at bombing
+            planes. He describes the new
+            German bomb as truly horrendous, basically a combination of
+            liquid oxygen and carbon, but
+            with ether ingredients, such as
+            magnesium and aluminum. He
+            thinks he can Just about match
+            it with his L. O. X. bomb.
+            In  632, he offered to President
+            Hoover a simple buttonpushing rig
+            which would wipe out a city hundreds of miles away. Even with
+            the backing of Senator Frazier of
+            North Dakota, he failed to got the
+            government interested and was said
+            to have offered his device to Russia
+            and Germany. Later, he had other
+            disappointing encounters in congress, offering, among other things,
+            a shockproof battleship, on whose
+            ribs the heaviest  projectile would
+            be just the pat of a powderpuff.
+            
+            BIG, Bucko Giuseppe Creatore,
+            puffing smoke from a cigar as
+            unfailing as Vesuvius, makes a
+            grand comeback, as he nears 70. to
+            his own and
+            celebrated its 300th birthday with a
+            big splash of 4tecent grand opera,
+            with Signor Creatore finding in
+            "Aida" something in the range of
+            his titanic energies. The opera
+            company will be permanent, financial wind and weather permitting,
+            to be supplemented by a series of I
+            symphonic concerts.
+            As band conductor, Signor
+            Creatore need to earn as much
+            as  5.MS a night. He slipped
+            out of sight, and then, in June,
+            935, was conducting one of the
+            park bands of the New York
+            Emergency Relief burets. Hi*
+            cigar and his bston were still
+            bold and unwavering and he
+            told the reporters be was paying
+            the country back to bettor
+            times. He bad with him about
+            half of the players in his old
+            band of the  of their tuneful
+            and triumphant national tours.
+            He arrived to this country from
+            Italy in  602, with a lush black mustache and a heavy mane, but little
+            else worth mentioning. Two days
+            taler, he was playing on Hammer
+            stein s roof. A contemporary of
+            Sousa, he became one of the country s most famous bandmasters,
+            only temporarily clipped —or
+            eclipsed—by the depression, it is to
+            be hoped.
+            
+            WHHEN Britain and the United
+            ” States begin to exchange cook
+            ing recipes, they are really getting
+            neighborly. Carlota, the British
+            poetess, who arived here recentiy, not
+            friendly relations, prefaced her trip with a
+            radio appeal for American recipes.
+            She got more than 2,000. When we
+            get to toiling each other about our
+            operations, the entente will be com
+            plete.
+            Carlota is the wife of Louis
+            Oppeoheimer, managing direc
+            tor of the South African dia
+            mond syndicate. She has pub
+            lished many books of poetry In
+            many countries, speaks seven
+            languages fluently, and finds
+            time to convert old houses Into
+            charming dwellings or "mews,"
+            for working people.
+            Her London home is one of the
+            great social and political salons of
+            England. She knows the proverbial
+            way to the now somewhat intransi
+            gent American heart. Her visit
+            marks a pleasant departure from
+            the customary exchange of recipes
+            for cooking TNT and the like</p>
+      </body>
+  </text>
+</TEI>

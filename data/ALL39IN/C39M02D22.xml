@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M02D22</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> We had cold spell last few days, Quite a few people had bad cold. Belle Stack and John Dixon went back to Wisconsin Rapids this week and they have been here visit Indian Mission and to see the relative and friends. Tom Kings wan
+            and A. Johnson were gone to Tomah Indian hospital last week end, and both are having bad cold. The Indians some have poor house to live in winter, that what is cause to have bad cold and some flu, and once government promised build houses last
+            year, never done anything yet. All we got is “promised". Our teacher, Mrs. Emma Olson, report this week, some of our pupils are having the flu, but they are better at this writing. But not only school pupils, some old people too. Our forelady, Miss
+            Matilda Stacy sewing project, report that two white ladies working on the sewing project at Indian Mission, as following names — Mrs. Edith Wood work Sept. 1st, 1938, and Mary Kidrickie b. 10, 1939. The Indian reporter had a letter from a man, his
+            address E. J. Nichols of 1852 Howe St., Chicago, 111., Jan. 15, 1939. He says, he was born here Black River on 18o7.and he mention some Indian names, Mary Crane, Doctor Big Nose and Winneshieck. We all know these Indians but young people they don't
+            know anythings at all, and Mr. Nichois’ father lived at Robinson Creek, where Fallhall Glen is now. During that time the old Indians they used to live anywhere they want to live in winter, or anywhere they think a good place for any kind game or
+            plenty game, but now they can not do that any more. White immigrants made too many laws and the Indians they getting use horns made laws, and always put some kind scared crow to them. “ Old Dandy’" he told them before hand, that his own tribe, at
+            present time where we are now, and still some more coming too. Mr. George Johnson of La Crosse was here today. Mr. Johnson is exstudent of Carlisle Indian school with the Indian reported the time of 1893 to 1898. The Indian reporter had a letter
+            from his old teacher, Mr. Fred Sacia of Galesville, Wis. Indian reported never been school before that time he is learning a. b. c. from this man. This is letter from him. Galesville, Wis., 2-15-39 Dear Mr. Low Cloud: I am glad that Mr. Gipple of
+            the Galesville Republican prints your “Indian News” every week. I am not only interested in the doings of your people, but in you too. Do you remember back 47 years ago when you were the pupil and I the teacher in the little school between North
+            Bend and Stevenstown? You were an interesting letter writer even at that time and I am not surprised that you have become very useful. I will tell you why I think you are a good reporter: When you tell of death and bad luck your readers feel sorry,
+            when you tell about your church, your schools, of the new babies and of the getting together of families and friends, we are glad. When you tell about the little things that happen, we are interested. What reporter could do more. I congratulate
+            you. Yours very truly, FRED SACIA .</p>
+      </body>
+   </text>
+</TEI>

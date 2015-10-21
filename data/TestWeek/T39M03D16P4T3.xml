@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P4T3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Local Happenings
+            Mr. and Mrs. C. Campbell of La Crosse were Tomah visitors over the week end. 
+            Miss Camilla Jones is acting as assistant secretary at the Nuzuta Lumber office. 
+            Jean Brown spent Friday night and Saturday with her grandparents in Summit Valley. 
+            Mr. William Zimmerman spent Saturday and Sunday with his brother in La Crosse. 
+            Mrs. Arthur Hayward of Wisconsin Rapids spent the week end at the home of her parents, Mr. and Mrs. W. R. McCaul.
+            Mr. William Hutchison of Elkhorn, spent Saturday and Sunday at the home of his sister, Mrs. Sam Knick. 
+            Dr. and Mrs. H. L. Syverson entertained Mr. and Mrs. Charles Campbell at their home over the weekend. 
+            Mr. Harry Porter and daughter Muriel, Leonad and Elwyn McGinnis spent Sunday afternoon at the Robert McGinnis home near Warrens. Dr. and Mrs. R. I. Peck were week end guests at the home of Mr. and Mrs. Ed Clark and attended the funeral of their grandmother. Mrs. Peck was formerly Genevieve Clark.
+            The ladies of St. Mary’s Catholic Church will serve a desert luncheon in the church basement on Friday, March 18, at 1 p.m. The luncheon will be followed by cards. The charge will be 25 cents. Everyone is invited. Adv.
+            Mr. and Mrs. P. A. Soreson of Wyeville returned home Monday, after spending a considerable time at the home of their daughter and her husband, Mr. and Mrs. Walter Nelson and family at Venita Oklahoma. Enroute to their home Mr. and Mrs. Sorenson visited the latter’s sister, Mrs. Hanson, in Kansas City, Missouri, and also stopped in Madison to visit friends and relative. Mrs. Sorenson said the weather during their extensive tour was just grand and that they had a very pleasant trip. 
+            Mr. Clarence Senz is spending this week in Clifton. 
+            Mrs. August Ludeking has been on the sick list. 
+            Mr. and Mrs. S. T. Goff spent the week end in Minneapolis, Minnesota. 
+            Mr. and Mrs. Frank Roehler spent a day at the Oscar Schmidt home in Clifton.
+            Mrs. Hugo Miller entertained her contract bridge club at her home Tuesday afternoon.
+            Miss Alpha Teske, who is employed in Mauston, spent the week end at her home her. 
+            Mr. and Mrs. Harlow Hoag and family spent Sunday at the home of the latter’s mother, Mrs. G. O. Krueger. 
+            Mrs. Fred Bernhardt and Miss Esther Bernhardt of Cold Spring Valley were callers at the Paul Walters home Saturday. 
+            Dr. and Mrs. M. P. Rice and son Jimmie and Mrs. Agnes Rice, Wilton, visited Tomah relatives and friends Sunday. 
+            Mr. Tom Earie, who is employed as accountant in Milwaukee, arrived in Tomah Monday for a visit of a few days. 
+            Miss June Gondrezick of Black River Falls was a week end guest at the home of her parents, MR. and Mrs. Rex Gondrezick.
+            The Thursday Contract club will be entertained at the home of Mrs. George Tucker on Thursday evening of this week. 
+            Mr. Albert Matzka of Rochester, Minnesota spent several days at the homes of Mr. and Mrs. Alfred Roscovious, and Mr. and Mrs. Matzke.
+            The W. R. C. will hold its regular meeting at the home of Mrs. Mary Clark Saturday, March 18. Meeting will start at 2 o’clock and will be followed by a picnic supper.
+            The Shakespeare club will meet on Monday afternoon, March 20, at the home of Mrs. Frank Drew. If is to be an afternoon of music with Mrs. McKean and Mrs. Jones as leaders.
+            Mrs. Lydia Pergande, Bernice and Doris entertained at the dinner Sunday. Those present were: Mrs. Fred Walder of St. Paul, Minnesota, Mr. Alfred Kewit of Milwaukee, Mr. and Mrs. August Schamens, Kenneth and Morris, Mrs. August Kewit, Mr. and Mrs. Fred Noth, Mr. and Mrs. George Vincenz and Alice, and Mrs. Amelia Noth and Evelyn. 
+         </p>
+      </body>
+  </text>
+</TEI>

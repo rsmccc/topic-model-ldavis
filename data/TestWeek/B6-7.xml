@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SPRING CREEK
+            Gaylord and Clara Emerson called
+            Friday evening on Mrs. C. Emerson
+            and family.
+            Mr. and Mrs. Ernest Olson, Dick,
+            Mary and Carol were dinner guests
+            Sunday at Norman Peterson’s, in
+            Irving.
+            Mr. and Mrs. Lloyd Gilbertson
+            drove out and spent Friday evening
+            with his parents, Mr. and Mrs. A. M.
+            Gilbertson.
+            Merlin Engebretson was called back
+            to his old job of driving truck for
+            Jessop on a road job near Cataract,
+            Monday morning.
+            Harold Gilbertson came from River
+            Falls Saturday and remained until
+            Monday with his parents, Mr. and
+            Mrs. A. M. Gilbertson.
+            Lawrence Johnson, sister Edna,
+            and Mrs. Irvin Johnson attended ser-
+            vices at Squaw Creek and also visit-
+            ed Mrs. Ida Stein and family Sunday.
+            Airs. Irene Engebretson, Robert
+            and Jimmie, and Charles Romstad
+            spent Saturday afternoon with her
+            parents, Mr. and Mrs. A. M. Gilbert-
+            son.
+            Mr. and Mrs. Dan Swisher left on
+            Thursday for Chicago and California.
+            Mr. and Mrs. Lyle Bullock accompan-
+            ied them. They will drive the car,
+            and will also visit California.
+            Mrs. Marcus Emerson, Mrs. Mollie
+            Emerson, Mrs. Olga Thomas and Mrs.
+            Gladys Anderson attended Birthday
+            Club at the Carl Messelt home Wed-
+            nesday afternoon and helped cele-
+            nrate his mother’s birthday.
+            Gaylord Johnson and family, Otto
+            VIoldenhauer, Oliver Gilbertson and
+            son Glen, Mrs. Irvin Johnson and chil-
+            Iren and Miss Edna Johnson spent
+            Saturday evening at Ole Wold’s, and
+            ilso helped Lawrence Johnson cele-
+            jrate his birthday.
+            Mr. and Mrs. Marcus Emerson and
+            ion Harold visited Gust Hortum and
+            :amily and his father, Engebret Hor-
+            ;um, Sunday afternoon. Engebret is
+            ible to be up and around, but his eye
+            sight is very bad. The radio is a
+            rreat pastime for him, and he especi-
+            illy enjoys the sermons Sunday mom
+            ngs, which is a great comfort.</p>
+      </body>
+  </text>
+</TEI>

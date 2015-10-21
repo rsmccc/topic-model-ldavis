@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M08D30</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The ladies sewing project moved into one new house
+            last Monday and they will move into that new build­ ing has been
+            made one purpose, the squaw sewing room , and also doctor office.
+            Foreman Dicky Walters says all they waiting for plasters, if they
+            had they could finish before Septem­ ber. Bad news. Mr. and Mrs.
+            Fred Whitewater lost one baby girl last week. Too bad. 22nd of
+            August, 1939. They had funeral at Indian Mission cemetery. The
+            sympathy goes to her parents and some other rela­ tives. Ben
+            Potter’s marsh started last Monday, southeast of CCC camps at
+            Charley Peterson’s place about five miles from there. Mr. Ben Potter
+            one day came down to see Indian report­ er, told him he would like
+            to have about 20 or 30 hand pickers. He want him to put advertise
+            wants In­ dian pickers. Indian report told some Indians but told
+            them you don’t have in advertisement, we are all here enough to hand
+            pickers. Last Mon­ day Indian reporter was there, see them 76
+            pickers, but soon after some more car came in, make over hun­ dred.
+            Mr. Potter was very glad to have finish before some other marsh
+            begin and he pay one dollar bushel. Henry Greengrass and Daniel Lowe
+            had letter from Work Project Ad­ ministration district No. 8 Menomo­
+            nie, Wisconsin. They will work 30th day of Aug. tom orrow. Peter
+            White Gull was here again last week from W innebago, Nebras­ ka,
+            visiting relative and friend. Emanuel Lowe will go back to school
+            yesterday at Haskell Institute in his third year. He is bright young
+            man to study everythings. W ant to learn for our use, his future
+            life and we wish him successful life and use­ ful way. Mr. and Mrs.
+            John Stacy went to Greenwood at his own farm, where his two boys run
+            that farm, and per­ haps stay with them for a few days. They went
+            last Sunday, did not re­ turn home yet. Alvin Stacy, Clifford Lowe
+            and Charles R. Lowe Cloud went to cran­ berry picking last Monday.
+            Alvin never pick cranberry before, all he want to learn how to hand
+            pick cran­ berries, and he don’t want to go any more, he says. He
+            couldn't make any things on picking berries. Hotonga school will
+            begin next Monday, Sept. 4, 1989, and close end of spring 1940. The
+            Indian children are very anxious, they asked when school begin, and
+            some of them want to know if Emma Olson come back to teach them
+            again. They told them yes she will be back. That will be fine. .</p>
+      </body>
+   </text>
+</TEI>

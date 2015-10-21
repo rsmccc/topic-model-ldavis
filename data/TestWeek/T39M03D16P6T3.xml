@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P6T3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Clifton
+            St. Peter’s Ev. Lutheran Church
+            Indian Creek
+            Sunday, March 19, English Lenten services, 1:30 p.m.
+            The next Ladies Aid meeting will be Wednesday afternoon, April 12, instead of April 5. 
+            Neil Ziegler, son of Mr. and Mrs. Roman Ziegler, had an operation for appendicitis at the hospital at Mauston last week Monday.
+            Mrs. Wm. Cerutti of Madison spent the week end with her parents, Mr. and Mrs. John Graf and family.
+            Joe Honish was in Madison last week Friday night.
+            Mr. and Mrs. Henry Schoot visited at the B. W. Mee home in Bear Creek Friday afternoon. Mr. Mee has been confined to his bed for the past two months. 
+            Mildred Monick, who is employed at Eberhart’s beauty shop at Tomah, attended beauty culture school at Milwaukee for a week. She returned last week Tuesday and spent the remainder of the week at her home here with her parents, Mr. and Mrs. Albert Monick, and helped to take care of her mother who is recovering from the flu. She returned to her duties at Tomah Sunday. 
+            Mrs. Kate King, who had been visiting Mrs. Sarah Murphy at St. Paul, for the past two weeks, returned here last week Monday evening and is at the home of her sister and brother-in-law, Mr. and Mrs. Theodore Senz.
+            Mr. and Mrs. George Schuiz spent last week Thursday evening at Walter Vyss. 
+            Mr. and Mrs. Edward Huschka of Elroy spent last week Tuesday evening at the George Schulz home.
+            Mike Englerth of near Wilton visited at the Oscar Schmidt home last week Wednesday. 
+            Wm. Koehler of Milwaukee visited at the home of his sister and brother-in-law, Mr. and Mrs. Oscar Schmidt and other relatives here last week. 
+            Mrs. Vern Judevine and son Larry spent last week Wednesday afternoon at the George Schulz home. 
+            Mrs. Theodore Senz, who has been sick, is slowly on the grain. 
+            Ella Kirsha and Jimmy visited over the week end at her home with her parents at Coon Valley.
+            Among those form here who attended the funeral of Mrs. N. Ahrens of Madison, at Hustler, last week Friday afternoon March 10 were George Ristow. Mrs. George Schulz, Mrs. Emma Henricks and Mrs. Lizzie Judevine. 
+            Mrs. Ahrens, aged 93, died at her home at Madison. Her remains were brought to Hustler and funeral services were held at St. Paul’s Evangelical Lutheran church. Rev. A. Winters of Mauston officiated. Interment was made in Hustler cemetery. 
+            Her grandson, Mr. Arthur Blaschke of La Crosse, directed the funeral. 
+            Mrs. Ahrens was well known here, having lived in this neighborhood for many years previous to making her home at Madison.
+            Many friends and neighbors extend their sympathy to the bereaved. 
+            Joe McDaniel Sr., his sons, Joseph, Verlyn and Kenneth, spent the week end at Tom Mc Daniel’s at Cashton. 
+            Mr. Alvin Warnka, Robert Beverly, Dean and Adeline of La Grange were Sunday guests at the Henry Schoot home. 
+            Mr. and Mrs. Melvin Raten and family of Dorset Ridge were callers at Joe McDaniel’s Sunday. 
+            Sam Thorson is sick with the flu.
+            The moving picture safety program combined with the children’s program of three schoots, Clifton Corners, Graf school, and Rock Edge at Schulz hall, last week Wednesday night, was well attended and very interesting.
+            Notices are posted for caucus at Clifton Saturday afternoon, March 18. 
+            A large crowd attended the baseball benefit pinochle tournament at Schulz hall Friday night. The next card party will be on Friday night, March 17. 
+            Walter Wyss and children visited Dr. Stetler’s dental parlors at New Lisbon Saturday afternoon.
+            Bills are posted for a public auction sale on the Frank Ressier farm on Thursday afternoon, March 16.
+            Some form here attended the funeral of Mrs. O. K. Ormson, aged 90, at Rocky Run, Saturday afternoon. This community extends sympathy to the bereaved survivors. 
+            Mr. and Mrs. Vern Judevine and son Larry were Sunday visitors at the home of Mrs. Henry Strege at Camp Douglas.
+            Mr. and Mrs. Arthur Haase and family spent Sunday with Mrs. Bertha Raabe and Gilbert.
+            Harold Albrecht and Russel Prell cut wood for Mr. Ward last week Thursday and Friday. 
+            Mr. and Mrs. Bill Tuttleski and family of near Wilton were at Mrs. Hulda Schmidt’s Sunday evening.
+            Vern Judevine sawed wood for Emmet Visgar Monday. 
+            Mrs. Lizzie Judevine and Gate Schmig were at the Carl Schmig home near Kendall Sunday afternoon. 
+            Mr. and Mrs. Lloyd McCaskey and family of Oakdale, Alex McCaskey were Sunday supper guests of MR. and MRs James McCaskey and family at Homewood which was in honor of Mrs. McCaskey’s birthday. 
+            Alfred Frohmader and Pete Senogles of Tomah were Sunday callers here. 
+         </p>
+      </body>
+  </text>
+</TEI>

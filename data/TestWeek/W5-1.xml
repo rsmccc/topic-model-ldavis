@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W5-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Local News Notes Robert and Lorry Olson mode o trip to Marinette
+            Saturday. Pool Hempel, of Bimamwood, was a Saturday visitor at Bent.
+            Victor Stenaon was a caller at the Con Verpoorten home Tuesday.
+            Henry Janmteeh la attending an in- surance meeting in ClintonviUe
+            today. Mr. and Mrs. R. Oeatreich and daughter a pent Saturday at
+            Marsh- field. Dorr Hickok, of Chicago, was a visitor in the Chfts.
+            Schwertfeger home last Friday. Mr. and Mrs. Ed. Meeh, of
+            Clintonville, were Sunday visitors in the Blum home. Mrs. Herbert
+            Haufe went to Marion Friday for a visit with relatives over the
+            week-end. Mrs. George Dexter has returned here after spending the
+            winter in Oshkosh and Theresa. Mrs. William Schwitake, of
+            Blrnamwood, is receiving treatment at the Bimamwood hospital. Miss
+            Sara Schaar is spending several days with her sister, Mrs. Herths
+            Murdock, in Shawano. Avery Vose. manager of the Kraft-Phenix plant,
+            made a business trip to Stevens Point Monday afternoon. Mr. and Mrs.
+            Joe Thorson and child- ren, of Morris, were Saturday afternoon
+            visitors in the Verpoorten home. Mr. and Mrs. Martin Stelter and
+            children, Martin and Judith, of Milwaukee, are visiting In the Rev.
+            Fierke home. Mr. and Mrs. Ed. Btoecher and Mr. and Mrs. Don Seefeldt
+            visited at the Ed. Younk home in Green Bay on Sunday. Mr. and Mrs,
+            August Bens and son Carlton and Mrs. Lorena. Hempel and Norman were
+            at Antigo Wednesday afternoon. Mr. and Mrs. Clarence Wendler and
+            daughters, Lucille, Ardel and Viola, and Mrs. Ed. Guerin spent
+            Saturday in Antigo. Mr. and Mrs. Henry Luepke, of Bonduel.and Chas.
+            Matzke and son, of Underhill, were visitors Saturday afternoon at
+            the Benz home. Mrs, J. C. Johnson was a visitor in Wausau on
+            Saturday, being accompanied home in the evening by her daughter,
+            Aneta, who spent Sunday here. We hear that Dr. Truman Gordon, of
+            Madison, will be guest speaker at the next meeting of the local
+            Lions club, on the subject of the Townsend question. We are informed
+            that the local Townsend club is sponsoring a full page ad to be run
+            in the next issue of The Enterprise. Mr. and Mrs. Keith Dies and
+            children visited lit Bowler on Sunday. Mr. and Mrs. Letand Bloecher
+            and Mr. and Mrs. Arthur Bates were visitors in the Alfred Sehrank
+            home In Gresham on Sunday. Miss Cerda Jacobson, a teacher in the
+            ClintonviUe public schools, spent the week-end at the home of her
+            mother, Mrs. Nels Jacobson, in the town of Etdcron. Mrs. Elizabeth
+            Pletser. Mrs. John Barta and son John and Miss Ludwig, of Appleton,
+            were Sunday visitors in the home of the former's son, Joseph
+            Plesser, and family. William Arnold, who is a student at Marquette
+            university In Milwaukee, arrived in town today to spend the week-end
+            at the home of his parents, Mr. and Mrs. W, L, Arnold, Cleve Guerin
+            made a business trip to Rhinelander on Monday. He represented the
+            county board at the meet- ing held there to discuss relief matters
+            in northern Wisconsin. Harold, Robert, Lyle and Larry 0lsen, Kathryn
+            Guerin and Carl Olson spent Sunday at Three Lakes. Larry, who Is
+            employed at a resort near . Three Lakes, remained up there. George
+            Overen returned to hit home in Bimamwood on Saturday from the :
+            Veterans' hospital at Wood, after spending the past three and
+            one-half months there recovering from a serious operation. As we go
+            to press we learn that William Schoepke passed away at his home in
+            Crandon on Sunday. He was 73 years of age and the oldest brother of
+            Henry and Ed. Schoepke, of this community. Quite a number of
+            relatives left today to attend the funeral. We expect to run the
+            decedent’s obituary next week. Mr. and Mrs. Jack Krohn and son ' of
+            Crandon, were Sunday visitors with ' her parents, Mr. and Mrs. Frank
+            Hdlstrom. Mr. Krohn, who operates the Crandon Ben Franklin store,
+            plans to erect a new brick and tile building, 33x25, in that village
+            in the spring. Mr. Krohn is president of the local Badger Theatre
+            Inc. The board of directors of the Homme Home for the Aged held a
+            regular quarterly meeting on Tuesday at the office of the manager,
+            Rev. H. M. Mason. The following directors, Rev. O. O. Sovde,
+            chairman, of Scandinavia, Arne Johnson, secretary. Rev. W. A.
+            Johnson of Rosholt, A. W. Miller, of Sturgeon Bay, and John Englund,
+            were present and transacted routine business. Mrs. Sovde and Mrs.
+            Englund accompanied their husbands as guests at the institution.
+            Miss Gladys Lunde and Miss Eva Drew, who have both been employed at
+            Homme Orphan Home, discontinued their positions March . They spent
+            about ten days at the Otto Lunde home near Elderon and then left
+            last Saturday via bus for St. Paul, Minn. Miss Lunde has been at the
+            Home for five years and seven month. Her work there consisted of
+            baking bread, etc., for all the children and employ- ees,
+            supervision of the dining room and laundry, and she was assistant
+            cook, substituting in the regular cook’s (dace during her time off.
+            Miss Drew was employed as secretary and stenographer in the office.
+            8he is well known in this community, having attended High School in
+            Wittenberg. Both young ladies were members of the Luther League and
+            L, D. R. of First Lutheran Church. We received the following
+            communication from Mrs. Nels Jensen, of Chicago, concerning her
+            granddaughter: "On February 26th, Joan Carol Chapman, age 4, sang
+            and named 40 popular numbers after hearing a few bars on the piano.
+            She sang “You’re a Sweet Little Headache” on Rubin’s Hour of
+            Opportunity radio program, winning first prize. She received a
+            professional engagement on Rubin’s “Stars of Tomorrow” broadcast on
+            March 6, at 7:6 in the evening over WCFL. She also received a
+            beautiful Benrus gold watch. She can name over a hundred popular
+            numbers when just a few notes are played. 8he also sings many of
+            them. Many who have heard her predict a future in the world of music
+            for Joan Carol. She also sang on Morris B. Sack’s radio program on
+            August 28. She is the daughter of Mr. and Mrs. Russell Chapman, of
+            Chicago.” </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P6B7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>La Crosse Valley
+            Mr. Archie Griffin of Beloit has been spending several days with friends and relatives in the neighborhood.
+            Mr. Wm. McBain spent the week end with his family at Sandy Plains.
+            Mr. and Mrs. H. A. Belt and family were Sunday dinner guests at John Burke’s. 
+            Mr. and Mrs. E. M. Hockenbery, called on Mr. and Mrs. Eschol Griffin last Sunday.
+            A good crowd attended the meeting at the Grant hall Thursday. They also helped Orin Lawrence celebrate his birthday.
+            A number of the people of the valley have been having the flu. 
+         </p>
+      </body>
+  </text>
+</TEI>

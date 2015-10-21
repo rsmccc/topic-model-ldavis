@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M08D17</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Tuesday come up to Tomah from Dells to give Indian News to
+            newspaper and all people every place tell me want to have things I say about what
+            Indians doing and like that in newspaper every week and Indian News first thing they
+            read every time. If people want to see big ceremonial at Stand Rick where I work and
+            part of program better come pretty soon because we only have three more weeks and them
+            everything close up till summer come next year. Scott Mokey’s wife she been pretty sick
+            for long time now and sometime awful bad but now she get better and pretty soon maybe be
+            all o.k. again and that about all people that get sick form Tomah at Wisconsin Dells
+            this summer and everybody else all feet pretty good. Hilda Smoke go to Tomah High School
+            and finish school and everybody know her and three weeks ago she have operation at
+            Indian hospital and get out of hospital about a week ago and all well again now. Indians
+            that go to Indian hospital see Dr. Winter and people that work there and every time tell
+            about get good care and pretty near every time get well too. Indian reporter make joke
+            in paper one time when tell about go to hospital and just have glass rod put under my
+            tongue and people don’t know I mean joke and get pretty sore and next time I make joke
+            maybe I better tell like this “now folks this is joke and Indian reporter don’t want
+            nobody to get mad at joke” and just want to make people have laugh about it. Philip
+            Decorah little boy, been pretty sick too at Dells park and they take him to hospital at
+            Tomah and he stay thee two three weeks but they tell Indian reporter that he come back
+            to Dells Park and feel pretty good too and maybe be all right again now. Art Decorah go
+            to Mauston one night this week and wrestle at fair grounds at Mauston. September 15
+            Indians start to hand pick cranberries on Valley marsh and some going to rake too. Ben
+            Cady is boss on cranberry marsh and he is good fellow and all Indians like to work for
+            him. Ben Cady tell Indian reporter berry crop is going to be good and have lots of
+            berries this fall and this helps Indian people too and helps them to get money to buy
+            things to eat in winter time. Pretty soon I come back to Tomah to live and then I can
+            write news about people everybody know and like I been at Wisconsin Dells people that I
+            know about and can tell in Indian News nobody that reads paper knows and not very good
+            news like I write when I stay here. .</p>
+      </body>
+   </text>
+</TEI>

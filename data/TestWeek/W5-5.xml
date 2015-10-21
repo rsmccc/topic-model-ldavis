@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W5-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>WAYSIDE SCHOOL Mr. and Mrs, Art Schaar and sons visited at the Jake
+            Bernards home Sunday evening. Art Schaar and Earl Nelson Jr. visited
+            Bernard Carlson Saturday after- noon. Theodore 8chear was at
+            Tigerton Saturday with John Hellstrom. Earl Nelson and children
+            visited at the Art Aanonsen home Sunday after- noon. Mr. and Mrs.
+            Tom Swenson and Laura Rasmusaon were Sunday after- noon visitors at
+            the Homme Orphan Home. Mr. and Mrs. Rudolph Schoepke and family were
+            callers at the Ed. Schoepke home Sunday afternoon and eve- ning, Mr.
+            and Mrs. Art Grimstad and daughter Betty called st the Heldtborne
+            Sunday evening. Margerle and Carol Kaufman were Sunday afternoon
+            visitors at the Clarence Simonson home. Mr. and Mrs. Fred Dahlen of
+            Rosholt visited at the Art Arnonsen home Sunday afternoon. The
+            school board met at the A. R. Aggen home Friday evening. Mr. and
+            Mrs. A. R. Aggen and daughter Arvtlls were Antigo callers Saturday.
+            Mrs. John Liesch visited with Mrs. Bradendick at the Aggen home.
+            Esther and Earl Anderson and Lawrence Buck visited at the Ed.
+            Kaufman home Thursday evening. Mrs. Lawrence Buck and daughter Diana
+            returned to the home of Eugene Buck. Mr, and Mrs. Ed, Kaufman and
+            Patsy, Phyllis and Peter, and Art Carlson were at the Eugene Buck
+            home Saturday.</p>
+      </body>
+   </text>
+</TEI>

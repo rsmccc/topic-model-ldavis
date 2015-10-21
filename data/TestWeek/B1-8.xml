@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>WE RAISE BIG LEMONS
+            The prize lemon brought from Flo-
+            rida recently and presented to Mr.
+            and Mrs. William Ball, has nothing on
+            what Jackson county can produce.
+            A. W. Helwig of Alma Center, has a
+            16-year-old lemon tree in the Jackson
+            County Bank at Alma Center, which
+            ! matured four lemons this month, two
+            of which were 12 inches, in circum-
+            ference and weighed onq pound and
+            four ounces each, and the other two
+            were a little over one half as large.
+            Mrs. Helwig made two pics from one
+            of the lemons, and one of the smaller
+            ones is still on the tree. The tree at
+            present is covered with blossoms, and i
+            bids fair to outdo the 1939 crop the
+            coming season. Several years ago
+            Mr. Helwig had a lemon that measur-
+            ed 13 x/i inches from this same tree.
+            Mr. Helwig thinks people might be in-
+            terested in knowing they do not have
+            to go to Florida to see large lemons
+            growing on a tree. All you have to
+            do is come to Jackson county.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P5B4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Card of Thanks/ Notice
+            Card of Thanks
+            We wish to express our sincere thanks to our friends for their kindness following the death of our father. We especially wish to thank those who sent flowers, those who donated the use of their __ for the funeral, Rev. Schaller for his comforting words, and __. Ninneman for his helpful service. 
+            Alfred Kewit
+            Mr. and Mrs. Aug. Schamens
+            Notice
+            I wish to announce that I have resigned as Justice of the Peace on account of poor health.
+            Effective March 15, 1939
+            C. W. Croty
+            Card of Thanks
+            We wish to thank our kind neighbors and friends for their many acts of kindness during the death and burial of our dear mother and grandmother. We also sincerely thank Mr. and Mrs. White for their extreme kindnesses and Rev. Herrick for his consoling words, and those who furnished the music, and for the beautiful floral offerings, and those who furnished cars.
+            Mr. and Mrs. Wesley Reynolds and family
+            Mr. and Mrs. Claude Lemon and family
+            Mrs. Elizabeth Buelow and family
+            Mr. Lynn Reynolds 
+            Laura Reynolds
+            
+         </p>
+      </body>
+  </text>
+</TEI>

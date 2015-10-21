@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W2-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Household Questions
+            Conversations Made Easy Keep
+            the center of the room free from
+            furniture. This makes for easy
+            conversation across the room.
+            
+            Sweeten Coffee Pot If the
+            morning coffee seems to have lost
+            its pep, perhaps toe pot needs attention. Scald it at least once a
+            week—twice is better. Purify for
+            an hour or longer directly in the
+            sunlight.
+            
+            Shine Off Serge.—The shine on
+            the dark serge suit can be re-
+            moved to a certain extent by
+            sponging with vinegar and then
+            pressing in the usual way.
+            
+            For Baby's Bath.—A good soap
+            substitute, if the baby has sensitive skin, is a pound of oatmeal or
+            a quart of bran, tied securely in a
+            gauze bag and allowed to soak
+            in the bath water.
+            
+            Sewing Tip. — Before mending
+            with new darning wool hold it in
+            the steam of a kettle for a few
+            minutes and let it slowly dry. This
+            shrinks it so it will not "pull" or
+            pucker when the mended garment
+            is washed.
+            
+            Picture Frame Tips.—Any picture frame which detracts from
+            the picture is wrong. It should
+            be as Inconspicuous as possible,
+            blending with the color of the wall
+            against which it is hung. How-
+            ever, Chinese and Japanese prints
+            may be placed in lacquered
+            frames which blend with one of
+            the colors in the picture.</p>
+      </body>
+  </text>
+</TEI>

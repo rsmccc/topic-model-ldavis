@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B3-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The ORIOLE STAFF BETTY THOMAS—Editor-in-Chief WILMA DUNN—News Editor
+            Reporters: Kieth Allison. Betty Arndt. Faye Bowen, Mary Rose Boyer,
+            Vilah Dob- son, Erva Loomis, Virginia McCormick, Gertrude Peterson,
+            Donna Quackenbush. Marian Scafe. Allan Siemers, Kathleen Olson,
+            Peter Olson, Wayne Glennie, Kathleen Horswill, lone Haralson, Jean
+            Haralson, Pauline Meek, Arlene Ibinger. LA VON HAUG and—Desk Editor
+            Donna Burge NORMAN MARTINSON—Sports Editor David Noble, Stanley
+            Gilbertson FLORA HARPEN—Feature Editor Marie Melichar, Lucille
+            Bowman, Marion Inderbo, Irene Laughnan. Marcella Nan- st, Rosli
+            Zwahlen. LOTTIE RUTH FRYER Exchange Editor GWEN BUNCE—Humor Editor.
+            Gwen Wensel, Nellie Mae Wyss, Margaret Olson. Ruth Anderson, Dorothy
+            Staves MERLE HALVERSON—Music Editor Jeanette Lee DOROTHY STAVES—Head
+            Typists Frances Potter, Irene Laughnan, Elva Faulkner MARCELLA
+            NANSTAD—Distribution Mavis Davis, Marguerite Eggen SECOND SEMESTER
+            HONOR ROLL FIRST SIX WEEKS High Honor Roll: Seniors—Vivian Anderson,
+            Mary Rose Boyer, Donna Burge, Verland Olson, Betty Thomas
+            Juniors—Kathleen Olson, Leslie Thomas Sophomores—None Freshmen—Berle
+            Barkley, Dorothy Burge, Lucille Gonia, Jeanette Lee, Peter Olson,
+            Donna Quackenbush Eighth grade—Dean Allison, Ar- thur Johnson,
+            Arlene Thompson Seventh grade—Mary Ellen Bich- ler, Pearl Brewer,
+            Virginia Davis, William Frei, Mary Joyce Gilbertson, Alice Ibinger,
+            Norma Thiele, Iris Thomas, Edna Uhlberg, Carmen W right Honor Roll:
+            Seniors—Dorothy Brinker, Wayne Glennie, Joseph Marousek, Agnes
+            Prochaska, Mary Rice, Marion Thomp son, Nellie Mae Wyss, Rosli
+            Zwahlen Juniors—Stanley Gilbertson, Verna Gilbertson, Eleanor Olson,
+            Don Per- ry, Bessie Prochaska Sophomores—Monica Bielinski, Lu- cille
+            Bowman, Thelma Cain, Emmett Kampen, Lucille Schneider, Gene- vieve
+            Stein, Joyce Strozewski, James Theile, Garth Wensel Freshmen—Keith
+            Allison, Betty Arndt, Harold Dunn, Margie Hagen, Evelyn Harmon,
+            Kathleen Horswill, Merle Jacoby, Milton Larson, Erwin Peterson,
+            Marie Reichenbach, Frank Snowdon, Lucille Thiele, James Thornton
+            Eighth grade—D o n aid Larson, Grace Nanstad, Marjorie Roberts
+            Seventh Grade—Allan Danielson, Donald Johnson, Maxine Wiley BAND
+            NEWS The next band concert will be held the latter part of April.
+            The contest numbers will be played then. These include “Jolly
+            Robbers” and “New Colonial”. The latter is being me- morized for
+            marching. The tourna- ment is in La Crosse and to be held the last
+            of April or the first of May. A new Glockenspiel has just arriv- ed
+            for use in the band and orchestra. It has a reversible stand so it
+            can be used in marching. It really is a beautiful affair.</p>
+      </body>
+   </text>
+</TEI>

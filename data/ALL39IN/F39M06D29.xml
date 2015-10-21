@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M06D29</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>I want to say like this about how we pack up everything and
+            go to Wisconsin Dells and I am part of Indian ceremonial at Stand Rock all summer and
+            start on first July and don’t come home till after Labor Day. Sunday we pack up all day
+            and go next day to Wisconsin Dells and just like vacation but I have to work little
+            every night and get $1.50 every day for just little work at night. White man tell Indian
+            reporter pretty soft for me go fishing all time every day and fishing pretty good at
+            Wisconsin Dells some times when folks know where fish stay. Lots of people that come to
+            ceremonial know Indian reporter and other fellows think that pretty funny when white
+            people go by where I stand some time and give out papers and things like that and say
+            Hello Frisk and we talk about things. There’s one thing I feel pretty bad about going
+            away because maybe have trouble about getting Indian News to newspaper. I want to tell
+            all you folks that I like to write Indian News and hope everyone like things I tell and
+            don’t want to hurt anybody and some times tell just what I think about things and some
+            time people say I don’t know and some time people get mad about things I say in Indian
+            News and one fellow get pretty sore too but I tell you before and I want to say Indian
+            reporter don’t want hurt anybody and just say things I think and some times just have
+            joke. Maybe Indian reporter come to Tomah with fellows and give Indian News. Last summer
+            I start to walk to Tomah and some time fellows give me ride and drive pretty fast and go
+            by curves in road sixty seventy miles an hours and never go that fast until here few
+            years ago and I get pretty scared when turn by curve and tires screech like hawk in
+            night and make me think about bad wreck and people get hurt bad. Saturday Indian
+            reporter had talk at Cash Store with tall fellow everybody call Fred and now live at
+            Milwaukee and everybody know him when he was big boss at telephone place in Third ward.
+            Fred great fisherman and sportsman and all time fish with flies and don’t use worms and
+            every time catch fish and that’s what he tell every time. Now I want to tell joke about
+            Fred and I want to say like this. Fred go long way up north and have camp and have
+            Indian guide like I am guide some times at Dells and have guide show him where fish stay
+            and Fred tell same thing himself and Indian not know he live here and fish all day and
+            go lots of places and don’t catch fish. Fish long time and Fred tell Indian guide show
+            me where fish bite and Indian guide say Tomah. Wisconsin best place to catch fish and
+            next day come home and Indian reporter think same thing too. Fred tell Indian reporter
+            at Cash Store about like Indian News and say read about Indian News first thing every
+            week and other fellows tell me same time like thing I say pretty good too. .</p>
+      </body>
+   </text>
+</TEI>

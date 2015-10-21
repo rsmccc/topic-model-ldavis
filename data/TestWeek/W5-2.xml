@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W5-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dr. Srolle was a supper guest at the I Indian Mission Thursday
+            evening. Mr, and Mrs. Conrad Verpoorten attended a birthday party at
+            Surland Thorton’s Saturday night The Lutheran Social Club met this
+            afternoon with Mrs. Rine Brehmer. Mrs. Henry Wolff received the
+            prise. A number of friends gave Robert Olsen a surprise party
+            Saturday eve- ning, the occasion being his birthday, Mr. and Mrs. R.
+            G. Peterson and daughter Priscilla were supper guests of Rev. and
+            Mrs. E. W. Sihkr Friday evening. Mrs. Earl Gates entertained her
+            bridge club Thursday night. Prizes went to Mrs. Rudolph Hanson, Miss
+            Leona Schwertfeger and Mrs. Carl Hanson. Mrs. Henry Wolff
+            entertained her bunco club Thursday night. Prises went to Mrs.
+            Edward Bloecher, Mrs. Albert Gunderson, Mrs. Paul Kusserow and Mrs.
+            Rine Brehmer. The Tuesday Afternoon Bridge Club met this week with
+            Mrs. Walter Netsel. Prizes were won by Mrs. H. E. Kersten and Mrs.
+            Rudolph Hanson. Mrs. Harry Hoppe received a guest prize. Mrs. Palmer
+            Wahl was pleasantly. surprised Saturday afternoon on her birthday
+            anniversary by a large group of ladies from the Morris community, A
+            gift was presented and lunch was served by the ladies. Mr. and Mrs.
+            Reuben Balke, Mr. and Mrs. Asa Balke, Reinert Laude and Miss Anita
+            Westphal, of Pella, and Mr. and Mrs. Louis Gerret and Louis and
+            William Balke, of Embarrass, visited in the Roland Jesse home on
+            Saturday, the occasion being hit birthday anniversary. A number of
+            Wittenberg players attended tKe card party in the Community Hall In
+            Shawano Tuesday eve- ning. Forty five tables of bridge, skat and
+            schafskopf were in play. Mrs. Ed. Rosenow, of Shawano, won the
+            five-tube radio, the grand prize. Among the other dozens of winners
+            were Mrs. Walter Netzel, of this village. The proceeds will be used
+            to further the conservation program in Shawano county. The Bethany
+            Indian Mission Circle met with Miss Anna Mathison Tues- day
+            afternoon. Members worked on pictures for the Indian homes and
+            hemmed handkerchiefs for the school children. The following program
+            was given: Hymn; devotions by Mrs. C. C. Petersons piano solo. Ruby
+            Sundet reading, Mrs. P. A. Wahl; piano duet. Ruby Sundet and Janet
+            Vollmcr; piano solo, Janet Vollmer; closing hymn. In the absence of
+            the president, Miss Anna Mathison took charge of the program and
+            brief business meeting. Mrs. Art Lai son read two very interesting
+            letters which recently arrived from Miss Helen Frost, missionary in
+            igloo, Alaska. Miss Frost reports a very severe winter with
+            considerable illness among the natives. The Mission Circle decided
+            to send Miss Frost an Easter greeting and will perhaps send gifts to
+            Alaska for the natives in igloo for next Christmas. The next meeting
+            of the Mission Circle will be held April in the home of Mrs. Val
+            Meckes. </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P3B6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Local Happenings
+            Matt Schreter of Norwalk was a business caller in the city on Thursday. 
+            Mrs. G. F. Kuckuck called on relatives in Melrose Sunday. 
+            Mr. and Mrs. Manley were Tuesday callers in Mauston. 
+            Miss Marguerite Donovan spent the week end in Sparta as a guest of Miss Mary Dickinson. 
+            Mrs. Lucille Ryckmen and Mr. Raymond Knick, Madison, spent Sunday at their parental home. 
+            Miss Carol Mae Reisenauer, Stevens Point, spent the week end at the home of her parents.
+            Three tables of pinochle were enjoyed by a circle of friends at the home of MR. and Mrs. Frank Prielipp Sunday evening. 
+            Mr. E. J. Johnston of St. Paul, Minnesota, spent Wednesday to Friday at the Francis Brown home. 
+            The ladies of St. Mary’s Catholic church will serve a desert luncheon in the church basement on Friday, March 18, at 1 p.m. The luncheon will be followed by cards. The charge will be 25 cents. Everyone is invited adv. 
+            Mrs. Harold Nienast spent the week end at her home in Pleasant Valley, returning to her school Sunday evening. 
+            Miss Geraldine Sowle, who attends Milwaukee State Teachers College, spent the week end at home of her parents, Mr. and Mrs. Claude Sowle. 
+            Miss Katherine McCaul left Sunday for a trip to the Golden Gate Exposition in San Francisco, California. She will also visit in Phoenix, Arizona and Pasadena, California. 
+            Born the Mr. and Mrs. George Gray at St. Mary’s hospital, Sparta, Tuesday morning, March 14, an eight pound son, Gene. All are reported to be doing well, even George. 
+            Mrs. Vera Wildes was hostess to the Harmony Homemakers club on Thursday, March 9, with all except two members present. Mrs. Fred Purdy showed several patterns and demonstrated the punch work. Mrs. Willard Densmore led in an interesting quiz and in the word game, led by Mrs. Wildes, prizes were won by Iva Hart and Eva Densmore. Mrs. Hart will be hostess at the April 13 meeting. Mrs. Wildes revived the hostess gifts. 
+         </p>
+      </body>
+  </text>
+</TEI>

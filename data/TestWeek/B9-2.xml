@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MERRILLAN
+            Mrs. A. J. Rude is home from a
+            visit with relatives in Wisconsin Ra-
+            pids.
+            Mrs. Hartig of Wrightsville, has
+            been very sick at the home of her sis-
+            ter, Mrs. Vincent, but is now better.
+            Mrs. Gus Johnson and daughter
+            spent several days in Chicago during
+            the week and report that inside the
+            city no snow is seen.
+            Mrs. Nels Olson, son Orville and
+            Mr. and Mrs. Volk, of Rhinelander,
+            were at Sycamore for the funeral of
+            their daughter and sister, Mrs. Syd
+            Rose.
+            Mrs. Irma Henderson, who spent a
+            week with her sister, Mrs. Steams,
+            returned to her home in Milwaukee
+            Thursday, but will return and help
+            care for her sister, who is up now and
+            improving. Her son Billie, of Self-
+            ridge Field, Mich., spent a few days
+            here.
+            The party at the high school Sat-
+            urday evening to meet Dr. Boxer and
+            wife, was well attended and a very
+            interesting program given by the cit-
+            izens responded to by the doctor in a
+            pleasing manner. We are all glad to
+            have him locate here and extend the
+            right hand of fellowship to him and
+            his wife.</p>
+      </body>
+  </text>
+</TEI>

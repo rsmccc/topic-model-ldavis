@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M05D11</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indian reporter have talk with Ranney, big fellow at ice
+            cream factory, Saturday and talk it over about way water is not kept in new lake and let
+            a water go over dam until weeds and snake grass get growing and make lake look pretty
+            bad. Same thing last year and lake all full of weeds because let water out too long.
+            Indian reporter walk out to lake and see water all stopped by dam and see lots of weeds
+            and snake grass on south end of lake too. I know something myself and other fellows can
+            tell same thing that if lake was filled up soon as ice melts, weeds and stuff like that
+            won’t grow in water and won’t have swamp and march lake. Everybody talk about big party
+            in Tomah on May 18 and fellows at Cash Store tell Indian reporter that Libke, manager of
+            parade, want reporter to ride white horse and wear costume. I talk to Claude Dietzman in
+            town Wednesday and can get white pony and everything fixed up all O. K. Monday fishing
+            season going to open and all people around here going to see if they can catch fish.
+            Indian reporter been fishing around her for long time back and I know myself fishing was
+            pretty good till Oh about 10 years ago and now fisherman has to have own pond with signs
+            everywhere that tell people “I am big rich fellow and I own pond and you can’t fish on
+            my land: or can’t get any trout. Build dams in crick that belong to all people and hold
+            fish on land and keep all fish for themselves and let other people catch just suckers.
+            Indian reporter going to tell folks why cricks don’t have trout in like they used to
+            have when everybody could go and catch fish and I going to them that four five years ago
+            when everything dry and no rain cricks all get low and fish won’t hatch out eggs and
+            fish die and lots of little ones too. Lots of people say it’s funny that people can’t
+            catch trout anymore and Indian reporter tell them try summer like we have all them years
+            spoil fishing. Maybe take long time to have lots of trout in cricks like there was long
+            time back. Other day had talk with Indian fellow that worked with Indian reporter long
+            time back for Herb Tuttle at cranberry marsh at Watermill and tell about work 10 hours
+            every day and get $1.25. We work that time and get along fine and everything and save
+            some money too and nobody ever get hungry. That time everybody work and have good time
+            and government never send big truck to town and have big load of pears for people and
+            everybody get relief. Today everything pretty bad and nobody feel very good. .</p>
+      </body>
+   </text>
+</TEI>

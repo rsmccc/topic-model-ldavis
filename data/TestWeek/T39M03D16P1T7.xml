@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>County Organized for Promotion of Pheasant Rearing
+            Will Inoculate School Pupils for Diphtheria
+            City Council Votes To Assist In Program
+            A program has been launched in Tomah by the Parent-Teachers Association of the Miller school, to have all children in the city perfected against diphtheria. “An ounce of prevention is worth a pound of cure,” is an old saying that is particularly true in fighting diphtheria and it is the ambition of the PTA to have every child in the city protected against this dread disease. 
+            An immunization center will be held at the Miller school on Friday, March 31, and every child in the Miller school, St. Paul’s school and St. Mary’s school is invited to attend and receive the protection. Every child will be given a slip to take home for the consent of parents and it is urged that all parents take advantage of this opportunity for protecting their children against this disease by giving consent for the inoculation. 
+            Children of pre-school age will also be inoculated during this clinic, inasmuch as diphtheria is as dangerous to the children under school age as to the older ones. All mothers who have children between nine months and six years of age are invited to bring these little ones to the clinic. They may come to the Miller school with their children any time between 10 o’clock a.m. and 12, noon and 1 p.m. to 3 o’clock p.m. 
+            A fee of 25 cents for each child is being requested. If, however, a mother wishes to have her children protected and cannot afford to pay this fee, she should not hesitate to send her children, as provisions have been made for such cases. The city council is aiding this program by contributing toward its support and all children will be treated, whether or not the fee can be spared. 
+            Diphtheria is a dangerous, catching disease which occurs at any age, but has its greatest prevalence in childhood. This disease causes the death of many children. No one should ever have it. Diphtheria can be prevented by a very simple treatment. This treatment consists of injecting a small amount of solution into the arm. When this is done, in most cases, the child is protected against this disease for many years, and usually for life. 
+         </p>
+      </body>
+  </text>
+</TEI>

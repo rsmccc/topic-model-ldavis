@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B2-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MRS. MILTON YOUNG
+            Effie Elizabeth Wilson, daughter
+            of Danford and Mary Wilson, was
+            bom in the town of North Bend, Sep-
+            tember 4th, 1876. While a small
+            child her parents moved to what is
+            known as the Silas Amidon place,
+            located near Melrose, and it is here
+            that she spent the greater part of her
+            younger life.
+            On April 12, 1899, she was united
+            in marriage to Milton M. Young, and
+            the couple started house keeping on
+            the Young farm, located in Red
+            School House Valley. In the year
+            1900 they sold their farm in Red
+            School House Valley and purchased
+            the Mark Douglas farm which has
+            been their home ever since. Some
+            years ago they built and moved to a
+            new home on the farm, on the edge
+            of Melrose.
+            About 30 years ago she became af-
+            flicted with paralysis which affected
+            her legs. She was to Mayos clinic
+            at Rochester, Minn., and many other
+            places with hopes of getting help and
+            relief from this dreaded disease.
+            About 24 years ago she was compel-
+            led to use a wheel chair which she
+            used the remainder of her days. Even
+            with this great handicap she contin-
+            ued to do the greater part of her
+            house work and always was cheerful,
+            having hopes that some day she would
+            be able to walk again.
+            On October 15 last she was taken
+            to Saint Marys hospital at Sparta,
+            where it was found that she was suf-
+            fering with other complications. She
+            underwent a major operation and it
+            was found that her ailment was in-
+            curable. On November 19, she was
+            brought back to her home, where she
+            was given the best of care and medi-
+            cal attention to the end. She pass-
+            ed away at 6:45 p. m. Sunday, March
+            5th, 1939, at the age of 62 years,
+            six months and one day.
+            She was a member of the local M.
+            E. church and also a member of the
+            Royal Neighbor lodge and took much
+            Interest in both.
+            She is survived by her husband,
+            Milton Young; two sons, Earl and
+            Lyle, both at home; one daughter,
+            Mrs. Cerdetta Ameson, Eau Claire.
+            One son, Clifford, passed away May
+            9th, 1906, at the age of three years
+            and three months. She also leaves
+            three sisters:	Mrs.	Lenora	Kidney,
+            Sparta; Mrs. Etta Mierow, Khedive,
+            Sask., Canada; and Mrs. Inez Aus-
+            tin, Leal, North Dakota. One broth-
+            er, Delbert Wilson, lives at Rainy
+            River, Canada; two brothers, Hubert
+            and Charles Wilson were living in
+            Montana when last heard from. She
+            leaves two grandsons, Ronald and
+            Donald Arneson. Sympathy goes to
+            her family in its bereavement.</p>
+      </body>
+  </text>
+</TEI>

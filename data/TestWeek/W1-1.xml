@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>State Capitol Letter Wisconsin Press Association Progressive
+            Filibuster Voting strictly on party lines, the senate Friday morning
+            advanced to final passage the Budlong repeal hill abolishing the
+            LaFollette created Wisconsin Development Authority by a vote of 20
+            to 11, The senate is ex pected to complete its action of con
+            eurrence with the assembly bill this week Advancing the repeal bill
+            to passage, however, did not come until after senators had spent a
+            full night in session. Beginning at 7:30 p. m. Thursday evening, it
+            was not until 7:46 a. m. Friday morning that the vote was taken.
+            Progressives who have been forced to sit by and witness the repeal
+            of much of the legislation which was en acted*by the 1937
+            legislature and the I9$f special session, engaged in ah futile
+            12-hour filibuster against the repeal of the WDA. Although the long
+            delay on the vote did not garner them a single additional vote, they
+            did is a measure gain a brief respite in that! after the all night
+            vigil, the majority party, Republican and Democrat coalition, agreed
+            not to place the bill oni final passage, and thus the WDA lives
+            another week Michael F. K resky, Green Bay Progressive, chief
+            filibuster, made legislative history when he talked continuously for
+            five hours and eight minutes The only time Kresky stopped talking
+            was when he sipped a drink of water or when Progressive colleagues
+            interrupted to Kresky’s voice a rest and to give him by way of
+            questions, additional subject matter to discuss. The Green Bay
+            senator's feat was acclaimed by observers to be all the more
+            remarkable because he never deviated from the subject before the
+            house. His voice was just as strong at 6:00 a. m. friday morning as
+            it was when he began five hours earlier. Nelson Derides Governor
+            Interested spectator at the senate’s all night session was Governor
+            Julius Heil and several members of bit executive staff. Noting the
+            Governor presence, and that he chatted with senators in the
+            corridors and senate parlors. Senator Phil Nelson, Maple
+            Progressive, accused the chief executive of “Huey tong tactics. “In
+            all my 14 years as legislator never before witnessed the spectacle
+            of a governor coming right into the legislative halls while
+            Important leglslation was being discussed. That’s the way Huey Long
+            used to operate In Louisiana. The governor of our state be very much
+            interested in the repeal of the WDA which is doing so much to
+            promote electrification for our farmers and cooperatives in
+            Wisconsin* That why he's calling out senators and telling them how
+            to vote,” Nelson shouted. Ironically enough, while Nelson was making
+            hi* charges. Governor Julius was talking to Progressive Senator Rush
+            of Neillsville. Reports have it that the senator and governor were
+            exchanging farm experiences, as both were once farm boys, The
+            governor left at StOO a. nt. He visited an evening session of the
+            as- sembly two weeks ago, and assembly- men too wondered why he was
+            there. Those close to the governor, however, point out that the
+            governor is new in politics, and has never before held any political
+            office, and that his visits to the legislative chambers and hearing
+            rooms ate mad# because of bis interest In bis job as chief
+            executive. None of the senators with whom the governor chatted
+            during the evening accused the governor of trying to influence his
+            vote. Short, Hectic Life If, at is expected, the senate eon- WDA,
+            the Wisconsin Development Authority will Have completed a very short
+            but hectic career. Designed to advise and assist municipal power
+            plants and rural cooperative plants, the Wisconsin Development
+            Authority, a non-profit, semi- public corporation received a $60,006
+            only after a long, hard fight in the 1137 Progressive-controlled
+            Legislature The all night session of last week Democrats and
+            Republicans, then the minority, during the 1937 session which gave
+            the WDA its first life. the gag rule in stopping debate on the
+            measure. They returned to the chambers later and the measure was
+            passed I I Passage of the bill and Governor La Follette’s signature
+            did not mean all that was hoped for WDA. Its first vouchers for
+            payment by the secretary of state were contested and finally ended
+            in the supreme court where the court declared it unconstitutional.
+            At a hearing by the state*s highest tribunal, WDA found life again
+            as the court reversed its first decision, but restricted most of the
+            activity of the department to rural electrification The second
+            supreme court decision! came during the middle of June, 1938, and
+            now, less than nine months later the WDA again faces death and this
+            time it appears most certain and final. Arguments against the repeal
+            of the! WDA in the senate were similar to those heard by assemblymen
+            when they voted to repeal it weeks ago. Those for the WDA claim that
+            rural electrification will suffer. Opponents of WDA say that other
+            states received just as much rural electrification work (Continued
+            on Page 4.)</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W8-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>BRUHN SCHOOL !
+            Mr, and Mrs. Wnjriehowaki and:
+            Mrs. Peter Buss made a business trip
+            to Stevens Point last week.
+            A large number of friends and relatives gathered at the Frank Bamke
+            home Thursday to help Mrs. Bamke 
+            celebrate her birthday. The evening 
+            WM spent at playing cards. PrUes
+            were' awarded to Leo Wojclohowafci, 
+            John Keel and Mrs. Cheater Kledrowski
+            Mr. and Mrs. Albin Oatrowaki and
+            family spent Sunday at the William 
+            Kuehn and John Buss homes in Norsrie.
+            Mrs. Mary Bruhn and son Jerry of
+            Milwaukee arrived Thursday evening
+            to spend the weekend with Mr. and
+            Mrs. Leo Wojeiehowski and family.
+            Mrs. Peter Buss returned to Milwaukee with them Monday night.
+            Mr. and Mrs. Frank Bamke and
+            daughter Dorothy shopped at Wausau Thursday.
+            Mr. and Mrs. Paul Seefeldt and
+            family spent Sunday with Mrs. Louis
+            Hegewald and family.
+            Mr. and Mrs. Leo Wojeiehowski,
+            Mrs. Peter Buss and Mrs. Mary Bruhn
+            made a business trip to Pulaski saturday.
+            Mr. and Mr. Tony Bamke and children shopped at Wausau Wednesday.
+            Mr. and Mrs. Spencer Johnson and
+            son Robert and Mrs. Louis Johnson of
+            Elderon visited with Mr. and Mrs.
+            Jonas Halverson and family Sunday.
+            A child was born to Mr. and Mrs.
+            Norman Olsen Tuesday.
+            Mr, and Mrs. Tom Halverson and
+            children attended the funeral of Mr,
+            Halverson’s father at Rosholt Mon-
+            day.
+            Mr. and Mrs. Floyd Morey and
+            children. Miss Florence Grunewald
+            and Russell Buck spent Sunday at
+            Crandon,
+            John Spranger and daughter Marita
+            of Rudolph were guests at the Gerhard  Spranger and Andrew Graeyalny
+            homes Sunday.
+            Many friends assisted Mr. Keel in
+            the celebration of his birthday at his
+            home Tuesday evening. Prizes at
+            cards were awarded to Math. Spranger, Andrew Gracyainy, Mrs. Herman
+            Gusman and Mrs. John Lukasko.
+            The Clifford McVay family have
+            muted their household foods to Mustek where they will reside.
+            We are Happy to report that the
+            fourteen children who were on the
+            sick list last week, have all returned
+            to school,
+            
+         </p>
+      </body>
+  </text>
+</TEI>

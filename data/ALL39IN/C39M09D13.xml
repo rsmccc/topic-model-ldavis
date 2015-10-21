@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M09D13</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The ladies sewing project working at No. 1 new
+            house, eight of them ladies and besides cutters, forelady, Miss
+            Tillie Stacy. There are 45 enrolled in our school at present. Miss
+            Laura Amundson is teaching in primary room. The boys have been very
+            busy doing some car­ penter work for the teachers. The school
+            children got some prize at the Fair. There are many big shot
+            thinking, here after, what are going to say at politics. He will
+            study what he will going to say when time come next election, but he
+            will forget, when he get that office, what he “ promised” . The
+            Indians quite a few went to the cranberry marsh to working days work
+            for couple weeks vacation from RA and W PA project. Perhaps they get
+            permit from their officer in the town. Mrs. John Stacy, her daughter
+            Til­ lie, and her son Alvin Stacy went to see Miss Esther Stacy at
+            Stevens Point, Wis., last Sunday. We had some visiting from Minne­
+            sota people yesterday morning. Mr. F. J. Bowman he is to show the
+            way to find Indian Mission as following: Mr. and Mrs. Leo J.
+            Cardinal, Ves­ ta, Minn., and Mrs. Albert Bjelland. Some o f them
+            lived in new house, Luke Snowball enter the No. 8 house, Mrs. Mary
+            Whitewater enter No. 7 house and No. 9 take Nellie Wallace. WPA
+            workers they tear down the tar paper camps and spoil lots of things.
+            They can use them in storge. And they got order from government of­
+            fice. Mrs. Harriet Noble missed the Jack­ son County Fair. She on
+            vacation for two weeks and we hope she will have a good luck “
+            fishing” trip. While she absent from her duty Mr. A. P. Jones take
+            her place and we expect her back next a few days. There is another
+            teacher came down try to see Charles R. Lowe Cloud about 47 or 48
+            years ago. Miss Jennie Quackenbush. She was teach­ ing at Ox Bow
+            south of Melrose, and they were in pupils at that time. Charles R.
+            Lowe Cloud, Joe Thunder, late Willie Thunder and Johnnie Thunder.
+            Willie and Johnnie were dead last year and Indian report want to
+            know her address. If anybody know please let us know at once. Write
+            Charles R. Lowe Cloud, Black River Falls, Wis., Route 5. .</p>
+      </body>
+   </text>
+</TEI>

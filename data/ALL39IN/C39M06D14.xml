@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M06D14</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Mr. and Mrs. Jesse Mike of Dells Dam, were here at
+            Indian Mission and come down to see Charles R. Low Cloud, want find
+            out the old In­ dian name, who he was, James Shell. He passed away
+            about 41 years ago. Mr. and Mrs. Peter White Gull and their family
+            of Winnebago, Nebraska, and Mrs. White Gull she was working at
+            sewing project, but she was lay off for a few weeks. Mrs. White Gull
+            formerly Miss Grace Decorah of Black River Falls, the daughter of
+            Mrs. Tall Decorah. They went to pick strawberries near Taylor,
+            Relyea Dahlia Gardens. Mrs. Frank Lewis and her children went to
+            pick strawberries at Relyea, and perhaps some more Indians are going
+            today, and the Indians are most all going to move away for a few
+            days to picking strawberries. New houses had not done much this
+            week. Foreman Dick Walters says he think they could not finished
+            first day of July, and he says they ought to commence two weeks
+            early. He think it seemed too slow the work. Mr. Leonard Doud is
+            faithfully work at Indian Mission new house, making chimney for
+            them. Indian re­ port told him he would like to finished all good
+            work for these chimney. Henry Greengrass had broken rear axel his
+            car Monday night in front of Mr. P. L. Moe hardware store, and he
+            could not get any body to haul up for him, until Flora Fun- maker’s
+            boys came out from show way in night. They took him as far as Mr.
+            Lewis Koran’s place, or at Airport tavern. Mr. Greengrass work WPA,
+            so he could not do anything yesterday morning. Call at Dano Green
+            Grass and Tomah Decorah for doctor this car. They said they are
+            pretty good doctor any car. There are quite a few Indians are
+            camping at Relyea Dahlia gardens waiting for the ripe of
+            strawberries and his neighbor, Mr. Walter Kling, at same place. They
+            will pick until Thursday. They said they got enough pickers at
+            present but if they wants they can notify them at Indian Mis­ sion.
+            Chief Moses Paquette he is hunt­ ing dogs, he want good watching dog
+            any night. Cap Waller, he is looking for him last weeks, and they
+            says they are looking for Black dog, and Chief said not too Black.
+            .</p>
+      </body>
+   </text>
+</TEI>

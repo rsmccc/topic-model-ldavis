@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P5B3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>St. Patrick’s Program at Oakdale Community Hall, March 17
+            The St. Patrick’s program at the Oakdale community hall Friday night, March 17, will consist of three features, starting at 8:15 p.m., a program, progressive pinochle part, and pie supper.
+            Programs: Music, medley of Irish airs: talk, history of St. Patrick; duet, “An Irish Lullaby”, “I’ll Take You Home Again Kathleen”; movie (1); Irish dance, movie (2); duet, “Mother Machree”; movie (3): duet, “My Wild Irish Rose”; community sing; Progressive pinochle party; pie supper. 
+            The movies will be in charge of MR. Begley, county agent, who has arranged to have the sound projector from the University Extension Division, Madison. 
+            The progressive pinochle game, which will follow the program, is in charge of the following card committee, Mr. and Mrs. Jess Gabower and Mr. and Mrs. Arden Hoefs. Everyone who enjoys playing pinocle is welcome to enter this free game for which prizes will be given to the two highest scores, man and lady. 
+            Those having card tables and cards, will you kindly bring same with you, in order that this game may be conducted promptly by the committee. 
+            The third feature of the evening will be a pie supper served by a committee of ladies from the D. V. H. C. However, anyone who wishes may bring a pie.
+            The public is cordially invited to attend this evening of entertainment for 15 and 10 cents, for the benefit of the Oakdale community hall.
+            Mr. and Mrs. Otto Reeck of Kendall spent Wednesday with their daughter, Mrs. Edward Schendel and family. 
+            “Bug” Kellogg has been at the Oakdale depot several days this week. 
+            R. C. Miller and family are moving onto the Aller farm north of Tomah. 
+            Mr. and Mrs. Leland Maum visited Mrs. Maum’s mother, Mrs. Craig at Cataract on Sunday. 
+            Mrs. Nellie Felker called on her brother, Art Mahoney in Tomah on Monday. Art had the misfortune to cut himself on the head with an axe while splitting wood. He is able to be about again. 
+            The committeemen of the __ program spent several days the past two weeks at Will Maum’s store where the farmer’s came to sign up for their soil conservation program for next year.
+            WE are all very glad Mrs. Jack Hableman is able to be around again after her recent illness.
+            Mrs. Will Maum visited with Mrs. Lena McCurdy and Mrs. Bertha Rogge on Frieday. 
+            Mr. and Mrs. Conrad Lobe and Donald, Mr. and Mrs. Will Lobe and Roger, Mr. and Mrs. Jack Hableman, Frank and Clarence were Sunday dinner guests at the home of Mr. and Mrs. Earl Hableman.
+            Russell Worden, Will Maum, George Puent, Melvin Hoffman, Adolph Procnnow, Mary Youngs, and Lyle Maum were among those who transacted business in Tomah Saturday. 
+            Mr. and Mrs. Frederick Kuckuck and daughter of Monroe are visiting with their relative and friends during his vacation from his duties at Monroe. 
+            Mr. Will Maum and Mrs. Leland Maum transacted business in Sparta on Monday.
+            The White Elephant Sale given at the school house by the Oakdale Homemakers was a great success. $10.00 was received. It is to be put toward a radio for the school. The men folks from Tug Hollow and Diamond Calley surely made a big hit with their play, “Flat Chested Women”, at the community club on Friday night. 
+            Mrs. John Vetthauser has been ill the past week.
+            MR. and Mrs. Johnnie Larson, our patrolman, is moving from the Beardsely place to the Larson farm across the road from Clayton Vinz’s farm in Brookdale. 
+            Mr. and Mrs. Wm. Peardot visited Sunday at Shenningotn with Mr. and Mrs. Henry Jorgensen.
+            
+            
+         </p>
+      </body>
+  </text>
+</TEI>

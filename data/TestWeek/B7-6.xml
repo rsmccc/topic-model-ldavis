@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B7-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SNOW CREEK
+            Mr. and Mrs. Donald Peasley were
+            Sunday guests at the Fred Riggle
+            home.
+            Mrs. H. Gjerseth and sons William
+            and Vernon were Sunday guests at
+            Rollie Gearing’s.
+            Mrs. Helmer Gjerseth and daugh-
+            ter Martha were Monday guests at
+            the Eggen homes.
+            Miss Mabel Gjerseth was an over
+            night guest of her cousin, Marguerite
+            Eggen, on Friday.
+            Mrs. Leo Jessie and son Wayne
+            visited the former’s sister, Mrs. La-
+            verne Scafe, Friday.
+            The new baby at the Vodicka home
+            will be the honored guest at a show-
+            er Thursday aftemooon.
+            A social hour party at the Ernest
+            Rush home Friday evening, March 17.
+            Bring something for lunch.
+            Miss Marguerite Eggen, Albin
+            Odeen and Carol Hancock were Sun-
+            day supper guests at H. Gjerseth’s.
+            Mrs. D. Peasley accompanied Mrs.
+            G.	Gjerseth to Sparta, Friday, and
+            were dinner guests of Mrs. 0. Gjer-
+            seth.
+            Mr. and Mrs. Ernest Rush and
+            daughter Jean were Sunday dinner
+            guests of Mr. and Mrs. Elmus Rush,
+            of Merrillan.
+            Mrs. Myrtle Philips and sons Lee
+            and Raymond Mathews were Sunday
+            supper guests of Mr. and Mrs. Joseph
+            Brauner. In the evening they visited
+            with Mr. and Mrs. H. B. Mathews.
+            Mr. and Mrs. C. Hancock, daugh-
+            ters Janice and Loraine, and son Lee
+            Andy, also Mr. and Mrs. Victor Eg-
+            gen were Sunday visitors at Mr. and
+            Mrs. Floyd Gearing’s, at Alma Cen-
+            ter. .
+            Mr. and Mrs. Ole Peterson, Mr. and
+            Mrs. Roy Rush, Mr. and Mrs. Arthur
+            Mathews and George Davis of your
+            city, spent Thursday evening at the
+            H.B. Mathews home, playing Chinese
+            creckers.
+            Mr. and Mrs. Paul Haugstad and
+            family of Humbird, Mrs. W. Gearing
+            of Wrightsville, and Miss Jennie
+            Reichenbach and Ann of your city,
+            were Sunday dinner guests at J. E.
+            Peasley’s.</p>
+      </body>
+  </text>
+</TEI>

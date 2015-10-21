@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W2-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Wisconsin News Briefly Told
+            Has Air Mail Again—After elapse
+            of four years  mail service in and
+            out of Madison was resumed Feb. 28.
+            Water System Authorised — The
+            public service commission has issued I
+            a permit for the village of Fredonia,
+            Ozaukee county, to construct municipal waterworks system at a cost
+            of $34,104
+            
+            BUB School Tense Repeal—By e
+            40 to 44 vote, the assembly refused
+            to engross the Schenk biU to amend
+            the teachers’ tenure law by exempt-
+            ing 8,000 teachers in one-room rural
+            school houses.
+            Palates* Favor Licensing—More
+            than 309 journeymen painters and
+            painting contractors who favor their
+            licensing law appeared in Madison
+            at a senate committee hearing in op-
+            position to a bill that would repeal
+            the present licensing statute.
+            
+            Ask Vote on Hard Liquor-Petitions signed by 4,377 voters asking
+            for a referendum on whether hard
+            liquor should be sold in Madison
+            after July 1 have been filed with the
+            city clerk there. The question may
+            be submitted at the April 4 election.
+            Cheese Factory Fete—The community of Ladoga, Fond du Lac county,
+            is to be the scene April 28 of the
+            seventy-fifth anniversary celebration
+            of the opening of Wisconsin's first
+            cheese factory there in 1864. A committee from the state legislature will
+            attend the celebration.
+            
+            Former Mayor Accused—A. C. Mc-
+            Henry, war time mayor of Oshkosh,
+            is one of 18 persons indicted by a
+            federal grand jury at Chicago on
+            charges of swindling hundreds of
+            victims in many states with a scheme
+            to convert securities into fabulous
+            profits on cemetery lots.
+            New Highway Maps Coming —
+            Heralding the approach of the 1939
+            tourist season, new Wisconsin high-
+            way maps are being printed by the
+            state highway commission. These
+            pocket maps are for free distribution
+            through highway offices and by
+            members of the legislature.
+            Col. Cousins Dies—Injuries sus-
+            tained when he was struck by an
+            automobile while crossing a Madison 
+            street proved fatal to Col. Marshall
+            Cousins of Eau Claire, president of 
+            the Wisconsin Historical society. He
+            was a former member of the state
+            assembly and of the state banking 
+            commission.
+            
+            Tailor Held as Burglar — Donald
+            Cash, 33, proprietor of a Cedarburg
+            tailor shop, was arrested on a charge
+            of participating in the burglary of
+            the Classic theater at Watertown,
+            when $315 was taken from the
+            theater safe. Cash is the owner of
+            an auto reported to have been used
+            by the burglars.
+            
+            Sit-Dawn in Fire Tower—A new
+            kind of sit-down strike, in a 110-
+            foot high fire tower on Sugar Bush
+            hill near Crandon, is the means
+            taken by Clyde H. Spencer, a member of the Forest county conservation committee to convince the state
+            conservation commission that it
+            should open fire lanes leading to
+            lakes in that area. Spencer an-
+            nounced that he would remain in his
+            roost until Easter, if necessary.
+            Clgaret Tax Opposed—The plan of
+            the Heil administration to replenish 
+            the general fund with a state tax on 
+            cigaretes is being fought by Wisconsin tobacco growers, who have had
+            spokesmen at legislative committee
+            hearings to voice their opposition. 
+            The measure known as the Sauld bill 
+            would levy a tax of 2 cents a package on both cigaretes and cigaret
+            papers. Proponents estimate that 
+            this tax would raise $3,000,000 a
+            year.
+            
+            Guilty of "Shakedown" — Walter
+            A. Drews, chief investigator of the
+            state board of health for 18 years,
+            and Michael M. Wittenberg, an attorney, have been found guilty by
+            Circuit Judge Schinz, Milwaukee, of
+            attempting to extort $2,000 from Dr.
+            Leland L. Trump, a Milwaukee physician. The convicted men face prison sentences of on# to two years or
+            fines of $100 to $500 each. It was
+            held that they attempted to “shake
+            down” the physician under threat of
+            obtaining revocation of his license to
+            practice medicine after he had
+            agreed to perform illegal operations
+            on two of Drews' women investigators.
+            
+            Labor Law Revision Nearer —In
+            the face of bitter opposition by organized labor representatives, the
+            bill before the legislature to repeal
+            the present state labor law and prohibit sit-down and minority strikes
+            and secondary picketing moved a
+            step closer to enactment in the assembly when that body voted engrossment, 84 to 44, The next assembly vote will be on final pas-
+            sage and If the measure wins it will
+            then go to the senate. Assembly-
+            man Biemiller, Milwaukee socialist,
+            called the bill a “straight-jacket on
+            labor" and delivered a warning that
+            if it became law union labor sup-
+            porters might not vote for "farmer
+            exemptions" when tax bills are up
+            for passage. Besides prohibiting sit-
+            down and minority strikes and secondary picketing, the measure places
+            a ban upon the closed shop without
+            approval of 75 per cent of the employee, forbids deduction of union
+            dues from an employe's pay check,
+            requires unions to submit financial
+            reports to members and denies the
+            right to strike in eases involving the
+            producers of perishable farm products unless 10 days notice has been given to the employment board.</p>
+      </body>
+  </text>
+</TEI>

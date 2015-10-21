@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P2T5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Summit Valley
+            St. John’s Lutheran Church. Shennington, A. W. Loock, pastor. English services Sunday, March 19, at 9:45 a.m.
+            St. Mathew’s, Lincoln English services Sunday, March 19, at 11 a.m.
+            Mr. and Mrs. E. J. Johnston of St. Paul, Minnesota, are visiting at the home of Mrs. Johnston’s brother Wm. Woombill. 
+            Mr. and Mrs. Harold Nienast were Sunday dinner guests with Mrs. Nienast’s parents. 
+            Mrs. Amelia Seflow is very ill at this writing. Her daughter, Mrs. Clara __ of Wilton, is helping to care for her. 
+            Mrs. Clara Schroeder entertained the Homemakers Wednesday. Quite a few attended and all enjoyed a very good time and a delicious lunch. Miss Alice Plunkett was a Sparta visitor Saturday. 
+         </p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W3-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Mother Earth Still Better Timekeeper than the Best Clocks, Astronomer Says
+            Notwithstanding that observations
+            and calculations of astronomers 
+            have proved that actually the moon
+            Is six seconds off its predicted
+            course, notes a writer in the New
+            York Times, Dr. H. Spencer Jones,
+            the astronomer royal, explains that
+            the earth is still a better timekeeper
+            than the best clocks He added
+            "However, we hope that a clock
+            we are experimenting with will
+            prove a better timekeeper even
+            than the earth."
+            In a report to the board of visitors
+            at Greenwich observatory, the astronomer royal said
+            "It used to be assumed that the
+            rotation of the earth was absolutely
+            invariable, but of recent years it
+            has been found that the earth s
+            timekeeping does vary.
+            “To say that the moon itself is
+            off its course is to repeat a common
+            error—actually it is off its predicted
+            course. Deviations to the rotation
+            of the earth mere previously suspected, but not confirmed until recently.
+            "The discovery was made by de
+            tailed investigation of the motion of
+            the sun, Venus, Mercury and Mars.
+            In the case of these bodies it was
+            found that there was also a deviation, though smaller in amount,
+            "The moon being off Us course
+            means that the earth’s time is
+            wrong because the cause of the
+            moon altering its predicted position
+            is the slowing down of the rotation
+            at the earth
+            "This may be caused by tidal friction, or a contributory factor might
+            be a land upheaval occurring some
+            where like the Siberian plateau, the
+            attraction of the sun or perturbation by planets such as Mars and
+            Venus,
+            “The earth Is slowing down by
+            about  part of a second a
+            century. This means it is losing
+            time of about two hours every 2,000
+            years.
+            “Eventually the days will become
+            much longer but this will not be for
+            thousands of years, probably until
+            after human life is extinct from the
+            earth.”
+         </p>
+      </body>
+  </text>
+</TEI>

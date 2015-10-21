@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>EAST HIXTON
+            Miss Joy Adams is visiting relatives
+            here.
+            Orville Casper spent the week end
+            at home.
+            Irvin Schnick is spending the week
+            at home.
+            Paul Casper is on the sick list at
+            this writing.
+            Mr. and Mrs. Si Knudsen spent
+            Sunday at Adolph Reineck’s.
+            Mr. and Mrs. John Upton were
+            callers at Clare Wallace’s, Sunday.
+            Mr. and Mrs. Charles Nordahl en-
+            tertained their card club Saturday
+            night.
+            Mr. and Mrs. C. F. Goldsmith spent
+            Saturday afternoon at Clarence Lar-
+            son’s.
+            Mr. and Mrs. Chester Myhres and
+            baby spent a couple of days at Paul
+            Casper’s.
+            Miss Josephine Randals and broth-
+            er Archie spent Saturday at Rudolph
+            Reineck’s.
+            Miss Mabel Reineck and Archie
+            Kelley spent Sunday at your city
+            with relatives.
+            Mr. and Mrs. D. Nolop and family,
+            also Mrs. Alice Nolop spent Sunday
+            at L. Randals’.
+            Frank Downer has been having a
+            lame shoulder the past week, and
+            taking treatment at the clinic.
+            Mr. and Mrs. Lee Casper, Mr. and
+            Mrs. Leonard Casper and Gus Casper
+            spent Sunday with Mr. and Mrs. Rob-
+            ert Upton and Barbara.
+            Mr. and Mrs. Bert Sanford and
+            family accompanied by Mr. and Mrs.
+            Bill Upton from your city, were Sun-
+            day visitors at Geo. Upton’s.
+            Mr. and Mrs. John Upton, Mr. and
+            Mrs. C. F. Goldsmith and Mr. and
+            Mrs. Le Roy Getman spent Sunday
+            with Mr. and Mrs. Harve Getman.
+            Mr. and Mrs. Claude Sprester went
+            to the Krohn hospital Sunday to see
+            Hugh Sprester. We are all pleased
+            to hear he is some better at this writ-
+            ing.
+            Lee Casper was a business caller in
+            Minneapolis Thursday. His father ac-
+            companied him and Mrs. Leonard
+            also accompanied them and stopped
+            off at Hudson and spent the forenoon
+            with an aunt.
+            Our Homemakers meet with Mrs.
+            C. F. Goldsmith Thursday afternoon.
+            The ladies tied two quilts. A very
+            enjoyable afternoon was spent by all
+            and we meet again in two weeks with
+            Mrs. Lee Casper.
+            Mr. and Mrs. Blaine Entwistle and
+            Mr. and Mrs. Wallace Entwistle spent
+            Saturday night at the John Upton
+            home. Sunday they joined Mr. and
+            Mrs. Tom Entwistle and son Harold
+            at the Clare Wallace home, and were
+            dinner guests. They returned te Mad-
+            ison in the afternoon.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M04D06</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indian reporter have letter from Mrs. Annie Hart from Milwaukee that tell about give book that tell all about American Indian and maybe tell about Winnebagoes. Indian reporter want book and want to thank Mrs. Hart and will let other Indians read book. Mrs. Hart read Indian News and want to help reporter when tell about no history of Winnebago Indians.
+            Reporter get letters every week and tell about like to read in Tomah newspapers about Indian news. Some letters come way out in Nebraska and sometimes letters come from Michigan and North Dakota. Want to thank all white people that Indian News and lots of Indians now talking Tomah papers too. Sometimes Indian can’t read white man talk but have children and grandchildren in home that go
+            to school and can tell what newspapers say and everybody like to know. James Decorah from Black River Falls been here now about a week and go to Indian hospital one day to have doctor. Indian reporter went to North La Crosse Saturday and come home Monday. Went to see daughter Mrs. Harry Funmaker because children sick and she can’t come here so go down and see her myself. Go to La
+            Crosse every time on 2:40 bus at Sherman Hotel. Lots of Indians everywhere around here have that bad cold and same thing every year this time and have bad cold until sun get warm in spring and everybody get outdoors and sun better medicine than dope. I want to tell people about CCC and WPA spoil country. Before CCC boys and WPA men make canal ditches plenty hunting and fishing and I
+            can say 30 years ago lots of game and fish but after people make big canal ditches we don’t have beaver because tear out lots of dams and do lot of things to spoil way fame like to live and try to tell game that been her long time how to live and never work-Humbuga. Another thing want to tell about __ chicken shades and deer shades and nests for rabbits. Indians like deer shades and
+            make good places to leave blueberries because deer never come near shades and make good places to leave berries while go out and pick and nothing bother. Have blueberries on my farm and would like CCC to build deer shade for me so have place to leave berries in shade. Another humbug business is about fire ranger people spell blueberry crop. Stop burn off blueberry vines and vines no
+            good and only have three or four berries after get two or three years old and way to have berries grow in to burn off. Have blueberries on my farm and used to make $200 every year but now can’t burn off because ranger say can’t and if burn maybe get to days in jail same as when catch just bull frog. Indian Hospital News Patients admitted to this hospital since last week are: Walter
+            Jacobs, Roland Hill, Susie Smith, Eva Morgan, Elijah Antone, Hazel Metoxin, Colleen Ninham, Josephine Ninham, Charlie Low Cloud, and Alma Thomas. Those discharges last week are Cornelius Bard, Helen Hill, Scharlene Smith, Betty Smith, Edward Winneshiek, Steve Waukon, and Walter Jacobs. Friday morning Walter Jacobs had in adenoidectomy and tonsillectomy. A baby boy was born to Mr. and
+            Mrs. Harry Greengrass April 1, 9839. They have not named the baby yet. A baby boy was born to Mr. and Mrs. Sunrise Denny of Oneida, April 2. They have not named the baby yet. Charlie Low Cloud entered the hospital again Monday. He was very ill and had a pretty high temperature. Our daily average of patients today is 47. .</p>
+      </body>
+   </text>
+</TEI>

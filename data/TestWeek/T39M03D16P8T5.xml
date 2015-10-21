@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P8T5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Star Valley
+            Quite a few families enjoyed the free movies of the International Harvester company and the free lunch at Wm. Graewin and Sons at Tomah last Saturday. 
+            Mr. Henry Ryekmen is visiting at the Kasten’s home. 
+            Mr. L. Von Haden and family visited at Mr. V. McCullough’s on Sunday.
+            Dr. Dan Hoag and family, Mr. George Hoad and family, Mr. and Mrs. T. Kochinski, Mr. Vance Newlin of Chicago, Mr. Vern Heser and family, Mr. E. Newlin and family, Mr. C. McCollough and family, Mr. and Mrs. H. Walker of Sparta and Mr. and Mrs. George Gillette attended a birthday party Sunday at the Harry Hoag home in honor of Mrs. C. McCollough whose birthday was March 11 and Mr. H. Hoag whose birthday was March 13. 
+            Mr. P. Shattuck and family spent Sunday near Angelo calling on friends.
+            Mr. and Mrs. George Gillette were callers at Carl Steele’s on Thursday. 
+            Mr. Alec Henry and Mr. Reekie were callers in Star Valley Monday. 
+            
+            Cherry Valley
+            Mr. E. Bolton had the misfortune to lose a good horse last week. 
+            Visitors at Ray Shutter’s Sunday were Mr. and Mrs. Alfred Zellmer, Mrs. Paul Kempter and Mrs. Edwin Stoltz.
+            Mr. and Mrs. Ed Bolton and family spent Sunday at Frank Piers. 
+            Arlene Willman, Bernice Maly and Orville Coleman spent Sunday with Mr. and Mrs. Ray Zellmer. 
+            Mrs. Ed Bolton entertained the Loyalty club Thursday. Roll call was answered with each member telling their most embarrassing moment in which we all got a very good laugh. After the meeting a delicious lunch was served by the hostess.
+            Mr. Arnold Schultz was a Sunday caller at Leo Willman’s.
+            Orville McCumber had the misfortune to cut his food with the axe while unloading wood Saturday.
+            A number of people in the valley are quite ill with the flu. We all hope all speedy recoveries. 
+            A few of the high school children visited school one day last week. 
+            Mrs. Kenneth Vandervort and Geraldine spent Monday with Mrs. Ray Shutter. 
+            Mrs. Margaret Olmstead papered for Mrs. John Shutter Tuesday. 
+            
+            Tunnel City
+            Mr. and Mrs. Oscar Betthauser and family of Independence spent Sunday at the home of his parents, Mr. and Mrs. Martin Betthauser. 
+            A baby girl was born to Mr. and Mrs. Chester Holly March 7. Congratulations. 
+            Mr. and Mrs. Henry Bruder and sons spent Saturday at the Chas. Mattis home. 
+            Mr. Joe Smith of Seattle, Washington spent the week end at the E. Whitman home.
+            Mr. and Mrs. W. H. Mull, Mrs. Harve Shutter and Anna DeVoll spent Wednesday in Sparta. 
+            Mrs. Gordon Bishop of Racine spent the week end with her parents, Mr. and Mrs. Martin Betthauser.
+            Mr. and Mrs. Charles Mattis were Sunday dinner guests of her parents, Mr. and Mrs. Charles Bruder.
+            Mrs. Alton Solberg spent the week end in Sparta with her husband.
+            Mr. and Mrs. Raymond Senogles and son Duane spent the week end in Sparta at the home of her parents, Mr. and Mrs. Kronberg.
+            Mrs. Charles Mattis and son Robert spent Monday morning at the Harry Bruder home in Tarr Valley where all are ill with the flu. 
+            Mr. Wm. Kampman and daughter Lucile attended the funeral of his sister Mrs. Judah Reynolds at Oakdale Saturday.
+            Mrs. Charles Bean and daughter spent Sunday at the G. L. Bean home. 
+         </p>
+      </body>
+  </text>
+</TEI>

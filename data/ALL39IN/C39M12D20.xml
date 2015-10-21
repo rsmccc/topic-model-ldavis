@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M12D20</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>We have first snow yesterday morning, Tuesday, Dec. 19, 1939. Mrs. Esther Black Hawk still in Tomah Indian hospital. She is not very well her stronger. There are quite a few Nebraska Indians went back to Winnebago Reservation last
+            Friday, going by Tom Walker’s car as following: Tom Walker, Huben Snake, Jessie Tebo, Tillie Lincoln and Ruth Four Cloud. Gilbert Lowe has been helping the teachers with their Christmas work. The school is very happy as they are in two programs
+            this year, one in the evening and one in the day time. Santa Claus visited the children Tuesday morning, is preparing himself for Christmas. He found very good boys and girls or may be near Christmas, so they are trying to be good boys and good
+            girls. Ulysses White and Henry Johnson were visited Banner-Journal office last Monday and went from there to Tomah Indian Agency office. Mr. and Mrs. Ray White and his brother Frank White of Wisconsin Rapids were here last Sunday. They had been
+            attending old timer Indians religion ceremony at near Wyeville last Saturday night. On their way to home, stop at Indian Mission. Herman Brown Eagle came back from Wisconsin Rapids county jail, without good reason for they had in county jail only
+            Wood county pretty bad game warden, and he had everything’s good, license and tags for traps. Mrs. Lena Long Thunder of Hunter Bridge was here last Friday to visited her daughter, Mrs. Alice Funmaker at Indian Mission, and she had a Christmas tree
+            in her daughter home at No. 1 new house and they said quite a few Indians attend to see tree, all enjoy themselves who were there last Sunday, and they had served a good Christmas dinner, more than they expected to have. Mrs. Adam Thunder Cloud is
+            one making good picnic basket, any size you can get. Order one at any time. She got one at Banner-Journal office cost $2.50. Gilbert Lowe and George Funmaker sr. came back from Arcadia a few days ago. Chief Moses Paquette has been working hard
+            making pop wood, without dog, only collar. .</p>
+      </body>
+   </text>
+</TEI>

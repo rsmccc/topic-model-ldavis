@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M05D31</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mr. and Mrs. Gilbert Lowe went to town last
+            Wednesday evening to meet their boys, Emmanuel and Myron Lowe came
+            back from Haskell Institute, Kansas. This is second year to go to
+            school out there. They are report everything all right and their
+            parents were very glad to see them when they return to home last
+            week. Mr. and Mrs. Victor Acosts and Mrs. Jesse Brown of De Soto,
+            Wis., were here this week to visit relatives and friends. Mrs. Acost
+            formerly Miss Beatrice Brown and she was not here for long while so.
+            She came down to see at Indian Mission and Mrs. Jesse Brown always
+            come down every summer when berries ripe, time to pick. Mrs. Judith
+            Gilbertson was here last Monday noon train. She came from Winnebago,
+            Nebraska, and she came down at Mrs. Louise Mike’s place to visit her
+            again. Ladies Aid has been elected new officer some time ago as
+            following: Mrs. Emma Lowe, president; Miss Matilda Stacy, vice
+            president; Mrs. La Von O’Brien, secretary; Mrs. John Stacy,
+            treasurer, and other members Mrs. Emma Monigar, Mrs. George Lowe,
+            Mrs. Viola Young Thunder, Mrs. Thomas Kingswan, Mrs. Jesse Stacy,
+            Mrs. Nancy Funmaker and Marion Stacy. They made one quilt and some
+            other things to sewing, too, last Monday. The Indians had purchase
+            one old Dodge tractor for 65 dollars from Mathew and Rush or Rush
+            and Math­ ew. They had been plow some already since they took it
+            home to the Indian Mission. Mr. and Mrs. Nathaniel Decorah, of
+            Mauston, were here at Indian Mission and Mrs. Decorah visit her
+            parents, Mr. and Mrs. Frank Lewis. There are many Indians do not
+            expect wild berries this year. We had cold, long spring and part of
+            dry killed grass and killed some by frost too. Of course it might be
+            some but we don’t expect many berries this year as usual, or even
+            strawberries too. We did not see any man come down trying to get
+            some hand picker, or no post card to send it here notify their own a
+            good hand picker. Farmer have not look for helper. Mr. William
+            Greanry is going to Waupaca. Mr. Greanry is work at relief office
+            and now Mr. Stewart Lathrop take his place first day of next month.
+            Mr. Greanry went round with him to show the places his territory.
+            Ball game at Indian Mission The Indians had two ball teams, men and
+            girls teams. They are playing every Sunday afternoon and they plan
+            with North Branch May 21, 1939. The first time they were defeated
+            the Indian team. The score was 2 to 1 favor North Branch. Last
+            Sunday playing with Springfield boys. The score was 17 to 4 favor
+            Indians and they said if any team want to play with these two teams
+            you can write to Jesse Stacy, Black River Falls, Wis., Route 5. If
+            you have a good team or pick up team. We can play with any team
+            Sunday afternoon. Mr. and Mrs. Nathaniel Decorah of Mauston, were
+            here at Indian Mission and Mrs. Decorah visit to her parents Mr. and
+            Mrs. Frank Lewis. .</p>
+      </body>
+   </text>
+</TEI>

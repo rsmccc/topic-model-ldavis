@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>STATE EMPLOYMENT SERVICE With the question of unemploy- ment
+            occupying the center of interest more than any other problem, the
+            Eau Claire office of the Wisconsin State Employment Service has set
+            aside this week as the beginning of a more concerted effort to bring
+            to the attention of employers and em- ployees the service which is
+            available. The purpose of the Employment Service is to put the right
+            man in the right job by referring only qualified applicants to fill
+            the openings which the office is asked to handle. Soon there will be
+            a need for farm workers and the Employment Service urges all those
+            seeking this type of work to register now. Farmers who wish to
+            secure workers should noti- fy the office in advance. Equal
+            opportunities are afforded all residents of the district even tho
+            they live at points a long distance from the Eau Claire office.
+            Itinerant interviewers, bringing the employ- ment service to all
+            main points in the district, may be contacted by employ- ers and
+            employees at the city halls or other public buildings. The
+            Employment Service is open to the public at all times, but during
+            this week, a special invitation is ex- tended to every one to visit
+            the of- fice. Their service is your service, and a trained staff
+            headed by H. J. Younberg, is ready and glad to serve you.</p>
+      </body>
+   </text>
+</TEI>

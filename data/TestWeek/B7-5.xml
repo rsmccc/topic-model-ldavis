@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B7-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>PRAY
+            Henry Heiberg spent the week end I
+            at B. R. Falls.
+            Mrs. Martin Field spent Sunday
+            with her parents near B. R. Falls.
+            Mr. and Mrs. Andy Knutson of
+            Merrillan, spent Sunday with Mrs. G.
+            Knutson.
+            Archie Randall of B. R. Falls, was j
+            a guest at the A. Nelson home sev-
+            eral days last week.
+            Mr. and Mrs. Verne Hilliker of B.
+            R. Falls, were Wednesday callers at
+            the James Churchill home.
+            Wm. Churchill and son Lawrence,
+            and grandson Harry, of Valley Junc-
+            tion, were Sunday callers at the Jas.
+            Churchill home.
+            Mr. and Mrs. Carl Pintch and son
+            of City Point, and Arthur Nelson of
+            B. R. Falls, were Sunday callers at
+            the H. Jepson home.
+            The following were Sunday callers
+            at the Thiel home: Pete Purcell and
+            Mr. and Mrs. Carl Spaete of Short-
+            ville, Mr. and Mrs. Joe Filkowski of
+            Wisconsin Rapids.
+            News of the marriage of Miss Jo-
+            sephine Rybski of Chicago, to Ray
+            Strumski, also of Chicago, was re-
+            cently reached their many friends in
+            this vicinity, and all join in wishing
+            the happy couple a long and happy
+            married life. Both of the young peo-
+            ple were formerly of this locality,
+            and have been employed in Chicago
+            the past several years.
+            </p>
+      </body>
+  </text>
+</TEI>

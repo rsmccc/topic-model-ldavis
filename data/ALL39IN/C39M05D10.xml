@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M05D10</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Ulysses White of Wisconsin Rap­ ids, was here last
+            week to visit rela­ tives and friends. Mr. and Mrs. Jesse Mike of
+            Dells Dam, were here last Monday to In­ dian Mission. Mr. and Mrs.
+            John Stack went to Stevens Point last Sunday to see their daughter,
+            Miss Esther Stacy. They said she is alright now but Doctor did not
+            say when she will be out, and she is staying with Miss Wanda Decorah
+            of Mauston. Both are re­ port o. k. and also Luke Snowball daughter,
+            Mildland Snowball was there same hospital. John Thompson Jr. took
+            him at To­ mah Indian hospital last Thursday af­ ternoon. He was
+            working on WPA gang at Clark county. He catch T. B. in the country,
+            at Dells Dam. Mr. Jacob Stucki went back to In­ dian Mission school
+            at Neillsville, Wis. and he is now taking care of garden stuff every
+            summer and he went back last Sunday afternoon. Mr. and Mrs. John
+            Winneshiek of Dells Dam, they went to Black River Falls last Monday
+            and when they re­ turn to home on their way, stop at D. W. Decorah
+            last Monday. Mrs. Andrew Black Hawk came back from Mount Pleasant
+            hospital at Wausau, Wis., and she gain some more pounds. She was
+            there for 2 or 3 years at that hospital and they sid every things
+            all o. k. at Dells Dam. Leonard Doud is working here at Indian
+            Mission making chimney or do the mason work. “Old Dandy” he told his
+            own peo­ ple before-hand, what will be hap­ pened by this time and
+            he told them we will see automobile and air plane during this time
+            at the same time. The Indians they will do one thing. This is work
+            for the devil. The lots of Indians will be stray of their own Indian
+            way or Indian custom. He did not mention these peyots but it seemed
+            to be, this is one make a strays the Indian way, make fun of it, and
+            these use peyots. They said they are worshiped God but it is not
+            just pretend. These stray band are always looking for trouble, that
+            where most come from Indian trouble everywhere, men or women, even
+            their children. Indian base ball team play with Garden Valley teams
+            last Sunday. The score was 9 to 6 favor red skin and also the
+            Indians have girl team. If you want see them to play this team bring
+            some girls regular team or pickup. The Indian reporter is right now,
+            except hearing. Mr. M. E. Gorman will be here 20th of this month, at
+            Indian Mission, 8 a. m. He will have quite a few case Indian land
+            business, and also some other business too. Those who want to help
+            them next Sunday, they will prepare for next a few days, and men and
+            women. They will have big meeting next Sunday. They are all anxious
+            to do these all who belong to this church, and young people are just
+            for lots of people to see, but some of them they want to hear
+            preaching the words of our Lord Jesus Christ. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1B5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>New Customers are signed to Locker Plant
+            The management of the Tomah Locker Service reports an even dozen new patrons have signed for locker service during the past 10 days. That most of these new patrons have sought the plant’s service unsolicited, points to the fact that this efficient service is advertising itself favorably and that more and more people are becoming interested in this modern system of storing and keeping food items. 
+            Several new service features, of particular value to patrons, will be introduced at the plant soon, we are informed by Plant Manager Cyril Wright, and these should tend to increase the number of patrons considerably. 
+            The prediction that this modern industry would be favorably received and patronized by residents of Tomah and the surrounding community is proving correct and it should not be long before every available locker in the plant is occupied. 
+         </p>
+      </body>
+  </text>
+</TEI>

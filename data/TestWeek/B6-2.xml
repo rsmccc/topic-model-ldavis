@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>B6-2
+            M. E. CHURCH GAINS IN
+            SUNDAY SCHOOL
+            A gain of eight in average attend-
+            ance at the Sunday Church School of
+            the Black River Falls Methodist Epis-
+            copal church has been achieved in re-
+            cent months. The Rev. H. A. Allison
+            is pastor and Mrs. A. H. Trask is
+            acting superintendent.
+            The local church is participating in
+            the Church School Advance which has
+            brought gains in attendance in Meth-
+            odist Sunday schools all over the na-
+            tion, according to word received by
+            the pastor from the Board of Educa-
+            tion of his denomination in Chicago.
+            The northern branch of Methodism
+            has achieved a gain in average Sun-
+            day school attendance of 25,411 in
+            less than a year. In the southern
+            branch of the communion the gains
+            are approximately 100,000.
+            The Church School Advance pro-
+            ceeds by three very simple principles
+            —Hold the pupils you now have,
+            gain new pupils by a better under-
+            standing of the community and its
+            needs, and improve the school by the
+            training of lay leaders.</p>
+      </body>
+  </text>
+</TEI>

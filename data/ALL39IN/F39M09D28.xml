@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M09D28</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>First thing I tell folks this week about big time we have at
+            La Crosse Saturday and Winnebago Indians help have program when bridge open. Reporter
+            for LA Crosse Tribune look me up Indian reporter and he ask me about what to call bridge
+            and we have talk and I tell him best thing call bridge Winnebago bridge and he say
+            that’s fine and going to tell people in La Crosse Tribune to call it that. Reporters for
+            La Crosse paper and St. Paul papers and Minneapolis and another place in Iowa all come
+            around where I am and everybody joke and have big laugh with Indian reporter. They tell
+            me Indian reporter know all over United States and people go by and reporters say Hey!
+            George, or Henry and like that and come over and meet Tomah Indian reporter and pretty
+            soon everybody come around where I am and all people everybody tell me I am good
+            reporter and lot of fellows write down name of paper where I write Indian news for and
+            say they want to take paper to read Indian news I write. Reporter for Minneapolis paper
+            tell Indian reporter he is coming here to see me and have talk with Kenny that I write
+            news for and see if maybe I can write same thing for Minneapolis paper. I tell folks
+            once before maybe some time I have desk in office like big shot white reporters and I go
+            around places in airplane like fellows that come to La Crosse when bridge open. Duck
+            season look pretty good for hunters this year and I want to tell about today Indian
+            reporter see ducks on swamp and they stay around same place and I stand long time and
+            watch them and I know pretty sure they not going to stay just little while and fly up
+            and go away and when they do like that I know because I have been hunter long time duck
+            hunting going to be pretty good. I tell you how I sneak up in weeds just like skunk go
+            through weeds and don’t make noise and I get right up to where decks sit on water when I
+            go way wind come from. I stay in swamp long time and kneel like and watch what ducks are
+            doing and maybe white man fame warden pretty near too and all time watch Frisk Cloud and
+            think maybe just when I sneak up on ducks in swamp and stay long time in swamp maybe I
+            am going to shoot one to eat. I fool game warden and I wait until season open and then I
+            tell you one thing pretty sure I get my share and I know good places to hunt and I have
+            been hunter for long time. .</p>
+      </body>
+   </text>
+</TEI>

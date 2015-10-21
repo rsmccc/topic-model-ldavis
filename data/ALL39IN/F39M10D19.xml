@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M10D19</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Henry Mike everybody know him Indian Saturday he die at
+            Indian Hospital. Henry Mike was pretty old and they tell me 84 years old and when get
+            that old have to die and everybody have to do same thing and can’t go farther and have
+            to die. All people, white man, black man, and Indian all have to die when get old and
+            big strong fellow like prize fighter die too when he get old just same like weak squaw.
+            I don’t know about what people tell about what going to happen after Indian die and
+            every time friend die make me feel pretty bad. Rex Gondrezick is judge now and tell
+            Indian reporter about don’t go hunting prairie chicken and pheasant because he is big
+            fellow and can’t get between trees in woods and stay home and don’t go hunting and just
+            eat tame chicken. Now I want to tell white folks about it make pretty bad for Indians to
+            have to buy license to kill things to eat. Indian been here long time and when he want
+            meat to eat he go out and kill and everything all right and Indians never get hungry and
+            been that way for long time and then white man come over here and take land away from
+            Indians and tell Indians he can’t kill his own game and have to go to white man at court
+            house and buy license and nobody want to hire Indian to work and he don’t have money to
+            buy license for everything like white man want and some time get pretty hungry and
+            Indian want to do same like he used to and kill game when he want meat to eat and don’t
+            have license for everything. Some Indians tell about better give Indians back some land
+            and let them do like they like to live and ten don’t need to have everybody get relief
+            and be better that way. Friday Indian reporter saw geese fly south and that pretty bad
+            sign about winter and maybe get cold now and have to chop wood to keep house warm. .</p>
+      </body>
+   </text>
+</TEI>

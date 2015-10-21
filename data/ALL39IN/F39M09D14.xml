@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M09D14</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Last week Indian reporter got in pretty bad when he tell in
+            Indian News about going to have medicine dance at Watermill place Saturday night and
+            some Indians got pretty mad and tell Indian reporter way I put in paper look like
+            everybody could come and don’t want any white people and bawl me out pretty bad.
+            Government orders say only for Indians that belong to medicine lodge and no other
+            Indians wanted and no white people too. They tell Indian reporter about going to put up
+            big sign that tell no white people wanted and just Indian medicine lodge and it going to
+            be that way next time, Saturday night Indians going to have medicine lodge dance at
+            Black River Falls. War look pretty bad and everybody talk about it and some time people
+            tell about America maybe have to fight too. Indian reporter remember last time have war
+            and lot of people killed that time too and people come to Indian house where people live
+            and put finger at young Indian fellow and say you got to go in war and go to Europe
+            where they never been and don’t tell him and he don’t know what war is about and have to
+            go and do same thing. Indian reporter want to say white man all time about bad Indians
+            kill in war long time back and want to make Indian do same thing like smart fellow white
+            man and then have war and kill people and I don’t think very smart when make young
+            fellows go to war and get killed and don’t know what was is about. I want to say one
+            thing pretty sure when Indian kill long time back and have war just same thing like this
+            and Indian know what war is about too and white man school all time talk about make
+            Indian smart like white man. Indian in this country all everybody happy and don’t want
+            to have war and Indian reporter think same thing too and I want to tell it to folks like
+            that. Next thing I want to tell folks pretty soon Winnebago Indians everywhere
+            Wisconsin, Minnesota, Iowa go to La Crosse and have big Indian dance and help white man
+            name new bridge that go over Mississippi river and same think like have name for baby
+            and call it “Blackhawk” bridge and have bridge open same time and going to be 23rd
+            September. Grace Redman and Herbie from Wyeville go to Indian hospital and Grace return
+            to home and he stay there and doctor tell him why don’t get well pretty quick. Indians
+            all over everywhere rake cranberries now and people tell Indian reporter why don’t rake
+            cranberries and don’t know I have bad heart and doctor tell me not to do work like that
+            and I rake cranberries when I was young fellow and every year until two three years ago.
+            Curtis Redbird he is my grandson and Friday he go to Pipestone Minnesota and go to
+            boarding school and leave from Indian hospital and six other boys go same time, two
+            Oneida Indians and others all Winnebago. When he go away he tell me “You take care of
+            yourself and if everything all o.k. I come home when have first vacation” and feel
+            pretty bad and want to go to school pretty bad too. .</p>
+      </body>
+   </text>
+</TEI>

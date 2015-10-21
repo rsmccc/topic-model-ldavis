@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W5-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>FOREST VIEW Mr. and Mrs. Arthur Schaar and eons visited the Albert
+            Kutchenriter’s Friday evening. Mr. and Mrs. Chris. Kading and sons.
+            Oscar and Lawrence, visited at the August Schumacher home Sunday
+            evening. Mr. and Mrs. Charles Carlson and children visited at the
+            Gust Carlson home Sunday evening. Leilia Carlson spent Saturday at
+            the Gust Norrbom home at Elderon. Mr. and Mrs. Otto Wendler and
+            daughters, Margaret and Alvina, and Mr. and Mrs. Melvin Fuhrman were
+            dinner guests st the Clarence Wendler home on Sunday. Mr. and Mrs.
+            Stanley Westgor and daughter Betty visited at ths Fred Hansen home
+            in Morris Sunday after- noon and evening. Mr. and Mrs, Cleve Guerin
+            and family and Mrs. Ed. Guerin and son Edward visited in the
+            Clarence Wendler home Sunday evening. Mrs. Gust Carlson and son
+            Everett visited Mrs. Charles Carlson on Friday. Doretta Guerin
+            visited school on Tuesday afterboon. Lecss than fifty per cent of
+            our school enrollment wet present on Tuesdsy due to the unfavorable
+            weather. HELLO. WORLD! Born to Mr. and Mrs. Earl Oim, Bimamwood, on
+            March 6, a daughter. Bora to Mr. and Mrs. Robert Klitska, town of
+            Hutchins, on March 2, a ton.</p>
+      </body>
+   </text>
+</TEI>

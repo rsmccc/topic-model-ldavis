@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M10D18</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Tom Thunder is here yesterday, came back from Wood
+            county on his way to home at Hunter Bridge. John Falcon was here
+            last Satur­ day from Mauston and came back with Mrs. May Hunker.
+            Saturday afternoon Indian report­ er was in Chris Olson restaurant
+            and Moses Paquette were talking about where Moses lost one dog a few
+            days ago, and if anybody gives the infor­ mation $5 reward. The
+            upper room has made a “ peep show” of Columbus landing in Amer­ ica.
+            Mr. Eubank called at school on Monday. There are 52 children en­
+            rolled in our school now. Mrs. Olson is teaching the children how to
+            play the tonettes. Miss Keppenhan is teach­ ing the children one
+            hour every week in the dining room. William Hall, John Black Hawk
+            and Indian report were called at Mad­ ison first part of the week
+            and go from here to Endeavor Wis., and where Mr. John White Eagle
+            is. He is working WPA project in that coun­ ty. His children go to
+            school in that village. Henry Mike passed away last Sat­ urday
+            forenoon 8 o’clock, October 14, 1939. Mrs. Mary Johnson White passed
+            away yesterday morning. We will tell more about these two next week.
+            “U. S. of the America” has too many missionary sent out from here to
+            whole world and quite a few dif­ ferent churches or different
+            nomina­ tion religion, still never use anything true and just as
+            same politics they called money talking. TTiey can not use anythings
+            the true. The Indians and white people most the same, they knew God
+            make a man first and afterward make the woman. So therefore woman
+            less than “ a man” and I am sure there is no men and no women
+            Honest, and if any body says honest, that is just talk­ ing that is
+            all. Old Dandy, he told them over hundred years ago. There are
+            everythings we find out, its just like put somethings hide under the
+            snow and when spring come you can see every things right there.
+            .</p>
+      </body>
+   </text>
+</TEI>

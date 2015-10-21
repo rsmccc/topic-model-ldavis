@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Pennies in the Mail Box
+            (Author unknown)
+            In the cold and blustery weather
+            When the frost is on the rail.
+            Would you like to face a blizzard
+            With half a ton of mail?
+            In the biting blizzard weather
+            When the snow comes to your knees,
+            Would you like to fish for pennies
+            While your feet and fingers freeze?
+            When the gloaming snow is drifted
+            Underneath a foot of sleet.
+            Would you like to have chillblains
+            On your elbows and your feet?
+            When outdoors the wind is whistling
+            And the air is full of snow,
+            Would you like to have a jitney,
+            And the blamed thing wouldn’t go?
+            Yes, I'd love the good old fireside.
+            Sipping coffee from a pail.
+            But 1 have to buck the snow-drifts
+            Cause the farmers want their mail.
+            I wouldn't mind the frozen snowdrifts,
+            When my knees are stiff with
+            cramps.
+            If you'd keep your blooming pennies,
+            And buy a quarter's worth of
+            stamps.
+            I got snow mixed with my whiskers
+            And I get it in my socks,
+            But It never hurts my feelings
+            Like loose pennies in the box.</p>
+      </body>
+  </text>
+</TEI>

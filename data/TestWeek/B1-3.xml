@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>ATTEND THE CLASS PICNIC
+            Four classes of the Black River
+            Falls High school pledged themselves
+            to leave as a lasting memorial the
+            beautiful curtain and other stage fixtures that have been of so much use 1
+            for the many events that have been 
+            held in the high school auditorium 
+            since it was completed. Two of the 
+            classes have made their payment and
+            gone on their way. The class this
+            year will make another and then the
+            class of 1940 will complete the gift.
+            The one big event of the year from ,
+            which a class hopes to realize an ap- 
+            preciable amount as their gift is their
+            class play. The members of the cast
+            go to a great deal of work to make
+            it a successful event. 
+            Spring Fever
+            is the play this year. It will be giv-
+            en Friday evening, March 24th. Tick-
+            ets are now being sold. It is an un- 
+            usually good play and promises a nice 
+            evening?s entertainment. You may
+            do your bit toward encouraging the 
+            class and toward making your con-
+            tribution to their gift by attending
+            the play. Plan to reserve Friday night
+            of next week for that purpose.</p>
+      </body>
+  </text>
+</TEI>

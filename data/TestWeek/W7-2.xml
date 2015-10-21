@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W7-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Origin of Morgan Horse Has Been Traced to Other Breeds
+            The founder of the house of Morgan in the horse world was a horse
+            born about 1789—the property of
+            Justin Morgan, who kept a tavern
+            in Springfield, Mass., until he
+            moved to Randolph, Vt., in the
+            same year that was foaled the colt
+            which was to perpetuate its owner’s
+            name No one seems to have any
+            knowledge of the blood strains of
+            this famous sire, writes Capt. Maxwell M Corpening in the Chicago
+            Tribune. Some historian* of Morgan horses say he was anything
+            from a thoroughbred to a Canadian
+            pony Others claim many infusions of Arab. Barb, and Turkish
+            blood Bo that as it may, a good
+            horse was produced
+            This founder of the clan was
+            named Figure at birth, but renamed
+            Justin Morgan when its offspring
+            started to gain fame. He was a
+            small horse, only 14 hands high
+            and weighing 950 pounds; dark bay ,
+            In color, with black legs, mane, and
+            tail. The latter were coarse and 
+            heavy but not thick. His head was
+            good but not very small—the forehead broad, with small ears set far 
+            apart His eyes were medium size,
+            dark, and prominent, with a pleas-
+            ant but spirited expression. His
+            back and legs were his most noticeable points—the former being 
+            extremely short, with shoulder
+            blades and hip bones long and
+            sloping. The legs were short, close-
+            jointed, and thin, but with very .
+            wide bone and extremely well muscled for a horse of his sue.</p>
+      </body>
+  </text>
+</TEI>

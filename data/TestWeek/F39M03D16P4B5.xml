@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P4B5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indian Hospital News Last week we had a number of patients come in from the Oneida
+            country. Among them were Scharlene Smith, Betty Smith, Helen Hill, Iola Skenandore, and
+            the Winnebagos who came in were Fred Sam, George Gi_en, Lena Blackcoon, and Jess
+            O’Brien. Those who went home last week were, Jack Smith, Rinton Doxtator. Elizabeth
+            Hammer and infant daughter Marjorie, Irvin Blackdeer, and Jacqueline King. A baby girl
+            was born to Mr. and Mrs. Herman Browneagle of Mauston on March 10. They named her Deanna
+            Lee. A baby girl was born to Mr. and Mrs. George Metozin of Kaukaune, on March 12. They
+            named her Georgene Joyce. Since writing about the twins a couple of weeks ago, we have
+            had numerous people inquire about them. Charlie Low Cloud is improving slowly. Frank
+            Starr, a Chippewa Indian, hitch-hiked his way from Chicago up here to be examined and
+            treated. He left today. News is scarce this week, it must be spring. </p>
+      </body>
+   </text>
+</TEI>

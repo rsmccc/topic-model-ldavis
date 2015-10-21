@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-14</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>NOTICE OF FORECLOSURE AND SALE
+            STATE OF WISCONSIN, CIRCUIT COURT,
+            Jackson County
+            Federal Farm Mortgage Corporation, a body
+            Corporate, Plaintiff,
+            vs
+            Clois Louise Curran, also known as C. Lou-
+            ise Curran and Louise Curran; and C.
+            Louise Curran as Administratrix of the
+            estate of John A. Curran, deceased; and
+            Roger A. Curran, Defendant#
+            By virtue of a Judgment of Foreclosure
+            and Sale made in the above entitled action
+            on the 16th day of February. 1988, the
+            undersigned Sheriff of Jackson County.
+            Wisconsin, will sell at the front door of the
+            court house in the city of Black River
+            Falls. Jackson County, Wisconsin, on the
+            7th day of April, 1989. at ten o’clock in
+            the forenoon of that day. the real estate
+            and mortgaged premises described by said
+            Judgment to be sold and therein described
+            as follows:
+            The southwest quarter (SW^4) and the
+            southwest quarter of the northwest quarter
+            (SW^4 NW%) Section twenty-four (24),
+            Township twenty-two (22) North, Range six
+            (6) west, subject to public highway through
+            said land as said highway is now located
+            and to easements of record for transmission
+            of electricity heretofore given Wisconsin-
+            Minnesota Light and Power Company and
+            the Northern States Power Company, con-
+            taining two hundred (200) acres, more or
+            less. Jackson county. Wisconsin.
+            Dated February 21. 1939.
+            Terms of Sale—Cash.
+            OLAF R. WALDUM
+            Sheriff of Jackson County. Wls.
+            DONOVAN. GLEISS A GOODMAN. Attor-
+            neys at Law,
+            Sparta, Monroe County, Wls.
+            Feb. 22-March 29_____________
+            
+            NOTICE OF HEARING ON FINAL SET-
+            TLEMENT AND DETERMINATING OF
+            INHERITANCE TAX
+            STATE OF WISCONSIN. COUNTY COURT,
+            Jackson County
+            In the Matter of the Estate of William
+            Blencoe. deceased
+            Notice is hereby given that at a term of
+            said court to be held on Tuesday, the 28th
+            day of March. 1939, at 10 o’clock in the
+            forenoon of said day. at the court house
+            in the city of Black River Falls. In said
+            county, there will be heard and considered:
+            The application of David A. Blencoe, exec-
+            utor of the estate of William Blencoe, de-
+            ceased, late of the town of Alma, in said
+            county, for the examination and allowance
+            of his final account, which account is now
+            on file in said court, and for the allowance
+            of debts or claims paid in good faith with-
+            out filing or allowance as required by law.
+            and fer the assignment of the residue of the
+            estate of said deceased to such persons as
+            are by law entitled thereto:	and	for the
+            determination and adjudication of the in-
+            heritance tax, if any, payable in said estate.
+            Dated February 28. 1989.
+            By Order of the Court.
+            HARRY M. PERRY. Judge
+            HANS HANSON. Attorney for the Estate.
+            Black River Falls. Wis.
+            March 1-16
+            NOTICE OF HEARING ON APPLICATION
+            TO SELL OR INCUMBER REAL ESTATE
+            STATE OF WISCONSIN. COUNTY COURT.
+            Jackson County
+            In the Matter of the Estate of Gay R.
+            Sechler, deceased
+            Notice Is Hereby Given that at a term
+            of said court to be held on Thursday, the
+            28rd day of March. 1939, at 10 o’clock in
+            the forenoon of said day, at the court
+            house in the city of Black River Falls, in
+            said county, there will be heard and con-
+            sidered :
+            The application of Albert Knutson, ad-
+            ministrator of the estate of Gay R. Sechler.
+            deceased, late of the city of Black River
+            Falls, in said county, to sell or incumber
+            all of the real estate belonging to said
+            estate, and described as follows:
+            Block one. Price and Rubles Plat of the
+            Village (new city) of Black River Falls.
+            Wisconsin;
+            The northeast quarter of the southwest
+            quarter of section seven; the southeast
+            quarter of the southwest quarter:	the
+            southwest quarter of the southeast quarter:
+            the northwest quarter of the southeast
+            quarter of section seven; the northwest
+            quarter of the northwest quarter of Sec. 18,
+            all in Township twenty-five North of Range
+            one West. Clark county. Wisconsin.
+            The northeast quarter of the southeast
+            quarter of section four, township twenty-
+            seven north of range three west, Clark
+            county, Wisconsin;
+            Lot eighteen, bloek forty-four. Krumrey’s
+            Addition to the city of Neillsvflle, Clark
+            county, Wisconsin,
+            for the payment of the debts, legacies and
+            funeral expenses of said decedent, and the
+            expenses of administration.
+            Dated February 28th. 1939.
+            By Order of the Court.
+            HARRY M. PERRY. Judge
+            E. S. JEDNEY. Attorney
+            March 1-16
+         </p>
+      </body>
+  </text>
+</TEI>

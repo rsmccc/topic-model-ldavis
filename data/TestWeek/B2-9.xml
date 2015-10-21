@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B2-9</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>BOWLING NEWS
+            The Chaimson Maytags took undis-
+            puted possession of first place by
+            winning all three from B. A. E. while
+            the Moe Clothing Co. won a pair from
+            Tollack Coals for second place, one
+            game behind the leaders. The Ha-
+            gen Clothiers took sole right to third
+            place in winning two from Coca Co-
+            la. The Clothiers are two games out
+            of first place. The Millis Contract-
+            ors and S. C. S. are tied for 4th,
+            three games behind the Maytags and
+            Jones Creams and Tollack Coals still
+            retain a chance to win out, being 4
+            games from the lead. The Maytags
+            lead looms larger by the fact that
+            there remain only six games on the
+            schedule.
+            The results last week:	Tuesday
+            night Larkins won two from Camp
+            Irving, and Jackson Box won a pair
+            from Jones Creams. Wednesday eve-
+            ning Hagens took a pair from Coca
+            Cola and Soil Conservation followed
+            up with a pair from Millis Contract-
+            ors, winning the final by a margin
+            of only one pin. Thursday as stated
+            before, Chaimsons won all three from
+            B. A. E. and Moes took a pair from
+            the Coals.
+            The weeks best bowlers:
+         </p>
+      </body>
+  </text>
+</TEI>

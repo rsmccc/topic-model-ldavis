@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M12D27</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Redcloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The season’s greetings of a very Happy
+            Christmas and a Very Happy Prosperous New Year to all our readers of the B-J and to its
+            correspondents. It’s really hard to understand why the old world being the cradle of
+            Christianity should forever be the battle-ground of nations whose ideals and principles
+            are directly opposite to the doctrines so strongly exemplified by the Saviour whose
+            birthday we have just celebrated. It is so pleasingly strange that our nation so far
+            removed from the stamping ground of the great teacher should be the bulwark of the
+            Christian doctrine. Be it as it may, we should all be thankful not only for ourselves
+            and our children but for those nations who look to our shores from which “good will
+            towards all men” should emanate. Therefore we should all the more enjoy the Christmas
+            and New Year holidays. Wars may come and wars may go, but human nature remains the same.
+            Wars cannot be fought to end all wars and wars do not just happen. The human element
+            enters into the picture somewhere. The human element of vicious and ambitious greed or
+            ambitious viciousness or greeditious ambition, any way you want to take it. Wars could
+            be brought to an end if only these adverse human traits could be eliminated. To
+            eliminate them there should be no moral embargo. Yes! There should be no embargo on
+            morals, instead these warring nations should be bombed with Christian and American
+            morals. In these modem warfares everything is streamlined. Bombing and pursuit planes,
+            battleships and submarines and even bombs are scream-lined. Two great factors seem
+            always to be clashing in this great country of ours. To the men representing the long
+            arm of the law, every individual is a potential criminal, while to the pulpit every
+            individual is a potential saint. And if we can go by the Christmas spirit of giving so
+            much manifested by the people the pulpit seems to have the edge. Speaking of wars and
+            Christmas, wars have killed only their thousands while peace has killed its hundred
+            thousands. Speak as much as we want of war and its horrors but the above is the truth.
+            It takes all kinds of people to make a world and one of the meanest kind is one who
+            scuttles his pocketbook so the wife can’t capture it during the Christmas shopping
+            season. .</p>
+      </body>
+   </text>
+</TEI>

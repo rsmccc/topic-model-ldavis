@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B6-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>B6-1 MERLIN HULL’S WEEKLY LETTER The bill for reorganization of the
+            executive and independent depart- ments is again up for
+            consideration. It is considerably changed from the Theasure proposed
+            last session, but the issue of congressional control still is there.
+            Some 19 years have elapsed since the issue arose in the Harding
+            administration, and it has been be- fore almost every Congress
+            since. A law was passed in the closing days of the Hoover
+            administration. Al- though President Hoover had de- manded the law,
+            he made no use of it. The powers of the law were ex- tended into
+            this administration when it came in, but they were permit- ted to
+            lapse without action. In the last session, a new bill was defeated
+            by a narrow vote. The present measure has been drawn to eliminate
+            some of the opposition of a year ago. In that direction, it provides
+            that at least 16 boards and commissions shall not be included in the
+            re-organization. This probably will result in less inter-department
+            opposition to the bill, and also less opposition of some of the
+            large group organizations which help- ed stir up sentiment against
+            the proposal when the former bill was under consideration. While
+            from the press the impression might be gained that the matter is a
+            fight between the President and Congress, that is only partly the
+            case. Striking out so many boards and commissions from the
+            jurisdiction of the measure is a con- cession that the contest
+            involves a division of sentiment within administration circles. The
+            year 1939 will be a record breaking year in the construction of new
+            war vessels. At the present rate qf progress, 73 new naval vessels
+            will be launched this year. They will range from battleships of
+            40,000 tons, the cost of each of which will be $70,000,000 or more,
+            down to the submarines, torpedo boats, and other smaller vessels.
+            This addition to the Navy will make it second to no other nation in
+            the number of warships, and possibly excelled only by that of Great
+            Britain in the way of tonnage. That record may not be held long, as
+            Great Britain has a building program even more extens- ive than our
+            own. Next year, and for the ensuing three or four years, naval
+            expansion will continue upon even a larger scale; particularly in
+            the way of battleships and large cruisers. Millions more will be
+            spent upon the additional thousands of air- planes. An attempt will
+            be made to obtain an investigation of illegal alien im- migration
+            into this country The sub- ject is not new, but disclosures in
+            recent months would seem to indicate that the number of aliens
+            coming by stealth and conspiracy may be equal if not larger than
+            those who come legally and with proper visas under our immigration
+            laws. The same in- vestigation if authorized may ascer- tain the
+            reason for the great decline in the deportation of aliens who have
+            come here surreptitiously. That num- ber has dropped from 37,000
+            deport- ations annually to about 8,000. It is known that the number
+            who have come here contrary to law and re- mained notwithstanding
+            the law runs into hundreds of thousands. The Im- migration
+            Department has lacked funds to make much headway in the matter. The
+            scandal arising from the smug- gling in and wrongful entrance of
+            aliens has been growing in the larger seaport cities, and the recent
+            orders forbidding employment of aliens on WPA are aiding in forcing
+            attention to the problem. Among the most in- sistent violations of
+            the law are said to be those of large ship lines on the Atlantic,
+            which are said to profit handsomely through the traffic. Ships which
+            carry a crew of 700 on the outward voyage are charged with em-
+            ploying 900 or more on their return. Once in the country by such
+            methods, the aliens are safe until they can be rounded up by federal
+            agents and taken into court. By the time an order of deportation has
+            been issued in a single case, dozens of newcomers arrive by the same
+            method. It is charged that some lines have a regu- lar charge of
+            from $50 to $100 each for thus aiding men from foreign countries to
+            come to our ports. There are, of course, other agencies engag- ed in
+            the illegal traffic, and boats coming from Cuba and other Carri-
+            bean islands are frequently captured with from a dozen to 100 aliens
+            on board. The huge profits of such a voyage make alien smuggling a
+            regu- lar business which the government finds difficult to stamp
+            out. When the Economy Act was pass- ed, several years ago, a few
+            millions were stricken out of the appropria- tion for border guards
+            on the borders between our country and Canada and Mexico. The
+            smugglers who had for- merly found fortunes in running in foreign
+            booze were not slow in tak- ing advantage of the new opportun- :
+            ity. In a single night they are able to transport aliens from the
+            border- ing country to one of our large ' cities, and the fares are
+            said to be many times the rates paid by others on Pullman cars. How
+            many thous- ands of aliens who are being dis- charged from W’PA came
+            in by either the sea or the land routes is not i known. This illegal
+            flow of aliens makes uncertain the exact status of immigration under
+            our laws. Those who came from abroad honestly and openly upon visas
+            issued by our consular service abroad are less numerous than for
+            years. From 1931 to 1938 there were 4,260,081 who came mainly from
+            Europe. In that same period, aside from those deported by the
+            government, 4,487,085 returned to their native lands over seas. Last
+            year, the number departing was 50,000 more than those who came in.
+            The situation in Europe and the possibility of war between some
+            countries now is increasing the number of applicants for visas. The
+            quota of visas permissible annually for Germany is about 27,000, but
+            applications have been filed by ten times that number. From Census
+            Bureau estimates the distribution of racial stocks in this country
+            is about 37 per cent English and Welsh, 8 per cent Scotch, 11
+            percent Irish and 17 per cent German, the percentage from other
+            nations is about 4 per cent each for Frances, Poland and Italy. 2
+            per cent for Sweden and about the same for Norway, other countries
+            are represented by a smailer percentage. MERLIN HULL</p>
+      </body>
+   </text>
+</TEI>

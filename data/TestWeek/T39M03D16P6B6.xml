@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P6B6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Notice of Judicial Election
+            Office of County Clerk
+            To the Electors of Monroe County:
+            Notice is hereby given that a judicial election is to be held in the several towns, wards, villages, and election precincts in the county of Monroe on the fourth day of April, 1939, at which the officers named below are to be chosen. The names of the candidates for each office to be voted for, whose nominations have been certified to or filed in this office are given under the title of the office and under the appropriate party or other designation, each in its proper column together with the question submitted to a cote in sample ballot below. 
+            Information To Voters
+            The following instructions are given for the information and guidance of voters: 
+            (a)	A voter upon entering the polling place and giving his name and residence, will receive a ballot form the ballot clerk which must be endorsed thereon the names or initials of both ballot clerks, and no other ballot can be used. Upon receiving his ballot, the voter must retire alone to a booth or compartment and prepare the same for voting. A ballot clerk may inform the voters as to the proper manner of marking a ballot, but he must not advise or indicate in any manner whom to vote for. 
+            (b)	A voter may vote upon a questions submitted to a vote of the people by making a cross (X) or mark in the square at the right of the answer which he intends to give. 
+            (c)	The ballot should not be marked in any other manner. If the ballot be spoiled, it must be returned to the ballot clerk, who must issue another in its stead, but not more than three in all shall be issued to the one voter. Five minutes time is allowed in booth to mark ballot. Unofficial ballots or memorandum to assist the voter in marking his ballot can be taken into the booth, and may be used to copy from. The ballot must not be shown so that any person can see how it has been marked by the voter.
+            (d)	After it is marked it should be folded so that the inside cannot be seen, but so that the printed indorsements and signatures of the ballot clerks on the outside may be seen. Then the voter shall pass out of the booth or compartment, give his name to the inspector in charge of the ballot box, hand him his ballot to be placed in the box and pass out of the voting place.
+            (e)	A voter, who declares to the presiding officer that he is unable to read, or that by reason of physical disability he is unable to mark his ballot, can have assistance of two election officers in marking same, to be chosen by the voter; and if he declares that he is totally blind, he may be assisted by any person chosen by him from among the legal voters of the county. The presiding officer may administer an oath in his discretion, as to such person’s disability.
+            (f)	The following is a facsimile of the official ballot. 
+            Loren E. Austin, County Clerk
+            Facsimile
+            Offical Ballot
+            For Judicial Election
+            Mark with a (X) in the square [ ] at the right of the name of the candidate for whom you desire to vote, if it be there, or write any name that you wish to vote for in the proper place.
+            Judicial Officers
+            For Justice of the Supreme Court
+            Vote For One
+            William H. Markham. A Non-Partisan Judiciary…………. [ ]
+            Marvin B. Roseberry, A Non-Partisan Judiciary…………. [ ]
+            Gerhard A. Hagedorn, A Non-Partisan Judiciary……….. [ ]
+            
+            Given under my hand and Official Seal, at Sparta, Wisconsin, thus 13th of March, A.D., 1939
+            L. E. Austin, 
+            County Clerk   
+         </p>
+      </body>
+  </text>
+</TEI>

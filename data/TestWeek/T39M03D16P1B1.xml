@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1B1FC1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Fred Sam come from Wittenberg at Indian hospital for eye trouble and come on purpose to
+            see Dr. Winter. Dr. Winter help lots of people with eye trouble and make some get
+            better. Everybody laugh when Indian reporter tell about want cupota on In Indian school
+            building when tear down house and want big barn for coop for 10 hens and rooster to
+            exercise in winter time. Indian reporter think white man government pretty crazy when
+            want to tear down nice school when Indian children learn how white man farm to make
+            living and have to know or can’t do things but hunt and trap and can’t make living
+            Indian school built for Indian farms and tell them Indians don’t want to live in brick
+            house on Indian school farm. Another thing maybe give land to Indians and then put on
+            big tax for everything and take away from them like did Winnebagoes when agent tell all
+            Indians to buy land one time and tell use trust money from government to buy land Indian
+            reporter pay $416.06 1914 for farm and in little while county clerk and clerk of court
+            big shot white fellows at court house tell because don’t five them more than make from
+            farm for tax that have to get off farm and give to them to sell to other so can put big
+            tax on hum and take away again. Indian reporter had to go Madison in big court state
+            trial and tell all about how buy farm with trust money and that Compton say if stay on
+            land can’t take away. Judge tell stand up and raise hand and tell just truth. Indian
+            reporter only went to school three months and judge say lots of things don’t know
+            understand and tell judge never went to school and don’t know bug words like he use and
+            everybody talk loud and tell that have to give farm away because don’t pay tax. Then
+            everybody don’t talk and let reporter tell how Compton say don’t have to pay tax if live
+            on farm and can’t take away. Christie Indian Agent say same thing. Only two Indians keep
+            farm me and another fellow and all others lose farm and county clerk and clerk of court
+            make them get out. They five farm back to white man and trust money all gone and Indians
+            get nothing. Charley Low Cloud has been at Indian hospital pretty sick for long time
+            now. Charley bad cold and flu and been pretty sick but get better. Get letters from
+            Michigan and Minnesota about people like Indian News and want picture of Indian
+            reporter. Maybe have some good pictures not like picture in paper like Dr. Cunningham
+            take and send to people. People that like Indian news and want picture of reporter want
+            to send stamp or can’t send picture and send letter to Indian reporter at Tomah Journal
+            and Monitor-Herald. </p>
+      </body>
+   </text>
+</TEI>

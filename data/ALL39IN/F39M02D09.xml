@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M02D09</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Sportsmen hunters want Indian reporter: at big meeting 7:00 at armory last Friday. Lots people there. Everybody talk about white man’s law about where you hunt. All time tell you where you hunt. All time talk about you have to have license for everything or else big fine and take away traps. White people at meeting say have to have license but can’t hunt or
+            fish in good places like used to. Foolish humbug laws if you can’t hunt and fish in good places like used to why have license for. Another thing- how going to use the Indians. Indians don’t want license. Indians don’t kill off game. Before white man city fellows came here big and take away game plenty for everybody. If Indians kill game to sell Indian reporter want to know. Indian
+            reporter pretty sure Indians don’t kill game and sell. Make license cost lot of money so just big rich city fellows pay same as poor Indian and game hauled away by people that don’t need. When Indian reporter was boy used to have lots birds and sit long times and listen to birds. Birds songs same to Indian long time back as white man’s music now. Laws to kill snakes maybe crows and
+            blue jays that suck birds eggs better and no more talk where you hunt and how much license you pay take traps. One thing pretty sure there won’t be bad winter any more this winter. February moon look same as March moon other years. At noon snow melt every day same as March. Fred Pietz, big fellow at groceries part at Cash Store tell Indian Reporter don’t say anything about me in Indian
+            News. Pietz fall Winnebago and have big joke and laugh with Indian reporter. Pietz make white people think talk Winnebago good but sound like when Indian reporter talk German. Maybe Pietz learn to talk Winnebago when he gets big. Pietz good fellow and buy lots of baskets from Indians. Sell baskets to people long way off. Same people every year want Indian baskets here. One thing pretty
+            bad. Indians have hard time to sell baskets. Sometimes stop at Indian hospital when know people there. Dr. Winter fine fellow and help Indian reporter at Indian News. Take good care of Indians. Now have lots of people at hospital, some not all, Winnebagoes. Lots of babies at hospital everybody go to hospital everybody go to hospital to have babies. We like to have news about people at
+            hospital so Dr. Winter, Indians friend for long time, get hospital news for Indian News. Lots of Indians read Tomah paper and want to hear about friends at hospital. INDIAN HOSPITAL NEWS The following Winnebago patients were admitted to the hospital last week: Idell Decorah, Nancy Funmaker, Minnie Lewis, William Waukon, Geraldine Greengrass, Linda Gail Greendeer, and Ray Whiteing. The
+            following patients were discharged: Mary Lou Blackhawk, Delos Yellowbank, Beverly Kingswan, and Alice Kingswan. Notes of Interest: A baby girl was born to Mr. and Mrs. Andrew Funmaker of La Crosse February 1, 1939. They named the baby Prudence Lee. Ray Whitewing came in from Wittenberg where he had a slight automobile accident. It seems that he had turned a corner to quickly and the
+            car skidded and hit the curb and turned over a couple of times. He sustained several cuts on the head and bruises. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M11D08</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> Mr. and Mrs. John Stacy and their daughter Tillie
+            went away yesterday. Mr. and Mrs. Jesse Brown came back from
+            Bennett’s marsh last Mon­ day and stop at Indian Mission going back
+            to De Soto, Wis., yesterday. Mrs. Trask, girl scout captain from
+            Black River Falls, spoke to the girls Friday morning. We are
+            planning in organized a girl scout troops. Mon­ day evening ten of
+            the young women and girls meet at Mrs. Keppenhan apartment, to
+            organized a girl Re­ serve Y. W. C. A. group. This pro­ gram will be
+            social, educational, home and arts and service. Our community house
+            will be fin­ ish in about three weeks. Then we can carry on an even
+            larger program. Mrs. Trask with Kathleen Horswill and Donna Mae
+            Quackenbush came out to our school and gave a talk on girl scout
+            work. It was very inter­ esting and our girls plan on doing a favor
+            in return. The boy scout were organized with a bang. Two men from La
+            Crosse gave us a start. We meet again Wednesday afternoon. Henry
+            Greengrass and Indian re­ port went to Merrillan last Satur­ day
+            looking deer rifles at Merrillan. It seems cost a little bit too
+            high for that old timers gun. Chief Moses Paquette has receiv­ ed a
+            dog collar last Friday and some­ body got the dog, but he did not
+            want dog collar. Whether you believe or not. Miss Ruth Zodtner has
+            resigned her position as director of relief of­ fice in Jackson
+            county. In place is Mr. William McGraene of Darling­ ton, and Miss
+            Ruth Zodtner did not love her position, but instead of that she love
+            a man. The congress and senate make re­ lief money is appropriation
+            for the needy of the Human being, to sent out all of United States,
+            from Wash­ ington D. C. and sent out to every state, and state
+            officers sent out some every county, and county sent out some every
+            town chairman and those chairman his district refuse relief aid to
+            some that are real need. Maybe he can not see that when he has full
+            stomach only his own relatives. Indian report has received one Re­
+            publican paper from Galesville which he says,— The “Indian report”
+            may have gone cranberrying last week or duck hunting or somethings,
+            anyhow his column didn’t show up in the Black River Falls
+            Banner-Joumal, From which it is clipping by the Re­ publican each
+            week. This was true, was not there the Indian News Oct. 25, 1939,
+            but we brought some In­ dian news too late, all filled up the paper.
+            John Simplot working on plaster a new houses a few weeks ago. He is
+            looking round at Indian Mission this morning or may be work. John is
+            good mason work, he is old timer. .</p>
+      </body>
+   </text>
+</TEI>

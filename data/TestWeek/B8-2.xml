@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>TAYLOR HIGH-SCHOOL
+            Jeanette Stevens
+            Last week a new ceiling was plac-
+            ed in the main assembly, storage
+            room and typing room. The pupils
+            were seated in the halls and different
+            class rooms. The typists were also
+            placed in the halls.
+            There has been a great number of
+            absentees this week. We will be glad
+            to see them return to school soon.
+            All of the freshman girls in the
+            Home Economics class are anxious to
+            start making their dresses so Miss
+            Rendall came to the conclusion that
+            they would start next week.
+            Last week the sophomore Home Ec.
+            class had an experiment. They were
+            shown how and also helped to dress a
+            chicken. The chicken was donated by
+            Verna Jacobson.
+            This week the American history
+            class prepared a map showing how
+            the United States grew. Shown on
+            the map were the original 13 states;
+            Louisiana Purchase, Texas Annexa-
+            tion; Spanish Cession of 1819; Gads-
+            den Purchase; First Mexican Ces-
+            sion; and the territory in Washing-
+            ton, Oregon and Idaho secured by dis-
+            covery, exploration, and settlement.
+            This work pointed out to the history
+            students how our country was enlarg-
+            ed through the growth of territory.
+            English—
+            The sophomores have finished the
+            study of verbals. Next week they
+            will take up “As You Like It” after a
+            quiz and participles, gerunds and in-
+            finitives.
+            The freshmen are busily working
+            learning differentiation of pronouns
+            in the accusative and nominative
+            case.
+            The Juniors and Senior American
+            Literature class finished their essay
+            contract Friday. Every one in the
+            class did sufficient supplementary
+            work to warrant him an A or 6
+            grade.
+            The local declamation and oration
+            contest will be held March 24. The
+            league contest in which Hixton, Mel-
+            rose, Alma Center and Taylor will |
+            participate is to be held on March 31.
+            Taylor will act as host this year.
+            Ernest Rumppe
+            Independence captured first place
+            at the tournament by winning from
+            Alma Center, Taylor and Blair re-
+            spectively.
+            Blair took second place by beating
+            Trempealeau and Whitehall but lost
+            the final to Independence.
+            Third place went to Taylor who
+            defeated Arkansaw and Whitehall
+            while being the victim of the Inde-
+            pendence team.
+            Consolation went to Alma Center
+            who beat Arkansaw and Hixton while
+            losing to Independence.
+            Chet Johnson of Alma Center scor-
+            ed the most points at the tournament:
+            he had 28 points in three games.
+            Duane Lambert of Taylor, scored
+            the most points in a single game by
+            registering 13 points against Arkan-
+            saw.
+            Clayton Waller played his last
+            game of basket ball against high
+            school competition when he left the
+            floor after Taylor-Whitehall game.
+            His record for the past years are as
+            follows: Freshman 4 pts.; Sopho-
+            more 19 pts.; Junior 44 pts.; and
+            Senior 131 pts. He scored a total j
+            of 198 pts. during his high school |
+            career. He played guard the first !
+            three years and took up playing for- |
+            ward in his last year and did a nice j
+            job you must admit Taylor’s bas-
+            ket ball team will miss him and the |
+            person who takes his place will find .
+            that position hard to fill as Clayton
+            filled it.
+            The Independence team will be hit |
+            hard next year by graduation, for
+            six players will be graduated.</p>
+      </body>
+  </text>
+</TEI>

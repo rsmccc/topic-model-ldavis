@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-7</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>GARDEN VALLEY
+            John Gansel is driving a New Ford.
+            Edwin Sholze spent Sunday with
+            his parents in Cleveland.
+            Mrs. Vance Enerson spent the week
+            end at her home in Alma Center.
+            George Ringrose of your city spent
+            Friday afternoon at Frank Ringrose’s.
+            Mr. Nortman of your city, spent
+            Sunday with Francis Pattridge in the
+            valley.
+            Miss Ellen Larson spent Saturday
+            evening with her sister Mrs. Edward
+            Hanson.
+            Herman Klatt, of Cleveland, was a
+            Sunday afternoon caller at Will and
+            Frank Ringrose’s.
+            Mr. and Mrs. George Drum, of
+            North Branch, were callers at Frank
+            Ringrose’s Friday afternoon.
+            Francis Pattridge came up from
+            Whitehall to spend the week end with
+            his mother, Mrs. Mary Pattridge.
+            Mrs. George Atkinson and daughter
+            Dorothy of Alma Center, are spend-
+            ing a few days with her mother, Mrs.
+            H. White.
+            Byron Cheeseman and daughter
+            and Miss Mull of Alma Center, were
+            Sunday afternoon callers at Frank
+            Ringrose’s.
+            Mr. and Mrs. Edward Hanson, and
+            sons Arnold and Donald, attended
+            church in West Garden Valley on
+            Sunday morning and were guests at
+            Mrs. B. O. Larson’s and Mrs. Mary
+            Mattson’s.</p>
+      </body>
+  </text>
+</TEI>

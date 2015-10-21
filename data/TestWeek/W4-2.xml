@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W4-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>“0z'n"em" Contributed by Spud
+            on St. Patrick
+            Although this well beloved persononage is the patron Saint of Ireland.
+            St. Patrick was born in Scotland or
+            possibly in England. HIs life seems
+            to readers of modern times most romantic and adventurous. At the ago
+            of 16 he was captured by pirates from
+            Ireland and carried to that island,
+            where for six years he tended the
+            flocks of an Ulster chieftain. During
+            these years of his slavery, he became
+            a devoted Christian, and after his escape to France, entered monastic life
+            Directed by a vision to return as a
+            missionary to Ireland, he obeyed the
+            call In 432 and for the rest of his life
+            worked zealously in various parts of
+            the island. (St. Patrick’s return to
+            Ireland in 432 is considered “The First
+            Great Event” in the History of Ire-
+            land). His labors were so miraculously successful that he came to be known
+            as the one who “found Ireland all
+            heathen and left It all Christian,“
+            There he founded over 300 churches
+            and he personally baptised over 12,000
+            Naturally many legends grew up
+            about the name of this popular saint,
+            A favorite is the one which represents
+            him as charming the snakes of Ireland
+            by his music so they followed him to
+            the sea shores, where they were driven
+            into the water and drowned. Indeed,
+            much that is told about Saint Patrick
+            is little more than legendary. One
+            relic credited to him, a four slded iron
+            bell, is in the Museum of Arts and
+            Sciences in Dublin.
+            What is accepted without question
+            is the date of his festival. AH over
+            the world, wherever the Irish have
+            penetrated, March 17 is celebrated as
+            St. Patrick's feast day.
+            Always in connection with Ireland
+            we think of the shamrock, which is
+            the the  national anthem A familiar
+            poem says:
+            “Theres! a dear little plant that grows
+            in opriale—
+            Twas St. Patrick himself sure that
+            set it;
+            And the sun on his labors with
+            pleasure did smile.
+            And with dew from his eye often wet
+            it.
+            It shines through the bog. through the
+            marsh and the mireland
+            And he called it the dear little Sham-
+            rock of Ireland.
+            
+            Adapted from “The World Book.”
+            Vols. 6, 9 and 10.
+            
+            When 56-year-old Pianist-Composer
+            Percy Grainger stepped off a train in
+            Wausau, Wisconsin, he wore no hat
+            or overcoat, sported white ducks and
+            an old brown jacket, carried an umbrella, a knapsack on his back. Be-
+            cause it was police promptly
+            ran him in. Composer Grainger fin-
+            ally identified himself, explained that
+            he dislikes heavy clothing, has not
+            worn a hat in 20 years, carries an
+            umbrella simply to keep snow out of
+            his bushy hair.—Time Magazine for
+            March 6, 1939, page 32.
+            
+            Limerick or a Mustard Plaster
+            A lady — alas! and alack! —
+            A cold in her chest did contract.
+            With a stout mustard plaster
+            She courted disaster.
+            And burned all the skin off her back!
+         </p>
+      </body>
+  </text>
+</TEI>

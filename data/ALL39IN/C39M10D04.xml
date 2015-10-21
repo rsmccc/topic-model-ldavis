@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M10D04</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> The Indians are very busy at cranberry marsh raking berries. Herman J.
+            Gebhardt commence last week 28th of Sept. They are working for Herman are as follows:
+            Clarence Whitedog, Louis Johnson, Henry Stacy, Herman White and Pershing Brown Eagle.
+            The ladies sewing project are going to make some men’s overall commence this week. They
+            are working very hard. Mr. and Mrs. John Stacy and Mr. and Mrs. Eric W. Stephen went to
+            Stevens Point last Sunday to see Miss Esther Stacy out there in the hospital. She is
+            getting along very fine, but they did not say when she will be out. The pupils of the
+            upper room are very busy doing safety work. They are making a poster, writing
+            compsitions and giving talks. Mrs. Olson and Miss Amundson are spending the evening at
+            Miss Beppenhaus home. The lower room is getting a new black board. Our reporter visited
+            school on Tuesday. Too bad news- Mrs. Amanda Milner passed away last Sunday morning at
+            Tomah Indian hospital, 3 o’clock, Oct. 1st, 1939. She was here at Indian Mission a few
+            weeks ago. She was alright, but cause of death is she had a baby, and when she getting
+            worse her husband took her in the hospital, Mr. Bill Minor. She was ill only a few days,
+            and sympathy goes to her husband, her mother, Mrs. Florence Eagle, and her own three
+            children. Funeral had at old Indian cemetery at Indian Mission last Monday afternoon by
+            the Indian custom. Mr. and Mrs. George Bear and old Man Snyder Bear were here at Indian
+            Mission yesterday. They come down to visit relatives and friend. They stop over night
+            and they went back again next day. Some one enter Ladies sewing WPA project one night.
+            The forelady Tillie Stacy, found one overall and a dress missing. Ruth L. Zodtner relief
+            director, came yesterday and told the women that if they do not produce the missing
+            things she will close the project entirely. The women can not be blamed for theft as no
+            one know who stole the things. .</p>
+      </body>
+   </text>
+</TEI>

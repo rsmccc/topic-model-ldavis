@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P5T5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>School Notes
+            First Grade
+            The following first graders were neither absent nor lady this last six weeks. Donald Benjamin, Anne Dickinson, Charles Henning, Grace Laudon, Arthur Sarney, Darlene Vandervort and Danny Schultz. 
+            We are discussing health secrets in our language classes. We want to help each other to grow strong and healthy. 
+            The fifth grade presented their play, “Hansel and Gretel” for us on Wednesday. We enjoyed it very much.
+            Third Grade, Miller School
+            These people have not been tardy nor absent this six weeks. Eugene Burnstad, Joann Ridgeway, John Schedler, Mary Lou Shackley, Marjorie Mae Hansen, Margaret Whisler.
+            Mary Lou Shackley has not been tardy nor absent since school started. 
+            We are making health posters and charts in our social studies and art classes. 
+            Fourth Grade
+            Wednesday, March 22, the third and fourth grades will have a tea to which all the parents are invited. The theme of the fourth grade program will be Life in Holland. 
+            We were very sorry that one of our girls, Rosella Fredrickson, lost her mother this week.
+            In social studies we are furnishing a doll house. 
+            Fifth Grade
+            Helen Muhlethaler and Winifred Taft received “Honorable Mention: cards from the Let’s Draw Radio Program.
+            We have had fun getting the play, “Hansel and Gretel” ready for the P.T. A. program. Everyone in our room will help in the play. 
+            Sixth Grade
+            WE were very happy to hear Roger Starkey’s name announced over radio station WHA today. His drawing was among the best sent to the “Let’s Draw” program in Madison. 
+            Friday, in geography class, we had “Surprise Day.” Many very interesting articles and talks were presented. 
+            In reading we are enjoying the story of “The King of The Golden River” by John Ruskin. 
+            We are so glad the boys and girls who were absent a part of last week are now able to be present in school.
+            Seventh Grade
+            In geography class we made graphs of the consumption and the production of the United States.
+            In language every spring bird we see we are going to draw pictures of it and tell something about it. Robert John Maxwell reported a Cardinal yesterday.
+            This six weeks we got the flag “For Punctuality and Attendance.” We are very proud of it.
+         </p>
+      </body>
+  </text>
+</TEI>

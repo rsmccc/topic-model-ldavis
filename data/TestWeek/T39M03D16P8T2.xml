@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P8T2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>West Warrens
+            Mr. Carl Calloway and Marvelene and Pauline were guests Sunday at the Ike Parker home.
+            Irving Blowers was a caller at the T. E. McNamer home Wednesday forenoon. 
+            Callers Wednesday evening at the R. Garber home were Archie Calloway and Mr. and Mrs. Gesner Garber of Tomah.
+            We are sorry to know that the Loy White children have the measles and have to be absent from school.
+            Leonard Crawford was a caller Thursday at the Irving Blower home. 
+            Dewitt McNamer was a caller Sunday at the home of his parents, Mr. and Mrs. T. E. McNamer. 
+            
+            
+            East Wyeville
+            Mr. and Mrs. Victor Anderson called at Chris Wind’s Sunday evening. 
+            Miss Ethel Anderson and Florence Pederson attended Y. P. meeting at Carl Christensen’s on Friday evening. 
+            Friends in this community were sorry to hear of the illness of Gilbert Schmeckel. We all hope he will soon be well again. 
+            Herman Rutlin is having his barn shingled. Ingolf Rutlin is doing the work. 
+            Florence Pederson was home last week to help her mother who was on the sick list.
+            Mr. and Mrs. Albin Rutlin called at Nels Nelson’s Wednesday evening.
+            Misses Vida and Viola Hansen visited at the Leo Zimmerman home Sunday evening. 
+            The white of an egg will remove chewing gum from the hands or the hair. 
+         </p>
+      </body>
+  </text>
+</TEI>

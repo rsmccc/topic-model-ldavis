@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Tomah Indians Winners at Sparta Tournament
+            Will Play Reedsburg in Regional Meet Friday Night
+            Coach Tony Weishapple’s Tomah high school Indians are again champions of the Sparta district tournament, by virtue of three straight wins, two of which were against teams that had been boosted as tournament winners. 
+            In the opening day’s program Tomah topped Galesville 21-18, and then preceded to win from Hillsboro and Arcadia in short order. The local boys played stellar basketball all through the tournament and deserve the crown of victory that rewarded their efforts. 
+            While the Galesville fray was a rather slow and easy victory for the Indians, the Hillsboro tilt was quite another matter. Hillsboro had a tough defense, but the local team solved the matter and crashed through to win, 21-19 Arcadia, another highly-touted team in the tournament, triumphed over Sparta, 24-20, while Tomah was taking Hillsboro and this left Tomah and Arcadia to play for the championship on Friday night, with Hillsboro and Sparta playing for third place. Sparta won over Hillsboro, 15-13 in a tight game. 
+            Henry is Injured. 
+            At the end of the first quarter of the championship game, Tomah and Arcadia were tied, 6-6. In the second quarter, however, Arcadia started a rally that put them out in front, 10-6, before Tomah could get started again. 
+            With the score 17-13, in favor of Arcadia, and in the closing moments of the first half. Harrison Henry, star forward for the Tomah team suffered injuries that put him out of the fame and into the hospital at Sparta. Henry broke loose and dribbed down the floor, leaping into the air for a shot at the basket. While he was in the air, Brownies, Arcadia guard, tipped him and Henry crashed to the floor. The results of his injuries were a broken forearm, three teeth driven far up into the upper jaw and a cut on the chin that required several stitches to close. With a badly swollen face and suffering considerable pain form the broken bone, Harrison is recovering at the home of his parents, Mr. and Mrs. A. J. Henry, here. 
+            Coming back into the game after the half time intermission. Tomah’s Indians played their hearts out and went on to win the game and the tournament championship.
+            Regional Friday
+            Friday night of this week Tomah will meet Reedsburg at Sparta for the regional championship and the honor of representing this regional district at the state tournament. 
+            Last year Tomah played Reedsburg in the regional tournament and won the tilt. It is the ambition of the Indians to repeat this performance and it is likely this may happen, although Reedsburg has one of the strongest teams in the history of the school. Reedsburg was tied with Logan for first place in the conference this year and will put up a battle to win the regional tourney. 
+            Henry will be lost to the Tomah team for the regional fame but the boys will have plenty of strength without their star forward. 
+            
+         </p>
+      </body>
+  </text>
+</TEI>

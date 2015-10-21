@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-10</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            ERVIN P. RIGGS
+            Ervin P. Riggs, son of Mr. and
+            Mrs. Harmon Miles Riggs, was born
+            September 11, 1861 in the village of
+            Alma Center, Wis., and passed away i
+            at the home of his daughter, Mrs. Ed- |
+            na McMullin, Sparta, on Monday,
+            March 6, 1939 at the age of 77 years,
+            5 months and 25 days.
+            His parents died when he was
+            about 13 years of age, after which
+            he made his home for a short time
+            with his aunt, Mrs. E. L. Brockway
+            of Black River Falls. He received
+            his education in the public schools at
+            Alma Center, after which he worked
+            in the woods and on the farm, know-
+            ing something of the hardships and
+            adventures of the pioneer life. .
+            He was married to Frances E.
+            Marks, daughter of Mr. and Mrs. G.
+            N. Marks, of Alma Center, on March
+            6, 1883. He passed to his reward
+            on the anniversary of his wedding,
+            after 56 years of happy married life.
+            Through a period of 52 years .Mr.
+            and Mrs. Riggs made their home on
+            the home farm one mile north of the
+            village, moving to their present home
+            in Alma Center four years ago.
+            For many years Mr. Riggs was a
+            prominent member of the Modern
+            Woodmen of America, and continued
+            as honorary member of the order un-
+            til the time of his death. He served j
+            for some time upon the town board
+            and was always interested in things |
+            that were for the betterment of the
+            community.
+            He leaves to mourn his loss his
+            wife and four children: Mark M., of
+            Kinsman, Ohio; Ralph H., of Racine;
+            Mrs. Edna McMullin, of Sparta; and
+            Clayton W., who lives on the home
+            farm. Two children preceded him:
+            Catherine who died in infancy, and |
+            Ernest L., who passed away August
+            1929. Fifteen grandchildren, eight ,
+            great-grandchildren survive.
+            Mr. Riggs was one of those good
+            friends and neighbourly men who are j
+            missed in any community. His chief |
+            and continual interest was in his
+            home and his strongest bond of affec-
+            tion was with those who shared :ts
+            happy intimacies with him. Never-
+            theless he was interested in the folks
+            who knew and made many friends
+            who w^ill greatly miss him.
+            The funeral was held from the
+            home and the Methodist church at
+            Alma Center last Thursday after-
+            noon. Services were conducted by
+            Rev. R. Harold Gee, pastor of the
+            Methodist church in Sparta. Pall-
+            bearers were neighbors, Ivan Gower,
+            Louis Link, Elmont Houser, Basil
+            Duxbury, James Thayer, George
+            Schroeder. The flowers were in
+            charge of Mrs. Basil Duxbury, Mrs.
+            George Wussow, Mrs. P. M. Chapman
+            and Mrs. Ed Bopp.
+            Those from out of town who at-
+            tended the funeral were Mark M.
+            Riggs, Kinsman, Ohio; Ralph H.
+            Riggs, Racine; Mrs. C. E. McMul-
+            lin and daughter Mildred and son
+            Roger, and Mrs. J. E. Knight, of
+            Sparta; Mr. and Mrs. David Jones
+            and children, Waukegan, 111.; Mr.
+            and Mrs. Walter Grottke and chil-
+            dren, Mr. and Mrs. Robert Riggs, Mr.
+            and Mrs. Wendell Riggs, of Neills-
+            ville; Mr. and Mrs. Edwin Pierce,
+            Mrs. M. P. Cannon, Mrs. Jennie
+            Dunn and Miss Ellen Quinn, Merril-
+            lan; Mrs. Bruce Van Gorden, Mr.
+            and Mrs. Guy Jones, Mr. and Mrs.
+            Robert Iliff of B. R. Falls; Mrs.
+            Theo. Voth, Columbus; Mr. and Mrs.
+            Walter Thomas, Galesville; Mr. and
+            Mrs. J. D. Preston, Earl Jones and
+            Albert Campbell, Hixton.</p>
+      </body>
+  </text>
+</TEI>

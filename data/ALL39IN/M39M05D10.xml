@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M05D10-Heap Tepee Talk</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK by Smoke Signal Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Andy” Kuhn has in the past given the theatre-goers many a treat in the way of movies, but he was three jumps ahead of himself when he presented “Dodge City”. In one of the episodes when the Yankee element were singing a “battle hymn” of the north and the people from the south began singing “Dixie”, it was then I found out there was a stranger
+            in the theatre, whether he or she was from Minnesota or Illinois I could not say because you know it was pitch dark inside. The lilting music of the song fest being so infectious I nudged my partner and we, being in the spirit of the thing, began singing “On Wisconsin”, when “bing!” something round and hard hit me on the tip of the ear and at the same time my partner said “Ouch” ! The
+            little pellet turned out to be a cough drop. Yep! There was a foreigner there alright. The father came back home from a fishing trip wearing a black-tipped yellow feather in his hat. The inquisitive young son wanted to know where his dad got the feather. He was told it came from a squirred. Non-plussed the young son shot right back, “Oh, from a flying squirrel, eh?” The moral: Nowadays
+            you can’t kid the youngsters and get by with it. The blueberry vines are blossoming, and so are June berry bushes and the wild cherry trees. It’s all up to Jack Frost now whether we will have a good crop of wild fruit. The woodlands are now veritable paradise of flowers. It will do a person a world of good to take a little stroll thru the woods. Not even at the world’s fair would a
+            person see anything so wonderful and so beautiful as the flowers we see right here in our own Wisconsin. Something in the way of novelty car license came to my notice just lately. A party ordered $1.50 worth of merchandise form a popular mail order house. He added a 1 to the amount and made it |11.50 on the P. O. money order coupon and stuck it on his windshield. Now anyone having a
+            “coupon” on his windshield is said to be using a mail order license. All roads lead to the Indian Mission and they are happy ways, but not to the visiting teams. Alma Center found that out last Sunday. It was just a practice game for the Hotonga Warriors. Any city, town, village, hamlet or a four corner store that has a team, girls or otherwise, that think they can compete with our
+            Hotonga girls, communicate with Gilbert Lowe, Route 5, Black River Falls, Wis. All this week mothers will be in the kitchen wracking their brains for some tasty masterpiece, or “brushing up” on their culinary artistry, for Sunday Is “Mother’s Day”. And that is “why Mothers get gray.” For the correspondent who sees his column in the back pages of the paper it is comforting to know all
+            the sweetest tidbits or delicacies are served at the end of a meal. One thing I can’t understand on this old earthly set-up is why frogs were created to be able to sit in ice cold water and still be able to whistle cheerily. Why could not the Creator do the same for us human beings? Then we could at this time of the year take our annual bath whether we need it or not, and still be able
+            to whistle while doing it. .</p>
+      </body>
+   </text>
+</TEI>

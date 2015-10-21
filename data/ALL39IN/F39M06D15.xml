@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M06D15</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Indian reporter have to leave pretty soon and work at Indian
+            ceremonial at Stand Rock at Wisconsin Dells and can’t write Indian News any more for
+            Tomah paper for folks until after Dells close up after Labor Day. Maybe some time get
+            ride to Tomah in day times and then tell girl at newspaper office things about Indians
+            and then have Indian News in paper same like before go away. Go fishing last week two
+            three times but fish don’t bite very good but mosquitoes they bit all time on neck and
+            hands and not very much fun fishing and other fellow say same thing. Indians going to
+            have another medicine dance at Dells Dam above Hatfield Saturday night all night and
+            Sunday in day same as church medicine lodge. Old folks tell me anybody sick take him
+            down there and get cured and believe that for long time back. Call it medicine dance and
+            all clans meet there and talk together and have mumbler talk and just about same thing
+            like white man call church. Now I going to tell about Indian medicine man and Indian
+            peyote man. Winnebago not many don’t have anything to do with peyote man and all believe
+            medicine man all right. Peyote man take what white man call whiskey bean that grow in
+            Mexico and in that country and chew peyote and then act like drunk after drink strong
+            moonshine and sometime make soup from peyote and drink soup and act same way. Then
+            peyote man can see things other Indians don’t see and can tell what make him sick. Then
+            maybe chew more peyote and tell him other things about get well and like that. Other
+            people not only peyote man chew peyote and drink peyote soup and make them feel good and
+            everybody feet nappy and think peyote man pretty good fellow until next day and then
+            sometimes people come here and sell same thing to Indians and change one cent for bean.
+            People tell about Indians in west about eat peyote and never sleep and most Indians kind
+            of afraid to chew it. Strawberries don’t grow good this year and Indian reporter pick
+            for Carl Jansen all day for eight hours and only pick 13 trays and make $1.17 and Jansen
+            berries better berries than I see on other farms too. Indian reporter walk to town by
+            Indian school today and make me think about time when I go to school there in 1893. Just
+            go to school from February to April and Supt. Simmons kick me out. Then every Sunday let
+            all boys and girls go down town to go to church and every Sunday me and other fellow and
+            two girls go out long walk and never go to church and one Sunday when get back to school
+            Supt. Simmons say did you go to church and I tell him no we went to Indian settlement
+            along tracks near Tunnel City and he say Frisk you’re all done with school and you get
+            out and don’t come back and Indian reporter never go to school anymore. First building
+            at Indian school was what you call boy dormitory and then boys and girls all live in
+            same building and first built in 1892 year before I go to school and get kicked out
+            pretty soon. .</p>
+      </body>
+   </text>
+</TEI>

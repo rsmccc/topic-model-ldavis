@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B2-8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>COMMON SENSE CONSERVATION
+            By L. H. Kingston
+            Governor Heils appointment of
+            Mark Catlin, Sr., Appleton, to the
+            conservation commission will meet
+            with the general approval of sports-
+            men in the northeastern part of the
+            state and wherever else he is known.
+            I do not know Mr. Catlin personally
+            but his writings prove him to be a
+            fine sportsman, an outdoorsman with
+            years of experience and an angler
+            who really knows his way around.
+            He has represented Outagamie
+            county as county conservation com-
+            mitteeman and he was elected in 1936
+            by the committeemen in his district
+            to the executive council of the state
+            conservation congress. He is popu-
+            lar amoung fellow sportsmen.
+            The casual observer will say that
+            Mr. Catlins presence on the commis-
+            sion should greatly benefit conserva-
+            tion in Wisconsin, but I think his ap-
+            pointment has much more signific-
+            ance than that.
+            Study the personnel of the con-
+            servation commission over recent
+            years and you will notice that lum-
+            bermen, resort owners and commer-
+            citl fishermen always have had their
+            representatives on the commission,
+            which is as it should be‚ but do you
+            see anybody who might be considered
+            as representing hunters, fishermen,
+            and conservationists? No, the fel-
+            lows who pay a large part of the con-
+            servation bills in this state have not
+            been represented at all; instead, poli-
+            ticians and party wheelhorses have
+            been receiving the lions share of the
+            appointments.
+            If Mr. Catlins meritous appoint-
+            ment marks the end of the pay-off of
+            political obligations by appointments
+            on the conservation commission, I
+            think that sportsmen and conserva-
+            tionists will extend to Governor Heil
+            their vote of thanks.
+            Misses Loraine and June Taylor
+            entertained friends at their home on
+            Thursday evening. They spent the
+            evening playing Chinese checkers and
+            lunch was served.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C4TM</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>American Indian Mission, 1503 No. La Salle St.,, Chicago, March 2, 1939
+            Dear Friend Lowe Cloud:
+            Indian friends in Chicago have called my attention to a recent notice in the “Indian News: of the Banner-Journal of our mission here. Please let me thank you for this kindness and tell you more about our work here. 
+            The American Indian Mission is to bring the gospel message to the Indians of Chicago and to try to establish a church for them here and a Sunday school for the little ones. Later we hope to add a social program of Christian activities, following this by an honest effort to help worthy Indians get work in the lines they are best fitted and educated for.
+            The Rev. Fred White Eagle is not a director or leader in this work. He is too busy preaching in other cities and states to be any help here. However he is the one who suggested to me to form such a mission for the several hundred Indians living here and their families. This work does not belong to any one person. It is for any worthy Indian and to help them wherever possible. 
+            Any and all money received will be placed in a special Indian fund of the Home Evangelistic Alliance who are a fine group of Christian business men that are my sponsors and especially interested in home missionary work.
+            We also carry on correspondence with two inmates of the Michigan state prisons who are Indians, and have had a letter every month for five months in a row.
+            From brother John Blackhawk we hear many interesting things, and enjoy a letter from him mow and then. WE are glad his wife is getting better and we pray earnestly for her.
+            At any time we can be of service or give you information, please write some and I will be glad to do anything I can.
+            Your articles in the Banner-Journal are very fine. I enjoy them. 
+            The sincere friend of the Indians,  Charles C. Storck, Field Secy
+         </p>
+      </body>
+  </text>
+</TEI>

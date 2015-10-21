@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M07D27</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>When Indians come through Wisconsin Dells always stop at
+            Stand Rock and talk with friends and people stop this week and tell about pick
+            blueberries up by Fairchild, Washburn, Iron River and tell Indian reporter season all
+            over and pretty good berries there. I want to tell you one thing sure blueberries pretty
+            good to have in winter time and another thing want to say when eat blueberries help
+            rheumatism like people have and when Indian reporter eat them he dance just as good
+            Indian dance as young buck and make him want to do things just like young fellow. Game
+            warden around here don’t bother Indian when he fish and just catch fish to eat and up by
+            Tomah every time Indian go near where people fish game warden jump out of brush and say
+            “where your license” and then have to go to Sparta and judge tell you go to jail for 90
+            days. Yesterday Indian reporter get three big fish and that night we have big fish feed.
+            Tomah people come up to Indian reporter Sunday night at Indian ceremonial where I hand
+            out cards and tell about have no rain since I come down here and want me to come back
+            Tomah and make big rain like I do 25th May. I tell folks about how I sell Tom-tom to
+            Soderstrom at Power Co. place and tell them I put it in paper this week about have
+            Soderstrom beat tom-tom and sing song on high hill and make rain. In camp woman name
+            Good Star Woman and been pretty sick. Yesterday she go out in woods to get some tobacco
+            and over 80 years old and blind. She go out in woods with daughter and tells them what
+            kind of trees when touch with hands and get one she wants for her tobacco. White man
+            call tree willow and Indian call same thing Kinnikinnie. She take rough bark off tree
+            and scrape stick and make pile of shavings and dry them and mix with tobacco for pipe.
+            Good Star Woman come from Winnebago, Nebraska but she is Sioux Indian. Indian reporter
+            glad to come back to Wisconsin Dells every year and see country that was Indian country
+            long time back. Long time back my people make mounds all around Dells and Portage and
+            Devil’s Lake. Indian reporter camp with father when young boy and one time father catch
+            big muskeilunge just below dam here. It free country then and Indians could take game
+            they want to eat and now when Indian do same thing get 90 days in jail and too many
+            white men game wardens. People tell Indian reporter Myron Lowe who is Indian from Black
+            River Falls going to box at big fight show at Tomah Fair 4th August and too bad Indians
+            at Stand Rock can’t come to fair and see Myron Lowe box. Next night Indian reporter
+            maybe go to fair at Tomah and talk to people and be part of program and see boss at
+            Stand Rock and see if I can go. That’s enough. Too hot day to write Indian News. .</p>
+      </body>
+   </text>
+</TEI>

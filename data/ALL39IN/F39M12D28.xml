@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M12D28</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Everybody ask Indian reporter why I don’t have Indian news in
+            paper two weeks and I get letters and say same thing. I was like what you call strike
+            and don’t write news because newspaper boss all time want news and don’t give me enough
+            money and I have to drive car to town and cost me money every time. Thursday we settled
+            strike and here I am Indian News again this week and maybe after while I get more money.
+            Kenny good fellow and we are friends and I help him out and write news about what
+            Indians do like what people want to read in paper. Everybody tell Indian reporter about
+            what I write best news in paper. Other day fellow ask me, I don’t know his name but he
+            know me and always say Hi Frisk like that when I see him in town, and he ask me Frisk
+            you are pretty smart fellow and maybe toy can tell me who got birthday last Monday
+            Christ or Santa Claus. I tell you same thing like I tell him and I say I don’t know too
+            sure. Churches all say Christ and store and everybody talk about Santa Claus and maybe
+            he got birthday too same time. I think maybe he is adopt child and grow to old man long
+            time back and everybody think he is same as Christmas and family have to moved into one
+            of the Spooner houses in this neighborhood. Mr. and Mrs. Adolph Schultz or Adrian were
+            visitors at the Sooner and Snowberry homes on a Sunday recently. Charles Spooner missed
+            a few days of high school recently on account of a bad cold and sore throat. John Dennis
+            called at the Rolls Vanervort home Sunday morning. The Madson family of Catarnet
+            attended the school program and were accompanied home by their daughter, Marie, of
+            Kirby. Mett Rose and daughter Marie of Kirby also attended the program. Several other
+            from outside communities were there also, but the writer did not get their names. .</p>
+      </body>
+   </text>
+</TEI>

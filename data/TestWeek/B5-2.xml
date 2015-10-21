@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B5-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            A correction should be made in *
+            one of last week’s items. It was the E
+            Ladies Aid that had the second birth- A
+            day party at the church instead of S
+            the Study club. There is no use C
+            talking there are too many societies
+            in the village. It’s hard to keep track
+            of them all and their activities.
+            Keep this date in mind—Friday
+            evening, March 31st. It’s the day
+            that the children’s program, sponsor- p
+            ed by the Ladies Aid, will give a fine C!
+            program. It will be an all-children jc
+            program, which includes “Pandora p
+            Opens the Box’’. Mrs. Fahlgren is c]
+            directing.	
+            A birthday party was held at the n
+            Oscar Skaar home last Saturday eve-
+            ning, and many attended. It was in
+            celebration of Oscar’s birthday, and hi
+            Wm. Haas’. Five Hundred was play- n
+            ed and a fine lunch served.
+            RECEPTION WELL ATTENDED
+            , Perhaps 100 people, altho a count
+            was not had, attended the reception
+            , given by the Commercial Club at the
+            . school house Saturday evening for
+            Dr. Boxer, the new resident physician
+            , and his wife. A feeling of good will,
+            ’ fellowship and cooperation prevailed
+            thruout the meeting, and every one
+            present was well pleased with the
+            ■ whole affair.
+            The meeting was opened by George
+            | Purcell, master of ceremonies, who
+            after a few opening remarks, intro-
+            duced various numbers of the pro-
+            gram. The high school band gave
+            three fine selections to open the pro-
+            gram. C. A. Nolop was called upon
+            and gave a short talk on the history
+            of the club and how the plan for a
+            ' new doctor started, and the trouble
+            they had at first, but finally success
+            was accomplished. Prof. S. J. Olson
+            then gave a talk on what connection
+            the school had with a doctor, giving
+            good sound reasons. Mr. Davidson
+            then gave a violin solo. Rev. Fahl-
+            gren then gave a talk after which
+            Mrs. Pierce was called and gave a
+            reading, "The Oyster Man”. Oscar
+            Rickard gave a short talk. R. H.
+            Hamilton gave “Casey at the Bat”.
+            Mrs. Jennie Van Sickle in behalf of
+            the mothers of the village, gave a
+            welcome in their behalf. George
+            Bouchard gave a “real speech”, so he
+            said. Edward Persson was next with
+            a few remarks asking the question
+            “What should be the most desired
+            thing in life”, and answering by stat-
+            ing “Health”.
+            Dr. Boxer was then called upon
+            and he acknowledged the hearty wel-
+            come he had received and was very
+            appreciative of it all. After the pro-
+            gram Dr. and Mrs. Boxer were intro-
+            duced to all individually. A light
+            lunch was then served.</p>
+      </body>
+  </text>
+</TEI>

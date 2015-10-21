@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M08D31BW</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Mr. and Mrs. James McKinnis from Delafield, Wis.,
+            are here visiting her folks at the Settlement. Bill Decorah and family are visiting at Mauston,
+            Wis. Mrs. Alice Clouds father, Jim Standing Water, died last week at Mauston. Mr. and Mrs. Eli
+            White Wing, also children George, Katherine and Caroline returned to the Settlement from Sturgeon
+            Bay. Herman Wabshagain and Mr. and Mrs. Sam Little George also returned from Sturgeon Bay last
+            Wednesday. Quite a few Indians went to visit Keshena Fair Sunday. Ray White Wing and family
+            returned after picking blueberries. Oscar Pigeon and his mother are paying a visit to Sarah
+            Johnson at Crandon, Wis. Mr. and Mrs. John C. Decorah are spending their vacation at Star Lake,
+            Wis. Fred Sam is back in the Settlement after staying in St. Paul, Minn., during the winter. .</p>
+      </body>
+   </text>
+</TEI>

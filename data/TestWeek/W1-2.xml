@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Young Almon Farmer Dies in Shawano
+            Earl Kolpak 21 year old son of
+            Mr and Mrs. Glint Kolpak, town of
+            Almon. passed away suddenly Monday
+            at the Shawano Hospital while a tonsil operation was being performed
+            Funeral services are to be held Friday
+            afternoon at  at the home
+            of the deceased. and at 1:00 o'clock at .
+            St. Paul’S Evangelical Lutheran
+            church in the town of Almon.
+            Karl has spent all his life on the
+            home form with his parents and sister.
+            Ho is well known, and he played with a
+            number of orchestras
+            He leaves to mourn, his parents.
+            Mr. and Mrs. Gust Kolpack, his sister, Arlene, and his bride to be, and a 
+            number of relatives and friends.
+            BANQUET CALLED OFF
+            The farmer-businessmen dinner
+            scheduled for this noon at Shawano
+            has been put on hold indefinitely on account of adverse weather conditions,
+            county agent G. F Buumeistcr said
+            this morning
+            Most of the farm roads will la-
+            drifted. he said, and chances ore most
+            of those who would like to rune in
+            from the rural areas will be unable to
+            make it.
+         </p>
+      </body>
+  </text>
+</TEI>

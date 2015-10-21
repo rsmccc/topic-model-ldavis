@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B5-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>B5-1
+            PERSONALS
+            Sheriff Waldum of B. R. Falls, was
+            here on official business, Monday.
+            Miss Jean Erickson visited Miss
+            Ruth Borchardt at Alma Center over
+            the week end.	*
+            Ira Bennett came home from the
+            hospital at B. R. Falls after an op-
+            eration for the removal of his appen-
+            dix.
+            Mr. and Mrs. Harlowe Rickard of
+            La Crosse, spent the week end here
+            with Mr. and Mrs. O. M. Rickard and
+            family.
+            Mr. and Mrs. Harvey Nielsen and
+            baby, of Tomah were Saturday guests
+            of Mr. and Mrs. C. I. Neilsen and
+            family.
+            Miss Cora Gutknecht and Mrs. Nor-
+            man Peterson of B. R. Falls, spent
+            Sunday afternoon at the Fred Hel-
+            bling home.
+            Helmer Munson of Pigeon Falls,
+            and Carroll Olson visited friends and
+            relatives in Madison from Thursday
+            until Monday.
+            Mr. and Mrs. L. V. Haydon and
+            Mr. and Mrs. Robert Staples and
+            family visited friends and relatives in
+            Granton last Saturday.
+            Misses Clara Benson and Virginia
+            Quinn were home from their business
+            college at Winona for the week end.
+            They had an extra day, too.
+            Mrs. Paul Boehnen and young son
+            of Milwaukee, are visiting at the
+            home of her father, Albert Hoffman,
+            and will remain until Easter.
+            Mr. and Mrs. Donald Biggar and
+            family of B. R. Falls, visited last
+            Sunday with Mr. and Mrs. Elmo
+            Johnson at the O. M. Rickard home.
+            John Williams and daughter, Mrs.
+            M. Peters, of Cambridge, Pa., an un-
+            cle of Mrs. Norma Sorley, are visiting
+            her and other relatives in the county.
+            Mr. and Mrs. Herbert Van Winter
+            and Miss Frances Johnson were in La
+            Crosse last Saturday afternoon visit-
+            ing with Mrs. Van Winter's sister
+            and family.
+            Dr. and Mrs. Boxer extend their
+            utmost thanks to the people of Merrillan and vicinity and the sponsors
+            of the marvelous reception held for ’
+            them last Saturday evening.
+            Mr. and Mrs. Jonas Johnson re- 1
+            turned from Minneapolis last Tues- !
+            day noon, having been called there :
+            the Saturday before, because of the
+            death of Mr. Johnson’s brother’s ,
+            wife.
+            The local cribbage club was entertained by Oscar Rickard at his home '■
+            last Thursday evening. Mrs. O. M. >
+            Rickard served a fine 6:30 dinner to •
+            which all did ample justice. The game 1
+            called cribbage then started and how •
+            the boys did ramble. At the close ‘
+            the following scores were discovered: 1
+            R. H. Hamilton 188, C. J. Johnson i
+            176, Fred Helbling 167, Eric Erick-
+            son 144, J. H. Stiehl 140, Oscar Er- t
+            ickson 130, C. A. Nolop 124, O. F. i
+            Peterson 101, Nels Erickson 98, Os- 1
+            car Rickard 83, Harry Hendrix 47
+            and Ed Persson 42. One of the up- i
+            sets that should be recorded was when '
+            Joe Stiehl and C. J. Johnson played 
+            against Elmo Johnson and Ed Persson 
+            in the first game. The two former 
+            won the game by 74 points. Wow! 
+            Chairman Chas. Olson of Jackson
+            county, C. A. Nolop of Merrillan, and 1
+            George Ringrose of Alma Center, s
+            were at Winona on Monday and met
+            with a part of the county board there
+            and talked over matters pertaining to
+            the highway from Winona to Merrillan. Especially were they interested .
+            in the new high bridge across the *
+            Mississippi and the bridge just west
+            of Merrillan across Hall creek. As
+            these two bridges represent both ends J
+            of Highway 95, which has been seg-
+            regated as the Trempealeau Trail, it
+            is essential that these bridges be
+            built. There is no question that some .
+            thing will be done on this particular *
+            highway this year, to start a better
+            road between these two towns.
+            Everett Frost has been placed in
+            charge of the recreation activities r
+            among the boys of the village, Eric e
+            Motte being removed because of non-
+            citizenship. Mr. Motte has had charge c
+            of the boys for the past year, and has 5
+            done some good work, but the “pow- 5
+            ers-that-be” say that aliens must be
+            removed, hence the change. Everett C
+            is a graduate of our local high school 7
+            and will continue to do good work y
+            among the boys.
+            L. L. Sherman has sold his service $
+            station to a party from Eau Claire,
+            who took possession last Saturday, i-
+            Mr. Sherman built the station just a
+            few years ago, and has done a fine d
+            business, using Standard products. J
+            Under the new owner the D-X prod-
+            ucts will be used, and Mr. Sherman
+            will continue to have charge, which f
+            will be pleasing to his many custom- h
+            ers.	g
+            Ted Winson broke the index fin- _
+            ger of his right hand in two places
+            last week while cranking a car. The
+            car didn’t kick, but something hap-
+            pened and his finger got the injury. -
+            One break was just above the second
+               joint and the other up in the hand. |
+               It will lay him up from work for
+               some time.	</p>
+      </body>
+  </text>
+</TEI>

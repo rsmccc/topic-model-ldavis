@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-11</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>NORTH SOUTH ALMA
+            Mrs. Peter Held entertained the
+            card club at her home Sunday eve-
+            ning.
+            Mr. and Mrs. Greeno of La Crosse
+            spent Sunday at the Frank Greeno
+            home.
+            Mr. and Mrs. Frank Greeno spent
+            Saturday evening at the Peter Held
+            home.
+            Ray Weiking of La Crosse, called at
+            the John and Victor Capaul home,
+            Friday.
+            Several from here attended the fu-
+            neral of Mrs. Schlegel in Alma Cen-
+            ter, Thursday.
+            Miss Josephine Reach spent a few
+            days last week with Mrs. Everett Gal-
+            ster of Oak Grove.
+            Mr. and Mrs. Orvis Burnett called
+            at Everett Galster’s of Oak Grove,
+            Saturday afternoon.
+            Mr. and Mrs. Antone Ripp and
+            family of North Branch, spent Tues-
+            day evening at Peter Held’s.
+            Jerdy Paar and son Gerald, of
+            Franklin, and Joe Woodworth of B.
+            R. Falls, spent Sunday at Victor Ca-
+            paul’s.
+            Mr. and Mrs. Arnold Jacobson and
+            family of Garden Valley, Harold Ja-
+            cobson and family of Northfield spent
+            Sunday at Arnold Jacobson’s.
+            Mesdames John Capaul, Victor Ca-
+            paul, Clarence Reach, Peter Held and
+            Marie Held helped Mrs. C. Capaul of
+            B. R. Falls, to quilt, Tuesday.
+            Mr. Zeman of Fall Creek, Miss Vi-
+            ola Capaul, Mrs. C. Capaul and Geo.
+            Roehler of B. R. Falls were dinner
+            guests at the John Capaul home on
+            Sunday.
+            Mr. and Mrs. Orvie Burnett and
+            family and Mrs. George Blencoe and
+            Arthur, David Blencoe and Mrs.
+            Maggie Davis of Alma Center, Mr.
+            and Mrs. Geo. Galster and Wendell
+            and Ruth, Mr. and Mrs. Everett Gal-
+            ster of Oak Grove, Mr. and Mrs. Clar-
+            ence Reach and Frank and Josephine
+            helped Mrs. Fred Blencoe of Hatfield
+            celebrate her birthday, Sunday.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M2TM</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some time in the latter part of January, the Wisconsin Winnebago Claim committee, of which the writer is president, 
+received a letter from their tribal attorney in Washington, stating that Senator “ Bob” La Follette had introduced the Winnebago 
+Jurisdictional bill on the 16th of that month, in Congress.  This bill, if it passes Congress, will open the doors of the Court of Claims 
+to the Winnebago tribe that they may present what claims they may have against the U. S. Government. 
+Proving claims against Uncle Sam is what we would call a task colossal. This Winnebago claim committee, representing the Winnebago tribe, 
+of Wisconsin, is represented in Washington by the tribal attorney Ralph H. Case. The committee is also working in conjunction with the state’s 
+attorney general’s office. A law was passed about four years ago in the state legislature conferring on the state the authority to secure or 
+work out some means o f securing satisfactory recompense for the Indians of Wisconsin from the U. S. government, for long neglected benefits 
+from unfulfilled treaties. Providing that this jurisdictional bill introduced in Congress by Senator La Follette should pass and the Winnebagoes 
+receive a favorable decision from the Court of Claims and the Indians receive satisfactory adjustments from Uncle Sam, 
+the state will have benefitted by having the living standards of its Indians greatly lifted and will have benefitted largely also from the monetary viewpoint. </p>
+      </body>
+  </text>
+</TEI>

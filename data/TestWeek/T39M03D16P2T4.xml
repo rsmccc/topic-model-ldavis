@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P2T4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Spring Valley
+            Mrs. A. Betthauser accompanied Misses Grace Cassels and Ollie Swanson of Sparta to Rochester, Minnesota Sunday to see Miss Catherine Betthauser who is convalescing there. 
+            Mr. La Verne Komiskey has gone to southern Iowa where he was called to his railroad work.
+            Mrs. John Betthauser and daughter spent Saturday night with the former’s sister, Mrs. A. H. Schultz.
+            Mr. and Mrs. Arthur Rehberg were Sunday afternoon visitors at the Lawrence Hart home.
+            Mr. Pete Gasper is sawing wood in this valley.
+            Mr. and Mrs. John Betthauser and family were Sunday guests or Mrs. Anna Gilson in Tomah.
+            Mr. Martin Komiskey and won Harold and Mr. John Gerke were Sparta callers Thursday of last week. 
+            Mr. and MRs. Fred Roscovious and so spent Tuesday at Lawrence Hart’s. 
+         </p>
+      </body>
+  </text>
+</TEI>

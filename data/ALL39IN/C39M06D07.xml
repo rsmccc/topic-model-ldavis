@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M06D07</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> RA worker gang are making dam and fixing up Dan its
+            too. ihey said Mr. Halverson need him up there for a game.
+            Strawberries is the time to picking. Quite a few Indians are going
+            to picK a day, and they will return to home on evening. Mr. and Mrs.
+            John Stacy went to Stevens Point again week ago last Tuesday, to see
+            their daughter, Miss Esther Stacy, and they said looks al­ right,
+            but they did not say when she wiii come home, and Miss Wanda De­
+            corah she was going home last Fri­ day. Matilda bnowoall is report
+            al­ right on this writing, at the same nospital. Bill O’Brien is
+            making fence around his house. He had some small children, he could
+            not keep in the house, and also road pretty close the house, pretty
+            danger for them. There fore he is trying to save his children. Tom
+            Thunder is here at Indian Mission waiting for another dance next few
+            weeks, and also his girls are going to pick strawberries for the
+            sea­ son. They are going already last Monday, and he is going with
+            them too. Don’t forget that Black River Val­ ley Centennial and
+            Homecoming on July 2nd, 3rd and 4th, and prepare to fix up with your
+            foreman, if you are working somewhere, or be better for you, you are
+            working at your own home, and 1 would like to see that because I am
+            not hundred years old yet, and if you ask old man Thunder Cloud he
+            can tell you most close to hundred years ago. Then some young
+            people, if they tell me some thing old thing, I would not believe
+            because I am older than he or she. WPA worker making house all along
+            bank Dickey creek, not I mean Postmaster “Dicky” this is name of the
+            creek, where you can get some trout. Mrs. James Yellowbank went to
+            General hospital at Madison last Monday and she had treatment medi­
+            cal again, and her son Delos Yellow­ bank was here at Indian Mission
+            to see relatives and friends. The ball game between Indians and
+            Pleasant View last Sunday the score was 18 to 0 in favor Indians,
+            and boys will expect play with Alma Cen­ ter next Sunday but not too
+            sure. We hope they will come to try our team. .</p>
+      </body>
+   </text>
+</TEI>

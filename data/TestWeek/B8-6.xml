@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>MELROSE
+            Mrs. Mary Bartlett entertained at
+            cards Saturday evening.
+            Mrs. F. P. Cates was a business
+            caller in La Crosse Thursday.
+            Mrs. Ed Erickson is a guest of rel-
+            atives in Eau Claire, this week.
+            Miss Ethel Miller of B. R. Falls,
+            was a Melrose visitor Sunday at her
+            home.
+            Miss Mabel Davis of Rockland,
+            visited at the Ed Peters home this
+            week end.
+            Mr. and Mrs. Wm. Sawyer visited
+            their new grandson at the Krohn hos-
+            pital, Sunday.
+            Mr. and Sirs. Lowell Deitch have
+            had as their guest recently, Miss Inez
+            Young, of Sparta.
+            Mrs. A. P. Johnson is spending the
+            week at the Olof Klinkenberg home
+            near North Bend.
+            The Rotary club had as guest
+            speaker on Thursday evening, John J.
+            Esch of La Crosse.
+            Born, to Mr. and Mrs. Harold Lar-
+            son, on March 9th, 1939, at Krohn
+            hospital, a daughter.
+            J. J. Spaulding returned early in
+            the week from Texas, where he had
+            spent the past month.
+            Mrs. Holmes, sr., who has been a
+            house guest at the home of her son,
+            returned to Unity, Sunday.
+            Mr. and Mrs. Robert Zeman of
+            Chicago, announce the birth of a son
+            on Monday, March 6th, 1939.
+            Miss Gretchen Stebbins motored to
+            Sparta Friday evening where she vis-
+            ited a friend who has been ill.
+            Mr. and Mrs. Albert Mierow re-
+            turned to Canada, Sunday, after hav-
+            ing spent the winter in Melrose.
+            Several Melrose high school stu-
+            dents attended the basket ball tour-
+            nament at Sparta during the week.
+            Mrs. Ralph Mierow returned Fri-
+            day from Trout, where she had been
+            for the past week with Elnora Burge.
+            Mr. and Mrs. Eldon Hertzfeldt are
+            the parents of a son, born Friday,
+            March 10th, at the Sparta hospital.
+            Mr. and Mrs. Price Moe of B. R.
+            Falls, attended the funeral of the lat-
+            ter’s aunt, Mrs. Milton Young, Thurs-
+            day.
+            Mrs. Ed Peterson accompanied Mr.
+            and Mrs. Jack Welda of Mindoro, to
+            Farmersburg, Iowa, recently, for a
+            visit.
+            Mr. and Mrs. Wayne Fabian visited
+            Mrs. Eldon Hertzfeldt and infant son
+            at the Sparta hospital Saturday eve-
+            ning.
+            Mr. and Mrs. Harry Sawyer are
+            the parents of a son, born Saturday
+            March 11, 1939, at the Krohn hos-
+            pital.
+            While at the church last week Ar-
+            thur Douglas suffered a slight illness
+            which has since confined him to his
+            home.
+            Mrs. Nora Kidney returned to her
+            home in Sparta Sunday, after having
+            spent the week at the Milton Young
+            home.
+            Miss Hazel Button was hostess to
+            the bridge club at her home Thursday
+            evening. Mrs. Leo Martin held high
+            score.
+            Oliver Olson and Raymond Sonnen-
+            berg visited with Helmer Olson at the
+            St. Francis hospital in La Crosse on
+            Friday.
+            Mrs. Maude Vogel and Mrs. Jan-
+            ette Hanson of West Salem, attended
+            the R. N. A. 40th anniversary dinner
+            on Saturday.
+            Mr. and Mrs. Lowell Deitch motor-
+            ed to Sparta Friday after Miss Dor-
+            othy Boeshel who spent the week end
+            at her home.
+            Mr. and Mrs. Leo Martin, Miss
+            Hazel Button and Enos Stebbins
+            were week end visitors in Madison
+            and Milwaukee.
+            Mrs. Ed Carlson left Friday after-
+            noon for Savannah, 111., called there
+            by the illness of her daughter, Mrs.
+            Norman Amidon.
+            Mrs. Mark Beach and Mrs. Z. W.
+            Gilbert were joint hostesses to the G.
+            P. bridge club at the former’s home
+            Thursday evening.
+            The senior class sponsored a card
+            party Monday evening at the high
+            school, to raise funds to help in pub-
+            lishing their annual.
+            Mrs. Harriett Hogg and Miss Jane
+            returned from La Crosse Sunday
+            where the latter has been a patient
+            at St. Francis hospital.
+            Mr. and Mrs. Andrew Larkin were
+            business callers in B. R. Falls, Fri-
+            day, Mr. Larkin having fallen recent-
+            ly, injuring his shoulder.
+            Mrs. Balch, of Sparta, a former
+            Melrose resident, attended the R. N.
+            A. celebration here Saturday, and is
+            a guest of Miss Carrie Lutz.
+            Mr. and Mrs. R. C. O’Hearn, Mrs.
+            Lillian Granland and Paul O'Hearn
+            attended an I. G. A. meeting and
+            banquet in La Crosse recently.
+            Monday shoppers and business call-
+            ers in La Crosse included Mr. and
+            Mrs. Chas. Kremmer and daughters,
+            Sue and Charlotte, and Mrs. Jas.
+            Curda.
+            The annual firemen’s meeting was
+            held Monday evening in the village
+            hall, following the business meeting
+            an oyster supper was enjoyed by the
+            members.
+            Mr. and Mrs. Howard Hemmy, Bet-
+            ty and Miss Grace Webb on Sunday
+            visited their aunt, Mrs. Mary Johnson
+            of Galesville, who is very ill follow-
+            ing a severe stroke.
+            Rev. and Mrs. Holmes had as their
+            guest on Thursday, the former’s
+            brother, Rev. Peter Holmes, of La
+            Farge, who was en route home from
+            a conference held in Eau Claire.
+            Among those who attended the last
+            services of Mrs. Joe Hryz at Black
+            River Falls on Wednesday from Mel-
+            rose included Mr. and Mrs. Frank
+            Wintjen, Mrs. Leo Martin, Mrs. Lou-
+            is Tjorstad and Miss Rachel White.
+            The Boy Scouts, with their scout-
+            master, Allen Grinde, hiked to Roar-
+            ing Creek Sunday after noon. Toward
+            evening Mr. Dicky, Mr. Sparhawk and
+            Dr. Gilbert joined them and after en-
+            joying supper, brought the boys home
+            in their cars.
+            Mr. and Mrs. Carl Peterson motor-
+            ed to Galena, Saturday, to visit their
+            son Bob, who has been incapacitated
+            for some time owing to a broken bone
+            in his foot. He is much improved
+            and accompanied his parents home
+            for a brief visit.
+            Word comes from Chicago that Mr.
+            and Mrs. Ren Simms are patients in
+            the Michael Reese hospital. Mrs.
+            Simms, who underwent a major oper-
+            ation on Tuesday, came through fine,
+            and Mr. Simms, who is under treat-
+            ment for sinus trouble, will be releas-
+            ed from the hospital soon.
+            Mrs. Harley Kunes of B. R. Falls,
+            and Harold Marshall motored to La
+            Crosse Thursday evening to meet
+            their mother, Mrs. Oscar Marshall, of
+            Neillsville, who returned from Eur-
+            eka Springs, Ark., where she has
+            been receiving treatments. Mrs.
+            Marshall has been very much benefi-
+            ted and continued on her trip to
+            Neillsville, Friday.</p>
+      </body>
+  </text>
+</TEI>

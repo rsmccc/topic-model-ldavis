@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B1-14</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>THANKS
+            Something nice happened at the
+            court house one day last week. Oliver
+            Ristuben, clerk of circuit court, was
+            given a happy surprise by his fellow
+            workers in the building. They all
+            chipped inas the saying is, and
+            bought a hearing device for him.
+            Everybody in the building was almost
+            as happy about it as he was when it
+            proved to work in his case. Seven-
+            teen years ago, following an illness
+            of a few weeks, he recovered with
+            impaired hearing. It has been a great
+            handicap, as it would to anyone, but
+            he has carried on in spite of it. He
+            asked us to put a small card of thanks
+            in the paper so all who made the gift
+            would know how deeply appreciative
+            he is. We are overstepping in doing
+            it, but hope he will forgive us. A
+            small card of thanks does not ade-
+            quately express the feeling he gave
+            us when he told about it. He said
+            that when he adjusts the machine and
+            cuts through the wall of silence that ;
+            usually surrounds him, the bitterness \
+            falls away. His friends join in this I
+            thanks to the thought which made the '
+            gift possible.</p>
+      </body>
+  </text>
+</TEI>

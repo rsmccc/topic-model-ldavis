@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1B4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Evelyn Gleason is Member of WBU Graduating Class
+            
+            The Wisconsin Business University is pleased to announce that Miss Evelyn Gleason, daughter of Raymond Gleason, of Tomah, will graduate on Sunday, March 19, at the school auditorium in La Crosse. The class of 75 members, is one of the best groups to go out from the Wisconsin Business University, grade requirements being a “90” average. Miss Gleason has been among the many students who have a surpassed this requirement. 
+            Commencement exercises will begin at three o’clock. Sufficient arrangements have been made to accommodate several hundred people. One of the main events on the program will be the awarding of a gold, a silver, and a cronze medal to the three members of the graduating class who have shown outstanding qualities as students and have proven by their personality and attitude that they are worthy of these awards. The next highest award that the Wisconsin Business University can give any student is a diploma which signifies that the student has satisfactorily completed the course of work laid out for him. Friends of the school are invited to attend the graduation exercises. 
+         </p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M08D03</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Well, I tell you first thing, everybody of Tomah Indians at
+            Wisconsin Dells all o.k. but Scott Mokey’s wife and she awful sick. They are down at
+            Lake Delton where he work at Parson’s trading post. She been pretty sick now for about
+            two weeks. Small Boy, that’s his name and I don’t mean he is little fellow from Black
+            River Falls and he turn car quick and roll car over two three times and break his arm
+            pretty close to elbow and hurt pretty bad. He go way up north and that’s when it
+            happened. Tourists now going pretty good and lot more people than last year. Indians
+            tell reporter that sell more baskets and people don’t say “too much money” every time
+            squaw say basket $1.50. Indian Reporter and Chief Rain-in-the-face Soderstrom fix up
+            rain pretty good last Thursday night. I didn’t talk to him but I put in Indian News
+            about have him beat tom=tom and make rain and paper come out Thursday morning and
+            Thursday night big rain that farmers like. Indian reporter was in Tomah Saturday and two
+            fellows buy me drink for way I fix up rain and tell me next time don’t wait for such
+            long time before fix up rain. I tell them tom-tom right here in Tomah and next time want
+            rain go to Power company place and let him know about it and he fi it up all right, and
+            have big joke and everybody laugh about beat tom-tom and shake rain out of clouds. This
+            two times now we make rain like that and both times farmers need pretty bad. Indian
+            reporter was in Cash Store Saturday and Arnold Schueler like what you call manager of
+            boxing show Friday night at Fair tell me two Indians going to fight in show and one of
+            them Myron Lowe of Black River. He tell me suppose I am going to be here for fight but I
+            have to work at Dells that night and coming to fair Saturday night and broadcast to
+            people that come to fair. People that run fair tell me lot of people want to see Indian
+            reporter that write news in Tomah Journal every week, and I want to see all my friends
+            and have talk to them. Friday night Indian Reporter have joke with people and talk like
+            southerner right in middle of 250 people that come from Louisiana and they laugh and
+            think big joke. That pretty long way to come to Dells. White Bear who is good singer and
+            drummer at Stand Rock have bad news from home at Winnebago, Nebraska and have to go to
+            home today because somebody pretty sick. .</p>
+      </body>
+   </text>
+</TEI>

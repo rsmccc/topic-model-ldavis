@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>HIXTON HAPPENINGS
+            Mrs. W. E. Abbott is on the sick
+            list.	,
+            Peter Paskin of Taylor, spent the
+            week end with friends here.
+            Mrs. A. W. Bates entertained her
+            bridge club Thursday afternoon.
+            Mrs. Fannie Whiting returned
+            home from the hospital Friday.
+            Ralph Randals, Lester and Leslie
+            Hulett left for Montana, Saturday.
+            Miss Joyce Lund of B. F. Falls,
+            visited friends in the village Sunday.
+            Mr. and Mrs. C. 0. Pratt and Mrs.
+            Emma Northup spent Sunday at Tay-
+            lor.
+            Mr. and Mrs. Peter Faldet were
+            Sunday dinner guests at Eddie Nel-
+            son’s.
+            Mr. and Mrs. Ted Thompson of
+            Eau Claire, were Sunday visitors
+            here.
+            Will Van Horn and B. L. Van Gor-
+            den of Taylor, were in the village on
+            Saturday.
+            Ben Hagen has moved his hatchery
+            to the comer lot purchased from F.
+            H. Randals.
+            Mrs. Ida Holmes and son Sherman
+            spent Friday evening with Mr. and
+            Mrs. 0. E. Hoddal.
+            Mr. and Mrs. Mahlon Ristuben and
+            son Tommy, of B. R. Falls, called at
+            Theo. Larson’s, Sunday.
+            Mrs. Henry Hayes, of Hixton, went
+            with her parents, Mr. and Mrs. Elmer
+            Martin, to La Crosse, Thursday.
+            Mr. and Mrs. Truman Skutley visit-
+            ed the latter’s sister, Mrs. Helga
+            Hjomevik and family, Sunday.
+            Mr. Davies of Spring Green, spent
+            several days last week with his daugh-
+            ter, Mrs. F. Pauli and family.
+            Mrs. Frank Randals returned home
+            from the hospital, Friday, where she
+            underwent a major operation.
+            Mrs. Frances O’Heam and son of
+            Melrose, viisted her parents, Mr. and
+            Mrs. Howard McLaughlin, Thursday.
+            Mrs. Martin Lovelien fell on the
+            floor in her home and cracked a hip.
+            Sympathy is extended by her many
+            friends.
+            Mr. and Mrs. Arnold Simonson of
+            Taylor, attended the funeral of their
+            nephew, Gary Yeske, at Melrose, on
+            Saturday.
+            The Presbyterian Ladies Aid So-
+            ciety took in $71.00 for the lunch
+            served a tthe Harland Duxbury sale
+            last Monday.
+            Mr. and Mrs. W. H. Duerkop and
+            Mr. and Mrs. Lyle Duerkop and son
+            Howard were Sunday dinner guests
+            at Frank Dell’s.
+            Mr. and Mrs. Maynard Yeske of
+            Disco, attended the funeral of their
+            nephew, Richard Gary Yeske, at Mel-
+            rose, Saturday.
+            Mr. and Mrs. Wayne Northup and
+            Mr. and Mrs. Victor Larson visited
+            Mr. and Mrs. Roy Locmis at Merril-
+            lan, Sunday evening.
+            Mr. and Mrs. Julius Nerby and
+            children visited the latter’s parents,
+            Mr. and Mrs. Nels Amlee of Vosse
+            Coulie, Sunday afternoon.
+            Hugh Sprester was taken to the
+            Krohn hospital Wednesday forenoon
+            by Sidney Jensen. He was taken ill
+            of flu about three weeks ago.
+            Mr. and Mrs. Wm. Steinbring, Mr.
+            and Mrs. Ed Duerkop and Postmaster
+            Simons were entertained at the R. P.
+            Rainey home at B. R. Falls, Friday
+            evening.
+            Miss Violet Fencil of Merrillan was
+            surprised when a party of nearly 100
+            of her friends met her at Lake Shore
+            club March 6th, the occasion being
+            her birthday.
+            Lutheran Ladies Aid meets at the
+            home of Mrs. Oscar Olson on Thurs-
+            day afternoon, March 23. Mrs. Wal-
+            ter Duerkop will asssit in serving.
+            Everybody welcome.
+            Miss Ada Larson and friend, Hel-
+            ga Larson and Albert Hagen of Vi-
+            roqua, and Thelma Larson and Earl
+            Peterson of B. R. Falls, were Sunday
+            evening visitors at Theo. Larson’s.
+            Mrs. Olaf Hoddal assisted by Mrs.
+            Ida Holmes, entertained ten little
+            girls Saturday afternoon in honor of
+            her little granddaughter Twila Dux-
+            bury’s 8th birthday anniversady. All
+            enjoyed the afternoon.
+            Mr. and Mrs. Elmer Martin receiv-
+            ed the saw news Thursday, that their
+            grandson, Richard Gary, youngest
+            son of Mr. and Mrs. Harold Yeske,
+            passed away at St. Francis hospital at
+            La Crosse. They went immediately
+            to La Crosse.
+            Those from here attended the fu-
+            neral of Richard Yeske at Melrose on
+            Saturday are Mr. and Mrs. Elmer
+            Martin and Alton Martin, Mr. and
+            Mrs. Henry Hayes and sons Elmer
+            and Curtis, Mr. and Mrs. Arthur
+            Thompson and daughter Betty.
+            The Wisconsin Business University
+            announces that Charles Chenoweth,
+            son of Mr. and Mrs. H. P. Chenoweth
+            will graduate on Sunday, March 19,
+            at the school auditorium in La Crosse.
+            The class of 75 members is one of
+            the best groups to go out from the
+            WBU, grade requirements being a
+            “90” average. Charles Chenoweth has
+            been among the many students who
+            has far surpassed the requirements.
+            He is a Fraternity member, because
+            of his scholastic achievement and per-
+            sonal development. Commencement
+            exercises will begin at 3 o’clock. Ar-
+            rangements have been made to ac-
+            commodate several hundred people.
+            One of the main events will be the
+            awarding of a gold, a silver, and a
+            bronze medal to the three members
+            of the graduating class who have
+            shown outstanding qualities as stu-
+            dents, and have proven by their per-
+            sonality and attitude that they are
+            worthy of these awards. The next
+            highest award that the WBU can give
+            any student is a diploma, which sig-
+            nifies that the student has satisfactor-
+            ily completed the course of work laid
+            out for them. Friends of the school
+            are invited to attend the graduation
+            exercises.
+            
+            BAND MOTHERS NOTICE
+            The Band Mothers will meet at
+            the home of Mrs. Geo. Reisinger on
+            Thursday evening, March 16th. All
+            members are urged to attend.
+            
+            LUTHERAN CHURCH
+            E. B. Christopherson, Minister
+            Services Sunday, March 19th, at
+            2 o’clock p. m.
+            HIXTON CAUCUS NOTICE
+            Caucus for the Township of Hix-
+            ton, Jackson County, Wis., will be
+            held at the hall in Hixton at 2 o’-
+            clock p. m. Saturday, March 18th.
+            (Signed)
+            H. A. SUKOPP
+            IRWIN BILLS
+            MAHLON NORDAHL
+            Caucus Committee</p>
+      </body>
+  </text>
+</TEI>

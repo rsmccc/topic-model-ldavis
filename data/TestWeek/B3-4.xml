@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B3-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>PEP MEETING
+            Our last pep meeting held March
+            3, proved to be just what the doctor
+            ordered. The program was as fol-
+            lows:
+            Selections by Pep Band
+            B. R. H. S. song—Students
+            Talk, “School Spirit”—Mrs. Olson
+            Pep Band—Novelty selection
+            Talk by Mr. Johnson
+            Presentation of basket ball and
+            football letters by Mr. Edelbeck and
+            Mr. Arnold.
+            Yells
+            “Go Black River Go”—Pep band
+            The following boys received a ma-
+            jor basket ball letters—Thos. Hors-
+            will, Verland Olson, Howard Haral-
+            son, Clifford Lowe, Alfred Stacy,
+            Warren Olson, Eugene Upton, Rob-
+            ert Carisch, Roger Negard, Bruce
+            Richards.
+            Stanley Gilbertson, Norman Mar-
+            tinson, managers, received minor let-
+            ters.
+            Boys receiving major football let-
+            ters: Dale Bjelland, Robert Carisch,
+            George Carson, John Gruber, Howard
+            Haralson, Thomas Horswill, George
+            Knutson, Clifford Lowe, Richard
+            Mattson, Wm. Mauhar, Gerald Nor-
+            thup, Verland Olson, Warren Olson,
+            Bruce Richards, Gordon Rudkin, Al-
+            fred ' Stacy, Eugene Upton, Robert
+            Hoffman, Berle Barkley.
+            MUSIC NEWS
+            A group of 7th and 8th grade boys
+            have formed an octette. The mem-
+            bers are Art Johnson, Carl Malchow,
+            Donald Larson, Don Holder, Hugh
+            Trask, Dean Allison, George Pauley
+            and Robert Waldum. They asked
+            Miss Keefe to practice with them.
+            They are practicing “The Vagabond”,
+            ‘The Dove”, and “Keep in de Middle
+            ob de Road.”
+            The band and orchestra mothers
+            purchased a new lyre for the school.
+            The mixed chorus will make its
+            first appearance Sunday. They have
+            a lot of new music and we hope we
+            will hear more of them.
+            Mr. Edelbeck’s photography class is
+            coming along very well. They have
+            been enlarging and developing films.
+            THE HOBBY SHOW
+            Most of you will remember the
+            Hobby show which was sponsored by
+            the high school last year. It was a
+            huge success with any number of in-
+            teresting hobbies displayed.
+            This year, some time in April, an-
+            other Hobby Show will be held in the
+            high school auditorium. All efforts
+            are being made to make it even big-
+            ger and better than last year’s show.
+            Entries from many parts of the coun-
+            ty, together with those from the city,
+            will do much to make this coming
+            event one to be remembered.
+            So if you have a hobby, get busy
+            and prepare it to be entered in the
+            show. Tell your friends about it too.
+            It is our hope to have every entry of
+            last year back again, plus many new
+            ones.
+            Watch the Banner-Journal and
+            Oriole for further details of the 1939
+            Hobby Show.
+            BREEZE CONTEST WINNERS
+            The three best snapshots, entered
+            in any of the previous snapshot con-
+            tests have been chosen by the judges.
+            The results of their agreements (or
+            arguments) are: The Winnahs!
+            First Place—Dorothy Staves
+            Second Place—Rosli Zwahlen
+            Third Place—Lottie Ruth Fryer
+            To the victors belong the spoils,
+            and so Dorothy will received as a
+            grand prize, a candid camera. Lot-
+            tie Ruth’s award will be an album,
+            and Rosli’s a portrait of herself or
+            a box camera.
+            Congratulations, you kodak fans!
+            Clifford Lowe, endowed with great
+            artistic ability, has drawn the best
+            cover design for the annual of 1939,
+            and thereby will receive his “Breeze”
+            free. The Breeze staff decided to
+            have the cover in the school colors,
+            Black and Orange. Won’t that be</p>
+      </body>
+  </text>
+</TEI>

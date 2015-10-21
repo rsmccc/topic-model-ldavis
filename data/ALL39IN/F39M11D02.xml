@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M11D02</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Well first thing I want to tell about what white fellow tell
+            me at Wyeville about friend that go fishing up Onalaska and go fishing no one else with
+            him and catch three big fish and bring them home. When he got home like fellow say he
+            have big feast with his family and then take other fish over to neighbor and neighbor
+            fellow laugh and tell him that is dog fish and nobody eat dog fish get pretty pale and
+            look pretty sick. Lots of Indians and I know white people too eat dog fish and make them
+            in big stew and dog fish taste pretty good fish and pretty good to eat. Indians some
+            people think not as smart as white fellows but I tell you one thing pretty sure Indian
+            know when he catch what kind of fish he has. Now I tell you what I know about how people
+            don’t have enough to eat and times with all people get pretty bad. Two three year ago
+            everybody talk about pretty soon we have good times again and everybody have plenty to
+            eat and like that and white fellows that run government going to fix things up all o.k.
+            Indian reporter been here long time and I know myself young Indian man that have family
+            always have plenty to eat for family and have warm clothes in winter. When Indian
+            reporter was young fellow have work all time and everybody work and get two dollars two
+            dollars and half a day and take his money to town and get lots of things and money go
+            pretty good. Now when go to store and have money to buy and fellow in store say first
+            thing “How much money you got?” and only give you just few things that you want and
+            money pretty soon all gone and I don’t think that very good times. And another thing I
+            want to tell about all farmers around where I live and other places same thing have own
+            farms few years back and now farmers don’t own farms and somebody else now have place
+            and he work for them and that pretty bad too and nobody very happy. .</p>
+      </body>
+   </text>
+</TEI>

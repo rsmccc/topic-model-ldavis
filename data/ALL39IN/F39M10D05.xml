@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M10D05</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Duck hunting pretty good and most people that go hunting get
+            ducks first day. This week I want to tell white people about good job I have one time
+            and all time 1926 work for Minnehaha Arrowhead Hosiery company and travel all over
+            everywhere and go to Kenosha, Superior, Racine and I can’t tell all places and go to
+            different town every week all time from one winter to next winter and go to just big
+            towns and work all time for whole year in store window. White people come by window and
+            stand long time and watch me make bow and arrow and some time make tom-tom. First time I
+            go I take Ford touring car and car break down and white boss get pretty mad when I get
+            there second day and not there on time and he give me tickets on railroad and tell me
+            next time you take train and if I am late he get new Indian to sit in store window. I
+            like job like that and meet people and everybody that time call me chief. White man beat
+            Indians this year when have contest cranberry raking Wisconsin Rapids and first time for
+            long time. Next year Indians make things different I bet you and Indians always best
+            rakers and been that way for long time. Cranberry season just about over and only three
+            four more days and all through next week. Butts and other fellows tell everybody about
+            black geese that roost in three at lake and people at Wolcovasky tavern want Indian
+            reporter to tell about bird white fellows call black geese and I go to lake and Indians
+            call them fish ducks and Indian reporter hasn’t seen fish duck for long time. Fish duck
+            is only bird Indian reporter ever know that has web foot like goose and roost in tree
+            like hen. .</p>
+      </body>
+   </text>
+</TEI>

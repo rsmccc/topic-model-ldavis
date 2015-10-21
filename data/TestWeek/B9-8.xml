@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B9-8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>WEST GARDEN VALLEY
+            Mrs. Z. N. Nelson viisted with Mrs.
+            N. Thulin, Tuesday.
+            Mr. and Mrs. George Dahl spent
+            Sunday evening at Z. N. Nelson’s.
+            Mr. and Mrs. George Dahl were
+            dinner guests at Louis Erickson’s, on
+            Sunday.
+            Mrs. Louis Erickson and Ida Er-
+            ickson spent Monday with Mrs. Nels
+            Thulin.
+            Rev. Paul Modeen of Amherst, was
+            calling on friends here the latter part
+            of last week.
+            Mrs. Ralph Erickson of Hixton,
+            spent Thursday with her mother, Mrs.
+            Z. N. Nelson.
+            Mr. and Mrs. Andrew Erickson
+            were dinner guests at G. A. Erick-
+            son’s, Sunday.
+            George Dahl and Edward Hendrick
+            son attended I. O. O. F. lodge at Mer-
+            rillan Thursday night
+            Albert Hendrickson and daughter
+            Lucille were guests at the N. K.
+            Johnson home Thursday.
+            Alvin Hogden and Ernest Eisman
+            of Ettrick, called at the Nelson and
+            Dahl homes Thursday evening.
+            Miss Margaret Dahl accompanied
+            friends to Menomonie, Sunday, to
+            visit at the Howard Held home.
+            Mr. and Mrs. N. Thulin, also Miss
+            Ida Erickson spent Monday evening
+            with Alfred and Matilda Dahl.
+            Mr. and Mrs. Ralph Erickson were
+            guests at D. E. Erickson’s, Sunday.
+            They also visited at Z. N. Nelson’s.
+            Mr. and Mrs. Louis Erickson and
+            Arnold, and Mr. and Mrs. Nels John-
+            son of Alma Center, spent Thursday
+            evening at Geo. Dahl’s.
+            Mrs. B. O. Larson returned home
+            Sunday from Whitehall, where she
+            spent the past week visiting her
+            daughter, Mrs. A. B. Erickson and
+            family.
+            Several friends and neighbors
+            spent Thursday afternoon with Mrs.
+            Z. N. Nelson in honor of her birth-
+            day. A delicious lunch was served and
+            all had a fine time.
+            Miss Doris Erickson spent the week
+            end at her home here from her
+            school duties at Hixton. Miss Thelma
+            Jane Laing was forced to remain at
+            home last week on account of illness.
+            Miss Matilda Dahl and Mrs. George
+            Dahl entertained the Garden Valley
+            Home Makers at the home of the for-
+            mer, Friday afternoon. A large del-
+            egation of members and several vis-
+            itors were present. A fine time was
+            had by all.
+            G. A. Erickson, one of the oldest
+            settlers of this community, celebrated
+            his birthday Sunday, having reached
+            the ripe old age of 85 years. Mr.
+            Erickson is very fortunate in having
+            his children all residing at home or
+            close by, and all were with him to
+            help him celebrate Sunday. Though
+            not in the best of health, he is able
+            to be around much of the time. His
+            many friends extend many happy re-
+            turns of the day, and hope that he
+            may live to enjoy many more of
+            them.</p>
+      </body>
+  </text>
+</TEI>

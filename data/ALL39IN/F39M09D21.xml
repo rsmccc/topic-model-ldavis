@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M09D21</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>First thing I want to tell this time is about all Indians go
+            to La Crosse 23rd September to be at big pow wow when big bridge that go over
+            Mississippi river open. Indian reporter want to go down to that and everybody tell me
+            going to have good program and good time and Indians and white people go there. Mayme
+            Frogg, she is my daughter, she come down to see us. She live on Hayward Chippewa
+            reservation and come to our place Friday and go back to home this week some time. Her
+            oldest boy going to school and her man go back to work WPA next week and have to return
+            to home. She tell me lots of white people come to Hayward from Chicago and like that and
+            have good time and fish in summer. Everybody catch lots of fish and I go there myself
+            and every time catch fish. Not like fish like pollywogs and lizzards like people here
+            think good fish- great big fish that fight pretty bad and pretty bad time to get out of
+            water some time too. Pretty soon time to go hunting again and I go through woods last
+            week and I tell you one thing quite a few pheasants and look like pretty good for
+            hunters this year. Indian reporter know now where to find birds when white man law tell
+            Indian he can shoot pheasant and I know pretty sure I won’t get skunked. Phil Bennett
+            and Guy Potter have lot of Indians raking cranberries at marshes. Sunday Indian reporter
+            at Guy Potter place and all time Indians pull in and come from all over Wisconsin
+            Rapids, Melrose, Wisconsin Dells, and all around every place. Cranberries look good and
+            white fellows that own marsh make some money and Indians that rake cranberries make
+            money. Robert Big Thunder brought my brother’s girl to Indian hospital Sunday. She from
+            Wittenberg and doctor tell her better come to hospital. She is my brother George girl
+            and he is dead now and everybody around here knew him one time. .</p>
+      </body>
+   </text>
+</TEI>

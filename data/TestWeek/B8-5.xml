@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>TROUT RUN
+            Rev. Allison came down to help at
+            the church, Thursday.
+            Mr. and Mrs. Myhres spent Wed-
+            nesday evening at Zimmerman’s.
+            Lloyd McNulty came up from
+            Sparta Sunday with his parents.
+            Mr. and Mrs. Earl Horswill and
+            children spent Sunday at Tomah.
+            Mr. and Mrs. R. Zimmerman were
+            recent visitors at Peter Hoagenson’s.
+            Mr. and Mrs. Axel Odeen and chil-
+            dren spent Sunday at the George Det-
+            tinger home in your city.
+            Mrs. Alex McNab returned to Rice
+            Lake Wednesday. The ladies met at
+            the church to rip off paper Monday,
+            and had the pleasure of her company
+            and help.
+            Ralph Hostrawser, Mr. and Mrs.
+            Irwin Avery, Mr. and Mrs. Jule Nort-
+            man and Donovan, Mr. and Mrs. Jer-
+            ome Annett and daughter spent Sun-
+            day at Colby’s.
+            The many friends of Miss Elnora
+            Burge who has been so very sick,
+            are glad she is a trifle better. She
+            entered the Krohn hospital this morn-
+            ing for treatment.
+            Mr. and Mrs. Irwin Avery will go
+            to the Harvey Gilbertson home Wed-
+            nesday, where he has employment.
+            Fremont Avery is still sick in the U.
+            S. hospital at Hot Springs, Ark.
+            Mr. and Mrs. Walter Enger and
+            son of Madison came Friday and vis-
+            ited over Sunday with their daughter,
+            Mrs. Stanley Stratton. Mrs. Enger
+            remained for a longer visit. Other
+            guests Sunday were Mr. and Mrs. H.
+            E. Berg and Dean, and Mr. and Mrs.
+            Carl Straton.
+            Mrs. Will Colby received a message
+            from John Brinkman of Waycross,
+            Georgia, that his wife died Feb. 24.
+            She was formerly Miss Florence
+            Head, one of the fine teachers of
+            Jackson county years ago. A num-
+            ber of years ago the Brinkmans went
+            south to live. For the past three
+            years she suffered of dropsy and the
+            past year was confined to her bed
+            most of the time. The funeral was
+            held Tuesday, and she was laid to
+            rest in the nearby cemetery. Her
+            sister, Mrs. Ed Hostrawser (Mary-
+            Head) is also resting there. Mrs.
+            Brinkman visited here several years
+            ago and always kept in touch with
+            former friends by reading the B-J.
+            She leaves an adopted son and her
+            husband, who have the deepest sym-
+            pathy of old friends in Jackson coun-
+            ty.
+         </p>
+      </body>
+  </text>
+</TEI>

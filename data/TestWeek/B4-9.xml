@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B4-9</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>CARD OF THANKS
+            We wish to express our heartfelt thanks
+            to the many friends and neighbors who so
+            kindly expressed their sympathy at the time
+            of the death of our father. Ole B. Hoff.
+            Especially do we thank Rev. Christopherson,
+            those who sent flowers, and the memorial
+            gifts that were given; the pallbearers,
+            Mr. Jensen, and all who in any way assist-
+            ed us at this time.
+            We wish to extend our heartfelt thanks
+            to aall who gave their help and sympathy
+            during the illness and death of our beloved
+            wife, mother and sister. Especially do we
+            wish to thang Rev. E. A. Klemp. the pall-
+            bearers and all who assisted in our hour
+            of sorrow.
+            ERNEST SCHLEGEL
+            WILLIAM GRANER
+            AND FAMILY
+            IN MEMORIAM
+            In sad but loving memory of our darling
+            little boy, Harold Allan Duerkop, who was
+            so suddenly taken from us one year ago
+            today, March 14, 1988, at the tender age
+            of three years, lu month? and 14 days.
+            We had a little treasure once.
+            He was our pride and joy;
+            We loved him, oh, perhaps too much.
+            He was our darling little boy.
+            All is dark within us.
+            Lonely and sad are our hearts today;
+            For the one we loved too dearly
+            Has forever passed away.
+            Sadly missed by hfs parents and brother,
+            MRS LYLE DUERKOP
+            CARD OF THANKS
+            I wish to thank all who were so kind
+            and sent me letters and cards, and also
+            the Ladies Aid for the nice sunshine box
+            which I received while I was at the hospital.
+            MRS. JOHN A. HANSON, Hixton, Wis.</p>
+      </body>
+  </text>
+</TEI>

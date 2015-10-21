@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B5-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>B5-3
+            MRS. SYDNEY ROSE
+            The following from the Sycamore,
+            111., newspaper tells of the life of the
+            above party:—“Burial rites for Mrs.
+            Sydney Rose who died at 2:15 o’clock
+            Saturday morning, were held Monday
+            afternoon at 1 o’clock from the resi-
+            dence at 438 Pary Ave., and at 2 o’-
+            clock from the Methodist church, the
+            Rev. Charles H. Draper officiating.
+            Burial was in Elmwood cemetery.
+            “Julia Olson was born in Pray,
+            Wis., June 20, 1890. She was the
+            daughter of Mr. and Mrs. Nels Olson.
+            The family moved to Merrillan where
+            she attended the public school. On
+            July 16, 1908, she was married to
+            Sydney Rose, at Humbird, Wis. For
+            a time the young coouple resided in
+            Merrillan, then moved to Sycamore,
+            25 years ago. She was a member of
+            the Methodist church and of the Roy-
+            al Neighbor Lodge.
+            “Besides her husband, there sur-
+            vive one son, Neil, of this city, her
+            mother, Mrs. Nels Olson, of Merril-
+            lan, five sisters, Mrs. William Siems
+            of Merrillan; Mrs. J. M. Pritchard
+            and Mrs. P. S. Rennick of Stevens-
+            ville, Mont.; Mrs. Lee Volk of Rhine-
+            lander, Wis., and Mrs. Mark Heald,
+            Wisconsin Rapids; and three broth-
+            ers, Clarence and George Olson of
+            Wisconsin Rapids, and Orville Olson
+            of Merrillan.”
+            The family has many friends in
+            Merrillan who join in expressing their
+            sympathy.
+            Correction:	The Epworth League
+            rally has been changed to Saturday
+            evening, March 25, at B. R. Falls.
+            Humbird: The men of Humbird
+            church are serving a beef stew supper
+            March 17. They will begin serving at
+            5:30 and the price is 25 cents.
+            Mid-Week Lenten services. Alma
+            Center Wednesday, 8:00; Merrillan
+            7 :30; Humbird Thursday 1:30. Stir
+            yourselves to come to these meetings.
+            The Sunday school attendance in
+            Merrillan was 86 and the offering
+            $1.46 last Sunday.
+            The sermon topic for next Sunday
+            is “Why Do Men Suffer?”
+            The attendance at church last Sun-
+            day was 78 at Alma Center, 53 at
+            Merrillan, 15 at Humbird.
+            Mrs. Archie Elmore came home
+            from the sanitorium at Stevens Point
+            last week and is very much improved,
+            gaining some weight.
+            Mrs. L. C. Porter has been ill of
+            flu and other ailments and is still
+            confined to the house and part of the
+            time to her bed.
+         </p>
+      </body>
+  </text>
+</TEI>

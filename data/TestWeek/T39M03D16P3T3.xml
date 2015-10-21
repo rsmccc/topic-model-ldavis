@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P3T3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Ridgeville
+            Dear Elenora and Bill:
+            A few signs of spring are prevalent, the sun rises so much earlier, and our suppers can be eaten by light of day. Here and there one hears the cheery note of birds, and in all nature there is a lighter tone. Alfred Bruggemann, it is said, has his seed grain tested, cleaned and sacked, and seed corn growing green in cans on the kitchen window sills. Telephone conversations revolve around the interesting topic- just must get something to wear. School children’s faces are showing a fine tan, and baseball games are being scheduled. March 21, first day of spring. 
+            Speaking of school, may we present Carl Berg, secretary-treasurer of the Monroe County Teachers Association, elected to this important position at Sparta convention last week. Carl has taught the Hillcrest school the past four years. Ramona and Roland Baumback of near Norwalk, who rendered fine musical numbers at the convention, are cousins of the Martin Roscovious families here. 
+            For the Ridgeville school Henry Knapp built a fine recitation table. 
+            Friends of Mrs. Harvey Wruck, Norwak, will be grieved to learn of her untimely death. Mrs. Wruck was operated on fro gall stones on Tuesday at the Lutheran hospital in La Crosse, and passed away on Monday. Interment this Thursday afternoon at the Evangelical church. 
+            The flu has swept across the ridge and leaves in its wake, colds, headaches, and many bed confined victims too numerous to mention. 
+            Mrs. Arthur Garske entertained at a quilting bee last Wednesday. 
+            Mr. and Mrs. Harvey Nauman announce the arrival of a daughter on February 21. Mrs. Oliver Dopson, fairy godmother at the Nauman’s, returned to her home on Monday last. Four year old Lillian is planning sand pile activities and hide and sell games with baby ‘sisser’. 
+            The Mischa Elman violin concert is being held at the Pabst at Milwaukee this Saturday evening. 
+            The Wisconsin Agriculturist of February 25 carries a fine picture of George Kuenning, organizer of our Monrow County fine Homemakers clubs. Mr. Kuenning has been in charge of fluid milk arbitration and regulatory work in the agriculture and markers division. Now he is promised to chief supervision of the __ inspectors and cheese garden as well as further fluid milk control. Quoting Mr. Kuenning, “WE are uncious to use our force of dairy field men as helped rather than arbitrary agencies, and education instead of police work is the aim we seek.”
+            Elmer Gerke, Madison State Capital, spent the week at the August Gerke and Rudolph Zellmer homes. 
+            Six months old Darryl Von Haden, son of the Eary Von Haden’s plunged his tiny hand in a cup of hot coffee. Dr. Allen gently bandaged the hand, and today Darryl shakes his head “no no” when mama pours the coffee. 
+            Mrs. Conrad Sell suffered a painful abbess on her face caused by a tooth. Dr. Foley was called, looked very grave, and left a box of pills. Mrs. Sell is now convalescing. 
+            Herman Kewit passed away of heat trouble at his farm on Tuesday. Interment took place on Thursday at Tomah.
+            The Otto Albrechts have had a telephone installed on the Norwalk line. 
+            Mrs. Louis Kuthlow was awarded a fine prize from the State of Wisconsin on a butter recipe in a recently conducted contest. We hope to secure the recipe and will pass it on to you-if so. 
+            Hope all is well with you
+            Aufsweidersehn
+            
+         </p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F39M08D24</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Indian News By Frisk Cloud</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Last week Indian reporter drive to Tomah to give news to
+            paper and everything fine on way to Tomah and have no trouble with car or anything like
+            that. When two o’clock in afternoon we get car and start back to Dells because I want to
+            be at Stand Rock for Indian ceremonial at night and have nine blow-outs on way home and
+            just like gun go off every just few miles and flat tire all time and I got pretty mad
+            after first two three times and have to stop and fix same thing. I tell that cat what I
+            think in Winnebago talk and sometime don’t have right word to say in Winnebago and I use
+            white man talk and I bet you I tell I am pretty mad. When we get back to Dells
+            everything dark at Stand Rock and now all over and everybody sleep and 12 o’clock at
+            night. This week I buy postage stamp and leave car under tree and not come to Tomah with
+            news anymore. Friday night Robert Bruce who is Chippewa and play cornet and big shot
+            that everybody know was at ceremonial and just about every night we have big shot people
+            like that at our show and Indian reporter dance pretty good and think maybe some time
+            fellow will tell me to come to Hollywood and have me dance in moving picture. Third
+            September everything close up at Stand Rock and Winnebago Indians come to Tomah and
+            Wisconsin Rapids and Mather and all around and help rake berries at cranberry marshes
+            and Pueblo Indians return to states they come from and harvest things they raise there
+            too. .</p>
+      </body>
+   </text>
+</TEI>

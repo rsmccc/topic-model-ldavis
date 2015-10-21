@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P4B8</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Girl Scout News
+            The Girl Scouts of Troop 4 held a meeting at the Miller school Saturday, March 11. We talked about our cookie sale the following week, from March 12 to 18, and our visit to the Evangelical church on Sunday, March 12.
+            The Court of Honor served popcorn and apples to all present. Four mothers visited Saturday. WE were very happy to have only three people absent, leaving us a total of 28 present. Keep up the good work, Scouts.
+            The Girl Scout cookie sale will start March 12 and last through the 18th. If you wish to co-operate please buy the cookies and help the Scouts with their camp funds. 
+            Mothers! Please visit Scout meetings. 
+            Scribe Troop 4, Harriet Holm. 
+         </p>
+      </body>
+  </text>
+</TEI>

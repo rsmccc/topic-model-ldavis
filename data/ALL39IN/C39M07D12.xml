@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M07D12</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> It is time to pick blueberries. Not much on this
+            section. But some other place report have had a good crop at north.
+            There are many Indians are going to North picking blueberries. Mrs.
+            Tall Decorah has been sick some time ago. They took her at Tomah
+            Indian hospital last week. Tom Thunder went to Wisconsin Rapids last
+            week. He want come back on this week. He is hurry to get his car as
+            soon as he can get here again. R. A. worker looking for their check
+            since last week, has not come yet, and some are not very anxious to
+            get them because not very much for this period. The word received
+            from Witten­ berg, Ed Smith passed away July 4th night, 12:15, at
+            his own place, and he is over sixty years, and survive his wife and
+            their children and many other relatives and friends and those who
+            know him is very sorrow for him and everybody know him of his age.
+            The sympathy goes to his family, and some other relatives and
+            friends. Hon. Merlin Hull is here last week. We always very glad to
+            see him, and he is man work for his own district, the people, white
+            and red skin, its make no difference to him any kind color. Henry
+            Greengrass and Indian re­ porter were here in town to get order to
+            cut hay at government land. Indian reporter had a letter from Mr.
+            William Bumice of Fairchild, last week, and he want to see him if he
+            have time to do so. Walter Luedtke spent several days in this
+            community inspecting risks for the Herman Farm Underwriters and the
+            Herman Mutual Insurance Co. Miss Ann Rauk writes from Columbia,
+            where she is attending summer school, that she enjoys the East and
+            has also taken in the World’s Fair. At the morning services at the
+            Lutheran church Roger Allan, son of Mr. and Mrs. Ralph Stevens, and
+            Junior Kirby, son of Mr. and Mrs. Harold Kirby, were baptized. Mr.
+            and Mrs. Harley Finn and family, James Finn of Garden Valley, Mr.
+            and Mrs. C. E. Olson and son Philip spent Friday at the Van Gor­ den
+            cottage at Hatfield. Arthur Erickson is taking a two weeks vacation
+            from his duties at the Jackson County Bank. Philip Mills, of B. R.
+            Falls, is taking charge of the bank during his absence. Mrs. Lillian
+            Moe and daughter Evelyn, of Independence, and Mr. and Mrs. Olaf
+            Amundson and son of Blair, and Mr. and Mrs. Oscar Larson and family
+            enjoyed a picnic at B. R. Falls, Tuesday. Mr. and Mrs. Ludwig Rice
+            and daughter of Minneapolis, and the former’s sisters, Agnes and
+            Mary, o f Madison, Minn., stopped at Ole Huseboe’s, Tuesday enroute
+            to the World’s Fair at New York. On Sunday, Rev. Bringle accom­
+            panied by Miss Lillian Stensby, Jer­ ome Hanson and Vernon Rauk went
+            to Chetek to spend a week at the Bible camp. Others going by bus
+            were Misses Mabel Fenney, Lois Smith, Vol berg Huseboe, Norma
+            Bemtson, Olive Petsch, Lylah Johnson, Marjorie Berg, Verna Berg and
+            Dorothy Halverson and Messrs Raymond Anderson, David Wallen, Alfred
+            Waller Jr. and Ralph Loken. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B3-2</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“SO LONG AGO!” I’ll bet some of you know that Black River had a
+            school paper, namely “The Breee”, as far back as 11 years ago, 1928.
+            We still have the Breeze. It is now our annual, but the school paper
+            has a different name (Pm sure you’ve all read the “Oriole”.) But I’m
+            not supposed to be telling you about the “Oriole”. It’s well- known,
+            and I feel safe in saying well lived, in our school. But let’s turn
+            time back to 1928 and talk about “The Breeze.” First of all, there
+            was an organiz- ation called “The Ink Spots”, made up largely of
+            girls. The club sponsor- ed a leap year party, this particular year,
+            and the invitations were artis- tically printed by hand by Miss
+            Carol Kinley. The party was a gay one, for every one dressed like a
+            child. Each guest was to come to the party in appropriate costume
+            and be pre- pared to recite some rhyme of his or her childhood.
+            After the dinner each “child” recited his “piece” or sang a song. A
+            prize was given to “little Tommy Mills” for the best recitation,
+            even though he broke down and wept for “Mama” when he couldn’t
+            remember his lines. The best-dressed child, “little Carol Kinley”,
+            also car- ried off a prize. After awarding the prizes, the “little
+            folks” were allow- ed to dance in the spacious hall or the Junior
+            High building, and promptly at 9 o’clock all were sent home. I think
+            this sort of party would go over “big” in our school. How about it,
+            Mr. Johnson? Some other interesting features of the 1928 Breeze were
+            original poems written by some of the students. One poem, “Lincoln”,
+            by Norma Bersing, particularly appealed to me. It was
+            after*Lincoln’s death. There was also a short review of the class
+            play of that year. Mr. Sin- delar was included in the cast. He took
+            the part of John Sedgwick, an old flame of Miss Day (Marjorie Ov-
+            erlien). Wonder if he still remem- bers it. The Commercial
+            department was giving typing medals then. too. And if a student
+            typed 25 wQjds a minute for 15 minutes without more than 10 errors,
+            he received a proficiency cer- tificate. Pins, or medals, were given
+            the same as they are today. Jokes were also printed in “The Breeze”,
+            some of which are reproduc- ed in this issue of the “Oriole”, with a
+            change of characters. Did you know that our High school printed a
+            monthly magazine called The Black River Breeze” as far back as 1909?
+            No? I didn’t either until I read the “Breeze of ’28.” There were
+            also short articles about the G. A. A.- Girl Scouts and the Hi-Y
+            club. I thoroughly enjoyed reading the paper, and if I haven’t given
+            you enough information here. I’m sure Miss Bailey would let you “see
+            for yourself.” Get in line! I </p>
+      </body>
+   </text>
+</TEI>

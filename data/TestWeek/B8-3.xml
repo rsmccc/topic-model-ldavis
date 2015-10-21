@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B8-3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>UPPER SQUAW CREEK
+            Miss Esther Stenulson spent Mon-
+            day at C. Ofte’s.
+            Mrs. C. Ofte and irwin spent last
+            Thursday afternoon at S. Severson'6.
+            A number from this vicinity attend-
+            ed the Olson sale at Taylor, last Sat-
+            urday.
+            Misses Alma and Gladys Amundson
+            were callers at Severson’s, Sunday
+            evening.
+            Mrs. Sig. Severson was a visitor at
+            the Harry Haralson home in your city
+            last Sunday.
+            Mrs. Alvin Engebretson and daugh-
+            ter Phyllis, spent Friday afternoon
+            at Stubrud’s.
+            Archie and Leonard Thompson
+            were at La Crosse with a load of to-
+            bacco, Monday.
+            Mr. and Mrs. Sig Severson attend-
+            ed the Aid at Halvorson’s, at Pine
+            Creek on Friday.
+            Mrs. Ed Thompson went to Nece-
+            dah Sunday to visit her daughter Mrs.
+            Rottler and her family.
+            Mrs. C. Ofte entertained our teach-
+            ers, the Misses Johnson and Person,
+            for supper Monday evening.
+            Mr. and Mrs. Mark Engebretson
+            and Adolph Olson and family were
+            visitors Sunday at Geo. Slosser’s.
+            Mr. and Mrs. Arthur Collum of
+            Alma Center attended church here on
+            Sunday. They called on Grandma
+            Thompson after the services.
+            Louis Stein, Mrs. P. Stubrud and
+            son Glen were at La Crosse Tuesday
+            of last week, the latter going there
+            to see Dr. Jones for a foot ailment.
+            Mr. and Mrs. Roy Haralson were
+            at Taylor last Thursday and Friday
+            assisting with the work at Olson’s for
+            their sale on Saturday. There was a
+            very large crowd.
+            Mr. and Mrs. Adolph Anderson en-
+            tertained several of their neighbors
+            at a Bingo party Saturday evening.
+            A good lunch was served and all en-
+            joyed a pleasant evening.
+            Carl Knutson and family of Spring-
+            field have rented the Kelner farm for
+            the coming season. J. Paulson and
+            family who have resided there are
+            planning to move out soon.</p>
+      </body>
+  </text>
+</TEI>

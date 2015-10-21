@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M04D13- Violet Big Thunder</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The Wausau visitors the past week were:
+            Mrs. Thomas Little Bear and son, Thomas, of Wisconsin Dells, visited the home of Mrs.
+            Robt. Big Thunder; Mrs. Eli White, Mrs. Frank Storm, Mrs. Eugene Wabashagain and Mrs.
+            Sam Little George were also at the Big Thunder home. Miss Katherine White Wing was a
+            week-end visitor at her aunt’s home. Mr. and Mrs. Nat Long and family and Mr. and Mrs.
+            Alfred Big Thunder and family attended a Easter dinner at the home of Lena Big Thunder.
+            Mrs. Robt. Big Thunder and Violet went to Tomah on business. On the way back they
+            visited at the Wisconsin Dells Indian Settlement. Their trip was rather a fair one, but
+            a little too cold. Quite a number of Indians attended an Easter gathering at the home of
+            Nat Decorah where dinner was served. Mr. and Mrs. Annie Ruben and family returned to
+            Madison April 4 after spending the winter in Florida. George White Wing spent a week at
+            his home in Wittenberg, but has returned to his aunt’s home in Wausau. Miss Isabel
+            Smith, daughter of Mr. and Mrs. Edward Smith, died Friday at the Tomah Indian Hospital
+            after a lingering illness. The funeral was held at the Indian church and burial followed
+            in the church cemetery. Mr. and Mrs. Joe Smith of Mauston attended the funeral services.
+            Two of our Indian boys, Melvin Decorah and Leroy Brown, have entered the Rib Mountain C.
+            C. camp in Wausau. Emerson Thundercloud, who finished his term there, has returned home.
+            He is ill with a cold. .</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>W1-4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Play Contest
+            The Band Mothers are offering a
+            prize for the beat play given at the
+            Play Contest in the high school gymnasium on Friday evening, March 2
+            The Wittenberg 4-11 club will present the play, "Be Heme at Midnight."
+            in which five high school student will
+            take part.
+            "Chocolate Cream Wedding." is the
+            title of the play that will be given by
+            the Methodist Ladies' Aid.
+            "Between Tram*" will be present* I
+            by the Wittenberg HomemakerS Club
+            PupilS from the Norm School had
+            intended to enter a play, but due to
+            unavoidable circumstances will lie un
+            able to do so, according to their principal, Wilmarth Thayer.
+            There will be several musical
+            specialty number- between the acts.
+            Home made candy will be offered
+            for sale during the evening.</p>
+      </body>
+  </text>
+</TEI>

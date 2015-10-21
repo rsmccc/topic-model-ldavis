@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M12D06 Indian News</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>The school rooms are all trimmed up for Christmas, Miss Amundson has a tree in her sand table with Santa Claus trimmed in fur standing here and there. Mrs. Olson
+            has her windows painted with wise men, palm trees and stars. They also have a tree but is not trimmed as the pupils will learn to make trimmings in their drawing time. If you
+            want to get tanned your deer hide before dry, see him Indian reporter or write to him, he will tan for cheap, depend on size. Black River Falls, Wis., R. 5. Mr. and Mrs. Henry
+            Greengrass, Mrs. Jennie Y. Decorah and Indian report went to Tomah Indian Agency office last Saturday morning. They saw Mr. M. E. Gorman with his clerk Mr. Blankard Blakelin are
+            both at Duluth, Minnesota, and Mr. Gorman will be here again next a few weeks. He is examine inheritance of Indians. Charley Young Thunder who live in Brockway, moved to place
+            near David Decorah’s with his family. We have been prepare the things for next Christmas, children and adults at the Indian Mission are busy making gifts for the Ganada Indian
+            Mission hospital in Eastern Arizona. They will celebrated a white gifts Christmas at the church on the evening of December 17. A t that time they will bring their gifts. Last
+            year 27 Indian girls took nurses training at this hospital school. They were from 17 tribes. This mission has the only nurses training school for Indians exclusively in the
+            world. The forelady and crew of WPA like their new place built a short time ago. They are faithful and conceited in their work. Doctor Arthur Winter of Tomah Indian hospital will
+            be at the new clinic office near Hotonga school, Dec. 7 or 8. Any one want Doctor care he can come those days. Chris Olson, son Arnold Olson, William McGreene and Leo Edlebeck
+            went to hunter deer first two days. They could not get any deer and couple days afterward they heard some men were killed and hurt from deer hunting and some other accident. Mr.
+            McGreene afraid to go out again and same way Chief Moses Paquette heard these things, he afraid to go out in woods. He thought his enemy were out in the woods and he never say in
+            word any more, he went back to work making pop wood. .</p>
+      </body>
+   </text>
+</TEI>

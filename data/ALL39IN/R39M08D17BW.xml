@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R39M08D17 BW</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Susie Smith, Mrs. Ellen Thunder Cloud and
+            son Emerson drove to Shawano lake Monday on business. Herman Wabshagain, Mr. and Mrs.
+            Sam Lille George and George White Wing went to Sturgeon Bay for a few days visit. Some
+            of the Wittenberg Indians are there as yet. Miss Katherine White Wing returned to
+            Wittenberg couple weeks ago. She was working for her aunt at Delafield, Wisconsin.
+            Alfred Big Soldier and his family moved to Iola for a few weeks to pick beans. Our star
+            reporter, Bob Big Thunder, is spending his vacation at Madison. Mrs. J. E. Adams of
+            Kesherna was an afternoon visitor at the Wabshagain home Monday. Mr. and Mrs. Leonard
+            Hopkins and children, Chancey and Dolly, returned Tuesday form Merrillan, after
+            attending the pow-pow. .</p>
+      </body>
+   </text>
+</TEI>

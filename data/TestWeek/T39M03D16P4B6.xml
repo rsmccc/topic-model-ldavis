@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P4B6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Wm. D. Bell. 70, Dies At Sparta
+            Wm. D. Bell, son of Isaac and Mary Lee Bell, was born in Westshire, New York, November 29, 1868. He departed this life March 10, at the age of 70 years, three months and 10 days. 
+            At the age of nine years the family moved to Sparta where he grew to manhood. He chose farming as his vocation. 
+            In November, 1895, he purchased a farm in Coles Valley on which he resided until the last few months, which he spent with his daughter, Vera, at Leon. 
+            He was united in marriage with Caroline Wendland on September 5, 1892, who passed away two years ago November 24, 1936. 
+            To this union nine children were born, sic of whom survive him, namely, Elmer of Chicago, Illinois, Mrs. Ed Wilson of Tomah, Arlet of Milwaukee, Mrs. John Summerfield of Norwalk, Mrs. Clinton Betts of Sparta, and Victor on the home place. Three children preceded him in death, Otto who face his life in the World War, and Beatrice and Ward, who died in infancy. Surviving also are two brothers, Louis and Delbery of La Crosse, two sisters, Mrs. Nora Smith of La Crosse and Mrs. Kathryn Eichie of Los Angeles, California, also 23 grandchildren, and two great grandchildren, besides many relatives and friends. Two sisters also preceded him in death, Mrs. Flora Goss of California, and Mrs. Ada Lamb of Oklahoma. 
+            He was of a generous disposition, ever willing to help anyone about him. 
+            Funeral services were held at the Lanham Funeral home, Sparta, and interment was in Oak Grove cemetery, Tomah, Rev. Mahn of Norwalk officiating. 
+            Those from out-of-town who attended the funeral were Mrs. Ed Nauman and son Arthur of Chicago, Elmer Bell, Chicago, Arlet Bel, Milwaukee, and Mrs. Nora Smith, La Crosse. 
+         </p>
+      </body>
+  </text>
+</TEI>

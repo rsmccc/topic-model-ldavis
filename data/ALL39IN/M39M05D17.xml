@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M39M05D17- Heap Tepee Talk</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HEAP TEPEE TALK By Smoke Signal Red Cloud </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Ice formed on water in pails left outside last week, for three nights running, and any one going out in the early hours of the morning would have seen the ground white with frost. It had the, very little effect on the blueberry blossoms and also the blossoms on apples trees, and this was because there was a breeze during the night. If it had been a quiet night Boy oh Boy! What damage it would have done to the fruit crop. The clerk was asking
+            the usual questions of the applicant applying for work. The name was potted down and so was the address. The man’s marital status was inquired into and was answered in the affirmative. Next came questions as to color of hair and eyes, height and weight. The clerk asked the man his race, and the answer was given. Next the clerk asked “sex?” The man colored a little and said “Oh yes, but aren’t you getting a little too personal?” Last Sunday was a day long to be remembered and there
+            was a big crowd there to celebrate the 6th anniversary of the founding of the Indian Mission. Many whites were there. Some visitors and some guests and others board members of the church sponsoring the missionary work among the Winnebagoes. The atmosphere took on the air of an old-time revival meeting and the sermon and services were held under a large canvas top erected on the mission grounds. The first five Winnebagoes to be converted into Christianity about 45 years ago were all
+            present at this 60th anniversary. They were Rev. and Mrs. John Stacy, Rev. David W. Decorah and two brothers, the Elders, George Lowe and King of Thunder. By the way Mrs. John Stacy is a sister of the two brothers mentioned. At this anniversary 17 young Winnebago children were baptized and became members of the congregation of the Mission church. Dinner was served to all who were present and every one was again invited for supper so no one went away hungry. All credit must go to the
+            Ladies Aid of the Indian Mission for all delectable eatables that were enjoyed by all. One can frequently listen to sermons given by those who are well read and well versed in the Bible stories but it is a rare treat to hear those who are really God inspired, men who have Lived a lifetime really trying to know God, men who have really tried to understand what God expects of any one apostle and these were the type of men and women who were guest speakers at this grand meeting. The
+            peace that passeth all understanding seemed to have permeated the very atmosphere and that very peace and calm seemed to be reflected in the face of every one present. The people of the white race and the Red race stood elbow to elbow, shoulder to shoulder all happily worshipping God who is really the only one God of all races. Weather permitting there will be a ball game between the Komensky Redshirts and North Branch Twigs next Sunday at the Mission grounds. Persistent rumor has it
+            the fast Hotonga girls ball team will play a strong team. At this writing the name of the team hoping to win against the Indian girls is unknown to the writer. Spend the afternoon at the Mission sightseeing and watching the ball games. It is all free for nothing. The Izaak Walton tribesmen were on the warpath early Monday morning staging a fierce attack on the red speckled finny tribe of the cold waters. Who will tell the best fish story? .</p>
+      </body>
+   </text>
+</TEI>

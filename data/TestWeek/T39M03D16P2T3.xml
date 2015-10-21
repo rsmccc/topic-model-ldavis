@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P2T3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>City Council Proceedings State of Wisconsin, county of Mornoe, March 7, 1939, City of Tomah, City Hall, 7:30 p.m. Council met in regular session with His Honor the Mayor in the Chair and
+            all aldermen present at roll call. Minutes of the previous meeting read and approved. The Finance Committee reported favorably on the following bills: Tomah Journal, printing_ _ $12.00 R.
+            E. Grovesteen labor _ _ _ 1.10 Frank J. Davy and Son, services _ _ _ 5.00 Leo E. Pingle, labor _ _ _ 4.00 Bert Fuller, supplies_ _ _ 4.00 Tomah Cash Mere. Co. supplies _ _ _ 1.99 Tomah
+            Fire Department, Services _ _ _ 7.00 State Treasurer, insurance _ _ _ 15.05 Marvin Gerke, gas roadways _ _ _ 26.03 Roy W. Steele, gas, sewer, fire dep’t _ _ _ 9.85 James Thompson, gas,
+            police department _ _ _ 11.54 Drow Hdwe, supplies _ _ _ 3.30 Andres Hdwe., supplies _ _ _ 4.20 Central Hdwe., supplies _ _ _ 16.81 Tomah Lumber Fuel Co., material _ _ _ 7.57 Crossett Mtg.
+            Co. coal _ _ _ 39.53 Crossett Mtg. Co., supplies material _ _ _ 9.24 C. M. St. P. P. Ry. Co. settees _ _ _ 14.48 Wis. Power Light Co. current, white way, arcs _ _ _ 409.86 Wis. Power Light
+            Co. current _ _ _ 38.11 Fred M__ labor _ _ _ 24.35 Dick Keen__ wood _ _ _ 22.50 Motion made and seconded that the bills be allowed and orders drawn for th several amounts. On call of roll
+            all sidermen voted “aye”. Motion carried. The reports of the City Treasurer, City Clerk and Police Officer ___. Bank balances: School, general _ _ _ $ 33,035.55 School PWA _ _ _ 38,238.36
+            Water Fund _ _ _ 9,159.78 General Fund _ _ _ 23,445. __ $103,878.85 Mr. Soerstrom addressed the Council relative to the Tomah Babcock road. Motion made and seconded that the money
+            appropriated to send two men to Washington D.C. relative to the Indian school property, be transferred to the promotion of the Tomah-Babcock road. On call of roll all aldermen coted “aye”.
+            Motion carried. The resignation of C. W. Croty as Justice of the Peace was read. Motion made and seconded that the resignation be accepted. On call of roll all aldermen voted “aye”. Motion
+            carried. The application of Mary Mick for a Class “A” retail license to sell beer was read. Motion made and seconded that the license be granted. On call of roll all aidermen voted “aye”.
+            Motion carried. The application of Frank Wagner to do the work at the City dumping grounds was read and laid over. A resolution to extend the time for the payment of taxes to July 1st,
+            1939, without penalty was read. Motion made and seconded that the resolution be adopted. On call of roll all aidermen voted “aye”. Motion carried. An ordinance No. 202 to regulate and
+            license dances and dance halls was read. Motion made and seconded that the ordinance be adopted. On call of roll all aidermen voted “aye”. Motion carried. The application of W. F. Cotey
+            for beverage operator’s license was read. Motion made and seconded that the license be granted. On call of roll all aidermen voted “aye”. Motion carried. The claim of Frank Fuchs against
+            the City of Tomah in the amount of Fifteen Hundred Dollars ($1500.00_ for damages sustained in the following manner. Hip fracture sustained in falling while crossing the street on Superior
+            Avenue and on the crosswalk of said Superior Avenue at the intersection with Milwaukee Street while walking form what is known as Taylor’s Store corner to the Cash Store corner, on the
+            27th day of January, 1939. The said injury being sustained by falling upon the crosswalk of said street due to the unsafe condition because of the ice and the neglect of the City of Tomah
+            to maintain said sidewalk in a sage condition, was read and referred to the City Attorney. The petition for a sidewalk on the south side of Council Street between Superior Avenue and
+            McLean Avenue was read and referred to the Board of Public Works. The request of the PTA Association for an appropriation of $45.00 to be used for the vaccination of school children unable
+            to pay for same was read. Motion made and seconded that the City of Tomah appropriate $45.00 for the above purpose. On call of roll all aidermen voted “aye””. Motion carried. Motion made
+            and seconded that the City of Tomah purchase 10,000 publicity folders to be placed in the AAA booth for advertising the City of Tomah was read. Cost of 10,000 folders to be $100.00. On
+            call of roll all aidermen voted “aye”. Motion carried. The applications of Betty Ann Schoot and John Grutsch as attendant at the American Automobile Association booth were read and filed.
+            Motion made and seconded to adjourn carried. Attest: Ethel Sowle City Clerk Must Be That Judge (impaneling jury) – “So you’ve neither formed nor expressed an opinion?” Talesman: “No, your
+            honor.” Judge: “Married, I suppose.” </p>
+      </body>
+   </text>
+</TEI>

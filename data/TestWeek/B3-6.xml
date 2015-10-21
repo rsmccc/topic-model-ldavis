@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B3-6</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>RESOLUTION
+            Whereas the Supreme Ruler has in His
+            Infinite Wisdom removed from oui
+            our lodge sister, Margaret Johnson,
+            Be It Resolved, That we, the members
+            of Nora Lodge No. 10 of the Scandinavian
+            Fraterity express to the bereaved husband,
+            mother, brothers and sister, our sincere
+            sympathy in their sorrow.
+            Be It Further Resolved, that our charter
+            be draped, that a copy of these resolutions
+            be sent to the bereaved family, a copy be
+            placed on the records of our society.
+            “So let her sleep that dreamless sleep.
+            Our sorrows clustering ’round her head;
+            Be comforted, ye loved who weep.
+            She lives with God—she is not dead.
+            MATTIE TORKELSON
+            HELEN HEINECK
+            SOPHIA PEARCE
+            CARD OF THANKS
+            We wish to thank our friends for their
+            expressions of sympathy upon the death of
+            our mother and grandmother, Mrs. George
+            Cleveland. We thank the pall bearers, those
+            who furnished cars, for the songs that were
+            sung, also the ministry by Rev. Bicket.
+            "•One less at home; the charmed circle brok-
+            en,
+            A dear face missed day by day from its
+            accustomed place;
+            But saved by grace.
+            One more in heaven, one more at home;
+            [ That home whvre separation cannot be;
+            Lord Jesus, grant us all a place with thee
+            Thot home whence none is missed eternally!
+            At home in heaven."
+            MRS. HENRY MATHEWS AND FAMILY
+            MRS ROY GATES ANI) FAMILY
+            GUY CLEVELAND AND DAUGHTER
+            ANDREW AND OLIVER CLEVELAND
+            CARD OF THANKS
+            I wish to thank all those who came to
+            see me during my illness, the doctors, and
+            nurses, of the Krohn clinic for their good
+            care. Also those who sent me cards and
+            presents. MRS. FRANK H. RANDALS
+            Hixton, Wis.
+            Mi</p>
+      </body>
+  </text>
+</TEI>

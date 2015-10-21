@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C39M11D29</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Miss Louise Kippenhan is going home to eat Thanksgiving dinner with her family in Appleton, she will
+            return Saturday. Miss Tillie Stacy, forelady ladies sewing project she says she did not have any news this week. Henry
+            E. Olson has gone to deer hunting, and season opening last Saturday in the Jackson county too. Gilbert Lowe got some
+            deer hunters, some white men, as they said “no luck”. Two of them gone back home. Albert Lowe of Tomah, staying at Tom
+            Kingswan since last Friday. Per­ haps he will stay with him until after deer hunting. The young people of the
+            community have formed a church choir. The anthem they sang in connection with the communion service last Sunday was
+            much appreciated. A group of Sunday school workers met with Ben Stucki and the consistory Saturday evening to discuss
+            the plans for celebrating Christmas. Mr. and Mrs. Nathaniel Decorah of Mauston, staying with Mrs. Decorah parents Mr.
+            and Mrs. Frank Lewis. They will stay during deer hunting. John Black Hawk and Deno Greengrass has been trapping at
+            north, but they had no luck, too many trappers they could not find a place for trap. Mrs. Esther Peterson was here
+            last week with Mr. L. G. Trowbridge of Menomonie. He is district supervisor NY A project. They said NYA boys will make
+            one skating pond near the Indian Mission for the school children. John Stacy and his son Alvin Stacy are working hard
+            fixing water pump taking out pipe yesterday and John is always do something, he is working fix up inside community
+            house and one of make foundation and plaster too. There will be exchange to give any things for Christmas present. You
+            can signed your name at Mrs. Emma Lowe this week and you can take your person’s name next Sunday so you will prepare
+            for to give anythings present next Christmas day. Mrs. John Black Hawk has been gone to General Hospital at Madison
+            last two months for she had two oper­ ation since she went there and she came back to Tomah Indian hospital last
+            Friday. She is not very wellyet so she have to stay there for a while until she will get well. There will be no school
+            Thursday or Friday. Mr. Landgray, state inspector, Miss Hanson and Mrs. Rose | the supervisors visited Hotonga school
+            Tuesday. Mr. Landgraf says he has | been seen, lots different school thru the state, this Indian Mission school beat
+            them all, he saw make good work and neat. .</p>
+      </body>
+   </text>
+</TEI>

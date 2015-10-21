@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T39M03D16P1T5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Tomah Indians Winners At Sparta Tournament
+            Hill’s Shope to Open Saturday 
+            Modern New Store is Fine Asset to Tomah 
+            An attractive new business place will be formally opened in Tomah on Saturday, March 18, when La Verner (Doc) Hill invites inspection of the new men’s wear store in the Reisenauer building. While the store has been operating during the past week. The stocks have not been received for the various departments or the furnishings complete and Doc has set Saturday as the formal opening day, when everything will be arranged to show visitors to the store a really attractive shop. 
+            Snappy styles in suits at moderate prices and all the accessories that tend to create the well dressed man will be stocked by this newest Tomah store, which will cater to the needs of men and young men. The lines are all of well known makes and have been selected with taste and care. 
+            The fixtures and furnishings are exceptionally well designed and make an attractive showing for the display of merchandise in the newly-remodeled Reisenauer building. There is an atmosphere of good taste in this snug shop for men and everything is modern and in keeping with this new shop.  
+            “Doc” Hill is well known in this community. For the past several years he has been employed in the clothing department at the Tomah Cash Mercantile Company store and resigned from the position to start in business for himself. His many friends in this community will be pleased with the very fine and modern store Doc has arranged for their convenience. 
+            Everyone is extended an invitation to visit Hill’s Men’s Wear ship on Saturday and the fine new store that has been added to Tomah’s business district. 
+         </p>
+      </body>
+  </text>
+</TEI>
