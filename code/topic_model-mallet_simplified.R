@@ -93,9 +93,11 @@ vocabulary <- topic.model$getVocabulary()
 
 word.freqs <- mallet.word.freqs(topic.model)
 
-topic.model$train(500) ## only took 4 seconds, GPA used 2000
+topic.model$train(800) ## only took 4 seconds, GPA used 2000
 
 topic.words.m <- mallet.topic.words(topic.model, smoothed = TRUE, normalized = TRUE)
+topic.words <- mallet.topic.words(topic.model, smoothed = FALSE, normalized = FALSE)
+topic.words.c <- apply(topic.words, 2, sum)
 
 doc.topics.m <- mallet.doc.topics(topic.model, smoothed = TRUE, normalized = TRUE)
 
@@ -104,7 +106,8 @@ docs.length <- as.vector(docs.length)
 
 library(LDAvis)
 
-json <- createJSON(phi = topic.words.m, theta = doc.topics.m, doc.length = docs.length, vocab = vocabulary, term.frequency = word.freqs$term.freq)
+json <- createJSON(phi = topic.words.m, theta = doc.topics.m, doc.length = docs.length, vocab = vocabulary, term.frequency = topic.words.c)
+
 serVis(json)
 
 

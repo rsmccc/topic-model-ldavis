@@ -66,11 +66,10 @@ topic.model$loadDocuments(mallet.instances)
 
 word.freqs <- mallet.word.freqs(topic.model)
 
-topic.model$train(1000) ## only took 4 seconds, GPA used 2000
+topic.model$train(800) ## only took 4 seconds, GPA used 2000
 
 topic.words <- mallet.topic.words(topic.model, smoothed = FALSE, normalized = FALSE)
-topic.counts <- rowSums(topic.words)
-topic.proportions <- topic.counts/sum(topic.counts)
+topic.words.c <- apply(topic.words, 2, sum)
 
 doc.topics.m <- mallet.doc.topics(topic.model, smoothed = TRUE, normalized = TRUE)
 
