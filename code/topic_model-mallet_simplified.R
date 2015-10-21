@@ -1,8 +1,10 @@
-# URA Topic Model with LDAvis, Riley McCloskey (RSM)
+# Undergraduate Research Assistantship (URA) Topic Model with LDAvis
+## Riley McCloskey (RSM)
 
 setwd("~/Development/R/ura")
-library(XML)
 input.dir <- "data/ALL39IN"
+
+library(XML)
 
 ## Create vector of filenames within input directory
 files.v <- dir(path = input.dir, pattern = "*.xml")
@@ -91,9 +93,10 @@ topic.model$loadDocuments(mallet.instances)
 
 vocabulary <- topic.model$getVocabulary()
 
-word.freqs <- mallet.word.freqs(topic.model)
+# RSM - BUG: Source of error and program breaking, do not use mallet.word.freqs()
+# word.freqs <- mallet.word.freqs(topic.model)
 
-topic.model$train(800) ## only took 4 seconds, GPA used 2000
+topic.model$train(800) ## RSM - GPA used 2000, this only takes about 10 mins on MacBook Pro
 
 topic.words.m <- mallet.topic.words(topic.model, smoothed = TRUE, normalized = TRUE)
 topic.words <- mallet.topic.words(topic.model, smoothed = FALSE, normalized = FALSE)
