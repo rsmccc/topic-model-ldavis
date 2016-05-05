@@ -1,5 +1,6 @@
 # Undergraduate Research Assistantship (URA) Topic Model with LDAvis
 ## Riley McCloskey (RSM)
+## THIS IS THE WORKING VERSION OF CODE! 5-4-16
 
 setwd("~/Development/R/ura")
 input.dir <- "data/ALL39IN"
